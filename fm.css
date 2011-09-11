@@ -1,0 +1,102 @@
+body {
+	background-color: #C41102;
+	width: 100%;
+	margin:0;
+	padding:0;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	color: #000;
+	}
+
+nav {
+	height: 82px;
+	border-bottom: 4px solid #ffffff;
+	}
+
+h1 {
+	font: 400 24px "Syncopate", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	color: #c8a984;
+	padding-left: 4px;
+	margin: 9px 0 4px;
+	}
+
+h2 {
+	font: normal 18px "Metrophobic", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	border-bottom: 1px dashed #be8e4d;
+	padding: 7px 0 7px 4px;
+	margin: 0px;
+	}
+
+h3 {
+	margin: 4px 0 0;
+	padding-left: 8px;
+	font: normal 20px "Metrophobic", Helvetica, Arial, sans-serif;
+	}
+
+p { 
+	margin-top: 0;
+	padding: 0 8px;
+	font-family: "Metrophobic", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	letter-spacing: 0.05em;
+}
+
+.playsetList {
+	margin: 0;
+	padding: 7px 0 7px 4px;
+	border-bottom: 1px dashed #be8e4d;
+	font: 21px "Metrophobic", Helvetica, Arial, sans-serif;
+	background: #a61212 url('img/fiascoarrow.png') no-repeat 98% center;
+	}
+
+.Disable {
+	background-color: #910a0a;
+	}
+
+#IOSContainer {
+	position: absolute;
+	top: 86px;
+	width: 100%;
+	background-color: #222;
+}
+
+#bodyContainer {
+	background-color: #a61212;
+	}
+
+#playnow {
+	color: #b41e09;
+	background-color: #222;
+	padding: 10px;
+	text-align: center;
+	margin: 0 auto;
+	font: bold 16px "Syncopate", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	}
+
+.playset {
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	font-family: "Metrophobic", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	line-height:150%;
+	}
+
+.playset h2 {
+	background: #a61212 url('fiascoarrow.png') no-repeat 98% center;
+	}
+
+.L1 {
+	margin: 6px 0;
+	font-size: 21px;
+	}
+
+.L2 {
+	list-style: none inside;
+	padding: 0 0 10px 0;
+	font-size: 16px;
+	}

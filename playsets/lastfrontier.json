@@ -1,0 +1,294 @@
+{
+	"playset" :
+	{
+		"title" : "Last Frontier",
+		"credits" : 
+		{
+			"author" : "Jason Morningstar"
+		},
+		"movie_night" :
+		[
+			{ "title" : "Insomnia" },
+			{ "title" : "Northern Exposure (TV)" },
+			{ "title" : "Timber Tramps" }
+		],
+		"score" :
+		{
+			"title" : "Southeast Alaska",
+			"paragraphs" : [
+"Adding some pitch black and blood red to the great white north ... fishing villages and fishing village idiots, timber contracts and factory ships, State Troopers in floatplanes and the weird guys who hide when they fly over - set among the emerald forests of southeast Alaska's vast archipelago, this playset drags an offbeat but familiar setting into the crosshairs."]
+		},
+		"relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+					"Unrelated but still family",
+					"Siblings",
+					"Parent and adopted child",
+					"Parent and son / daughter-in-law",
+					"Distant relatives through obscure lineage",
+					"Grandparent / grandchild"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"A sourdough and a cheechako",
+					"Old friends from back in Juneau",
+					"Stoner pals",
+					"Cheerful competitors",
+					"Friends with benefits",
+					"Ruthless social rivals"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"Smuggler and fence / broker",
+					"Gambler and bookie",
+					"Fishing outlaws (quota thieves, endangered species bycatch sellers)",
+					"Grifter and rube",
+					"Hoodlums (thugs, hell-raisers, ass-kickers)",
+					"Drug people (grower, dealer, distributor, user)"
+				]
+			},
+			{
+				"title" : "Around the village",
+				"elements" : [
+					"Officials (village manager, chief of police)",
+					"Volunteers (Chamber, clubs, cultural heritage association)",
+					"Church folk (deacon, Sunday school teacher, secretary)",
+					"Alcoholics Anonymous / Narconon sponsor and participant",
+					"Representative / citizen (Case worker, parole officer, native corporation official)",
+					"Athletes (recreation league, coach, pick-up games, minor league)"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Current spouses",
+					"Former lovers",
+					"One-time fling",
+					"Crush and object of crush",
+					"Lovers",
+					"Former spouses"
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+					"Former boat crew",
+					"Co-workers in the village",
+					"Current boat crew",
+					"Skilled work barterers (plumber, carpenter, electrician)",
+					"Salesman and customer",
+					"Professional and client (doctor, lawyer, dealer, wilderness guide)"
+				]
+			}
+		],
+		"needs" : [
+			{
+				"title" : "To get even",
+				"elements" : [
+					"... with a rival",
+					"... with a state or federal agency",
+					"... with a State Trooper",
+					"... with this village, for what it has turned you into",
+					"... with this village, and all the nosy, small people in it",
+					"... with a family member"
+				]
+			},
+			{
+				"title" : "To get the truth",
+				"elements" : [
+					"... about this village's dark past",
+					"... about the borough's political corruption",
+					"... about Jimmy May's medical records",
+					"... about someone's infidelity",
+					"... about your real parents",
+					"... about the thing you saw in Kaku Inlet"
+				]
+			},
+			{
+				"title" : "To get respect",
+				"elements" : [
+					"... from this town, by bringing down the fishing monopoly",
+					"... from this town, by teaching them to be afraid",
+					"... from your lover, by proving your devotion",
+					"... from the police, by turning in your own kin to the state troopers",
+					"... from a family member, by doing what they never could",
+					"... from yourself, by solving the problem permanently"
+				]
+			},
+			{
+				"title" : "To get laid",
+				"elements" : [
+					"... by that special someone who doesn't even know you exist",
+					"... in the middle of the Russian Orthodox church",
+					"... by an old lover, to see if sparks fly again",
+					"... in a drunken stupor, by whoever you end up with",
+					"... by someone who can really grease the wheels for your project",
+					"... to prove you've still got it"
+				]
+			},
+			{
+				"title" : "To get out",
+				"elements" : [
+					"... of this town, because you have big dreams",
+					"... of this town, to escape family and tradition",
+					"... of a relationship",
+					"... of a business entanglement",
+					"... of an obligation to a dangerous outsider",
+					"... of an obligation to your family"
+				]
+			},
+			{
+				"title" : "To get rich",
+				"elements" : [
+					"... through stealing a drug stash",
+					"... through selling illegally-cleared timber",
+					"... through defrauding eco-tourists",
+					"... through the death of a native elder",
+					"... through ripping off the village emergency fund",
+					"... through stealing a pile of fishing boat IFQ money"
+				]
+			}
+		],
+		"locations" : [
+			{
+				"title" : "First street",
+				"elements" : [
+					"First Street Church of Christ",
+					"Morganson Plumbing and Heating",
+					"Chico's Pizza",
+					"Alaska Magic gifts and cards",
+					"Southeast Federal Credit Union, the only bank in town",
+					"Tanner Marine Insurance"
+				]
+			},
+			{
+				"title" : "Tongass avenue",
+				"elements" : [
+					"Benny Benson Memorial K-12 school",
+					"The Municipal building, police station, courthouse and city hall",
+					"Pacific Medical Clinic, the only doctor in town",
+					"Dagitgiy-a Native Cultural Center",
+					"Chilkoot Gun and Knife",
+					"Sun Chasers tanning salon and weight loss center"
+				]
+			},
+			{
+				"title" : "The harbor",
+				"elements" : [
+					"Aboard the purse seiner MV Julie Autumn",
+					"Neptune Aviation Services and state floatplane dock",
+					"Alaska Division of Fisheries office",
+					"VistaPoint processing plant",
+					"Rafter Marine, sales and repair",
+					"Holiday Lines cruise ship terminal and office"
+				]
+			},
+			{
+				"title" : "Residences",
+				"elements" : [
+					"The trailer at the end of Tongass Avenue",
+					"The hermit's shack",
+					"The eco-mansion on Kaku inlet.",
+					"A houseboat",
+					"A subsidized apartment",
+					"A cute clapboard house downtown"
+				]
+			},
+			{
+				"title" : "The backcountry",
+				"elements" : [
+					"KTA Telecommunications repeater and tower",
+					"The logging camp",
+					"On top of Harriman Peak",
+					"Kelp Bay",
+					"Make Out Point, overlooking town",
+					"The four-wheeler track out to Kaku inlet"
+				]
+			},
+			{
+				"title" : "Kaku inlet",
+				"elements" : [
+					"University of Alaska Southeast fisheries research station",
+					"The abandoned cannery",
+					"Blue Raven Lodge",
+					"The pulp mill",
+					"The old cemetery",
+					"The Skinny Dick dam and reservoir"
+				]
+			}
+		],
+		"objects" : [
+			{
+				"title" : "Ugly",
+				"elements" : [
+					"Porn stash / sex gear",
+					"Forged Permanent Fund check",
+					"Priceless Tlingit artifacts",
+					"Candid videotape of a former Governor",
+					"Drug smuggler's notebook",
+					"Legal notice"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+					"Old van",
+					"Floatplane",
+					"Skiff with fiddly outboard",
+					"Moped",
+					"Ocean tug MV Mahassett",
+					"Mint 1967 Plymouth Barracuda notchback"
+				]
+			},
+			{
+				"title" : "Bear insurance",
+				"elements" : [
+					"Shotgun",
+					"Pepper spray",
+					"Hunting rifle",
+					".44 magnum revolver",
+					"Pipe bomb",
+					"Lumberman's Pulaski tool"
+				]
+			},
+			{
+				"title" : "Dirt",
+				"elements" : [
+					"Confidential memo",
+					"Annotated USGS quadrangle map",
+					"Medical billing records",
+					"Love letter",
+					"Property deed",
+					"Stack of photographs"
+				]
+			},
+			{
+				"title" : "Valuables",
+				"elements" : [
+					"Massive water-tight drug stash",
+					"Mason jar filled with pre-revolution Russian gold coins",
+					"Statehood memorabilia collection",
+					"Vintage Aeronca Sedan airplane",
+					"Purebred Weimeraner with an ear tattoo",
+					"Aluminum suitcase full of cash"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"Newborn baby",
+					"A novel written in longhand",
+					"Old letters from a dead man",
+					"Trophy",
+					"Wedding ring",
+					"Family heirloom no longer in family possession"
+				]
+			}
+		]
+	}
+}
