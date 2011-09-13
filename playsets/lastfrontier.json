@@ -1,24 +1,26 @@
 {
-	"playset" :
-	{
-		"title" : "Last Frontier",
-		"credits" : 
-		{
-			"author" : "Jason Morningstar"
-		},
-		"movie_night" :
-		[
-			{ "title" : "Insomnia" },
-			{ "title" : "Northern Exposure (TV)" },
-			{ "title" : "Timber Tramps" }
-		],
-		"score" :
-		{
-			"title" : "Southeast Alaska",
-			"paragraphs" : [
-"Adding some pitch black and blood red to the great white north ... fishing villages and fishing village idiots, timber contracts and factory ships, State Troopers in floatplanes and the weird guys who hide when they fly over - set among the emerald forests of southeast Alaska's vast archipelago, this playset drags an offbeat but familiar setting into the crosshairs."]
-		},
-		"relationships" : [
+  "playset" :
+  {
+    "title" : "Last Frontier",
+    "credits" : 
+    {
+      "author" : "Jason Morningstar"
+    },
+    "movie_night" :
+    [
+      { "title" : "Insomnia" },
+      { "title" : "Northern Exposure (TV)" },
+      { "title" : "Timber Tramps" }
+    ],
+    "score" :
+    {
+      "title" : "Southeast Alaska",
+      "paragraphs" : [
+        "Adding some pitch black and blood red to the great white north ... fishing villages and fishing village idiots, timber contracts and factory ships, State Troopers in floatplanes and the weird guys who hide when they fly over - set among the emerald forests of southeast Alaska's vast archipelago, this playset drags an offbeat but familiar setting into the crosshairs."
+      ],
+      "tagline" : "In A Southeast Alaskan Fishing Village"
+    },
+    "relationships" : [
 			{
 				"title" : "Family",
 				"elements" : [
@@ -85,8 +87,8 @@
 					"Professional and client (doctor, lawyer, dealer, wilderness guide)"
 				]
 			}
-		],
-		"needs" : [
+    ],
+    "needs" : [
 			{
 				"title" : "To get even",
 				"elements" : [
@@ -153,10 +155,10 @@
 					"... through stealing a pile of fishing boat IFQ money"
 				]
 			}
-		],
-		"locations" : [
+    ],
+    "locations" : [
 			{
-				"title" : "First street",
+				"title" : "First Street",
 				"elements" : [
 					"First Street Church of Christ",
 					"Morganson Plumbing and Heating",
@@ -167,18 +169,18 @@
 				]
 			},
 			{
-				"title" : "Tongass avenue",
+				"title" : "Tongass Avenue",
 				"elements" : [
 					"Benny Benson Memorial K-12 school",
 					"The Municipal building, police station, courthouse and city hall",
 					"Pacific Medical Clinic, the only doctor in town",
-					"Dagitgiy-a Native Cultural Center",
+					"Dagitgiyáa Native Cultural Center",
 					"Chilkoot Gun and Knife",
 					"Sun Chasers tanning salon and weight loss center"
 				]
 			},
 			{
-				"title" : "The harbor",
+				"title" : "The Harbor",
 				"elements" : [
 					"Aboard the purse seiner MV Julie Autumn",
 					"Neptune Aviation Services and state floatplane dock",
@@ -200,7 +202,7 @@
 				]
 			},
 			{
-				"title" : "The backcountry",
+				"title" : "The Backcountry",
 				"elements" : [
 					"KTA Telecommunications repeater and tower",
 					"The logging camp",
@@ -211,7 +213,7 @@
 				]
 			},
 			{
-				"title" : "Kaku inlet",
+				"title" : "Kaku Inlet",
 				"elements" : [
 					"University of Alaska Southeast fisheries research station",
 					"The abandoned cannery",
@@ -221,8 +223,8 @@
 					"The Skinny Dick dam and reservoir"
 				]
 			}
-		],
-		"objects" : [
+    ],
+    "objects" : [
 			{
 				"title" : "Ugly",
 				"elements" : [
@@ -246,7 +248,7 @@
 				]
 			},
 			{
-				"title" : "Bear insurance",
+				"title" : "Bear Insurance",
 				"elements" : [
 					"Shotgun",
 					"Pepper spray",
@@ -289,6 +291,6 @@
 					"Family heirloom no longer in family possession"
 				]
 			}
-		]
-	}
+    ]
+  }
 }
