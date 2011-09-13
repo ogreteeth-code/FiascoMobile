@@ -1,0 +1,298 @@
+{
+  "playset" :
+  {
+    "title" : "Dragon Slayers",
+    "credits" : 
+    {
+      "author" : "Logan Bonner"
+    },
+    "movie_night" :
+    [
+      { "title" : "Army of Darkness" },
+      { "title" : "Conan the Barbarian" },
+      { "title" : "The Gamers: Dorkness Rising" }
+    ],
+    "score" :
+    {
+      "title" : "`if You Want To Keep Those Hands, Get Them Off My Magic Cloak.\"",
+      "paragraphs" : [
+        "The bumpkins in this pissant mountain town could never have taken down that dragon. Their biggest hero hasn't seen battle since Drozzek rode down from the Smoking Mountains three wars-to-end-all-wars ago. That old fuck they call their town wizard fried his brain with one too many \"elixirs of awareness\" and can't even light a campfire with all his spells combined.",
+        "So yeah, we rode into town, a bunch of outsiders ready to solve that problem. Solve a motherfucking dragon. And no, we don't care what they think. And yes, we're fucking heroes. These yokels should worship at our feet. They didn't blast those mummies to dust or make a deathtrap built with technology lost centuries ago their bitch. And they sure as hell didn't slay that dragon.",
+        "That's our dragon, and its gold is our gold. So unless you're bringing us ale and whores, get the fuck out before we transform you into a turkey and serve you for dinner."
+      ],
+      "tagline" : "In A Land Of Myth"
+    },
+    "relationships" : [
+			{
+				"title" : "Family and Romance",
+				"elements" : [
+					"Siblings",
+					"Parent / child who was raised by others",
+					"Unrequited lovers",
+					"Spouses in an arranged marriage",
+					"Linked by blood ritual",
+					"Orphan / caretaker"
+				]
+			},
+			{
+				"title" : "Adventure",
+				"elements" : [
+					"Assassin / target",
+					"Rescuer / rescuee",
+					"Employer / henchman",
+					"Former cellmates",
+					"Master / defeated foe turned into servant",
+					"Bounty hunter / bounty"
+				]
+			},
+			{
+				"title" : "Magic",
+				"elements" : [
+					"Creator / golem",
+					"Master / thrall",
+					"Sorcerer / apprentice",
+					"Diabolist / intended sacrificial victim",
+					"Simulacrum / real person",
+					"Werewolf in human form / werewolf in wolf form"
+				]
+			},
+			{
+				"title" : "Culture",
+				"elements" : [
+					"Same non-human race (elf, dwarf, etc.)",
+					"Tribemates",
+					"Worshipers of the same god",
+					"Bound by a blood ritual",
+					"Outcasts",
+					"Members of the same guild"
+				]
+			},
+			{
+				"title" : "Fellowship",
+				"elements" : [
+					"Longtime adventuring companions",
+					"Drinking buddies",
+					"Reluctant allies",
+					"New blood / veteran adventurer",
+					"Leader / wannabe leader",
+					"Vicious scoundrel / pacifist healer"
+				]
+			},
+			{
+				"title" : "War",
+				"elements" : [
+					"Same battalion",
+					"Mercenaries",
+					"Fought for different sides",
+					"You each have a scar the other gave you",
+					"Fighter / coward",
+					"\"You killed my father\""
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To be a hero",
+				"elements" : [
+					"...by defending the little guy",
+					"...to that one special person",
+					"...in a mentor's eyes",
+					"...so you can lord over everybody else",
+					"...who nobody will fuck with",
+					"...in the public's eyes, even if you really aren't"
+				]
+			},
+			{
+				"title" : "To crush your enemies",
+				"elements" : [
+					"...because they ruined your life",
+					"...and enslave them",
+					"...and they're all enemies",
+					"...and use them for necromantic experiments",
+					"...slowly and painfully",
+					"...just to get a moment's peace"
+				]
+			},
+			{
+				"title" : "To amass a hoard",
+				"elements" : [
+					"...by killing every monster you see",
+					"...through shady dealings",
+					"...even if it means nobody else gets a share",
+					"...of forbidden lore",
+					"...to fund a private army",
+					"...so you never have to adventure again"
+				]
+			},
+			{
+				"title" : "To fly",
+				"elements" : [
+					"...with everybody else's treasure",
+					"...after one last quest",
+					"...before they realize who you really work for",
+					"...once you've used up this town",
+					"...to follow rumors to your next adventure",
+					"...literally, using a spell or maybe a catapult"
+				]
+			},
+			{
+				"title" : "To rule",
+				"elements" : [
+					"...by marrying a royal heir",
+					"...on a throne of your enemies' skulls",
+					"...forever",
+					"...an army of undead",
+					"...and impose your type of justice",
+					"...and make others do the work for you"
+				]
+			},
+			{
+				"title" : "To overindulge",
+				"elements" : [
+					"...with wenches",
+					"...in drink",
+					"...in rampant thievery",
+					"...in forbidden rituals",
+					"...in bloodshed",
+					"...in tavern brawls"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "In the town",
+				"elements" : [
+					"Buxom Wench Inn & Tavern",
+					"Lord Trammel's Keep",
+					"Temple of Peace",
+					"Secret headquarters of the Split Penny thieves' guild",
+					"Market Square",
+					"Forge of Tzory, the blacksmith"
+				]
+			},
+			{
+				"title" : "On the outskirts",
+				"elements" : [
+					"Tower of Flixnord the wizard",
+					"The troll's bridge",
+					"Boggy Barrow",
+					"The crossroads",
+					"Abandoned farmstead",
+					"Magic gate to the dungeon"
+				]
+			},
+			{
+				"title" : "In the wild",
+				"elements" : [
+					"Witch's hut",
+					"Faerie circle",
+					"Wood elf camp",
+					"Ogres' den",
+					"Cave of Visions",
+					"Hekrabar, the mad druid's grove"
+				]
+			},
+			{
+				"title" : "Dungeon--upper level",
+				"elements" : [
+					"Tunnel entrance",
+					"Orc den",
+					"Slave pens",
+					"Altar to dark gods",
+					"Refuse pit",
+					"Secret room"
+				]
+			},
+			{
+				"title" : "Dungeon--lower level",
+				"elements" : [
+					"Pool of Souls",
+					"Trapped corridor",
+					"Hall of illusions",
+					"Arcane library",
+					"Maze of caverns",
+					"Dragon's lair"
+				]
+			},
+			{
+				"title" : "From the past",
+				"elements" : [
+					"Small village (now a burnt ruin)",
+					"Military academy (massacred in a major war)",
+					"Wizard mentor's cottage (looted after his death)",
+					"Cave holding hidden treasure (if you still have the map)",
+					"Your first dungeon (now collapsed and full of corpses)",
+					"Town where people called you heroes (until you got them killed)"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Weapons",
+				"elements" : [
+					"Flaming sword (sword of cataclysmic combustion)",
+					"Poisoned dagger (dirk of vicious viper's venom)",
+					"Big-ass iron warhammer",
+					"Ancient elven bow",
+					"Dragonbane blade (broadsword of scaly slaughter)",
+					"Catapult"
+				]
+			},
+			{
+				"title" : "More Weapons",
+				"elements" : [
+					"Soul-stealing scepter (scepter of severed souls)",
+					"Sentient spear (longspear of wise council, or Arthur)",
+					"Cursed blade (cutlass of cruel calamity)",
+					"Seeking arrow (arrow of absolutely accurate archery)",
+					"Betrayer's axe (greataxe of pliant perfidy)",
+					"Staff of resurrection with one charge left"
+				]
+			},
+			{
+				"title" : "Spells",
+				"elements" : [
+					"Enchanting Charm",
+					"Transformative Polymorph",
+					"Spectral Ward",
+					"Demonic Summoning",
+					"Trapping Paralysis",
+					"Exploding Lightning"
+				]
+			},
+			{
+				"title" : "Magic Items",
+				"elements" : [
+					"Invisibility cloak",
+					"Crystal ball of future sight",
+					"Crown of fearlessness",
+					"Mystery potion (nobody knows what it does)",
+					"Impervious chain shirt",
+					"Pocket magic doorway"
+				]
+			},
+			{
+				"title" : "Trophies",
+				"elements" : [
+					"Mounted troll's head",
+					"Genie bottle",
+					"Dragon's flame sac",
+					"Tome of dark rituals",
+					"Gold ring on a mummy's severed finger",
+					"Massive pile of gold coins"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"Strange charm left with a foundlng (maybe one of the characters)",
+					"Invitation to a prestigious order",
+					"Statue of a deity (with a hidden compartment)",
+					"Old ally polymorphed into a toad",
+					"Cask of 800-year-old dwarven booze",
+					"Royal lady's garter"
+				]
+			}
+    ]
+  }
+}

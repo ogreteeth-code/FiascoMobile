@@ -1,0 +1,301 @@
+{
+  "playset" :
+  {
+    "title" : "London, 1593",
+    "credits" : 
+    {
+      "author" : "Will Hindmarch and Kenneth Hite"
+    },
+    "movie_night" :
+    [
+      { "title" : "Elizabeth" },
+      { "title" : "Romeo and Juliet (any)" },
+      { "title" : "Rosencrantz and Guildenstern Are Dead" },
+      { "title" : "Shakespeare in Love" }
+    ],
+    "score" :
+    {
+      "title" : "All The World's A Stage",
+      "paragraphs" : [
+        "Elizabeth, Queen of England, has enemies everywhere.",
+        "If you can read and write, if you can tell lies with quill or voice, you might have a place as a peddler of bombast, as a player of parts, as a nefarious practitioner of the business of show... or as a spy. For all the world is a stage and the great lords of England and abroad are writing the parts that lackeys, liars, agents, and actors shall play.",
+        "Show business and skulduggery are tangled together--here like lovers, there like brawlers--and all those within reach of politics and art must balance their secrets against their ambitions. Love and lust and loyalty are all called into question as poets seek the literature of the age and spymasters seek the enemies of the crown.",
+        "Yet for all that the strife of the age claims to be about crowns and kingdoms, so much comes down to the common quagmires of coins and cons, jealousy and greed, love and spite. Petty gripes and dirty designs conspire to determine the fate of England. Some folk may hang or burn and some may slip away smelling of roses.",
+        "But, for sure, a reckoning draws nigh."
+      ],
+      "tagline" : "In London, 1593"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+					"Siblings",
+					"You think you're kin, but you aren't",
+					"Bastards, both",
+					"Twins, separated by storm or subterfuge",
+					"You think you aren't kin, but you are",
+					"Cousins"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Betrothed by someone else's design",
+					"Secret lovers",
+					"Old flames, estranged",
+					"One-sided devotion",
+					"Would be lovers, except...",
+					"Star-crossed lovers"
+				]
+			},
+			{
+				"title" : "Show Business",
+				"elements" : [
+					"The writer and the player",
+					"The patron and the artist",
+					"The poet and the muse",
+					"The clown and the fan",
+					"The wannabe and the has-been",
+					"Devoted groundlings"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Rivals for the part",
+					"Share a common foe",
+					"Partners in failure",
+					"Shared a room in the Tower",
+					"Former servants of the same master",
+					"Drinking fellows"
+				]
+			},
+			{
+				"title" : "Espionage",
+				"elements" : [
+					"Sir Walter Raleigh's men: scholars or bravos",
+					"Keepers of a dark secret",
+					"Co-conspirators",
+					"Agents of a foreign crown",
+					"Spymaster Sir Robert Cecil's agents: informers or intelligencers",
+					"The Earl of Essex's servants: conspirators or provocateurs"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"The thief and the fence",
+					"Crooked apothecaries",
+					"Brutes for hire",
+					"Forgers or counterfeiters",
+					"Peddlers of witchcraft",
+					"Smugglers of contraband"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get out",
+				"elements" : [
+					"... of show business",
+					"... of the intelligence service",
+					"... from the shadow of the gallows",
+					"... from under your lord's thumb",
+					"... of this arranged marriage",
+					"... of the blame, for what you did"
+				]
+			},
+			{
+				"title" : "To get even",
+				"elements" : [
+					"... with the spy you took the fall for",
+					"... with the one who wrongly (or rightly) accused you",
+					"... with the one who gained preferment that should be yours",
+					"... with the duplicitous Earl of Essex",
+					"... with the one who stole your work",
+					"... with England"
+				]
+			},
+			{
+				"title" : "To get in",
+				"elements" : [
+					"... from the proverbial cold",
+					"... with her parents",
+					"... with a publisher",
+					"... with the Lord Chamberlain's Men troupe",
+					"... to the employ of the spymaster, Sir Robert Cecil",
+					"... to that locked box beneath the stage"
+				]
+			},
+			{
+				"title" : "To get the truth",
+				"elements" : [
+					"... about a secret plot",
+					"... about why she lied",
+					"... about the murder",
+					"... about the spy from Paris",
+					"... about where the contraband is hidden",
+					"... about the locked box beneath the stage"
+				]
+			},
+			{
+				"title" : "To get paid",
+				"elements" : [
+					"... for your silence in Antwerp",
+					"... without your master finding out",
+					"... for your art",
+					"... by the Crown",
+					"... in forgiveness",
+					"... in information"
+				]
+			},
+			{
+				"title" : "To lay with",
+				"elements" : [
+					"... your one true love",
+					"... your spouse, to produce an heir",
+					"... someone to prove you're that sort",
+					"... someone before it's too late",
+					"... someone who'll understand",
+					"... someone to restore your art"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Proper London",
+				"elements" : [
+					"The Palace at Whitehall",
+					"A tranquil park, just outside the hustle of London",
+					"The Earl of Essex's great hall, for dancing",
+					"The thoroughfare, in broad daylight",
+					"A tennis court",
+					"The balcony of a well-to-do House"
+				]
+			},
+			{
+				"title" : "Southwark",
+				"elements" : [
+					"A muddy back alley",
+					"A dirty abattoir",
+					"The crows' cages",
+					"On the creaky second floor of a house of ill repute",
+					"The common room at the Dog and Dove tavern",
+					"The Clink Prison"
+				]
+			},
+			{
+				"title" : "The Thames",
+				"elements" : [
+					"A riverside garden grotto",
+					"On a cozy ferry across the river",
+					"Sir Walter Raleigh's ship",
+					"The docks by lantern light",
+					"A ramshackle house on the bridge",
+					"Knee-deep in river water"
+				]
+			},
+			{
+				"title" : "Churches",
+				"elements" : [
+					"Westminster Abbey",
+					"A bell-tower overlooking the city",
+					"The chapel at the Earl of Essex's townhouse",
+					"A chapel of the Old Faith, hidden beneath the tavern",
+					"The burned-out remains of a Southwark church",
+					"St. Paul's Yard, full of rumours and libels printed and whispered"
+				]
+			},
+			{
+				"title" : "The Stage",
+				"elements" : [
+					"On stage at the Rose",
+					"The jongleurs' stage at the Dog and Dove tavern",
+					"The private stage of a great House",
+					"John Grimes' printing house",
+					"Backstage at the Curtain",
+					"Hell (the space below the stage)"
+				]
+			},
+			{
+				"title" : "The Underworld",
+				"elements" : [
+					"The safe house in Deptford",
+					"The secret attic",
+					"The false coiner's lair",
+					"The crooked apothecary's lab",
+					"A subterranean torture chamber",
+					"The Tower"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Sordid",
+				"elements" : [
+					"A bloody dirk",
+					"A raven with clipped wings and a bloody beak",
+					"A lascivious painting",
+					"A book of pagan prayers",
+					"A lewd horoscope",
+					"A tract of atheism"
+				]
+			},
+			{
+				"title" : "Secret",
+				"elements" : [
+					"A signed confession",
+					"A ciphered letter, or the cipher key",
+					"Proof of a secret marriage",
+					"A scented letter of love",
+					"A damning list of names",
+					"A costume disguising your gender"
+				]
+			},
+			{
+				"title" : "Official",
+				"elements" : [
+					"An official pardon with the name left blank",
+					"A letter of credit from the Earl of Essex",
+					"A rich monopoly on imported French wines",
+					"A letter for the spymaster, Sir Robert Cecil, stamped and sealed",
+					"A letter from the ambassador, its seal broken",
+					"A severed finger, with a ring, sent as proof"
+				]
+			},
+			{
+				"title" : "Personal",
+				"elements" : [
+					"A locket from your true love",
+					"A locket from someone else's true love",
+					"The coat he died in",
+					"A bangle given by Sir Walter Raleigh",
+					"The birthmark proving your identity",
+					"A wedding band, engraved"
+				]
+			},
+			{
+				"title" : "Theatrical",
+				"elements" : [
+					"A jester's scepter",
+					"A sword with a button on its point",
+					"A convincing costume for the opposite sex",
+					"A phial marked \"poison\"",
+					"A pirated copy of the hit play",
+					"New pages, meant for the stage"
+				]
+			},
+			{
+				"title" : "Dangerous",
+				"elements" : [
+					"Two swords--one a prop, one real",
+					"Treasonous poetry in a recognizable style",
+					"A phial of a poison that counterfeits death",
+					"Several barrels of unstable corned gunpowder",
+					"A love potion",
+					"A pistol, ready to fire"
+				]
+			}
+    ]
+  }
+}

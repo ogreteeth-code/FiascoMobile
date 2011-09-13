@@ -1,0 +1,299 @@
+{
+  "playset" :
+  {
+    "title" : "Lucky Strike",
+    "credits" : 
+    {
+      "author" : "Jason Morningstar"
+    },
+    "movie_night" :
+    [
+      { "title" : "The Dirty Dozen" },
+      { "title" : "Band of Brothers (TV)" },
+      { "title" : "`Allo `Allo! (TV)" },
+      { "title" : "Les Honneurs de la Guerre" }
+    ],
+    "score" :
+    {
+      "title" : "France ... November 1944",
+      "paragraphs" : [
+        "This playset takes place at the United States Army's Camp Lucky Strike Replacement Depot, near Le Havre, France.",
+        "By the fall of 1944, the U.S. Army was losing infantrymen faster than it could train new recruits. Poor planning and German tenacity combined to crate a deep manpower shortage on the front lines of the European theater. The ill-advised solution was the Replacement Depot, or \"repple-depple\". Nestled safely in the rear, the Replacement Depot was a temporary home for soldiers awaiting new units. Some were recovered from injuries, some were green troops directly for training known as \"replacement increments\", and some were \"otherwise displaced\" for various reasons, often dubious. They were sent to whatever unit had a need, often without regard for their specialty &mdash; anti-aircraft gunners and tank destroyers were thrown into infantry battalions and men who had never seen a tank were dropped into Shermans and told to learn fast. Men separated from comrades they had spent years training with were guaranteed never to see them again once they hit the repple-depple. Boredom and low morale led to crime and foolishness.",
+        "It was, in a word, a fiasco."
+      ],
+      "tagline" : "In Camp Lucky Strike"
+    },
+    "relationships" : [
+			{
+				"title" : "Brothers in Arms",
+				"elements" : [
+					"Medical evacuees",
+					"Foxhole buddies",
+					"The only survivors",
+					"Separated from their unit",
+					"New guy and veteran",
+					"Secret murderers"
+				]
+			},
+			{
+				"title" : "Replacement Increments",
+				"elements" : [
+					"A pair of shirkers",
+					"A pair of gung-ho patriots",
+					"Fish out of water farm boys",
+					"Officer's aide and supply clerk",
+					"Poker buddies",
+					"American PW and green recruit"
+				]
+			},
+			{
+				"title" : "Antisocial",
+				"elements" : [
+					"Lunatic and minder",
+					"Unrequited lust",
+					"Sexual competitors",
+					"Lovers",
+					"Violent rivals",
+					"Bully and victim"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"Loan shark and debtor",
+					"Pimps",
+					"Thieves",
+					"Hell-raising ne'er-do-well thugs",
+					"Gamblers",
+					"Con artist and mark"
+				]
+			},
+			{
+				"title" : "The Black Market",
+				"elements" : [
+					"Army CID investigator and informant",
+					"Supply clerk and fixer",
+					"Truck drivers",
+					"Provost Marshal inspector and kingpin",
+					"Procurer and client",
+					"Drug dealer and addict"
+				]
+			},
+			{
+				"title" : "Special Cases (use with care)",
+				"elements" : [
+					"German PW and guard",
+					"French criminal and Army liaison",
+					"Officer and enlisted man",
+					"Stars and Stripes reporter and source",
+					"Nurse and soldier",
+					"Conscientious Objector and Doctor"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get out",
+				"elements" : [
+					"...of a work detail that is killing you",
+					"...of a relationship that's turned weird",
+					"...of responsibility for an accident",
+					"...of intense scrutiny, so you can finish what you started",
+					"...of Lucky Strike, where everybody knows your game",
+					"...of the war, which is driving you insane"
+				]
+			},
+			{
+				"title" : "To get even with",
+				"elements" : [
+					"Your platoon sergeant",
+					"The Colonel",
+					"A Frenchie",
+					"A snitch",
+					"The God-damned Krauts",
+					"Your squad"
+				]
+			},
+			{
+				"title" : "To get ready",
+				"elements" : [
+					"...to confess your love",
+					"...to confront your worst fear",
+					"...to rat him out to CID",
+					"...to take what you deserve",
+					"...to send someone home in a box",
+					"...to debauch yourself"
+				]
+			},
+			{
+				"title" : "To get respect from",
+				"elements" : [
+					"The old squad, by earning a medal",
+					"God, by atoning for your mistake",
+					"Your lover, by proving your devotion",
+					"An insubordinate soldier",
+					"A friend, by rescuing them from ruin",
+					"Yourself, by punishing your persecutors"
+				]
+			},
+			{
+				"title" : "To get the truth about",
+				"elements" : [
+					"How they died",
+					"The secret project",
+					"Someone's criminal history",
+					"The Colonel's trips to Rouen",
+					"The smuggling operation in Janville",
+					"The locked box in map room"
+				]
+			},
+			{
+				"title" : "To get rich through",
+				"elements" : [
+					"Ripping off the locals",
+					"Cooking the books",
+					"Smuggling valuables",
+					"Selling morphine and amphetamines",
+					"Blackmail",
+					"Rigging a card game"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Rest and Recreation",
+				"elements" : [
+					"\"Java Junction\" Red Cross coffee tent",
+					"A Nurse's bunkhouse",
+					"Red Cross shower hut",
+					"Officer's club",
+					"Special rec tent for recovering American PWs",
+					"Beneath the auditorium stage"
+				]
+			},
+			{
+				"title" : "The Division Operations",
+				"elements" : [
+					"89th Division Map room, Anglesqueville Chateau",
+					"Military tribunal chamber, Anglesqueville Chateau",
+					"Camp VD clinic",
+					"First Brigade Colonel's office",
+					"Displaced Persons processing center",
+					"Military \"prison\", an unheated tent with a guard shack"
+				]
+			},
+			{
+				"title" : "D-Sector",
+				"elements" : [
+					"Dairy (and ice cream factory)",
+					"Measles quarantine tent",
+					"Motor Pool and repair garage",
+					"Carpentry shop, staffed by German PWs",
+					"An ammo loading work site and supply dump",
+					"Camp laundry, run by French civilians"
+				]
+			},
+			{
+				"title" : "Beyond the Wire",
+				"elements" : [
+					"An unmarked grave in the woods south of the camp",
+					"A shack occupied by Displaced Persons",
+					"Paris",
+					"Durdent river camp water intake",
+					"Smuggler's rendezvous beach outside St. Sylvain",
+					"A farmhouse put to new uses"
+				]
+			},
+			{
+				"title" : "Janville",
+				"elements" : [
+					"Brothel above the town hall",
+					"Open-air black market",
+					"Burned-out German bunker",
+					"Home of Pierre Desmarais, a gangster",
+					"Chapel of the Virgin",
+					"Le Cygne, a tavern"
+				]
+			},
+			{
+				"title" : "Le Havre and Rouen",
+				"elements" : [
+					"Hotel Metropole, where money buys anything",
+					"Prisoner of War cage",
+					"Embarkation point for the States",
+					"A boxing ring on the deck of the SS Argentina",
+					"295th Heavy Maintenance Company billet",
+					"Le Roi et l'Ancre bar"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Dirty",
+				"elements" : [
+					"Truckload of soap, blankets, shirts, shoes, and chocolate",
+					"Sack full of onions hiding something",
+					"Service Rating Card with forged \"go home\" points",
+					"Gonorrhea",
+					"The corpse of a German PW",
+					"Ratfucked Red Cross packages"
+				]
+			},
+			{
+				"title" : "Contraband",
+				"elements" : [
+					"Footlocker full of Nazi gold",
+					"Crate of top-grade cognac, Calvados and Benedictine",
+					"A scrawny mutt",
+					"Letter written in German",
+					"Cigarettes packaged and bound for front-line units",
+					"A grisly war trophy"
+				]
+			},
+			{
+				"title" : "Mobility",
+				"elements" : [
+					"A tanker truck full of gasoline",
+					"Inert shell of a Tiger tank",
+					"Piper L4A two-seater aircraft",
+					"The Colonel's jeep",
+					"German motorcycle with sidecar",
+					"A smuggler's motor launch"
+				]
+			},
+			{
+				"title" : "Firepower",
+				"elements" : [
+					"One pound of Amatol with a British pencil detonator 2 M8 armored scout car with 37mm gun",
+					"SS dagger",
+					"Officer's .45 pistol",
+					"Mark",
+					"fragmentation grenade",
+					"Poisoned apple"
+				]
+			},
+			{
+				"title" : "Intelligence",
+				"elements" : [
+					"The whispered confession of a German PW",
+					"Orders listing soldiers to return to the front",
+					"A soldier's medical evaluation",
+					"List of soldiers to be sent to the States",
+					"Map to a cache of stolen supplies",
+					"Pleading on the telephone"
+				]
+			},
+			{
+				"title" : "Personal",
+				"elements" : [
+					"Colonel's war booty, secured in an oddly heavy crate",
+					"Sack of V-Mail from the States",
+					"\"Candid\" photos from the invasion of Italy",
+					"Military life insurance policy",
+					"Dear John letter",
+					"An address scrawled on a fine linen napkin"
+				]
+			}
+    ]
+  }
+}

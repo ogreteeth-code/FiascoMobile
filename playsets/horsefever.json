@@ -1,0 +1,308 @@
+{
+  "playset" :
+  {
+    "title" : "Horse Fever",
+    "credits" : 
+    {
+      "author" : "Ariele Agostini, Flavio Mortarino, Lorenzo Silva, Lorenzo Tucci Sorrentino"
+    },
+    "movie_night" :
+    [
+      { "title" : "A Day at the Races" },
+      { "title" : "A Fine Mess" },
+      { "title" : "Dead Heat (2002)" },
+      { "title" : "Febbre da Cavallo" },
+      { "title" : "National Velvet" },
+      { "title" : "On the Nose" },
+      { "title" : "Secretariat" },
+      { "title" : "Seabiscuit" },
+      { "title" : "Some Like it Hot" },
+      { "title" : "The Sting" }
+    ],
+    "score" :
+    {
+      "title" : "Backing The Wrong Horse",
+      "paragraphs" : [
+        "Horseburg is a foul city, grey like the dust you breathe in the Boss' racetrack. One breath is enough to fill your lungs with corruption, greed, and filthy lies.",
+        "Before nightfall, all kinds of ne'er-do-wells crowd the bleachers, cursing at the horses they spent all their savings on--but when the sun vanishes behind the city hall, you can see the rotten heart of this town. A grim fog rises to hide the elusive, shady types scheming to decide the winning horse for tomorrow.",
+        "O'Brian, the Irishman, passes bribes on Pier 7, and down at old Daniels' pub they never stop whispering. Once, I had the luck of being invited to the bridge table of inspector Recherche.",
+        "It's always best to mind your own business, grasp information here and there and use it to bet heavily tomorrow. See, in this city, luck won't be enough to make you filthy rich. There's people out there who'd sell their own mothers for a reliable tip.",
+        "Some say you just need to know \"the right people\", but then \"the right people\" will want favors in return; many of these geniuses are down at the docks, wearing fashionable cement shoes.",
+        "Myself, I'm for natural remedies: I'll just stick to a worn out nag named Bosson nobody would bet a dime on, and make my money by grabbing a mexican jalapeno and sticking it up the right place at the right time."
+      ],
+      "tagline" : "On Just Another Day In Horseburg"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+					"Siblings",
+					"Cousins and lovers",
+					"Distant relatives who have never met",
+					"Parent and child or step-child",
+					"Godparent and godchild",
+					"Parent-in-law and child-in-law"
+				]
+			},
+			{
+				"title" : "At the Races",
+				"elements" : [
+					"Jockey and stable owner",
+					"Loan shark and victim",
+					"Betting buddies",
+					"Bookie and customer",
+					"Racetrack workers",
+					"Racetrack bartender and regular"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Enemies of an enemy",
+					"Drinking buddies",
+					"Sworn enemies",
+					"Friendly rivals",
+					"Former cellmates",
+					"Friends of a friend"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Secret lovers",
+					"Married",
+					"Separated",
+					"Stalker and victim",
+					"One-night stand",
+					"Former lovers"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"Boss and goon",
+					"Drug dealer and customer",
+					"Cop and informant",
+					"Con man and mark",
+					"Fences",
+					"Prostitute and pimp"
+				]
+			},
+			{
+				"title" : "From the Past",
+				"elements" : [
+					"He/she knows what I did in the past",
+					"Grew up together in another town",
+					"A debt never paid",
+					"Rivals from way back",
+					"Former business partners",
+					"Old family grudges"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get away",
+				"elements" : [
+					"... from your family",
+					"... from your debtors",
+					"... from this relationship you can't stand anymore",
+					"... from a charge for murder",
+					"... before they find out what you did",
+					"... from your past"
+				]
+			},
+			{
+				"title" : "To get laid",
+				"elements" : [
+					"... one last time",
+					"... to prove something",
+					"... to get what you want",
+					"... to rekindle an old flame",
+					"... to hurt someone (even yourself)",
+					"... to win a bet"
+				]
+			},
+			{
+				"title" : "To win",
+				"elements" : [
+					"... your last race",
+					"... the respect of your family",
+					"... thanks to a good tip",
+					"... by finally betting on the right horse",
+					"... over your fears",
+					"... over the boredom of your life"
+				]
+			},
+			{
+				"title" : "To get rich",
+				"elements" : [
+					"... at the expense of your family",
+					"... through a profitable deal",
+					"... by committing a grisly crime",
+					"... through a deal with the mob",
+					"... by selling what you know",
+					"... by fixing a race"
+				]
+			},
+			{
+				"title" : "To get even",
+				"elements" : [
+					"... with that bastard that ran away with the money",
+					"... with your rival",
+					"... with someone you think is lying to you",
+					"... with your bookie",
+					"... with the mob",
+					"... with someone who owes you, big time"
+				]
+			},
+			{
+				"title" : "To get respect",
+				"elements" : [
+					"... from your family, by doing something unexpected",
+					"... from your superiors, by seizing the initiative",
+					"... from your love, by keeping a promise",
+					"... from the mob, by doing something you would have never done",
+					"... from everyone down at the racetrack, by cheating",
+					"... from yourself, by doing what is right"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Where the money is",
+				"elements" : [
+					"Branch #11 of the First National Bank",
+					"The biennial horse show",
+					"The opera theatre",
+					"The international expo",
+					"The imperial suite of the Von Halt Hotel",
+					"The French fashion boutique"
+				]
+			},
+			{
+				"title" : "Uptown",
+				"elements" : [
+					"Central Plaza, at 12 o' clock",
+					"The villa of Cràneo Cervantes, owner of the stable El Fragor Rojo",
+					"The parlour of Adalbert Diplomatitsch",
+					"The botanical garden",
+					"An antiques shop",
+					"The mansion of Adrien Justice, the judge"
+				]
+			},
+			{
+				"title" : "The Slums",
+				"elements" : [
+					"Michele Cuorlione's illegal gambling den",
+					"The dark alley behind the opera theatre",
+					"Pier 17",
+					"A warehouse full of stolen goods",
+					"The room of Miss Paris, the boss' girl",
+					"The office of Philippe Justice, brother of the judge"
+				]
+			},
+			{
+				"title" : "The Racetrack",
+				"elements" : [
+					"The paddock, before the fifth race",
+					"The betting office",
+					"A private suite in the VIP stands",
+					"The stalls assigned to the stable L'Ardor Giallo",
+					"The restaurant on the first floor",
+					"The jockeys' locker room"
+				]
+			},
+			{
+				"title" : "Out of Town",
+				"elements" : [
+					"Highway 37, a few miles from the border",
+					"The training track of the stable Virtus Alba",
+					"The shore of the artificial lake",
+					"The summer residence of Cranio Mercanti",
+					"Little Cesar's diner",
+					"The oil wells of Oliver Oil"
+				]
+			},
+			{
+				"title" : "Public",
+				"elements" : [
+					"Platform Eight at the train station",
+					"The mayor's office",
+					"The veterinarian's waiting room",
+					"The catholic church in the Italian neighborhood",
+					"The police station",
+					"The Horseburg zoo"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Valuable",
+				"elements" : [
+					"Ownership certificate for the purebred \"Napoléon\"",
+					"Formula of the drug that no test can identify... yet",
+					"Winning ticket for the third race",
+					"Diamond necklace",
+					"Bearer bonds worth half a million dollars",
+					"Leather briefcase full of dollar bills"
+				]
+			},
+			{
+				"title" : "Weapon",
+				"elements" : [
+					"Violin case",
+					"Starter's gun",
+					"Jockey's whip",
+					".22 handgun, small enough to fit in a purse",
+					"Tommy gun",
+					"Blacksmith's hammer"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+					"Phone call overheard by accident",
+					"Combination of a security box",
+					"\"El Guapo\" winning the third race",
+					"Conversations heard in a VIP stand at the racetrack",
+					"Password for that exclusive club",
+					"\"Biscuit de Mer\" placed in the first race"
+				]
+			},
+			{
+				"title" : "Untoward",
+				"elements" : [
+					"Corpse in the wardrobe",
+					"Pouch stuffed with drugs",
+					"Bottle of horse poison",
+					"Shirt stained with blood",
+					"Two stereotypes for 100 $ bills",
+					"Jacket with the perfume of another woman / another man"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"Trot derby cup from 15 years ago",
+					"Medallion with a portrait inside",
+					"Trappings of the old \"Varonne\", unforgotten champion",
+					"Engagement ring",
+					"Lucky horseshoe",
+					"Signed love letter"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+					"Trailer for horse transport",
+					"Tractor",
+					"Bicycle",
+					"Horse that looks exactly like the most promising champion of the last 10 years",
+					"Tourist hot-air balloon near the racetrack",
+					"Racing Bugatti"
+				]
+			}
+    ]
+  }
+}

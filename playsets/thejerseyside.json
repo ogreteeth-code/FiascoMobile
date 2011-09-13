@@ -1,0 +1,298 @@
+{
+  "playset" :
+  {
+    "title" : "The Jersey Side",
+    "credits" : 
+    {
+      "author" : "Brennan Taylor"
+    },
+    "movie_night" :
+    [
+      { "title" : "Holy Rollers" },
+      { "title" : "Boiler Room" },
+      { "title" : "Dog Day Afternoon" },
+      { "title" : "A Stranger Among Us" }
+    ],
+    "score" :
+    {
+      "title" : "In New York's Shadow",
+      "paragraphs" : [
+        "The Jersey Side is about a city on the other side of the river. Jersey City likes to call itself Wall Street West, but there is an air of desperate envy in the town that faces Manhattan across the Hudson. It will never match up. The Jersey Side is about a town too big for its britches, a place where rabbis run organ-legging rings, politicians are massively corrupt, and brokers who can't make it on Wall Street run dodgy deals.",
+        "Fully urban and bounded by the New Jersey Turnpike on one side and the Hudson River on the other, Jersey City is a cramped microcosm of big city business and big city blight."
+      ],
+      "tagline" : "On The Jersey Side"
+    },
+    "relationships" : [
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Grew up on the same block",
+					"Mutual outcasts",
+					"Best friends",
+					"Extremely unlikely friends",
+					"Keepers of a dark secret",
+					"Regulars at the corner bar"
+				]
+			},
+			{
+				"title" : "Family",
+				"elements" : [
+					"Grandparent and grandchild",
+					"Siblings from a large family",
+					"Parent and child",
+					"Cousins",
+					"Parent and son- or daughter-in-law",
+					"Distant relations"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"Creator of dodgy financial deals and the hustler who sells them",
+					"Organ-legging mule and fence",
+					"Crooked politicians",
+					"Organ thieves",
+					"Government regulator on the take and shady broker",
+					"Federal investigator and informant"
+				]
+			},
+			{
+				"title" : "Religion",
+				"elements" : [
+					"Rabbi and his wife",
+					"Catholic priest and parishioner",
+					"Rival cantors at the synagogue",
+					"Young Hasidic Jews",
+					"Orthodox Jew and an atheist",
+					"Two from a strict upbringing who've turned away from the faith"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Married, to each other",
+					"Friends with benefits",
+					"One time, drunk, in the men's room of the dance club",
+					"Unhealthy obsession",
+					"Passionate lovers",
+					"Forbidden romance"
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+					"Nurses at City Hospital",
+					"Rabbi and clerk at the synagogue",
+					"Doctor and cancer patient",
+					"Stockbrokers",
+					"Boss and subordinate",
+					"Lawyer and client"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get even",
+				"elements" : [
+					"... with the guy who ripped you off",
+					"... with a neighbor",
+					"... with your father",
+					"... with the matchmaker for setting you up with your spouse-to-be",
+					"... with the son of a bitch who denied your spouse a transplant",
+					"... with the whole fucking world"
+				]
+			},
+			{
+				"title" : "To get out",
+				"elements" : [
+					"... of a huge fucking obligation",
+					"... of this crappy investment",
+					"... of a relationship",
+					"... of this fleabag apartment",
+					"... of your dead-end job",
+					"... of your father's house with his strict rules"
+				]
+			},
+			{
+				"title" : "To get in",
+				"elements" : [
+					"... to the experimental treatment course at City Hospital",
+					"... with the guy running the night shift at Essex County Morgue",
+					"... to your cousin's pants",
+					"... to the City Council",
+					"... on this hot investment deal before it's too late",
+					"... to New Jersey City University"
+				]
+			},
+			{
+				"title" : "To get it on",
+				"elements" : [
+					"... with the neighbor's spouse",
+					"... and prove to your father you're no good",
+					"... and make a baby since your spouse isn't up to the job",
+					"... with that guy/girl at the dance club",
+					"... and have a good time for a change",
+					"... and prove you're homosexual"
+				]
+			},
+			{
+				"title" : "To score big",
+				"elements" : [
+					"... through selling this crap investment deal",
+					"... through stealing organs from the hospital morgue",
+					"... and let this sucker take the fall",
+					"... through forging a document",
+					"... through this campaign donor",
+					"... through smuggling this box across the Hudson"
+				]
+			},
+			{
+				"title" : "To get the truth",
+				"elements" : [
+					"... about what the City Councilman/woman is up to",
+					"... about your diagnosis",
+					"... about your mother's mortal remains",
+					"... about the rabbi",
+					"... about your real parents",
+					"... about where all this blood came from"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Journal Square",
+				"elements" : [
+					"The New York-bound platform of the PATH train station",
+					"Inside Loew's Jersey Theater",
+					"Hudson County Courthouse",
+					"The stockroom of a bodega",
+					"The Jehovah's Witness Meeting Hall",
+					"Under the statue of Jackie Robinson"
+				]
+			},
+			{
+				"title" : "Greenville",
+				"elements" : [
+					"A roach-infested apartment",
+					"A dive bar",
+					"Behind the dumpster in a dimly lit alley",
+					"Greenville Park after sundown",
+					"The dockyards",
+					"A bathtub full of ice"
+				]
+			},
+			{
+				"title" : "The Meadowlands",
+				"elements" : [
+					"Thigh-deep in the mud of Kearny Marsh",
+					"An isolated Amtrak switching shack",
+					"The Pulaski Skyway over the Hackensack River",
+					"A shallow grave in the tall reeds",
+					"A trash barge on the Hackensack River",
+					"The betting office at the Meadowlands Racetrack"
+				]
+			},
+			{
+				"title" : "The Jersey Turnpike",
+				"elements" : [
+					"The entrance to the Holland Tunnel",
+					"Exit 14B toll plaza",
+					"The parking garage at Secaucus Junction train station",
+					"The breakdown lane between Exits 15 and 16",
+					"Southbound out of town",
+					"Under the Newark Avenue overpass"
+				]
+			},
+			{
+				"title" : "City Hospital",
+				"elements" : [
+					"The morgue",
+					"A room in the cancer ward",
+					"The Emergency waiting room",
+					"In the hall outside Radiology",
+					"The Hospital Administrator's office",
+					"The hospital gift shop"
+				]
+			},
+			{
+				"title" : "Exchange Place",
+				"elements" : [
+					"A junior executive's office in the Goldman Sachs Tower",
+					"A 15th floor balcony overlooking the Hudson",
+					"A million dollar townhouse",
+					"A vast room full of low-walled cubicles",
+					"The Hasidic synagogue",
+					"Office of the City Councilman/woman"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Untoward",
+				"elements" : [
+					"Styrofoam cooler containing melting ice and a human kidney",
+					"Compromising photograph of someone else's spouse",
+					"Forged organ donor card",
+					"Doctor's ID badge that doesn't belong to you",
+					"Massive Norway rat",
+					"Broken condom"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+					"The last passenger car in a New Jersey Transit train",
+					"Beige luxury SUV",
+					"Water taxi",
+					"Livery cab",
+					"Worn-out old Cadillac that needs a new starter",
+					"City bus"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+					"Broken liquor bottle",
+					"Surgical scalpel",
+					"IV drip with a lethal amount of morphine",
+					"Fist with a chunky class ring on one finger",
+					"9mm pistol",
+					"Switchblade knife"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+					"Long list of dead people's names",
+					"Post-It with the identity of a federal informant",
+					"Internal memo that names names",
+					"Napkin with the name of a guy who can hook you up",
+					"The location of an illegal high stakes poker game",
+					"Business card with a phone number written on the back"
+				]
+			},
+			{
+				"title" : "Valuables",
+				"elements" : [
+					"Briefcase filled with cash",
+					"Gold Rolex watch",
+					"Bundle of 50-dollar bills that reek of formaldehyde",
+					"Antique rolltop desk",
+					"Hoard of collectible gold coins",
+					"Swiss bank account number"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"Photo of a deceased loved one",
+					"Silver Star of David pendant",
+					"Bundle of old love letters",
+					"Child's action figure",
+					"Wedding ring",
+					"Your grandmother's pearl necklace"
+				]
+			}
+    ]
+  }
+}

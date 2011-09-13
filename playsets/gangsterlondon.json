@@ -1,0 +1,298 @@
+{
+  "playset" :
+  {
+    "title" : "Gangster London",
+    "credits" : 
+    {
+      "author" : ""
+    },
+    "movie_night" :
+    [
+      { "title" : "Lock" },
+      { "title" : "Stock and Two Smoking Barrels" },
+      { "title" : "The Bank Job" },
+      { "title" : "Sexy Beast " }
+    ],
+    "score" :
+    {
+      "title" : "A Nasty Piece Of Work",
+      "paragraphs" : [
+        "A dead body, a Cockney drug-dealer selling from the back of the kebab shop, three suitcases full of blue flake cocaine and an unexploded World War Two bomb--these are a few of the things that make for a proper East End fiasco. This Playset is for fans of films with a certain ugly, stylish sensibility.",
+        "Maybe you're just a working-class bloke looking to catch a break, and your mate from the pub knows a guy who has a sure thing. Only it's not a sure thing and then your mate's dodgy girlfriend gets involved, and then the Russians find out what you've done and it's all going to go tits-up, isn't it?"
+      ],
+      "tagline" : "In Gangster London"
+    },
+    "relationships" : [
+			{
+				"title" : "Work",
+				"elements" : [
+					"Me and this bloke I used to work with",
+					"Me and my boss from work",
+					"Me and this bloke from work",
+					"Me and this bloke who fixed our car / plumbing / electrics",
+					"Me and this bloke I bought something off of",
+					"Me and my doctor / lawyer / accountant"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Former cellmates",
+					"Army buddies",
+					"This bloke from down the pub",
+					"\"I saved his life, you know\"",
+					"\"I've known him since school\"",
+					"\"We're just mates, we're not like shagging or anything.\""
+				]
+			},
+			{
+				"title" : "Odd",
+				"elements" : [
+					"Alcoholics Anonymous",
+					"Salvation Army",
+					"Young Conservatives",
+					"Socialists",
+					"Environmental campaigners",
+					"Probation officer and criminal"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Secret lovers",
+					"Married",
+					"Separated",
+					"On-again, off-again partners",
+					"Stalker and stalkee",
+					"Don't like each other much, but can't stop shagging"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"Criminal boss and underling",
+					"Gamblers",
+					"Small-time housebreakers",
+					"Con man and mark",
+					"Drug dealers",
+					"Hoodies"
+				]
+			},
+			{
+				"title" : "Family",
+				"elements" : [
+					"Siblings",
+					"Cousins",
+					"Distant relatives who have never met",
+					"Parent and child or stepchild",
+					"Uncle / aunt and nephew / niece",
+					"Parent-in-law / son- or daughter-in-law"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get laid",
+				"elements" : [
+					"...to prove something",
+					"...to get something you want",
+					"...to forget about getting dumped",
+					"...to rekindle an old romance",
+					"...for the first time",
+					"...for the last time"
+				]
+			},
+			{
+				"title" : "To get some answers",
+				"elements" : [
+					"...about Ned's \"Four o'clock meeting in Brixton\"",
+					"...about someone's infidelity",
+					"...to a question of parentage",
+					"...from the police, about an unsolved crime",
+					"...about the accident that still haunts you",
+					"...about Shelley's commitment to the enterprise"
+				]
+			},
+			{
+				"title" : "To get revenge",
+				"elements" : [
+					"...on Steps and his crew",
+					"...on the Russians who humiliated you",
+					"...on a co-worker",
+					"...on a television personality",
+					"...on a family member",
+					"...on a police detective"
+				]
+			},
+			{
+				"title" : "To get respect",
+				"elements" : [
+					"...from the London criminal underground",
+					"...by showing everybody who the real boss is",
+					"...from your lover, by keeping an unfortunate promise",
+					"...from a family member, by backing their plan",
+					"...from yourself, by standing up to a bully",
+					"...by going straight at last"
+				]
+			},
+			{
+				"title" : "To get rich",
+				"elements" : [
+					"...by ripping off a dealer",
+					"...by running eastern European prostitutes",
+					"...by robbing a family business",
+					"...by working a political deal in the neighborhood",
+					"...by opening a kebab shop",
+					"...by finding a buyer for these diamonds you \"found\""
+				]
+			},
+			{
+				"title" : "To get out",
+				"elements" : [
+					"...of London before the Russians find you",
+					"...of debt, through one last bold deal",
+					"...of a relationship gone dangerously sour",
+					"...of your interminable marriage",
+					"...of an obligation to a powerful criminal",
+					"...of England before Scotland Yard catches up with you"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Residences",
+				"elements" : [
+					"Flat 253, Broadwater House",
+					"\"The Rivings\"",
+					"23 Mulberry Grove",
+					"Raddeston Place",
+					"Villa El Mariachi, Costa Del Sol",
+					"The Squat"
+				]
+			},
+			{
+				"title" : "Houses",
+				"elements" : [
+					"Penthouse",
+					"Auction House",
+					"Whorehouse",
+					"Family house",
+					"Country house",
+					"Warehouse"
+				]
+			},
+			{
+				"title" : "Landmarks",
+				"elements" : [
+					"The British Library",
+					"The Tower of London",
+					"The River Thames",
+					"Canary Wharf",
+					"The Millennium Dome",
+					"Kew Gardens"
+				]
+			},
+			{
+				"title" : "Food and Drink",
+				"elements" : [
+					"Ali's Cafe",
+					"The Crown and Anchor",
+					"Grabber's Nightclub",
+					"Stan Fish's Gentleman's Entertainment Club",
+					"The Ivy",
+					"The Royal India Tandoori"
+				]
+			},
+			{
+				"title" : "Workplaces",
+				"elements" : [
+					"Reiman, Losser and Reiman, a large bank",
+					"The pig farm",
+					"Jacob Fein, jeweller",
+					"Captain Comic, books and graphic novels",
+					"Bulldog English's specialist bookstore",
+					"The Paper Recycling Plant"
+				]
+			},
+			{
+				"title" : "Oddities",
+				"elements" : [
+					"Cat rescue home",
+					"Royal Northern Hospital",
+					"The Lodge of the Masonic Order of the Stars",
+					"A synagogue",
+					"Locker 3867 At Waterloo Station",
+					"\"You Do Not Ask What Goes On Back There\""
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Unfortunate",
+				"elements" : [
+					"Forty chickens in eighty cages",
+					"Hydroponic cannabis-growing facility",
+					"Collection of priceless stamps, ruined",
+					"\"Peckham Rolex\" electronic ankle monitor",
+					"Dead body",
+					"Ten thousand leaflets about Jesus"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+					"Motorbike",
+					"Nondescript white van",
+					"Subaru Impreza 5-door wagon",
+					"Milk float",
+					"Speedboat",
+					"Rolls Royce"
+				]
+			},
+			{
+				"title" : "Weapon",
+				"elements" : [
+					"Sawn-off shotgun",
+					"\"Jesus Christ, it's a fucking katana!\"",
+					"An unexploded World War Two bomb",
+					"Antique duelling pistols",
+					"Three hand grenades",
+					"A water pistol that looks like a real gun"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+					"Angus' mysterious last words",
+					"A conversation you shouldn't have been listening to",
+					"A contract; maybe a legally binding one",
+					"An encrypted CD",
+					"Property deeds",
+					"Compromising photographs"
+				]
+			},
+			{
+				"title" : "Valuables",
+				"elements" : [
+					"Ten thousand pounds in 5 pence pieces",
+					"An arse-load of diamonds!",
+					"Vintage car",
+					"\"All you need to know is: what's in here is fucking valuable.\"",
+					"Suitcase full of cash",
+					"Purebred cat"
+				]
+			},
+			{
+				"title" : "Extra-Legal",
+				"elements" : [
+					"The strongest weed you will ever smoke",
+					"Three suitcases full of blue flake cocaine",
+					"Five thousand fake passports",
+					"Six Romanian asylum-seekers",
+					"Floor plans of a Ministry of Defence establishment",
+					"\"This is the most dangerous weapon you have ever laid your dirty little hands on.\""
+				]
+			}
+    ]
+  }
+}

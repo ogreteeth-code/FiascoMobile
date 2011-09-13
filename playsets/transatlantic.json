@@ -1,0 +1,302 @@
+{
+  "playset" :
+  {
+    "title" : "Transatlantic",
+    "credits" : 
+    {
+      "author" : "E. Tage Larsen"
+    },
+    "movie_night" :
+    [
+      { "title" : "Bitter Moon" },
+      { "title" : "Legend of 1900" },
+      { "title" : "Titanic" },
+      { "title" : "Duck Soup (or The Impostors)" },
+      { "title" : "the Love Boat (TV)" },
+      { "title" : "Poseidon Adventure" },
+      { "title" : "Deep Rising" }
+    ],
+    "score" :
+    {
+      "title" : "Mid-Atlantic, Late December 1932",
+      "paragraphs" : [
+        "To be read aloud by the most aristocratic person at the table...",
+        "You are a week out of Southampton en route to New York. Your 42,000-ton vessel, Morning Star Lines' new flagship Leviathan, ploughs through these frigid waters at 29 knots. On this luxury cruiser's maiden voyage, the Captain has been directed to quietly contend for the glorious Blue Riband -- the accolade awarded to the fastest crossing of the Atlantic Ocean.",
+        "Topside, you enjoy a salty Gibson while pulling the heavy double wool of your coat closer to your body. Friends make merry with lively talk amongst themselves -- it's a din barely overheard above the hammering engine and thresh of the ship's mighty propellers. Spray from the bow's cleave manages to catch your cheek even this far aft. You smile, playing the cocktail's onion lightly on your tongue. Your gaze draws across the dull, slate waters wondering at the marvel of it all: New beginnings? Maybe this time things will be different? Perhaps your dreams are within reach? What could possibly go wrong?"
+      ],
+      "tagline" : "Aboard RMS Leviathan"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+					"Parent and adopted orphan",
+					"Newly married",
+					"Eccentric uncle and nephew/niece",
+					"Warring siblings",
+					"In-laws",
+					"Old married couple"
+				]
+			},
+			{
+				"title" : "Friends",
+				"elements" : [
+					"Affable tramps with an eye for mischief",
+					"Pen pals just united",
+					"Society gadfly and hanger-on",
+					"From the Great War",
+					"Inseparable, simply inseparable",
+					"Built on a lie"
+				]
+			},
+			{
+				"title" : "Intrigue",
+				"elements" : [
+					"Foreigners",
+					"Saboteur and fellow traveler",
+					"Mutinous",
+					"Sworn oath",
+					"\"Who are you and why are you in my closet?\"",
+					"Cultists"
+				]
+			},
+			{
+				"title" : "On board",
+				"elements" : [
+					"Wealthy invalid and voracious ingénue",
+					"\"We appear to be sharing a cabin\"",
+					"Entertainers",
+					"Dedicated bon vivants",
+					"Mutual impostors, stowaways, and criminals",
+					"First class and steerage"
+				]
+			},
+			{
+				"title" : "Courting",
+				"elements" : [
+					"Confirmed bachelor and his bachelor companion",
+					"Ships passing in the night",
+					"Estranged honeymooners",
+					"Unrequited love",
+					"A rake, an innocent, a promenade deck",
+					"Former lovers"
+				]
+			},
+			{
+				"title" : "Special (use with care)",
+				"elements" : [
+					"Heiress and cat burglar",
+					"Ship's doctor and patient",
+					"Ship's purser and rescued whaler",
+					"Captain and Chief Engineer",
+					"Rival stewards",
+					"Detective and criminal"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "Revenge",
+				"elements" : [
+					"She humiliated you and now she's rooming across the hall",
+					"On your rival once and for all",
+					"On all landlubbers for what they don't know about the sea",
+					"Because your family was destroyed by Capitalists",
+					"For what happened that one night off the Labrador Coast",
+					"On the Captain, because it's now or never"
+				]
+			},
+			{
+				"title" : "Truth",
+				"elements" : [
+					"The secret your father took with him to the grave",
+					"About a missing lifeboat",
+					"Uncomfortable family history",
+					"\"Why are we so very, very off course?\"",
+					"Unmarked crate that was loaded in the still of night",
+					"Forged safety inspection certificates"
+				]
+			},
+			{
+				"title" : "Respect",
+				"elements" : [
+					"... from shipmates about a haunting error",
+					"... for yourself because the ridicule is too great",
+					"... by recovering your fortune",
+					"... from your in-laws, no matter the cost",
+					"... from those who doubt your righteous cause, and the strength of your sword",
+					"... from your lover, who must accept that it'll never happen again."
+				]
+			},
+			{
+				"title" : "Recovery",
+				"elements" : [
+					"... from libelous accusations to restore your family's honor",
+					"... from financial ruin to get even with that confidence man",
+					"... from amnesia and the inevitable deluge of your former life",
+					"... from mounting gambling losses before it's too late",
+					"... from the beating you took to find those who dealt it",
+					"... from years of abuse by a manipulative employer"
+				]
+			},
+			{
+				"title" : "Escape - Bon Voyage!",
+				"elements" : [
+					"... from an arranged marriage",
+					"... to avoid a scandalous newspaper headline",
+					"... to immigrate because of your beliefs",
+					"... from a terrible family responsibility",
+					"... from prying eyes",
+					"... the Royal Navy, who would like a word about a recent \"minor misunderstanding\""
+				]
+			},
+			{
+				"title" : "Surviving",
+				"elements" : [
+					"... the disaster, aboard the last lifeboat",
+					"... the duel, because that's not how things were done back home",
+					"... the flooded forward compartments, and your fear of water",
+					"... the whirlpool, powered by your desire to pay them back",
+					"... the fire, to claim your true love",
+					"... the sacrifice that will stop the Deep God from rising"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Elsewhere via flashback",
+				"elements" : [
+					"Sweethearts first meeting",
+					"Your face is the same as the man in the shadows",
+					"Pemberton University, way back when",
+					"Palatial mansion, servant's quarters",
+					"Dimly lit, smoke-choked seaside saloon",
+					"Brothel near Calcutta"
+				]
+			},
+			{
+				"title" : "On Board Leviathan",
+				"elements" : [
+					"Private, first-class stateroom",
+					"Captain's quarters",
+					"Steerage, crammed with destitute immigrants",
+					"The brig",
+					"The Captain's Ball, Lido Deck",
+					"Aboard another vessel"
+				]
+			},
+			{
+				"title" : "Mayhem",
+				"elements" : [
+					"A flooded companionway in the eye of the storm",
+					"A truly unfortunate juxtaposition of hull and iceberg",
+					"Boarded and ravaged",
+					"Capsized",
+					"Collapsed bulkhead taking on water",
+					"Adrift and on fire"
+				]
+			},
+			{
+				"title" : "On deck and off",
+				"elements" : [
+					"Observation Deck",
+					"Fog-shrouded aft deck",
+					"Clutching the starboard rail, sick as a dog",
+					"Overboard",
+					"Drenched and tangled in the lifelines",
+					"Tournament on the Lido Deck"
+				]
+			},
+			{
+				"title" : "\"Be our guest\"",
+				"elements" : [
+					"Dining at the Captain's table on lamb with mint sauce, roast squab, pâté de foie gras, and peaches in Chartreuse jelly",
+					"Bawdy repurposed luggage room in steerage",
+					"Captured by pirates ... or worse",
+					"Umbrella drinks in deck chairs",
+					"Passed out in the Grand Ballroom",
+					"In the orchestra pit, with the band"
+				]
+			},
+			{
+				"title" : "The Bowels of Leviathan",
+				"elements" : [
+					"Aft cargo hold",
+					"B Deck, in a dimly lit chain locker",
+					"A walk-in galley freezer",
+					"An open porthole or hatch",
+					"The bridge",
+					"Behind a triple-expansion steam engine"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Unmentionable",
+				"elements" : [
+					"\"About that body in your stateroom...\"",
+					"Rogue wave",
+					"Misplaced infant",
+					"Sacrificial dagger with engravings of the loathsome Sea God",
+					"Turbine operating pressure gauge",
+					"Eye patch"
+				]
+			},
+			{
+				"title" : "Nautical",
+				"elements" : [
+					"Lifeboat",
+					"Master key",
+					"Life belt",
+					"Short-wave radio",
+					"Ship's safe",
+					"Logbook"
+				]
+			},
+			{
+				"title" : "Violent",
+				"elements" : [
+					"Ticking time bomb",
+					"Distress rockets",
+					"Engraved sword cane",
+					"Coal shovel",
+					"Grand piano on casters",
+					"Block and tackle, with longshoreman's cargo hook"
+				]
+			},
+			{
+				"title" : "Prurient",
+				"elements" : [
+					"Scandalous cable received just this moment",
+					"Personal baggage delivered to the wrong room",
+					"Scrawled note slipped in someone's pocket",
+					"Overheard conversation between Fascists",
+					"Falsified divorce papers",
+					"Indiscrete photographs"
+				]
+			},
+			{
+				"title" : "Precious",
+				"elements" : [
+					"A notorious diamond the size of your fist",
+					"The Shroud of Turin",
+					"A tiara",
+					"Bars of Spanish gold",
+					"The prized poodle of a Madison Avenue socialite",
+					"An alternate draft of the United States Bill of Rights"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"Scented kerchief with an embroidered monogram",
+					"Gramophone with unreleased pressings",
+					"Golden locket with portrait",
+					"\"Dear diary, today has been such a busy day!\"",
+					"Moonlight, dancing on the waves",
+					"Filigreed urn, heavy with ashes"
+				]
+			}
+    ]
+  }
+}
