@@ -13,11 +13,16 @@ nav {
 	border-bottom: 4px solid #ffffff;
 	}
 
+form {
+	margin: 0 8px;
+	}
+
 h1 {
 	font: 400 24px "Syncopate", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	color: #c8a984;
 	padding-left: 4px;
+	padding-right: 4px;
 	margin: 9px 0 4px;
 	}
 
@@ -43,6 +48,14 @@ p {
 	letter-spacing: 0.05em;
 }
 
+a {
+	color: black;
+}
+
+.footer {
+	text-align: right;
+}
+
 .playsetList {
 	margin: 0;
 	padding: 7px 0 7px 4px;
@@ -51,10 +64,15 @@ p {
 	background: #a61212 url('img/fiascoarrow.png') no-repeat 98% center;
 	}
 
-.Disable {
+.disable {
 	background-color: #910a0a;
+	display: none;
 	}
 
+.demo {
+	background-color: #640000;
+	}
+	
 #IOSContainer {
 	position: absolute;
 	top: 86px;
@@ -74,6 +92,10 @@ p {
 	margin: 0 auto;
 	font: bold 16px "Syncopate", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
+	}
+
+.loginForm {
+	padding: 9px 4px 4px !important;
 	}
 
 .playset {

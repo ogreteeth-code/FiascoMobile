@@ -1,0 +1,298 @@
+{
+  "playset" :
+  {
+    "title" : "Toil and Trouble",
+    "credits" : 
+    {
+      "author" : "Mark Meredith"
+    },
+    "movie_night" :
+    [
+      { "title" : "Harry Potter" },
+      { "title" : "The Lightning Thief" },
+      { "title" : "The Breakfast Club" },
+      { "title" : "Fast Times at Ridgemont High" }
+    ],
+    "score" :
+    {
+      "title" : "",
+      "paragraphs" : [
+      	"Take a bunch of pubescent kids in a confined space out in the middle of nowhere, full of adolescent fury and desires. Now give them unfettered magical powers, the ability to open locks, summon water and fire, create love potions and sleeping draughts.",
+        "You are someone of magical power, brought here to the school to learn to harness said power. But where hormones, malleable minds and magic meet... Well, let's just say that's a fiasco in the making."
+      ],
+      "tagline" : "...in a Wizard School"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+					"Siblings",
+					"Parent and child",
+					"Step-siblings",
+					"Estranged distant cousins",
+					"Identical Twins",
+					"Uncle/aunt & nephew/niece"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Pranksters",
+					"Friendly rivals",
+					"New friendship",
+					"Raised next door to one another",
+					"A friend who always gets you into trouble",
+					"Best friends"
+				]
+			},
+			{
+				"title" : "Around the School",
+				"elements" : [
+					"Bitter enemies",
+					"Teacher and student",
+					"Teammates on the sports team",
+					"Prefect and junior student",
+					"Groundskeeper and friend",
+					"Members of a secret organization within the school"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Former couple",
+					"Young and in love",
+					"One took a love potion",
+					"Long-time crush and object of crush",
+					"Jilted lover",
+					"One-time fling"
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+					"Fellow teachers",
+					"Fellow teachers who are bitter enemies",
+					"Works out in town",
+					"Creators of joke items",
+					"Fellow prefects",
+					"Seller of magic items and buyer"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"Sells contraband magical items",
+					"Teaches dark and unspeakable magic in private",
+					"Bully and victim",
+					"Small time thieves",
+					"Secret servants of the Dark Lord",
+					"School bully and crony"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get out",
+				"elements" : [
+					"... of this class I'm failing",
+					"... of this relationship with significant other",
+					"... of my family name",
+					"... of this curse I'm under",
+					"... of this nickname",
+					"... of the favor I owe"
+				]
+			},
+			{
+				"title" : "To get even",
+				"elements" : [
+					"... with my tormentor",
+					"... with the teacher who failed me",
+					"... with the person who swindled me",
+					"... with the school hero",
+					"... with the rival sports team",
+					"... with the school"
+				]
+			},
+			{
+				"title" : "To prepare",
+				"elements" : [
+					"... for my big final test",
+					"... for the Christmas ball",
+					"... to get a significant other",
+					"... for my family to visit",
+					"... for tryouts for the sports team",
+					"... a secret potion"
+				]
+			},
+			{
+				"title" : "To get respect",
+				"elements" : [
+					"... from my parents",
+					"... from my rival",
+					"... from the headmaster of the school",
+					"... from the entire school",
+					"... from the sports team who shunned me",
+					"... from the Dark Lord"
+				]
+			},
+			{
+				"title" : "To get the truth",
+				"elements" : [
+					"... about how my parents died",
+					"... about the week I have no memory of",
+					"... about the secret chamber I found in the school",
+					"... about my brother's disappeareance",
+					"... about the ghostly voices I hear at night",
+					"... about who the newest teacher truly is"
+				]
+			},
+			{
+				"title" : "To get rich",
+				"elements" : [
+					"... by any means necessary",
+					"... through theft",
+					"... to help my family",
+					"... through fame",
+					"... through selling contraband",
+					"... through betting on card games"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "The School Grounds",
+				"elements" : [
+					"The groundskeeper's house",
+					"The malevolent, animated tree",
+					"The sports field",
+					"Under the bleachers at the sports field",
+					"The haunted forest",
+					"The lake"
+				]
+			},
+			{
+				"title" : "Classrooms",
+				"elements" : [
+					"History of Magic class",
+					"Potions class",
+					"Charms class",
+					"Transfiguration class",
+					"Divination class",
+					"An empty and abandoned classroom"
+				]
+			},
+			{
+				"title" : "Common Areas",
+				"elements" : [
+					"The owlery",
+					"The great hall",
+					"Main entryway",
+					"On a moving staircase",
+					"A House common room",
+					"The dungeons"
+				]
+			},
+			{
+				"title" : "Secret Locations",
+				"elements" : [
+					"A hidden chamber",
+					"The room accessible only to those who need it most.",
+					"Secret exits to the village",
+					"The 3rd floor",
+					"The headmaster's office",
+					"The haunted house in the village"
+				]
+			},
+			{
+				"title" : "The Village",
+				"elements" : [
+					"The sweetshop",
+					"The inn",
+					"The train station",
+					"The joke shop",
+					"Outside the haunted house",
+					"The teashop"
+				]
+			},
+			{
+				"title" : "The Back Alley of London",
+				"elements" : [
+					"The magical bookstore",
+					"Wizarding bank",
+					"The local inn",
+					"The wand store",
+					"The robe store",
+					"The dark alleyway behind the main thoroughfare"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Illegal",
+				"elements" : [
+					"A dark magic tattoo",
+					"A forbidden book of sorcery",
+					"A severed human hand blessed with dark magic",
+					"A basilisk's fang",
+					"A mask from your father, servant of the Dark Lord",
+					"A trunk containing an evil magical creature"
+				]
+			},
+			{
+				"title" : "Contraband",
+				"elements" : [
+					"A watch which turns back time",
+					"Joke candy",
+					"Illegal fireworks",
+					"A magical pool of water capable of seeing past memories",
+					"Stinkbombs",
+					"An exploding wand"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+					"The best of the best broomstick",
+					"A flying car",
+					"A flying carpet",
+					"A handful of teleportation powder",
+					"a cheap hand-me-down broomstick",
+					"An old shoe which can teleport you to destinations unknown"
+				]
+			},
+			{
+				"title" : "Potions",
+				"elements" : [
+					"A powerful love potion",
+					"A confusing concoction",
+					"Liquid Luck",
+					"Polymorphing potion",
+					"A truth serum",
+					"Draught of Death, to make the user appear dead"
+				]
+			},
+			{
+				"title" : "Rumors",
+				"elements" : [
+					"The most recent teacher to arrive at the school is actually a vampire",
+					"There is a portal deep within the bowels of the school which can send you back in time",
+					"Two of the most popular kids in school are servants of the Dark Lord",
+					"School is going to be canceled next year due to threats to the school",
+					"The school's hero is losing his mind and could snap at any moment",
+					"The school was built over a grave site, and the ghosts are angry"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"Your grandfather's wand",
+					"Your older sister's cat",
+					"A very old magical book which has been in your family for years",
+					"A ring of invisibility from your mother",
+					"Your father's broom from when he was captain of the sports team",
+					"Your first wand"
+				]
+			}
+    ]
+  }
+}

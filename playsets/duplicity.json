@@ -1,0 +1,297 @@
+{
+  "playset" :
+  {
+    "title" : "Duplicity",
+    "credits" : 
+    {
+      "author" : "GremlinLegions"
+    },
+    "movie_night" :
+    [
+      { "title" : "Classic Star Trek (in particular \"Mirror, Mirror\")" },
+      { "title" : "StarTrek: DS9 (\"Trials and Tribbleations\")" }
+    ],
+    "score" :
+    {
+      "title" : "Space, the final frontier",
+      "paragraphs" : [
+		"These are the voyages of the Starship Enterprise, on its five year mission to seek out new life and new civilizations; to boldly go where no man has gone before.",
+		"Ooooooooooooeeeeeeeee wah wah wah wah...",
+		"After negotiations for precious minerals with the Halkans fall through, a strange malfunction in the transporter room has caused a rift between the dimensions, switching Federation crew members with their alternate, Imperial selves. Now, with time running out, can the crew manage to survive the deadly treachery of the Empire long enough to get themselves back home, and maybe get some short-skirted, mid-riffed booty to boot?"
+      ],
+      "tagline" : "...In orbit above the planet Halkan"
+    },
+    "relationships" : [
+			{
+				"title" : "Starfleet",
+				"elements" : [
+					"Lieutenant Commander &amp; Ensign",
+					"Science Officer &amp; Lab Tech",
+					"Sickbay Doctor &amp; Nurse",
+					"Tactical Officer &amp; Security Guard",
+					"Comm Officer &amp; Yeoman",
+					"Chief Engineer &amp; Technician"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Old War Buddies",
+					"Drinking Buddies",
+					"Friendly Rivalry",
+					"Old Shipmates",
+					"Enemies in Common",
+					"Fellow Cadets at the Academy"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"\"It was nice while it lasted\"",
+					"\"As long as I'm yours, I can have anything I want...\"",
+					"\"They can never know...\"",
+					"\"When you say 'no,' it means I'm not asking hard enough\"",
+					"Unrequited affection between two species",
+					"\"You're my woman until I SAY you're not...\""
+				]
+			},
+			{
+				"title" : "Animosity",
+				"elements" : [
+					"\"I'll never forgive you for that!\"",
+					"\"Your ways are so...primitive...\"",
+					"\"If I can't have her, no one will!\"",
+					"\"...assuming you call that green stuff in your veins blood...\"",
+					"\"Efficiency?! I'll show you efficiency!\"",
+					"\"I'm not sure, but I think we've been insulted...\""
+				]
+			},
+			{
+				"title" : "Civilian",
+				"elements" : [
+					"Distant Relatives",
+					"From the Same Colony",
+					"Shady Merchant and Customer",
+					"Stowaways",
+					"Halkan Representative and Starfleet Ambassador ",
+					"Ambassador's Personal Attendants"
+				]
+			},
+			{
+				"title" : "Strange",
+				"elements" : [
+					"Mirror Selves",
+					"Alien Infiltrators",
+					"Psychic Hyperbeing &amp; Thrall",
+					"Imprisoned Augment &amp; Admirer ",
+					"Secret Assassin &amp; Target",
+					"Agent from the Future &amp; Target"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To boldly",
+				"elements" : [
+					"...go where no one has gone before",
+					"...confront the Captain about that accident ",
+					"...ask the Nurse to marry you",
+					"...negotiate a treaty with the Halkans",
+					"...break the laws of physics",
+					"...humiliate the Captain in front of his lover"
+				]
+			},
+			{
+				"title" : "To discover",
+				"elements" : [
+					"...new worlds &amp; new civilizations",
+					"...the cause of the Doctor's abnormal behavior",
+					"...how to repair the transporters without replacement parts",
+					"...how to sabotage the reactor core",
+					"...the identity of the infiltrator!",
+					"...which one is the real Ambassador!"
+				]
+			},
+			{
+				"title" : "To get promoted",
+				"elements" : [
+					"...by whatever means necessary",
+					"...by destroying the entire Halkan civilization ",
+					"...by killing the Captain",
+					"...by taking credit for everything",
+					"...through hard work and perseverance",
+					"...despite your \"unique\" condition"
+				]
+			},
+			{
+				"title" : "To sleep with",
+				"elements" : [
+					"...every woman you see",
+					"...every alien you meet",
+					"...the Ambassador's wife",
+					"...the Ambassador to distract him from the mission",
+					"...your Mirror Self",
+					"...those strange, trilling furry things in the Mess Hall"
+				]
+			},
+			{
+				"title" : "To defeat",
+				"elements" : [
+					"...the hidden alien menace",
+					"...your strange, unnatural emotional urges",
+					"...the First Officer at 3-D chess at least once before you die",
+					"...the Armory's security system",
+					"...the Captain's secret plans to kill the Ambassador",
+					"...the Halkan's negotiator in bloody, hand-to-hand combat"
+				]
+			},
+			{
+				"title" : "To get even",
+				"elements" : [
+					"...with those bastards who laughed at you",
+					"...with the Halkans for defying your commands",
+					"...with the Captain for not returning your affection",
+					"...with those damned voices in your head",
+					"...before they find out what you are planning",
+					"...once the Ambassador thinks he's in the clear"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Upper Decks",
+				"elements" : [
+					"Bridge, Navigation Helm",
+					"Science Lab, Botany Section",
+					"Chief Engineer's Quarters, Liquor Cabinet",
+					"Captain's Quarters, Under the Bed",
+					"Tactical Systems Access Chute",
+					"Turbo Lift 2"
+				]
+			},
+			{
+				"title" : "Amidships",
+				"elements" : [
+					"Sickbay",
+					"Transporter Room 4",
+					"Impulse Engine Access Chute ",
+					"Galley, Food Reclamator",
+					"Officers' Briefing Room ",
+					"Computer Core"
+				]
+			},
+			{
+				"title" : "Lower Decks",
+				"elements" : [
+					"The Brig",
+					"RecRoom 3",
+					"The Armory",
+					"Life Support Control",
+					"Phaser Bank Access Chute",
+					"Inertial Dampening System"
+				]
+			},
+			{
+				"title" : "Engineering",
+				"elements" : [
+					"Warp Nacelle Access Chute",
+					"Hangar Deck",
+					"Torpedo Bay, Targeting Station",
+					"Cargo Bay 2",
+					"Power Relay Control",
+					"Matter-Antimatter Reactor Core Access Chute"
+				]
+			},
+			{
+				"title" : "Dangerous",
+				"elements" : [
+					"Inside the Matter-Antimatter Reactor Core ",
+					"On the hull of the ship",
+					"Floating in the vacuum of space",
+					"The Mirror Ship's torture chamber",
+					"Entering the Halkan atmosphere",
+					"Torpedo Tube 5"
+				]
+			},
+			{
+				"title" : "Elsewhere",
+				"elements" : [
+					"Inside a strange, green energy sphere",
+					"Aboard a cloaked Romulan Warbird",
+					"Micronized and injected inside the Captain's brain ",
+					"A mysterious blue box, much larger on the inside ",
+					"Interdimensional limbo",
+					"The FUTURE!"
+				]
+			}
+    ],
+    "assets" : [
+			{
+				"title" : "Leadership",
+				"elements" : [
+					"\"We...come in peace. We mean you...no harm.\"",
+					"\"NOW you're an Engineer!\"",
+					"Boldly ripped and torn shirt",
+					"Chutzpah",
+					"Reputation from the Kobayashi-Maru Test",
+					"Impish Smile"
+				]
+			},
+			{
+				"title" : "Rank and Privilege",
+				"elements" : [
+					"Dress Uniform",
+					"Medal of Honor",
+					"Self-Destruct Codes",
+					"Quality Toupee",
+					"Diplomatic Contacts",
+					"Distinction as Starfleet's Finest (deserved or not)"
+				]
+			},
+			{
+				"title" : "Logic",
+				"elements" : [
+					"\"Fascinating.\"",
+					"\"One man cannot summon the future.\"",
+					"\"In critical moments men sometimes see exactly what they wish to see.\"",
+					"\"You may file a formal protest with Starfleet Command, assuming we survive to reach a Starbase.\"",
+					"\"It may be unappetizing, but it IS logical.\"",
+					"\"I do not threaten. I merely state facts.\""
+				]
+			},
+			{
+				"title" : "High-Tech",
+				"elements" : [
+					"Tricorder",
+					"Medical Kit",
+					"Communicator",
+					"Benchthumping (...just gotta hit it in the right spot...) ",
+					"Ultrasonic Ratchet",
+					"Unintelligible Technobabble"
+				]
+			},
+			{
+				"title" : "Warfare",
+				"elements" : [
+					"Personal Guards",
+					"Phaser, set on Kill",
+					"Trophy Klingon Bat'leth ",
+					"Venusian Jujitsu",
+					"Vulcan Nerve Pinch ",
+					"Hammer Punch"
+				]
+			},
+			{
+				"title" : "Secrets",
+				"elements" : [
+					"Small, trilling furry creature with an appetite ",
+					"Starfleet's finest hair pomade",
+					"Evidence of treason within Starfleet Command ",
+					"Sexy miniskirt",
+					"Outrageous foreign accent",
+					"Hidden disintegrator ray"
+				]
+			}
+    ]
+  }
+}

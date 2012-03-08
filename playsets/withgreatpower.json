@@ -1,0 +1,296 @@
+{
+  "playset" :
+  {
+    "title" : "With Great Power...",
+    "credits" : 
+    {
+      "author" : "Mark Meredith and Andrew Meredith"
+    },
+    "movie_night" :
+    [
+      { "title" : "Watchmen" },
+      { "title" : "X-Men: First Class" }
+    ],
+    "score" :
+    {
+      "title" : "",
+      "paragraphs" : [
+      	"\"Superheroes were born in the minds of people desperate to be rescued.\"- Jodi Picoult, \"The Tenth Circle\"",
+        "There's nothing more chaotic than a superhero team. Take a bunch of A-Type personalities, give them all the power to punch holes in reality, then give them differing goals, beliefs and ideas. With that, you've got a bit of a fiasco on your hands..."
+      ],
+      "tagline" : "...On a Super-Team"
+    },
+    "relationships" : [
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Husband & Wife",
+					"Significant Others",
+					"Rescuer",
+					"Crush",
+					"Secret lovers",
+					"One night stand"
+				]
+			},
+			{
+				"title" : "Family",
+				"elements" : [
+					"Parent and child",
+					"Uncle/aunt & nephew/niece",
+					"Following in the family footsteps",
+					"Siblings",
+					"Cousins",
+					"Dysfunctional family"
+				]
+			},
+			{
+				"title" : "The Team",
+				"elements" : [
+					"Hero and sidekick",
+					"Teammates",
+					"Rivals",
+					"Team leader and subordinate",
+					"Co-leaders",
+					"Mentor and prot&eacute;g&eacute;"
+				]
+			},
+			{
+				"title" : "The Past",
+				"elements" : [
+					"Teammates in prior organization",
+					"Clone of the other",
+					"Creator and created",
+					"Former enemies",
+					"Cause the accident that created the other's powers",
+					"Secretly betrayed the other"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Just for show",
+					"Fought in the war together",
+					"Best friends",
+					"On-again-off-again friends",
+					"Friendly rivalry",
+					"Fair-weather friends"
+				]
+			},
+			{
+				"title" : "Enemies",
+				"elements" : [
+					"Frenemies",
+					"Bad blood",
+					"Fought in massive battle against one another",
+					"Want the same girl",
+					"Heard bad rumors about the other",
+					"Anti-hero and hero"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get laid",
+				"elements" : [
+					"... By the leader of the team",
+					"... To come out of the closet",
+					"... To gain the upper hand",
+					"... To get promoted",
+					"... By the one you've never had the courage to tell",
+					"... For the first time"
+				]
+			},
+			{
+				"title" : "To get revenge",
+				"elements" : [
+					"... Against those who murdered your family",
+					"... By committing a coup",
+					"... Against the one who broke your heart",
+					"... Against your arch-enemy",
+					"... And it doesn't matter how many bodies you have to climb on top of",
+					"... Against your teammates who never believed in you"
+				]
+			},
+			{
+				"title" : "To get out",
+				"elements" : [
+					"... of this superheroing business",
+					"... of this city",
+					"... of dysfunctional team",
+					"... of this debt secretly owed to a supervillain",
+					"... of a relationship that's turned weird",
+					"... of this prison"
+				]
+			},
+			{
+				"title" : "To get even",
+				"elements" : [
+					"... with the newspaper columnist who smeared you",
+					"... with a rival",
+					"... with your best friend who wronged you",
+					"... with your costumer",
+					"... with those bastards for not giving you due",
+					"... with humanity"
+				]
+			},
+			{
+				"title" : "To get famous",
+				"elements" : [
+					"\"Because I'm just as good as the rest of the team.\"",
+					"\"To prove you all wrong.\"",
+					"\"So I'll quit getting walked all over.\"",
+					"\"So my parents will accept me.\"",
+					"\"So everyone knows my name.\"",
+					"\"No matter the cost.\""
+				]
+			},
+			{
+				"title" : "To get respect",
+				"elements" : [
+					"... by saving the city",
+					"... from yourself, by finally doing it once and for all",
+					"... from everyone by atoning for your mistake",
+					"... through stealing someone else's thunder",
+					"\"I don't need respect. I walk alone.\"",
+					"Because you have nothing left to live for"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Hero Headquarters",
+				"elements" : [
+					"The conference room",
+					"Practice room",
+					"Power core",
+					"The super computer",
+					"Flight deck",
+					"Shrine"
+				]
+			},
+			{
+				"title" : "New York City",
+				"elements" : [
+					"Central Park",
+					"Madison Avenue",
+					"The Statue of Liberty",
+					"Battery Park",
+					"The Empire State Building",
+					"The Newspaper Building"
+				]
+			},
+			{
+				"title" : "The Suburbs",
+				"elements" : [
+					"An empty parking lot",
+					"A dingy convenience store",
+					"Public housing",
+					"A tavern by the river",
+					"A crowded mall",
+					"A subway terminal"
+				]
+			},
+			{
+				"title" : "Residences",
+				"elements" : [
+					"The flat the two of you share",
+					"The penthouse at the highest point in the city",
+					"Your parent's house",
+					"The loft with an amazing view",
+					"A moving van converted into an on-the-go crimefighting vehicle",
+					"A lavish mansion in the country"
+				]
+			},
+			{
+				"title" : "Nemesis' Castle/HQ",
+				"elements" : [
+					"Laboratory",
+					"Superweapon Mounting Platform",
+					"The Dungeon",
+					"Subservient Village",
+					"The throne room",
+					"A balcony overlooking a sorry sight"
+				]
+			},
+			{
+				"title" : "The Scene of the Battle",
+				"elements" : [
+					"Times Square",
+					"A crowded baseball stadium",
+					"A restaurant that is far too nice",
+					"In a field in the middle of nowhere",
+					"The local high school",
+					"A bowling alley"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Super Powers",
+				"elements" : [
+					"Body of fire",
+					"Master of magic",
+					"Negative energy control",
+					"Laser vision",
+					"Flight",
+					"Shapeshifting"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+					"A suit of powered armor",
+					"A weapon of the gods",
+					"A portable anti-aircraft cannon",
+					"Electricity-producing gloves",
+					"Nunchucks",
+					"One large grappling hook-like claw"
+				]
+			},
+			{
+				"title" : "Vehicles",
+				"elements" : [
+					"Rocket boots",
+					"A stolen Air Force jet",
+					"A hoverboard",
+					"A flying car",
+					"A motorcycle",
+					"A pair of mechanical wings"
+				]
+			},
+			{
+				"title" : "Dangerous",
+				"elements" : [
+					"A portal to the Negative Dimension",
+					"A nuclear warhead",
+					"Imprisoned alien queen",
+					"Zeus' lightning bolt",
+					"A deadly robot you built yourself",
+					"The Gauntlet of Unlimited Power"
+				]
+			},
+			{
+				"title" : "Valuables",
+				"elements" : [
+					"The keys to Hero Headquarters",
+					"The Hope Diamond",
+					"The evidence of one hero's betrayal",
+					"The Golden Fortune Cookie of the Dalai Lama",
+					"Einstein's Brain in a Jar",
+					"An acorn of Yggdrasil"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"A broken samurai sword",
+					"Your first costume",
+					"The mask of the first villain you defeated",
+					"A picture of someone from your past who you can't seem to remember",
+					"The costume of a fallen comrade",
+					"A tear-stained love letter"
+				]
+			}
+    ]
+  }
+}

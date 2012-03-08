@@ -19,7 +19,7 @@
       "paragraphs" : [
         "Salman bin Nasser al Saud is a Saudi prince, he's twenty-four years old, and he is heir to one of the biggest fortunes on the planet.",
         "Sal's pride and joy is his penthouse. It's the most expensive penthouse he and his people could find. It's in the heart of downtown, has a breathtaking 360-degree view that encompasses the entire city skyline and harbor, and has been the site of some of the most extravagant parties in living memory.",
-        "In some respects, tonight is no different than any other night at Sal's place. The world's most moneyed, famous, talented, ruthless, intelligent, and charismatic people--plus those who profit from them-- have packed themselves into Sal's penthouse, and the beats are bumping.",
+        "In some respects, tonight is no different than any other night at Sal's place. The world's most moneyed, famous, talented, ruthless, intelligent, and charismatic people&mdash;plus those who profit from them&mdash; have packed themselves into Sal's penthouse, and the beats are bumping.",
         "And here comes Sal at the stroke of midnight: drunk, not a care in the world, with a crowd of shrieking underage girls trailing behind him.",
         "But what Sal doesn't know is that this is the last party he'll ever host at his penthouse. After tonight, everything changes... one way or the other."
       ],
@@ -177,9 +177,9 @@
 				"title" : "Inside",
 				"elements" : [
 					"Open bar, serving alcohol, hashish, opium, and cocaine",
-					"Solarium--the source of the wrist-thick vines that have been trained to grow into every room",
-					"Bathroom--gold, mirrors, black marble, and halogen lights",
-					"Bedroom--orange silk sheets on a bed the size of a lawn",
+					"Solarium&mdash;the source of the wrist-thick vines that have been trained to grow into every room",
+					"Bathroom&mdash;gold, mirrors, black marble, and halogen lights",
+					"Bedroom&mdash;orange silk sheets on a bed the size of a lawn",
 					"Lemur habitat",
 					"Panic room"
 				]
@@ -188,44 +188,44 @@
 				"title" : "Downstairs",
 				"elements" : [
 					"Passenger elevator, a festival of teakwood and brass",
-					"The unit below--also owned by Salman, but he keeps it empty",
-					"Private underground parking garage--absolutely pristine",
+					"The unit below&mdash;also owned by Salman, but he keeps it empty",
+					"Private underground parking garage&mdash;absolutely pristine",
 					"Stairwell, littered with bird poop and discarded half-bricks",
-					"Supply closet--rusting barrels are stacked to the ceiling",
-					"Boiler room--the dirt floor in the corner has been dug up"
+					"Supply closet&mdash;rusting barrels are stacked to the ceiling",
+					"Boiler room&mdash;the dirt floor in the corner has been dug up"
 				]
 			},
 			{
 				"title" : "Employees only",
 				"elements" : [
 					"Kitchen, full of harried cooks prepare plate after plate of shrimp",
-					"Electrical closet--huge cables feed into giant, humming breakers. There is much more power available here than seems necessary.",
-					"Staff quarters--cramped and dark",
-					"Service elevator--busy bringing supplies to the kitchen",
+					"Electrical closet&mdash;huge cables feed into giant, humming breakers. There is much more power available here than seems necessary.",
+					"Staff quarters&mdash;cramped and dark",
+					"Service elevator&mdash;busy bringing supplies to the kitchen",
 					"Walk-in freezer, chock-full of smoked sablefish",
-					"Wine cellar--1,200 bottles in stock, right off the kitchen"
+					"Wine cellar&mdash;1,200 bottles in stock, right off the kitchen"
 				]
 			},
 			{
 				"title" : "Nearby",
 				"elements" : [
-					"Harbor--just jammed full of yachts",
-					"Carthage Racetrack--some bad rumors about this place",
+					"Harbor&mdash;just jammed full of yachts",
+					"Carthage Racetrack&mdash;some bad rumors about this place",
 					"\"This guy I know. He's the real shit! What was his name?\"",
 					"Down by the fountain, where the kids hang out",
 					"In one of the organ pipes at the Cathedral",
-					"\"Le Doigt Degoutant\"--don't go there alone or after dark"
+					"\"Le Doigt Degoutant\"&mdash;don't go there alone or after dark"
 				]
 			},
 			{
 				"title" : "Nightlife",
 				"elements" : [
-					"Natural Sevens Casino--straight out of a Bond movie",
+					"Natural Sevens Casino&mdash;straight out of a Bond movie",
 					"Karé(ment), a bar popular with celebrities and the jet set",
 					"Moods. a nightclub with a tradition of senseless violence",
 					"Black Legend, a dark, smoky bar featuring American soul music",
-					"Mme. Sheffield's flat--high-end prostitutes since 1996",
-					"Antonio's place--for all intents and purposes, an opium den"
+					"Mme. Sheffield's flat&mdash;high-end prostitutes since 1996",
+					"Antonio's place&mdash;for all intents and purposes, an opium den"
 				]
 			}
     ],
@@ -234,9 +234,9 @@
 				"title" : "Untoward",
 				"elements" : [
 					"Furious Russian prostitute with an impenetrable accent",
-					"Wood plane--its blade is matted with blood and human hair",
+					"Wood plane&mdash;its blade is matted with blood and human hair",
 					"DVD video of a U.S. diplomat tripping his balls off",
-					"Glass jug of Vietnamese snake wine--a cobra floats inside",
+					"Glass jug of Vietnamese snake wine&mdash;a cobra floats inside",
 					"Thomas Kinkade painting of a sad-faced clown beating a child",
 					"Donald Trump, naked and unconscious"
 				]
@@ -255,7 +255,7 @@
 			{
 				"title" : "Weapons",
 				"elements" : [
-					"French cavalry sabre (c. 1804)--sharper than hell",
+					"French cavalry sabre (c. 1804)&mdash;sharper than hell",
 					"Huge box of professional-grade fireworks",
 					"Seven-foot single-fluke harpoon",
 					"Nickel-plated steel guillotine, brilliantly burnished",
@@ -278,10 +278,10 @@
 				"title" : "Valuables",
 				"elements" : [
 					"1,600 lbs. of illicit ivory",
-					"36 doses of \"Cel\"--a new drug that triples pleasure and pain",
+					"36 doses of \"Cel\"&mdash;a new drug that triples pleasure and pain",
 					"Infallible system for winning at roulette",
 					"Zsa Zsa Gabor's plastinated corpse",
-					"TLN device--can synthesize small amounts of any compound",
+					"TLN device&mdash;can synthesize small amounts of any compound",
 					"One-of-a-kind nude self-portrait of Picasso"
 				]
 			},
