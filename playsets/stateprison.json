@@ -1,0 +1,366 @@
+{
+  "playset" :
+  {
+	"title" : "State Prison",
+	"credits" : 
+	{
+	  "author" : "Phil Sbzine"
+	},
+	"movie_night" :
+	[
+	  { "title" : "The Green Mile" },
+	  { "title" : "Prison On Fire II" },
+	  { "title" : "The Shawshank Redemption" },
+	  { "title" : "CB4" }
+	],
+	"score" :
+	{
+	  "title" : "Intrigue Behind Bars",
+	  "paragraphs" : [
+		"Life in the Louisiana State Pen is as turbulent as the mighty Mississippi River. Guards help prisoners dig an escape tunnel. A wannabe lives the thug life. Scientologists corner the sugar market.",
+		"Welcome to the big house."
+	  ],
+	  "tagline" : "All the damn time"
+	},
+	"relationships" : [
+			{
+				"title" : "Official",
+				"elements" : [
+					"Chaplain and sinner",
+					"Psychiatrist and patient",
+					"Supervisor and worker",
+					"Guard and inmate",
+					"Lawbreaker and arresting officer",
+					"Lawyer / social worker and client"
+				]
+			},
+			{
+				"title" : "Criminal",
+				"elements" : [
+					"Bully and victim",
+					"Boss and henchman",
+					"Black marketeer and supplier",
+					"Addict and dealer",
+					"Weakling and paid protector",
+					"Extortionist and target"
+				]
+			},
+			{
+				"title" : "Family",
+				"elements" : [
+					"Parent and child",
+					"Older sibling and younger sibling",
+					"Foster parent and ward",
+					"Grandparent and grandchild",
+					"Identical twins (one good, one evil)",
+					"\"Uncle\" / \"Aunt\" and \"niece\" / \"nephew\""
+				]
+			},
+			{
+				"title" : "Outside",
+				"elements" : [
+					"Journalist and subject",
+					"Auditor and person with something to hide",
+					"Prison farm boss and corn wholesaler",
+					"Inmate and penpal",
+					"Fiancée and mail order bride / groom",
+					"Org leader and junior Scientologist"
+				]
+			},
+			{
+				"title" : "Romantic",
+				"elements" : [
+					"Romantic rivals",
+					"Unrequited love",
+					"Divorced couple",
+					"Secret lovers",
+					"Dominator/dominatrix and slave",
+					"Stalker and object of desire"
+				]
+			},
+			{
+				"title" : "Ambiguous",
+				"elements" : [
+					"Snitch and contact",
+					"Do-gooder and manipulator",
+					"Coach and playa",
+					"Gangsta rap MC and ardent fan",
+					"Lender and borrower",
+					"Donor and recipient"
+				]
+			}
+	],
+	"needs" : [
+			{
+				"title" : "To Get Out",
+				"elements" : [
+					"...by keeping your nose clean",
+					"... using a sure-fire escape plan",
+					"...of a bad deal",
+					"...of this shitty job",
+					"...of an abusive relationship",
+					"...of your skull, maaaan"
+				]
+			},
+			{
+				"title" : "To Get Even",
+				"elements" : [
+					"...with the cop who put you away",
+					"...with the fink who ratted you out",
+					"...with the incompetent who set up the job",
+					"...with the scumbag who framed you",
+					"...with the creep living your life while you're stuck here",
+					"...with the person making your life hell"
+				]
+			},
+			{
+				"title" : "To Earn Respect",
+				"elements" : [
+					"...in the exercise yard",
+					"...in the scene and / or game",
+					"...from the one you love",
+					"...from the big boss",
+					"...from someone who can get you out of here",
+					"...from the Scientologists who secretly run this place"
+				]
+			},
+			{
+				"title" : "To Earn A Place",
+				"elements" : [
+					"...in the protective custody wing",
+					"...in the contraband operation",
+					"...among the Operating Thetans",
+					"...in the big game",
+					"...in the upcoming escape bid",
+					"...among the all time stone thugs"
+				]
+			},
+			{
+				"title" : "To Put An End To",
+				"elements" : [
+					"...an ill-conceived escape attempt",
+					"...the flow of dangerous contraband",
+					"...ongoing persecution",
+					"...the damn lies",
+					"...that sinful craps game",
+					"...an inappropriate relationship"
+				]
+			},
+			{
+				"title" : "To Put One Over",
+				"elements" : [
+					"...your rival",
+					"...the warden",
+					"...the organisation",
+					"...that infatuated sap",
+					"...the parole board",
+					"...the one person who still trusts you"
+				]
+			}
+	],
+	"locations" : [
+			{
+				"title" : "Happy",
+				"elements" : [
+					"Visitors' room",
+					"Escape tunnel",
+					"Library",
+					"Commissary",
+					"Butler park barbeque area",
+					"Staff break room"
+				]
+			},
+			{
+				"title" : "Sad",
+				"elements" : [
+					"Solitary confinement",
+					"Sick bay",
+					"Showers",
+					"Suicide watch observation cells",
+					"Psychiatrist's office",
+					"Death row"
+				]
+			},
+			{
+				"title" : "Sporty",
+				"elements" : [
+					"Exercise yard",
+					"Prison View golf course",
+					"TV / Rec room",
+					"Gymnasium",
+					"Annual rodeo",
+					"Floating craps game"
+				]
+			},
+			{
+				"title" : "Grimy",
+				"elements" : [
+					"Kitchen",
+					"Laundry",
+					"Boiler room",
+					"Prison farm corn field",
+					"Walk-in freezer",
+					"Cattle pen"
+				]
+			},
+			{
+				"title" : "Secure",
+				"elements" : [
+					"Watch tower",
+					"Video surveillance room",
+					"Prison farm fertiliser shed",
+					"Armoury",
+					"Warden's office",
+					"Gatehouse"
+				]
+			},
+			{
+				"title" : "Seedy",
+				"elements" : [
+					"Black market meeting place",
+					"Toilet bowl winery",
+					"Conjugal trailer",
+					"The other video surveillance room (for the conjugal trailer)",
+					"Chaplaincy",
+					"Security screening room"
+				]
+			}
+	],
+	"objects" : [
+			{
+				"title" : "Contraband",
+				"elements" : [
+					"Major label contract",
+					"Tattoo ink (variety of colours)",
+					"Toilet bowl wine",
+					"Prepaid cellular phone",
+					"Loaded craps dice",
+					"Lockpicks"
+				]
+			},
+			{
+				"title" : "Medical",
+				"elements" : [
+					"Morphine",
+					"Clean syringes in original packaging",
+					"Radioactive isotopes",
+					"Urine sample",
+					"Lithium",
+					"Insulin"
+				]
+			},
+			{
+				"title" : "Tapes",
+				"elements" : [
+					"Surveillance footage",
+					"Gangsta rap demo",
+					"Dianetics audiobook",
+					"Dubbed football final",
+					"Indonesian VHS bootleg of \"Prison Break\"",
+					"Interview room recording"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+					"Toothbrush and razor blade shiv",
+					"Golf clubs",
+					"Dirty syringe",
+					"Tiny little can of mace",
+					"Guard's rifle with scope",
+					"Fertiliser bomb"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"Family photo",
+					"Autographed copy of Eazy-Duz-It",
+					"Love letter",
+					"Pocket watch, that your father handed down to you",
+					"Wedding ring",
+					"Centrefold"
+				]
+			},
+			{
+				"title" : "Informative",
+				"elements" : [
+					"Prison blueprints",
+					"Scientology E-meter",
+					"Parole board briefing",
+					"An unexpected erection",
+					"Guard's radio",
+					"Prison farm business plan"
+				]
+			}
+	],
+	"tilt" : [
+			{
+				"title" : "Mayhem",
+				"elements" : [
+					"Shivved and left for dead",
+					"An escape attempt turns violent",
+					"Public self-destruction",
+					"Old scores get settled",
+					"Beaten down, savagely",
+					"Full-on prison riot"
+				]
+			},
+			{
+				"title" : "Tragedy",
+				"elements" : [
+					"Hunger strike",
+					"Time's up on death row",
+					"Certain privileges are revoked",
+					"Suffering and despair, for starters",
+					"An overdose",
+					"Cell block suicide attempt"
+				]
+			},
+			{
+				"title" : "Innocence",
+				"elements" : [
+					"Surprise inspections",
+					"A patsy takes the fall",
+					"New evidence comes to light",
+					"A parole hearing goes horribly wrong",
+					"Outsiders poke their noses in",
+					"Romantic feelings get creepy"
+				]
+			},
+			{
+				"title" : "Guilt",
+				"elements" : [
+					"A secret is revealed",
+					"Someone snitches",
+					"Trust is betrayed",
+					"A binge leads to humiliation",
+					"Negative engrams are detected",
+					"A cheat is exposed"
+				]
+			},
+			{
+				"title" : "Paranoia",
+				"elements" : [
+					"Under surveillance the whole time",
+					"A coincidence isn't",
+					"It's not where you stashed it",
+					"Dead men tell no tales, right?",
+					"The situation's changing on the outside",
+					"The wrong people get cosy"
+				]
+			},
+			{
+				"title" : "Failure",
+				"elements" : [
+					"The power cuts out, suddenly",
+					"Your ticket out of here gets torn up",
+					"Now the shoe's on the other foot, bitch",
+					"The plan has a fatal flaw",
+					"A new cellmate has different ideas",
+					"The wrong person dies"
+				]
+			}
+	]
+  }
+}

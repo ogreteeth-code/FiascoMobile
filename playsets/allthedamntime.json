@@ -1,0 +1,304 @@
+{
+  "playset" :
+  {
+    "title" : "All the Damn Time",
+    "credits" : 
+    {
+      "author" : "Will Hindmarch"
+    },
+    "movie_night" :
+    [
+      { "title" : "Back to the Future" },
+      { "title" : "Primer" },
+      { "title" : "The Terminator" },
+      { "title" : "Timecrimes" },
+      { "title" : "Donnie Darko" }
+    ],
+    "score" :
+    {
+      "title" : "It’s about Damn Time",
+      "paragraphs" : [
+        "Sam Howard is a time-traveler in a bad way. An incident with the quantum flux conductor at work has pushed Sam out of time. Now he's slipping through space-time, drawn almost magnetically to key moments in his past. He can only vaguely control it and, it seems, once he comes into contact with himself in the past, his past selves get unstuck in time, too. The trick is that Sam can only time-travel to places and times with which he has personal familiarity; his quantum echo (or something) reverberates through space-time. If Sam goes somewhere through regular travel in regular time, he can revisit it through time-travel. So, Sam-of-the-future has the most freedom to move around (and knows everything Sam-of-the-past-knows), but is at the mercy of Sam-of-the-past to shape his memories and history.",
+		"Time travel, it turns out, is a real son of a bitch.",
+		"How It's Played",
+		"Here's the catch: You're all playing Sam--Sams from different times. This affects play in a few ways:",
+		"* Arrange the Sams chronologically around the play area, so it's easy to track which Sam is older than which and, thus, who knows everything that past Sams know. This requires some careful application and interpretation of the Relationships.",
+		"* Future Sams can be physically involved in scenes of Sam's past and, if you want a real fiasco, past Sams can travel into the future, attracted by the quantum pull of post-incident Sam.",
+		"* Only one character--the future-most Sam--need be capable of time-travel at the beginning of play. Or you can make everyone capable of time-travel and start in the middle of the whole clusterfuck. It depends how big of a headache you want. The trick is that Sam can only travel to roughly where there's another Sam. Something about quantum magnetism bullshit."
+      ],
+      "tagline" : "All the damn time"
+    },
+    "relationships" : [
+			{
+				"title" : "Younger and Older",
+				"elements" : [
+					"Sam the fearless and Sam the suspicious",
+					"Sam the eager student and Sam the impatient journeyman",
+					"Sam the virgin and Sam the lover",
+					"Sam the child and Sam who thinks he's a man",
+					"Sam the schoolboy and Sam the young adult",
+					"Sam the wannabe scientist and Sam the wannabe millionaire"
+				]
+			},
+			{
+				"title" : "Love and Loss",
+				"elements" : [
+					"Sam in love and Sam after years of regret",
+					"Sam the suitor and Sam the heartbroken",
+					"Sam the dreamer and Sam, taken advantage of",
+					"Sam the up-and-coming and Sam the malcontent",
+					"Sam the night before and Sam the night after",
+					"Sam with everything and Sam with ashes"
+				]
+			},
+			{
+				"title" : "Crimes and schemes",
+				"elements" : [
+					"Sam with the plan and Sam in a position to carry it out",
+					"The Sam who lies and the Sam who nobody trusts anymore",
+					"Sam the criminal and Sam the punished",
+					"Sam the pawn and Sam in disguise",
+					"Sam the victim and Sam the revenger",
+					"The Sam who done wrong and the Sam who enjoys the spoils"
+				]
+			},
+			{
+				"title" : "Before and After",
+				"elements" : [
+					"Sam before the quantum incident and Sam after",
+					"Sam before meeting Abby Wright and Sam after",
+					"Sam before the expulsion and Sam after",
+					"Sam before his father's death and Sam after",
+					"Sam before the accident and Sam bearing the scars",
+					"Sam before the wedding date and Sam after the wedding date"
+				]
+			},
+			{
+				"title" : " Past and Future",
+				"elements" : [
+					"Sam the reckless and Sam wracked with grief",
+					"Impressionable young Sam and Sam out to make an impression",
+					"Sam the trusting young thing and Sam the bitter old bastard",
+					"Sam, too young to know better, and Sam, who should be ashamed",
+					"Sam, at the outset, and Sam, who made it work",
+					"Sam when he gets the idea and Sam after his comeuppance"
+				]
+			},
+			{
+				"title" : " Far Future and Distant Past",
+				"elements" : [
+					"Sam, ancient and sure, and Sam the blank slate",
+					"Sam the disfigured and Sam the pristine",
+					"Sam, dying slowly, and Sam, good as new",
+					"Sam out to rewrite history and Sam out to choose his own future",
+					"Sam the triumphant and Sam the vulnerable",
+					"Sam, defeated and desperate, and Sam, full of promise"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get Respect",
+				"elements" : [
+					"... from your father, who died back when",
+					"... from the school that booted you",
+					"... from Eric Schmidt, who tormented you for four years",
+					"... for the project they took credit for at work",
+					"... from Abby Wright, who you loved and wronged",
+					"... from your past self, for who you are now"
+				]
+			},
+			{
+				"title" : "To get Rich",
+				"elements" : [
+					"... off the idea that was yours in the first place",
+					"... because you would have earned it if things had been different",
+					"... so that this time-travel bullshit pays off somehow",
+					"... without feeling guilty",
+					"... so you can change everything",
+					"... so you can keep the promise you made"
+				]
+			},
+			{
+				"title" : "To get Laid",
+				"elements" : [
+					"... when you should have, instead of when you did",
+					"... to fill a hole in your life story",
+					"... by Abby Wright, who you loved more than you said",
+					"... one more time, back then, so you'll always have the memory",
+					"... because otherwise you'll wonder forever",
+					"... to get your revenge"
+				]
+			},
+			{
+				"title" : "To Undo",
+				"elements" : [
+					"... your expulsion from school",
+					"... what you said to her",
+					"... the change you already made to your history",
+					"... the accident that killed him",
+					"... Eric Schmidt",
+					"... what your future self is planning"
+				]
+			},
+			{
+				"title" : "To Redo",
+				"elements" : [
+					"... that night with Abby Wright",
+					"... what you thought was a mistake, but turns out to maybe be fate",
+					"... the project at work, and change your career",
+					"... the accident that killed him",
+					"... your last encounter with Eric Schmidt",
+					"... everything and start over"
+				]
+			},
+			{
+				"title" : "To get the Truth",
+				"elements" : [
+					"... about whether it was an accident or not",
+					"... about what your father would have said",
+					"... so you'll know if you ever had a real chance or if it was fate",
+					"... about what would have happened, if you'd stayed",
+					"... about why she ever loved you",
+					"... about how it all turns out for you"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Home",
+				"elements" : [
+					"In the street out front, when you were a kid",
+					"In the garage, the night you learned he was fallible",
+					"The first night in your first apartment, when you said too much",
+					"In the kitchen, after the funeral",
+					"Your condo, the night of that awful fight",
+					"The day they threw you out"
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+					"Just another day at your shitty fast-food job, you thought",
+					"The first day after the promotion",
+					"The day you could've spoken up but didn't",
+					"The day those bastards in management stole your work ",
+					"At the scene of the incident",
+					"On the last day of your career"
+				]
+			},
+			{
+				"title" : "School",
+				"elements" : [
+					"The day you met that asshole, Eric Schmidt",
+					"The night of the dance, just before it went bad",
+					"The day you got caught",
+					"The day Professor Brown changed your life",
+					"The night of your class reunion",
+					"The day they threw you out"
+				]
+			},
+			{
+				"title" : "Recreation",
+				"elements" : [
+					"Your earliest (not necessarily first) encounter with Abby Wright",
+					"At Lucky Lanes, bowling and pool hall, the night you gave up",
+					"In the room party after the show, when you took it too far",
+					"At the carnival, when you were a kid and didn't know better",
+					"At the museum, when you talked about the future",
+					"At the poker game, the night of the bachelor party"
+				]
+			},
+			{
+				"title" : "Interstitial",
+				"elements" : [
+					"On the road, the night of the record thunderstorms",
+					"On the train, the day you realized but didn't say anything",
+					"In the airport, when you could've gotten on the plane but didn't",
+					"On the street, the night you got separated from the party",
+					"On the sidewalk, when you met by chance",
+					"On the escalator, when you passed right by each other"
+				]
+			},
+			{
+				"title" : "Milestones",
+				"elements" : [
+					"The day of dad's wake, down at the bar",
+					"The night of the fire",
+					"The first night you slept with Abby Wright",
+					"The day the wedding was supposed to happen",
+					"The day of the accident",
+					"Your funeral"
+				]
+			}
+    ],
+    "events" : [
+			{
+				"title" : "Secret",
+				"elements" : [
+					"The porn mag they'll find with an envelope inside",
+					"The “toy” you stole when you were eight",
+					"The bruises you hid from them",
+					"The diary you were never meant to see",
+					"A gadget that's common... in the future",
+					"The password that got you in"
+				]
+			},
+			{
+				"title" : "Sordid",
+				"elements" : [
+					"The condom you needed",
+					"A hotel-room keycard with a lipstick kiss on it, good for one night",
+					"Most of a bag of heroin",
+					"Underwear intended for someone else",
+					"A bloody sponge",
+					"A body, dead or dying of an overdose"
+				]
+			},
+			{
+				"title" : "Dangerous",
+				"elements" : [
+					"A serrated knife with a notch in it",
+					"A can of gasoline and a flame wand",
+					"A live electrical wire",
+					"A car, careening out of control",
+					"A loaded gun from another time",
+					"A high place that's not as safe as it was"
+				]
+			},
+			{
+				"title" : "Valuable",
+				"elements" : [
+					"A piece of art that'll be priceless one day",
+					"An engagement ring worth $20,000",
+					"The two-ton quantum flux conductor, worth $20.2 million",
+					"Data on the flux induction protocol, proving time travel possible",
+					"$1.2 million in cash, spread out on the floor",
+					"A job offer worth $98 million over time"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"The car you drove back then",
+					"An engagement ring worth $300",
+					"The lighter dad left you",
+					"The scar you earned",
+					"An apology in writing or on video",
+					"A photo you will have lost one day"
+				]
+			},
+			{
+				"title" : "Informational",
+				"elements" : [
+					"A newspaper from the future",
+					"A forged diploma",
+					"A fingerprint, left in blood",
+					"An ad or a sign on the side of a building",
+					"A voicemail message, perhaps overheard",
+					"A photocopy of the report they will file on you"
+				]
+			}
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "playset" :
+  {
+    "title" : "Devil's Night",
+    "credits" : 
+    {
+      "author" : "Tim Jensen"
+    },
+    "movie_night" :
+    [
+      { "title" : "The Crow (1994)" },
+      { "title" : "30 Days of Night (2007)" },
+      { "title" : "The People Under The Stairs (1991)" },
+      { "title" : "Assault on Precinct 13 (2005)" },
+      { "title" : "Let The Right One In (2008)" },
+      { "title" : "Vampire$ (1998)" },
+      { "title" : "I Am Legend (2007)" },
+      { "title" : "Forever Knight (TV series 1989-1996)" }
+    ],
+    "score" :
+    {
+      "title" : "We don't need no water",
+      "paragraphs" : [
+        "Devil's Night takes place in Detroit, Michigan around the night of October 30th when delinquents go on a spree of arson and vandalism. This year the acts of criminal mischief will reach an all-time high, as roaming beer and drug fuelled mobs set hundreds of homes and businesses ablaze. Most of the city's police are on strike and residents will barricade themselves in their homes. And this is when the undead choose to attack.",
+		"A large force of savage vampires has crept into town over the past week and “created” many new recruits from the ranks of Detroit's citizens. Their objective: To hunt down and eliminate their rival, more genteel vampires existing in the city, using the chaos and confusion of Devil's Night to conceal their activities from the mortals...but not very carefully.",	
+		"Players will assume the roles of miscreant youths out for a good time, vigilant business and home owners desperate to protect their property, newly turned undead soldiers in the vampire war, resident vampires under attack, or one of the few public servants who take it upon themselves to protect their city.",
+		"Some of the relationships should be used with caution. Most of the relationships should work fine as is, but a few occupations might seem confusing when assigned to the same character. If it seems too weird for the undercover cop to also be a TV reporter, pick something else. Regarding the vampires, most of the undead who have been so for a while would want to blend in with society, so they might have a “night job” as a police detective. Whether their co-workers suspect or already know the truth about them is something to find out in play."
+      ],
+      "tagline" : "On Devil's Night"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+					"Parent And Child",
+					"Ancestor And Descendant",
+					"Spouses",
+					"Brother And Sister",
+					"In-Laws",
+					"Identical Twins"
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+					"Fire Fighter and Ambulance Driver",
+					"Police Detective And Coroner",
+					"Television Reporter And Camera Man",
+					"Striking Police Union Leader And Precinct Captain",
+					"Adjacent Business Owners At A Run-Down Strip Mall",
+					"Bartender And Bouncer"
+				]
+			},
+			{
+				"title" : "Romance and obsession",
+				"elements" : [
+					"Teenage Lovers",
+					"Former Spouses",
+					"Seeing Each Other On The Side",
+					"Stalker And Stalkee",
+					"Master And Slave",
+					"Engaged And Madly In Love"
+				]
+			},
+			{
+				"title" : "Friends",
+				"elements" : [
+					"Union Members",
+					"Military Buddies",
+					"Priest And Parishioner",
+					"Next-Door Neighbors",
+					"Child And Creepy Adult",
+					"Needle-Sharing Junkies"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"Pimp And Prostitute",
+					"Drug Dealer And Undercover Cop",
+					"Contract Killer And Client",
+					"Burglar And Fence",
+					"Smuggler And Weapons Dealer",
+					"Kidnapper And Abductee"
+				]
+			},
+			{
+				"title" : "Bloodsuckers",
+				"elements" : [
+					"Vampire And Victim",
+					"Sire And Progeny",
+					"Two Newly-Created Vampire Spawn",
+					"Rival Vampire Lords, Each With Wealth, Servants And Political Influence",
+					"Vampire Hunter And Reformed Vampire",
+					"Vampire And Mortal Servant"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To be free",
+				"elements" : [
+					"...of My Addiction",
+					"...to Live As Myself",
+					"...of Heartache",
+					"...of My Harsh Master",
+					"...of The Charges Against Me",
+					"...of Debts So I Can Leave This City Forever"
+				]
+			},
+			{
+				"title" : "To get revenge",
+				"elements" : [
+					"...on My Boss",
+					"...on The Monsters Who Crossed Me",
+					"...on The Police",
+					"...on Society",
+					"...on My Ex",
+					"...on The One Who Made Me Into A Vampire"
+				]
+			},
+			{
+				"title" : "To take",
+				"elements" : [
+					"...back The Night For The Common Good",
+					"...back My Stolen Property",
+					"...the Seat Of Power",
+					"...down The Establishment",
+					"...my Family To Safety",
+					"...my Love Into The Darkness With Me"
+				]
+			},
+			{
+				"title" : "To know",
+				"elements" : [
+					"...uncompromising Love",
+					"...forgiveness",
+					"...the Dark Truth",
+					"...what Became Of My Family",
+					"...the Most Depraved, Forbidden Sex I've Ever Imagined",
+					"...whatever Happened To That Kid I Shot"
+				]
+			},
+			{
+				"title" : "To control",
+				"elements" : [
+					"...Myself",
+					"...My Reputation",
+					"...the Media Story",
+					"...my Peers",
+					"...my Superior",
+					"...reality Itself"
+				]
+			},
+			{
+				"title" : "To gain respect",
+				"elements" : [
+					"...at The Workplace",
+					"...from My Street Gang",
+					"...from My So-Called Friends, Who Think I'm Insane",
+					"...from My Estranged Spouse",
+					"...from My Family",
+					"...among The Vampires"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Secluded",
+				"elements" : [
+					"Bethlehem Cemetery",
+					"Fort Wayne Historical Monument",
+					"The Old Buick Cadillac Oldsmobile Plant",
+					"The Abandoned Boblo Island Amusement Park",
+					"A Farmhouse Outside Of Town",
+					"A Vacant Apartment Building In Hamtramck"
+				]
+			},
+			{
+				"title" : "Classy",
+				"elements" : [
+					"The Summit Steakhouse Above The Renaissance Center",
+					"Penoscobot Office Building",
+					"The Michigan Opera",
+					"Detroit Public Library",
+					"Tiger Stadium",
+					"Detroit Institute Of Arts Museum"
+				]
+			},
+			{
+				"title" : "Home",
+				"elements" : [
+					"A Medieval Romanian House, Reconstructed Below The City Sewers",
+					"An Upscale Mansion In Bloomfield Hills",
+					"A Historic Jefferson Avenue Town House",
+					"A Small Loft Apartment Overlooking The Interstate",
+					"A Rusted-Out RV With The Windows Covered And Welded Shut",
+					"A Nondescript House, With The Resident Family Tied Up Upstairs"
+				]
+			},
+			{
+				"title" : "Business",
+				"elements" : [
+					"Wayne County Building And Police Station",
+					"Most Blessed Sacrament Roman Catholic Cathedral",
+					"The Motor City Casino",
+					"Godwin Law Firm In The Guardian Office Building",
+					"D & D Collision Center Garage",
+					"Archimedes Medical Group Forensic Research Clinic"
+				]
+			},
+			{
+				"title" : "Nightlife",
+				"elements" : [
+					"The Labyrinth S&M Fetish Basement Nightclub",
+					"Pegasus Taverna House And Hip Hop Bar",
+					"The Warrior's Drum Bar And Grill At Wayne State University",
+					"The Rattlesnake Club Country And Western Dance Hall",
+					"Booby Trap Gentlemen's Club",
+					"22 Cass Avenue, The City's Most Notorious Crack House"
+				]
+			},
+			{
+				"title" : "Somewhere Public",
+				"elements" : [
+					"International House Of Pancakes On Woodward Avenue",
+					"Detroit Rescue Mission Homeless Shelter",
+					"Trapper's Alley Shopping Mall",
+					"The Detroit People Mover Downtown Monorail",
+					"Henry Ford Hospital",
+					"Grand Circus Park"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Information",
+				"elements" : [
+					"An Arrest Warrant",
+					"A Signed Murder Confession",
+					"A List Of Drug Dealers' Phone Numbers",
+					"Video Tape Of Someone With Several Prostitutes",
+					"A Father's Last Letter To His Child",
+					"A Desperate Plea For Help Recorded On An Answering Machine"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+					"A Souped-Up Ford Mustang",
+					"A City Bus, Idling Unattended",
+					"Five Brand New Ninja Motorcycles",
+					"A Bulldozer",
+					"A Private Yacht, Moored At The Riverside Dock",
+					"A Police Helicopter"
+				]
+			},
+			{
+				"title" : "Contraband",
+				"elements" : [
+					"A Pair Of AK-47 Assault Rifles",
+					"Four Kilograms Of Uncut Heroin",
+					"A Young Female Hostage, Bound And Gagged",
+					"Keys To The Police Station's Evidence Room",
+					"A Remote Detonator",
+					"A Dozen Five-Gallon Jugs Of Gasoline"
+				]
+			},
+			{
+				"title" : "Valuable",
+				"elements" : [
+					"A Locked Armored Car With $140,000 In Cash Inside",
+					"A 75 Inch Flat Screen TV, Still In The Box",
+					"A Suitcase Full Of Casino Chips",
+					"Six Box Seat Tickets To The Tigers Game",
+					"A Collection Of Excavated Gold Watches And Fillings",
+					"A Shipping Container Filled With Priceless Egyptian Artifacts"
+				]
+			},
+			{
+				"title" : "Odd",
+				"elements" : [
+					"A Frosty Meat Locker, Stocked With Fresh Kills",
+					"An Antique Scottish Claymore Broadsword",
+					"Bulbs Of Garlic Hung Around A Doorway",
+					"A Bed Rigged With Transfusion Apparatus",
+					"A Map With Several Targets Marked With Bullseyes",
+					"An Iron Casket, Decorated With Rubies, Diamonds and Inlaid Gold"
+				]
+			},
+			{
+				"title" : "Not For Living Eyes",
+				"elements" : [
+					"A Cooler Marked 'For The Party', Full Of Plasma Bags",
+					"Secret Vampire Invasion Orders, On A Scroll",
+					"A Bloody Heart, Stashed In A Refrigerator, Still Beating",
+					"A Custom Built, High Powered 30mm Rifle With A Pistol Grip",
+					"A Pentagram Scrawled In Blood, With Candles And Discarded Clothes",
+					"An Ancient Tapestry, Woven With Patterns Of Eyes That Watch You"
+				]
+			}
+    ]
+  }
+}
