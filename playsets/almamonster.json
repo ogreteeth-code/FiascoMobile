@@ -1,0 +1,301 @@
+{
+  "playset" :
+  {
+    "title" : "Alma Monster",
+    "credits" : 
+    {
+      "author" : "Dave Chalker"
+    },
+    "movie_night" :
+    [
+      { "title" : "PCU" },
+      { "title" : "Animal House" },
+      { "title" : "Dead Man on Campus" },
+      { "title" : "Revenge of the Nerds" },
+      { "title" : "Cry Wolf" },
+      { "title" : "The Rules of Attraction" },
+      { "title" : "Re-Animator Series" }
+    ],
+    "score" :
+    {
+      "title" : "A sinister semester",
+      "paragraphs" : [
+        "Parties, sex, drugs, booze, studying... and a touch of the weird. In a well-regarded \"public ivy\" university, secluded away where most students are not allowed cars and there are no commuters, students and faculty have the same problems as anyone at college. Only, there might be a strange house or rumors of a mysterious society. No way any of that will interfere with finals.",
+        "This playset assumes most players will be students, with maybe a professor or two. Additionally, there are some weirder elements (many inspired by Lovecraft), but nothing outright supernatural unless you want there to be. The strange things tend to be clustered around the “6s” so in case your group wants nothing to do with the weird, you should be able to steer away from it pretty easily."
+      ],
+      "tagline" : "In a Remote University"
+    },
+    "relationships" : [
+			{
+				"title" : "Academic",
+				"elements" : [
+					"Professor / Student",
+					"Teaching Assistant / Student",
+					"Tutor / Tutored",
+					"Same group for an important final project",
+					"Rivals for position",
+					"Hard-worker / Leech"
+				]
+			},
+			{
+				"title" : "Residential",
+				"elements" : [
+					"Randomly-matched dormmates",
+					"Residents of the same Greek house",
+					"Former roommates, glad to be rid of each other",
+					"Townies",
+					"Couch-surfer / Frequent host",
+					"We don't OFFICIALLY live together..."
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Friends from back in the day",
+					"Relatives",
+					"Met at orientation, still clueless",
+					"Friends with Benefits",
+					"Hangers-on to someone more popular",
+					"The enemy of my enemy is my friend"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"\"I think I had sex with this person\"",
+					"Cutesy-wootsy, snuggly wuggly dating",
+					"Non-exclusive dating, but one of you doesn't realize it",
+					"Awkward stalker / Oblivious stalked",
+					"Exes reluctantly in the same social circle",
+					"Turned down Harvard to follow the other to the same college, then got dumped"
+				]
+			},
+			{
+				"title" : "Community",
+				"elements" : [
+					"Foreign exchange students",
+					"Teammates",
+					"Writers for the college newspaper",
+					"Work study program",
+					"Extreme activists",
+					"Hazer / Pledge"
+				]
+			},
+			{
+				"title" : "Clandestine",
+				"elements" : [
+					"Indoctrinated cultists",
+					"The Order of Bone and Skulls",
+					"Drug dealer / Addict",
+					"Frequent partners in crime",
+					"Strange heritage",
+					"Witnesses to the unexplained"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get ahead",
+				"elements" : [
+					"...so I don't end up like my parents",
+					"...of the people who have wronged me",
+					"...so that I never have to work hard again",
+					"...so I can get out of the shadow of my older sibling",
+					"...so I can leave behind my past",
+					"...because I have no idea what happens next"
+				]
+			},
+			{
+				"title" : "To party",
+				"elements" : [
+					"...just one more time, and then I'll settle down",
+					"...as much as possible before mommy and daddy pull the plug",
+					"...to remind myself I'm alive",
+					"...because that's what is expected of me",
+					"...to keep my friends distracted from what they're doing",
+					"...because I just need to party, OK?"
+				]
+			},
+			{
+				"title" : "To get laid",
+				"elements" : [
+					"...for the first time",
+					"...by one of every ethnic group",
+					"...to prove I'm not gay",
+					"...because I feel sorry for them",
+					"...because it makes me powerful",
+					"...because it's the only way to feel something"
+				]
+			},
+			{
+				"title" : "To bring it all down",
+				"elements" : [
+					"...to screw \"the man\"",
+					"...to make them pay",
+					"...to build something glorious",
+					"...because otherwise people will suffer",
+					"...because I can no longer distinguish what's real",
+					"...to serve those I worship"
+				]
+			},
+			{
+				"title" : "To make everyone understand",
+				"elements" : [
+					"...that I am the big man on campus",
+					"...how important my cause is",
+					"...that all of this is pointless",
+					"...that this is all just a big experiment",
+					"...that there is something downright weird going on",
+					"...that they are coming"
+				]
+			},
+			{
+				"title" : "To get the truth",
+				"elements" : [
+					"...about where this tattoo came from",
+					"...about the squirrels",
+					"...about the voices",
+					"...about Professor Zamud's odd habits",
+					"...about the noises coming from the steam tunnels late at night",
+					"...about the thing in the zoology department"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Dorm hall",
+				"elements" : [
+					"The substance-free dorm",
+					"The dorm all the wannabe Greek pledges live in",
+					"The elitist honors dorm",
+					"The hippie co-op dorm",
+					"The all-women dorm, no men allowed",
+					"The dorm right next to the power plant"
+				]
+			},
+			{
+				"title" : "Student Union",
+				"elements" : [
+					"Main dining hall",
+					"Student mail and package pickup",
+					"The rickety main stage of the student theater",
+					"The Quad outside",
+					"Stairway to the roof",
+					"Security office with a surprising number of cameras"
+				]
+			},
+			{
+				"title" : "Academic",
+				"elements" : [
+					"High Energy Physics Building",
+					"Professor Zamud's office",
+					"Chemistry Lab Four, locked and sealed since 1956",
+					"Broken elevator of the Psychology Building",
+					"Zoology building picketed by animal rights activists",
+					"Astronomy building that shows when the stars are right"
+				]
+			},
+			{
+				"title" : "Uptown",
+				"elements" : [
+					"O'Carroll's Pub, home of the green beer special",
+					"Spring Street Burrito, with burritos as big as your head",
+					"Home Despot, the only department store in town",
+					"The Buzz coffee shop and open mic",
+					"Circuit Samurai Electronics, always slashing prices",
+					"Von Hindman Curios, Antiques, and School Spirit Items"
+				]
+			},
+			{
+				"title" : "Administrative",
+				"elements" : [
+					"The President's Office, unused since the suicide",
+					"School clinic with easy-to-steal prescription bottles",
+					"Office of Records, transitioning to paperless",
+					"The statue of the founder, a frequent target for vandalism",
+					"The best place in the library to have sex",
+					"The bell tower no one can explain"
+				]
+			},
+			{
+				"title" : "Private",
+				"elements" : [
+					"Home of your dealer",
+					"The Dean's mansion",
+					"Alpha Omega Omega Fraternity or Sorority House",
+					"The steam tunnels used as a secret shortcut between classes",
+					"Unmarked graveyard",
+					"The Witch House in the woods"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Drugs",
+				"elements" : [
+					"Free sample of blow",
+					"The best weed on campus",
+					"\"Study aids\"",
+					"Mom's leftover antidepressants",
+					"A single dose of shrooms, surprisingly potent",
+					"Expired ruphies"
+				]
+			},
+			{
+				"title" : "Academic",
+				"elements" : [
+					"An important password",
+					"The answer key to Professor Zamud's brutal final exam",
+					"Dining hall meal card with plenty of bonus meals",
+					"Only copy of a masterfully-written thesis",
+					"Textbook you stole from the hidden wing of the library",
+					"The findings of an ill-fated expedition"
+				]
+			},
+			{
+				"title" : "School Supplies",
+				"elements" : [
+					"Unlimited printing card for the copy shop",
+					"Administrator access to a Facebook group with thousands of members",
+					"A favor from an upperclassmen",
+					"An engineering workbench",
+					"All the staples, paperclips, and pencils you could ever want",
+					"Foreign supplements, banned in the US for unusual side effects"
+				]
+			},
+			{
+				"title" : "Party",
+				"elements" : [
+					"A keg that could supply hundreds",
+					"Massive vinyl collection and extremely loud stereo",
+					"Kiddie pool filled with off-brand gelatin dessert",
+					"Sex tape of someone you know",
+					"Access card to the all-women's dorm",
+					"Free clinic condoms that always break"
+				]
+			},
+			{
+				"title" : "Hobby",
+				"elements" : [
+					"School mascot outfit for \"The Fightin' Injuns\"",
+					"1990 Mazda Mini Van with exactly one gallon of gas",
+					"Sweet nunchuks",
+					"Political posters designed to offend",
+					"Hamilton, the campus golden retriever",
+					"Dream-like short story collection"
+				]
+			},
+			{
+				"title" : "Weird",
+				"elements" : [
+					"Book entitled \"Of Unspeakable Cults\"",
+					"Native American skull, possibly cursed",
+					"Golden idol, vaguely looks like a squid",
+					"Inky serum in syringes obtained from the med school",
+					"Incredibly life-like series of paintings of strange creatures",
+					"Confusing play about a king who dresses in yellow"
+				]
+			}
+    ]
+  }
+}

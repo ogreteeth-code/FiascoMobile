@@ -1,0 +1,299 @@
+﻿{
+  "playset" :
+  {
+    "title" : "Bad Habits",
+    "credits" : 
+    {
+      "author" : "Nick Wedig"
+    },
+    "movie_night" :
+    [
+      { "title" : "Sister Act" },
+      { "title" : "Nuns on the Run" },
+      { "title" : "Agnes of God" },
+      { "title" : "Doubt" },
+      { "title" : "Groundhog Day" }
+    ],
+    "score" :
+    {
+      "title" : "Our Lady of the Various Sorrows",
+      "paragraphs" : [
+        "Punxsutawney, PA is a small town known primarily as the dwelling place of an oracular rodent. Each year, the groundhog named \"Punxsutawney Phil\" would be prompted by a man in a top hat to prognosticate on the coming of springtime. This vague remnant of ancient German pagan celebration is known as \"Groundhog Day\".",
+        "A century ago, two dozen Irish nuns came to this town, led by a woman now known as \"The Founding Mother\". Were they looking to help the poor of Pennsylvania, or were they after something more sinister? The Convent that they built, Our Lady of the Seven Sorrows, still stands. Most of the order's charitable operations have moved to other areas of the country or as missionary operations to the third world. As it stands now, the Convent is basically a nursing home for nuns to go once they retire from teaching or nursing or charity work. Dozens of elderly nuns (and a handful of less elderly nuns) gather together to live out the rest of their lives in prayer, senility, vicious gossip and ruthless backstabbing."
+      ],
+      "tagline" : "... In A Convent"
+    },
+    "relationships" : [
+			{
+				"title" : "Ecclesiastical",
+				"elements" : [
+          "Mother superior and underling",
+          "Postulate (nun in training, not yet taken vows) and supervisor",
+          "You 'accidentally' overheard her confession",
+          "Ordered by the bishop to investigate Sister Ruth's \"suicide\"",
+          "Witnessed the miracle together",
+          "Secret atheists"
+				]
+			},
+			{
+				"title" : "Social",
+				"elements" : [
+          "Old friends",
+          "Bitter rivals",
+          "The oldest nun and the youngest nun in the convent",
+          "Exercise leader and layabout",
+          "Social misfits",
+          "Botany club president and the one digging in the garden"
+				]
+			},
+			{
+				"title" : "Professional",
+				"elements" : [
+          "Schoolteacher and former pupil",
+          "Work for the same charity",
+          "Nurse and patient",
+          "The only ones who know how to use the computer",
+          "Saw terrible things together as missionaries",
+          "Convent administrators"
+				]
+			},
+			{
+				"title" : "Petty",
+				"elements" : [
+          "She took your motorized wheelchair",
+          "Rival choristers",
+          "Anonymously co-authored a tell-all book",
+          "The ones who stole Punxsawtawney Phil from the library",
+          "Snitches to Mother Superior",
+          "Have long forgotten why you hate each other"
+				]
+			},
+			{
+				"title" : "Illicit",
+				"elements" : [
+          "Secret lovers",
+          "Both romantically interested in the same priest",
+          "Embezzling from the retirement benefits fund",
+          "Two men disguised as nuns",
+          "One did the crime, the other covered it up",
+          "Using charity work as a smuggling front"
+				]
+			},
+			{
+				"title" : "Family",
+				"elements" : [
+          "Sisters. Real sisters, I mean. You know, siblings.",
+          "Aunt and niece",
+          "Cousins",
+          "Raised in the same orphanage",
+          "\"Mom joined the convent after Dad died.\"",
+          "Might as well be related"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get out",
+				"elements" : [
+          "...of this stifling nunnery",
+          "...of the hospital bed, regardless of what the doctor says",
+          "...of this terrible debt that you owe",
+          "...before its too late",
+          "...once you get the thing you need",
+          "...and find something better"
+				]
+			},
+			{
+				"title" : "To find redemption for",
+				"elements" : [
+          "...yourself, in your own eyes, if not in God's",
+          "...Father LeBlanc, by finishing the job he started",
+          "...the unruly children, by finally getting them in line",
+          "...Sister Ruth, by proving her death was not a suicide",
+          "...yourself, by finding the criminal",
+          "...a sinner, by bringing them closer to God"
+				]
+			},
+			{
+				"title" : "To get even...",
+				"elements" : [
+          "...with Punsawtawney Phil and the Inner Circle that worships him like a pagan idol",
+          "...with the students at St Albinus's School for Girls",
+          "...with the lying Father LeBlanc",
+          "...with God and everyone else here",
+          "...by sabotaging the big ceremony",
+          "...by stealing back what is rightfully yours"
+				]
+			},
+			{
+				"title" : "To find the truth",
+				"elements" : [
+          "...about the miracles ascribed to the Founding Mother",
+          "...about where the money went",
+          "...about Sister Ruth's supposed suicide",
+          "...behind Father LeBlanc's lies",
+          "...about the \"Groundhog Immortality Elixir\" they give Punxsutawney Phill each year",
+          "...about the nursing ward's missing drugs"
+				]
+			},
+			{
+				"title" : "To hide",
+				"elements" : [
+          "...the thing you stole",
+          "...the truth, lest it embarass the church",
+          "...from those mobsters from Youngstown, OH",
+          "...your sins from being revealed",
+          "...the body",
+          "...your pregnancy"
+				]
+			},
+			{
+				"title" : "To keep",
+				"elements" : [
+          "...Punxsutawney Phil from performing his yearly duties",
+          "...your soul pure, despite your raging desires",
+          "...on working until the Good Lord takes you away",
+          "...away from Mother Superior",
+          "...your temper under control",
+          "...the stuff that she claims is hers"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "The Nursing Ward",
+				"elements" : [
+          "The nurse's station",
+          "The Janitorial Supply Closet",
+          "Where the drugs disappeared from",
+          "While an ambulance waits to take a sister away",
+          "Where \"the Miracle\" happened",
+          "Where Sister Mary Agatha waits to die"
+				]
+			},
+			{
+				"title" : "The Ground Floor",
+				"elements" : [
+          "Sister Ruth's garden",
+          "The Chapel of St. Roch",
+          "The statue of the Founding Mother",
+          "The television room",
+          "The cafeteria kitchen",
+          "The automated handicapped accessible side door"
+				]
+			},
+			{
+				"title" : "Upstairs",
+				"elements" : [
+          "The Mother Superior's office",
+          "The Convent Archives",
+          "The room no one ever enters or talks about",
+          "The really nice apartment on the corner",
+          "Hidden in a closet",
+          "Somewhere along the endless corridors"
+				]
+			},
+			{
+				"title" : "St. Albinus's School for Girls",
+				"elements" : [
+          "The teacher's lounge",
+          "The gymnasium locker room",
+          "Where the student contraband is locked up",
+          "Backstage at a school play",
+          "Sister Mary Agatha's English classroom",
+          "Parent Teacher Night"
+				]
+			},
+			{
+				"title" : "Around Town",
+				"elements" : [
+          "Jefferson County library, where Punsawtawney Phil lives",
+          "Gobbler's Knob, where the annual Groundhog Day celebration takes place",
+          "The home of a parishoner",
+          "A rat-trap hotel on the south side of town",
+          "A jail cell",
+          "A pre-dawn parking lot"
+				]
+			},
+			{
+				"title" : "Flashbacks",
+				"elements" : [
+          "On a missionary trip to South America together",
+          "Before you joined the order",
+          "When you first met",
+          "When the problems started",
+          "To a religious conference in upstate New York",
+          "Just before the fire spread out of control"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Sentimental",
+				"elements" : [
+          "A photo with a note from a secret lover",
+          "A dead pet",
+          "A diary explaining what really happened on the mission",
+          "A doll from when you were a little girl",
+          "A knitted pair of baby booties",
+          "A wedding ring"
+				]
+			},
+			{
+				"title" : "Ritual",
+				"elements" : [
+          "A collection of two hundred rosaries",
+          "A priest's soiled vestments",
+          "Sister Mary Grace's second, secret shrine",
+          "The top hat worn by the MC of the Groundhog Day celebration",
+          "A paper sack full of consecrated communion wafers",
+          "The sheet music for Sunday's choir recital"
+				]
+			},
+			{
+				"title" : "Valuable",
+				"elements" : [
+          "The gold plated chalice from the chapel",
+          "One page from a medieval illuminated manuscript",
+          "A forged will of a dying parishoner",
+          "A car trunk full of stolen medical supplies",
+          "Punsawtawney Phil himself",
+          "The mummified tongue of St. Albinus"
+				]
+			},
+			{
+				"title" : "Illicit",
+				"elements" : [
+          "A dead baby in a dumpster",
+          "A baggie full of marijuana",
+          "A stolen iPhone",
+          "A hollow statue full of cocaine",
+          "A PC hardrive full of pornography",
+          "A dead man's foot peeking out of the tulip bed"
+				]
+			},
+			{
+				"title" : "Violent",
+				"elements" : [
+          "A handgun hidden under a bed",
+          "Unnecessarily sharpened knitting needles",
+          "A half empty bottle of a poisonous chemical",
+          "A machete brought back from the Amazon",
+          "A switchblades confiscated from a middle schooler",
+          "Bloodstained gardening shears"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+          "A USB drive with the convent's financial records",
+          "Sister Ruth's last words",
+          "Forged nursing credentials",
+          "Sister Mary Agatha's unseemly diagnosis",
+          "A receipt found in the elevator",
+          "A microphone planted in a confession booth"
+				]
+			}
+    ]
+  }
+}

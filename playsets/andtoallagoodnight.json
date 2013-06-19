@@ -1,0 +1,297 @@
+{
+  "playset" :
+  {
+    "title" : "And to All a Good Night",
+    "credits" : 
+    {
+      "author" : "Elizabeth Bauman and Lyndsay Peters"
+    },
+    "movie_night" :
+    [
+      { "title" : "Home Alone" },
+      { "title" : "A Christmas Story" },
+      { "title" : "Planes, Trains & Automobiles" }
+    ],
+    "score" :
+    {
+      "title" : "And To All a Good Night",
+      "paragraphs" : [
+        "It’s the night before Christmas back in your home town. The three people on the better business bureau put tinsel candy canes on the street lights. Half the sign’s still burned out at the town’s only 7-Eleven, your aunt is still obsessed with your relationship status, and there are skeletons rattling in every closet in town. Just like last year.",
+		"All you can do about it is throw another string of lights on the Christmas tree, splash more rum in every eggnog you pour, and hope those skeletons keep quiet."
+      ],
+      "tagline" : "On the Night Before Christmas"
+    },
+    "relationships" : [
+			{
+				"title" : "Santa's little helpers",
+				"elements" : [
+					"Elves at Poppleton Mall",
+					"Rival Christmas tree lot owners",
+					"Pinterest-crazed mommybloggers",
+					"Post office staff writing letters from Santa",
+					"Bake sale committee co-chairs",
+					"Christmas carol acapella duo"
+				]
+			},
+			{
+				"title" : "Family",
+				"elements" : [
+					"The dreaded in-laws",
+					"The black sheep and golden child",
+					"The new boyfriend/girlfriend",
+					"Your baby's first Christmas",
+					"Christmas host and uninvited guest",
+					"Relegated to the kids' table"
+				]
+			},
+			{
+				"title" : "Secret",
+				"elements" : [
+					"Santas",
+					"Marriage",
+					"Affair",
+					"Ghost of Christmas Past",
+					"Conception",
+					"Resentment bubbling to the surface"
+				]
+			},
+			{
+				"title" : "At work",
+				"elements" : [
+					"Airline rep and customer",
+					"Gingerbread latte dealer and caffeine junkie",
+					"Store managers at the high-end mall",
+					"The proverbial Scrooge and Cratchit",
+					"Putting in \"extra hours\" for that sweet \"holiday bonus\"",
+					"Operatives in the town-wide newspaper turf war"
+				]
+			},
+			{
+				"title" : "Obligatory generosity",
+				"elements" : [
+					"Least favourite teacher and C-student",
+					"Snarky sisters",
+					"Officemates who have reported each other to HR",
+					"Members of the same Greek house",
+					"Mail carrier and stay-at-home parent",
+					"Participants in the church white elephant gift exchange"
+				]
+			},
+			{
+				"title" : "On the same side",
+				"elements" : [
+					"Curling second and skip",
+					"Choir conductor and first tenor",
+					"Charity bell ringers",
+					"Members of the city council",
+					"Kaffeeklatsch regulars",
+					"Siblings with the same Christmas wish"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get drunk and",
+				"elements" : [
+					"Teach the new addition her place in the family",
+					"Get away from the family for just one night",
+					"Make up with an estranged grandmother",
+					"Tell your father who you really are",
+					"Convince your high school sweetheart that you belong together",
+					"Forget about all the bad shit that went down last semester"
+				]
+			},
+			{
+				"title" : "To get off the naughty list",
+				"elements" : [
+					"By delivering Christmas dinner to your local homeless shelter",
+					"Before your sister finds out the truth about last Christmas",
+					"Before they catch up with you",
+					"And stop all the news coverage",
+					"And back into the church choir",
+					"After your satirical op-ed fell flat"
+				]
+			},
+			{
+				"title" : "To prove",
+				"elements" : [
+					"That you can cook",
+					"That you got hot",
+					"That the city didn't change you",
+					"You deserve your gifts this year",
+					"Christmas should ALWAYS be hosted at your place",
+					"Your love"
+				]
+			},
+			{
+				"title" : "To get in the spirit",
+				"elements" : [
+					"And win the Christmas cookie bake-off",
+					"Hanging the stockings",
+					"By carolling around the block",
+					"Without so much rum and eggnog this year",
+					"With the best light display in the neighbourhood",
+					"And out of these handcuffs"
+				]
+			},
+			{
+				"title" : "To carry on the tradition",
+				"elements" : [
+					"Of buying a new ornament every year",
+					"After last year's ended with a lawsuit",
+					"Even though you converted last year",
+					"Just in case you both get caught",
+					"Since it's the only thing keeping everyone together",
+					"Intergenerational family photo under the mistletoe"
+				]
+			},
+			{
+				"title" : "To keep the secret",
+				"elements" : [
+					"From the kids",
+					"From the parents",
+					"From the boss",
+					"Until we get to Canada",
+					"Until boxing day",
+					"And stay in the will"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Freshly wrapped",
+				"elements" : [
+					"Pink slip",
+					"Box full of puppies",
+					"Plane tickets for a surprise family vacation",
+					"And mailed: the wrong version of the family newsletter",
+					"Lump of coal for your rebellious teenage sister",
+					"Purple bicycle with training wheels"
+				]
+			},
+			{
+				"title" : "The ultimate recipe for",
+				"elements" : [
+					"”Special” cookies left out for Santa",
+					"Chestnuts roasting on an open fire",
+					"Mixology from grandma's liquor cabinet",
+					"The way they make it on your side of the family",
+					"The turkey you should've started defrosting yesterday",
+					"The second best vegan turducken in town"
+				]
+			},
+			{
+				"title" : "Memories triggered by",
+				"elements" : [
+					"A baby photo you don't recognize",
+					"Your copy of the Star Wars Christmas Special",
+					"The gift you couldn't unwrap last year",
+					"A sealed confession",
+					"The first thing you returned last year",
+					"The regift that caused the worst Christmas feud on record"
+				]
+			},
+			{
+				"title" : "Stocking stuffers",
+				"elements" : [
+					"8 pairs of wool socks",
+					"Lottery ticket",
+					"Key to the old cabin",
+					"Pair of handmade mittens",
+					"Over-ripe clementines",
+					"Your band's demo"
+				]
+			},
+			{
+				"title" : "A box containing",
+				"elements" : [
+					"Tree decorations from your childhood",
+					"The heirloom miniature train set",
+					"Holiday-themed homemade \"adult entertainment\"",
+					"Fruitcake",
+					"The remains of Buddy, your Elf on the Shelf",
+					"24 cans of spray-on snow"
+				]
+			},
+			{
+				"title" : "On the move with",
+				"elements" : [
+					"A shiny Lexus with a huge red bow",
+					"Wood-paneled station wagon with a tree strapped on top",
+					"Pickup truck with a front-mounted snowplow",
+					"Brand new snowmobiles",
+					"Cross country skis",
+					"Roof-mounted reindeer antlers"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "The Rooftop",
+				"elements" : [
+					"That caught fire last year",
+					"Above the Wal-Mart toy section",
+					"Chimney of your mother's beloved Santa's Workshop ornament",
+					"Patio in Maui",
+					"Bar smoking area where you first fell in love",
+					"Fire escape of the Hallmark on Birch Street"
+				]
+			},
+			{
+				"title" : "On Santa's",
+				"elements" : [
+					"Knee",
+					"Abandoned reindeer ranch",
+					"Ill-timed bender",
+					"Overstuffed chair at the Poppleton Mall North Pole",
+					"Christmas parade float",
+					"Truck full of toy donations"
+				]
+			},
+			{
+				"title" : "Home Sweet Home",
+				"elements" : [
+					"The kids' table",
+					"Your boss' kitchen",
+					"In the bathroom with the door locked",
+					"Grandpa and Grandma's retirement condo",
+					"Your childhood bedroom",
+					"Behind the false brick in the fireplace mantle"
+				]
+			},
+			{
+				"title" : "City Sidewalks",
+				"elements" : [
+					"Back at the Holiday Inn across town",
+					"On a one-horse open sleigh",
+					"At the desolate rest stop halfway between there and home",
+					"The curling rink where you first met",
+					"The hometown bar full of your high school classmates",
+					"Abandoned terminal C at the bus station one town over"
+				]
+			},
+			{
+				"title" : "Putting the CHRIST in Christmas",
+				"elements" : [
+					"Facebooking from the front line of the war on christmas",
+					"Preschool Christmas recital",
+					"Midnight Mass",
+					"The empty manger of the living nativity",
+					"In front of the Poppleton Mall holiday tree",
+					"In the newspaper editorials section"
+				]
+			},
+			{
+				"title" : "Where you should've been BEFORE now",
+				"elements" : [
+					"Grocery store turkey freezer",
+					"Picked-over christmas tree lot",
+					"Jewelry store",
+					"Confession",
+					"The goddamn airport",
+					"Wrapping all the gifts in the closet"
+				]
+			}
+    ]
+  }
+}

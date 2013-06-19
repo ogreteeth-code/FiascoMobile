@@ -1,0 +1,296 @@
+{
+  "playset" :
+  {
+    "title" : "Super Kart Party 3 Plus!",
+    "credits" : 
+    {
+      "author" : "Ewen Cluney"
+    },
+    "movie_night" :
+    [
+      { "title" : "The Tester" }
+    ],
+    "score" :
+    {
+      "title" : "",
+      "paragraphs" : [
+        "Some people are na&iuml;ve enough to think that working as a video game tester is a fun, easy job. It can be a good way to get your foot in the door, but the hours can be brutal, the games often suck even when they aren't ridiculously buggy, the programmers hate you, and your coworkers probably have some kind of hazing in mind.",
+		"Nakatomi Games is a venerable Japanese video game company, and you work in the testing department at its American office in Silicon Valley. And there's this game. You've had to test some real stinkers before, but this one is by far one of the worst. It's called Super Kart Party 3 Plus! Everything about it is terrible, and if anyone had any sense they'd just cancel it. That would be the merciful thing to do. But the company has already shelled out for a number of very high-profile licensed characters—ones that don't make any damn sense to you—so upper management is very attached to the project. It's also going to have motion controls, DLC, and all the other bullshit buzzword crap no one actually wants.",
+		"With the release date for SKP3+ looming ever closer, crunch time is upon you. The testers are working 12 hours a day, 7 days a week minimum to try to get this stupid game whipped into shape, and the programmers look like they haven't seen the sun in a while. Chances are it's just not going to make it, but don't let management hear you talking that way. (Not that they want to hear what you have to say at the best of times.) Just fucking get to work."
+      ],
+      "tagline" : "At the Nakatomi Games Testing Department"
+    },
+    "relationships" : [
+			{
+				"title" : "Bonding",
+				"elements" : [
+					"Sports bros",
+					"Wrestling game rivals",
+					"Halo chums",
+					"Drinking buddies",
+					"Movie critics",
+					"Nerf commandos"
+				]
+			},
+			{
+				"title" : "Industry",
+				"elements" : [
+					"Worked together at a failed game company",
+					"Game journalist and inside source",
+					"Old hand and a friend referred as a favor",
+					"Discount game hookup",
+					"Lead tester and minion",
+					"Worked together at a horrible and soulless (but very successful) game company"
+				]
+			},
+			{
+				"title" : "Bullshit",
+				"elements" : [
+					"Sexual harassment, real or imagined",
+					"Looming hazing ritual",
+					"Bully and nerdy victim",
+					"Console war soldiers",
+					"Elevator button rivalry",
+					"Online gaming griefing"
+				]
+			},
+			{
+				"title" : "Hierarchy",
+				"elements" : [
+					"Former equals",
+					"Manager and subordinate",
+					"Veteran and newbie",
+					"Security and regular employee",
+					"Bowling team captain and team member",
+					"Dungeon Master and player"
+				]
+			},
+			{
+				"title" : "Connections",
+				"elements" : [
+					"Drug friends",
+					"Exes",
+					"Significant Others",
+					"Cousins",
+					"Favor owed",
+					"Roommates"
+				]
+			},
+			{
+				"title" : "Endeavor",
+				"elements" : [
+					"Hoping to start your own game company",
+					"Sketchy real estate sales",
+					"Working on a comic",
+					"Designing an RPG",
+					"Gold farmers",
+					"Anonymous gaming bloggers"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To Get Rid",
+				"elements" : [
+					"...of this fucking game",
+					"...of the evidence",
+					"...of you-know-who",
+					"...of your neighbor's goddamn radio",
+					"...of a particular game save",
+					"...of your crappy office chair"
+				]
+			},
+			{
+				"title" : "To Get Into",
+				"elements" : [
+					"...E3",
+					"...her pants",
+					"...a new line of work",
+					"...the executive wing",
+					"...the boss' desk",
+					"...the SKP3+ design files, so you can change some stuff"
+				]
+			},
+			{
+				"title" : "To Get Laid",
+				"elements" : [
+					"...and finally lose your virginity",
+					"...any way you can",
+					"...for all the wrong reasons",
+					"...with that chick from the video game TV show who's visiting the office",
+					"...you guess. Kinda. Whatever.",
+					"...with him. I mean her. No. Shut up!"
+				]
+			},
+			{
+				"title" : "To Play",
+				"elements" : [
+					"...games instead of actually working",
+					"...fantasy football. And WIN.",
+					"...D&D on your days off",
+					"...Texas Hold 'Em, for big bucks",
+					"...your favorite MMO, all the time",
+					"... your favorite CCG, all the time"
+				]
+			},
+			{
+				"title" : "To Get Respect",
+				"elements" : [
+					"...and design your own game",
+					"...from the department",
+					"...with a prank on the boss",
+					"...and get a promotion",
+					"...by beating up someone bigger",
+					"...by sabotaging others' work to make you look good"
+				]
+			},
+			{
+				"title" : "To Get Your Hands On",
+				"elements" : [
+					"...a special edition game, before it comes out",
+					"...that bastard's scrawny neck",
+					"...enough money to buy a car and move out of your parents' house",
+					"...all the Nerf darts in the office",
+					"...a better cubical",
+					"...a one of a kind game cartridge"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Work",
+				"elements" : [
+					"Cafeteria",
+					"Testers' bullpen",
+					"Programmers' cubes",
+					"Secluded meeting room",
+					"The manager's office",
+					"The front lobby"
+				]
+			},
+			{
+				"title" : "Lunch",
+				"elements" : [
+					"McDonald's",
+					"Bento Mania",
+					"India Palace Buffet",
+					"Love Love Sushi",
+					"Taco Bueno",
+					"The vending machines"
+				]
+			},
+			{
+				"title" : "Odd Places",
+				"elements" : [
+					"Under someone else's desk",
+					"In the dumpster",
+					"On the roof",
+					"The janitorial closet",
+					"The elevator shaft",
+					"The backup generator"
+				]
+			},
+			{
+				"title" : "Unsavory",
+				"elements" : [
+					"A strip club",
+					"A van selling \"used consoles\"",
+					"A seedy motel",
+					"A dive bar",
+					"The parking lot, late at night",
+					"The unused, off-limits basement level"
+				]
+			},
+			{
+				"title" : "Shopping",
+				"elements" : [
+					"Games Boutique (a video game retailer)",
+					"Liquor store",
+					"Target",
+					"Kard Kingdom (a tabletop games store that mainly does CCGs)",
+					"Costco",
+					"Crossings bookstore (closing soon...)"
+				]
+			},
+			{
+				"title" : "Delusions",
+				"elements" : [
+					"The Badlands of Agaroth",
+					"Your Happy Place",
+					"An outrageously expensive steakhouse",
+					"Twitter/Facebook",
+					"Behind the reception desk",
+					"The monthly all-hands awards and birthdays meeting"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Armory",
+				"elements" : [
+					"Nerf sniper rifle",
+					"Plush companion cube",
+					"Realistic airsoft pistol with the orange barrel marked black",
+					"Foambats",
+					"Action figures",
+					"USB dartgun"
+				]
+			},
+			{
+				"title" : "Game Company Crap",
+				"elements" : [
+					"Test console",
+					"200 inflatable Birdoids",
+					"A dusty, forgotten game cartridge",
+					"183 Super Kart Party 2 T-shirts, in women's sizes",
+					"Vibrating grenade swag things from Call of Honor 5",
+					"A game copier"
+				]
+			},
+			{
+				"title" : "Bad Ideas",
+				"elements" : [
+					"Weird porno mag",
+					"Switchblade",
+					"Firecrackers",
+					"The manager's wife's cell phone number",
+					"A can of gasoline",
+					"A big, friendly black dog"
+				]
+			},
+			{
+				"title" : "Gamer Stuff",
+				"elements" : [
+					"Trance vibration pack",
+					"A high-level WoW character",
+					"A box of mod chips",
+					"An Xbox 360 with Red Ring of Death",
+					"Pac-Man tie with LED lights",
+					"A set of metal D&D dice"
+				]
+			},
+			{
+				"title" : "Bureaucracy",
+				"elements" : [
+					"Sexual harassment report form",
+					"The payroll cart",
+					"A typo-laden corporate memo",
+					"Confidential employee evaluations",
+					"Bug report paperwork",
+					"An employee handbook with many sarcastic hand-written notes"
+				]
+			},
+			{
+				"title" : "Office Stuff",
+				"elements" : [
+					"A temperamental fax/printer/copier combo",
+					"A room full of broken office chairs",
+					"Plane tickets to Japan",
+					"A business card with something written on the back",
+					"A bunch of expired company ID badges",
+					"Football betting pool"
+				]
+			}
+    ]
+  }
+}

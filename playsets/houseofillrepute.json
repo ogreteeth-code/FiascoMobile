@@ -1,0 +1,318 @@
+{
+  "playset" :
+  {
+    "title" : "House of Ill Repute",
+    "credits" : 
+    {
+      "author" : "Josh Fox"
+    },
+    "movie_night" :
+    [
+      { "title" : "The Thick of It" },
+      { "title" : "In the Loop" },
+      { "title" : "House of Cards" },
+      { "title" : "Party Animals" },
+      { "title" : "Yes, Minister" }
+    ],
+    "score" :
+    {
+      "title" : "It's about Damn Time",
+      "paragraphs" : [
+		"Setting in Brief",
+        "House of Ill Repute focuses on the political hotbed that is Westminster, the seat of the UK Government. Incompetent and venal politicians scrabble for power and influence while corrupt officials line their pockets and out-of- control journalists hack into phones and email accounts. Of course, there are noble politicians, pure-hearted bureaucrats and admirable journalists – but they probably aren't the focus in a Fiasco game. Then again, it's always interesting to see what an idealist will do to achieve their aims when surrounded by ruthless bastards and bumbling idiots.",
+		"UK Politics for Beginners",
+		"A primer on how UK politics works may be helpful:",
+		"* The head of state is the Queen but her role is entirely ceremonial. In theory she is vested with the power to declare war, appoint the prime minister and veto legislation, but if she did a constitutional crisis would likely follow.",
+		"* The real power is held by the leader of the largest party in the House of Commons, who is the Prime Minister, the head of the Government. He or she appoints Ministers (nearly always Members of Parliament), who make decisions about how the country should be run. The group of the most important Ministers is called the Cabinet.",
+		"* The Government has an army of staff. Most are civil servants, who are supposed to be politically neutral and serve whichever Government is elected, but in Fiasco may not be. Some are special advisers, aka spin doctors, who are political appointees and anything but neutral.",
+		"* The House of Commons is one of the two chambers of Parliament, consisting of elected MPs (Members of Parliament). It has the power to vote on legislation but usually just does what the Government wants.",
+		"* The House of Lords is the second chamber of Parliament, consisting of appointed peers with titles like Lord Snebworth of Fauntleroy. It can and does block Government legislation.",
+		"* Non-Ministerial MPs and peers are termed \"back benchers.\"",
+		"* Back benchers are kept in line by the Government's Whips through persuasion, arm-twisting and if necessary blackmail.",
+		"* The second largest party in the House of Commons is called the Opposition, and runs it's own \"shadow\" Cabinet. When the Government is doing badly, the Opposition is seen as the Government-in-waiting. When the Government is on top, the Opposition is irrelevant and desperate for attention.",
+		"* Don't forget the great British press! Highbrow broadsheets like The Times jostle with tabloid \"red tops\" like The Sun.",
+		"The Place To Be",
+		"There are a number of locations which are unavoidable in a game about Westminster politics:",
+		"* The Palace of Westminster, AKA Parliament, the home of the House of Commons and the House of Lords.",
+		"* Whitehall, where Government Ministers have their offices staffed by legions of bureaucrats. Home to the mighty Treasury and the august Foreign and Commonwealth Office.",
+		"* Number 10 Downing Street, in the centre of Whitehall, where the Prime Minister lives and works, and where Cabinet meetings are held.",
+		"* Fleet Street, home of the great British press.",
+		"Events, Dear Boy, Events",
+		"Politics is driven by events, so House of Ill Repute uses a table of events in place of the locations used in most Fiasco playsets. The above locations will no doubt prove useful, alongside the plethora of seedy pubs, upmarket restaurants, Westminster parks and apartments, riverside walks and so on."
+      ],
+      "tagline" : "In Westminster"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+					"Parent-in-law and son/daughter-in-law",
+					"Cousins, aunt/uncle and niece/nephew",
+					"Siblings",
+					"Parent and (step/adopted) child",
+					"Godparent and godchild",
+					"Distant/unusual relatives"
+				]
+			},
+			{
+				"title" : "Extracurricular",
+				"elements" : [
+					"Shared interest (drinking, golf, stitch'n'bitch)",
+					"Old school mates",
+					"Former army comrades",
+					"Business connection",
+					"Neighbours",
+					"Shared faith"
+				]
+			},
+			{
+				"title" : "Romance and Sex",
+				"elements" : [
+					"Husband and wife / Civil partnership",
+					"Power couple",
+					"Estranged lovers",
+					"Having an affair",
+					"One night stand",
+					"On again, off again relationship"
+				]
+			},
+			{
+				"title" : "Alliances ... ostensibly",
+				"elements" : [
+					"Mentor and protege",
+					"Leader and lackey",
+					"Information broker and informant",
+					"United by a common enemy",
+					"Both in the pay of the same lobby group",
+					"Shared ideology/meeting of minds"
+				]
+			},
+			{
+				"title" : "Clashes",
+				"elements" : [
+					"Political opposite numbers",
+					"Ideological opponents",
+					"Moderate and extremist",
+					"Former allies turned bitter enemies",
+					"Intra-party power games",
+					"Personal grudge"
+				]
+			},
+			{
+				"title" : "Sleazy",
+				"elements" : [
+					"Briber and corrupt politician",
+					"Blackmailer and victim",
+					"Sex worker and client",
+					"Drug dealer and addict",
+					"Spymaster and mole",
+					"Political conspirators"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get on",
+				"elements" : [
+					"...by brown-nosing the top dogs",
+					"...by back-stabbing the ones who helped you",
+					"...by using the secrets you know",
+					"...through a media blitz",
+					"...because you know you're the best for the job",
+					"...because you just can't stand the people in charge"
+				]
+			},
+			{
+				"title" : "To get away",
+				"elements" : [
+					"...from the skeleton in your closet",
+					"...from this media shitstorm",
+					"...from the party you have come to hate",
+					"...with the lies you have told",
+					"...with abusing your power",
+					"...with murder"
+				]
+			},
+			{
+				"title" : "To get into",
+				"elements" : [
+					"...Number 10 Downing Street",
+					"...the ancient order of freemasons",
+					"...that combination-locked briefcase",
+					"...a ministerial limousine",
+					"...the secret meeting you heard about",
+					"...that sexy intern's pants"
+				]
+			},
+			{
+				"title" : "To get even",
+				"elements" : [
+					"...with the journo who wrote that article",
+					"...with the guy who got promoted ahead of you",
+					"...for that dirty campaign",
+					"...with the people who overlooked you",
+					"...for a slight, real or imagined",
+					"...with the whole damned Westminster set"
+				]
+			},
+			{
+				"title" : "To get a reputation",
+				"elements" : [
+					"...by telling the truth, no matter how unpalatable",
+					"...by getting on television",
+					"...by showing how tough you are",
+					"...by making that announcement, despite all the problems",
+					"...by being seen with the right people",
+					"...that you don't deserve"
+				]
+			},
+			{
+				"title" : "To get off",
+				"elements" : [
+					"...on power",
+					"...on drugs or booze. Or both.",
+					"...on attention from the media",
+					"...on showing off your inside knowledge",
+					"...on destroying a reputation",
+					"...on a secret liaison"
+				]
+			}
+    ],
+    "events" : [
+			{
+				"title" : "Political",
+				"elements" : [
+					"A senior minister resigns",
+					"A national election",
+					"Party conference season",
+					"A “meet the people” walkabout",
+					"The Budget",
+					"A major Commons vote"
+				]
+			},
+			{
+				"title" : "Media",
+				"elements" : [
+					"Celebrity Dance Off's Got Talent",
+					"A Newsnight exposé",
+					"An interview with Richard and Judy",
+					"Prime Minister's Questions",
+					"An awards ceremony",
+					"A major newspaper backs the opposition"
+				]
+			},
+			{
+				"title" : "Military or Foreign",
+				"elements" : [
+					"War breaks out",
+					"A terrorist attack",
+					"A visit from a Saudi Arabian prince",
+					"A global summit hosted in London",
+					"A trade dispute with Canada",
+					"A natural disaster in China"
+				]
+			},
+			{
+				"title" : "National Event",
+				"elements" : [
+					"A royal wedding",
+					"The Olympic games",
+					"The anniversary of the 7/7 bombings",
+					"Christmas Day",
+					"Death of a celebrity",
+					"The Grand National horserace"
+				]
+			},
+			{
+				"title" : "Domestic",
+				"elements" : [
+					"The country goes into recession",
+					"A bank collapses",
+					"A major protest or riots",
+					"A general strike",
+					"Snowmaggedon",
+					"A plane crashes"
+				]
+			},
+			{
+				"title" : "Scandal",
+				"elements" : [
+					"Someone fails to keep their flies zipped",
+					"Someone makes a racist comment in public",
+					"Someone is caught stealing or selling information",
+					"Someone's salary becomes public – and it's big",
+					"Someone is caught taking bribes",
+					"Someone turns out to be a spy"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Sleazy",
+				"elements" : [
+					"Cash in unmarked brown envelopes",
+					"Fake ballot papers",
+					"Cocaine",
+					"A Nazi uniform",
+					"An illegitimate child",
+					"A sex tape"
+				]
+			},
+			{
+				"title" : "Valuable",
+				"elements" : [
+					"A title (knighthood, peerage, ministerial post)",
+					"A large Government grant",
+					"A front page newspaper endorsement",
+					"Draft Government legislation",
+					"An arms contract",
+					"The statue of Winston Churchill from Parliament's central lobby"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+					"Secret plans to invade Kazakhstan",
+					"DNA test results",
+					"An MI5 file",
+					"Tape of an unpublished campaign ad",
+					"Unpublished poll data",
+					"Hacked voicemail messages or emails"
+				]
+			},
+			{
+				"title" : "Personal Items",
+				"elements" : [
+					"Keys to an apartment",
+					"A (locked) briefcase",
+					"A credit card bill",
+					"A mobile phone",
+					"A foreign passport",
+					"A leatherbound diary"
+				]
+			},
+			{
+				"title" : "Vehicles",
+				"elements" : [
+					"A limousine with diplomatic plates",
+					"An aircraft carrier",
+					"A campaign bus",
+					"A private jet",
+					"A luxury yacht",
+					"A high speed train"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+					"A nuclear warhead",
+					"A World War II service revolver",
+					"A landmine",
+					"A carving knife",
+					"The House of Commons ceremonial mace",
+					"Poison"
+				]
+			}
+    ]
+  }
+}

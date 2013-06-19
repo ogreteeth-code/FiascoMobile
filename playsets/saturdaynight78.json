@@ -1,0 +1,305 @@
+{
+  "playset" :
+  {
+    "title" : "Saturday Night '78",
+    "credits" : 
+    {
+      "author" : "Will Hindmarch, Wil Wheaton, and Jason Morningstar"
+    },
+    "movie_night" :
+    [
+      { "title" : "Saturday Night Fever" },
+      { "title" : "The Warriors" },
+      { "title" : "The French Connection" },
+      { "title" : "Taxi Driver" },
+      { "title" : "Tales from the City (wrong coast, right vibe)" },
+      { "title" : "Last Days of Disco" },
+      { "title" : "Looking for Mr. Goodbar" },
+      { "title" : "Disco Godfather" },
+      { "title" : "The Bitch" }
+    ],
+    "score" :
+    {
+      "title" : "Disco with Death",
+      "paragraphs" : [
+        "New York City, 1978. Last year, the city endured the chaos of the blackout of ‘77 and the terror of the Son of Sam killings. This year, Studio 54 makes millions by giving beautiful plebs and dazzling celebrities a place to party at $20 a head. Condensed sweat rains from Studio 54’s mirrored-laminate ceiling—sweat evaporated from the brows of celebrities, maybe—and falls back on the dancers below.",
+		"This is the year of Saturday Night Fever's public zeal and Saturday Night Live's last season with Aykroyd and Belushi—a year bookended by The Village Peoples' \"Macho Man\" and \"Y.M.C.A.\" In New York, The Rolling Stones play at the Palladium in July (and Mick Jagger is likely seen at Studio 54) while Queen plays two nights on tour for their new album, Jazz, in November, at Madison Square Garden. Rod Stewart's \"Da Ya Think I'm Sexy?,\" a song of dance-club lust, appears at the end of this year.",
+		"This is a New York City that has recently discovered Star Wars, Annie Hall, Smokey and the Bandit, and Close Encounters. Superman, The Deer Hunter, and Every Which Way But Loose come out in December. The Warriors comes out next year but its inspiration is all around. Refer to real-world gangs like the Young Immortals, the Majestics, and the Dukes for some thematic verisimilitude. Organized crime of any stripe is apt in this age—and RICO was enacted just eight years ago.",
+		"This is a time of rock and disco, of reckless hedonism and casual sex, a time before consequences. Debauchees high on blow, poppers, or Quaaludes dance and laugh and lust and cry in swank clubs and dirty dives all over the city. Whoever your characters are in the daylight, come dark they transform into sordid stars or disco royalty, beautiful disasters or pitiable victors, ricocheting off each other into the glittering wreckage of imploded parties. Every Saturday night the city's alight with spectacular fiascos."
+      ],
+      "tagline" : "On Saturday Night"
+    },
+    "relationships" : [
+			{
+				"title" : "Partnerships",
+				"elements" : [
+					"Dance partners, one of them truly talented",
+					"Maverick veteran cop and straight-laced rookie",
+					"Sweethearts still",
+					"Uniformed cops with overlapping beats",
+					"Co-owners of the fourth-hottest nightclub in the five boroughs",
+					"Husband and wife, if anyone asks"
+				]
+			},
+			{
+				"title" : "Rivalries",
+				"elements" : [
+					"Hothead and the supervisor on the hook for it",
+					"Contenders for the same heart",
+					"Dancers on the same slick floor",
+					"Cops competing for the same collar",
+					"Siblings ever at war",
+					"Drug dealers in the same club circuit"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"Supplier and seller",
+					"Newly minted gangsters",
+					"Blackmailer and victim",
+					"Official on the take and someone paying the rake",
+					"The muscle and the mouth",
+					"Criminal accessories, both"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"One's beloved, one's oblivious",
+					"A one-night stand that the gonorrhea won't let you forget about",
+					"Husband and wife, for now",
+					"Just another Romeo and Juliet",
+					"Someday soon. Maybe tonight.'",
+					"Estranged and you both hate it"
+				]
+			},
+			{
+				"title" : "Secrets",
+				"elements" : [
+					"The one undercover and the one who knows about it",
+					"Messy addict and high-functioning addict",
+					"In cahoots and no one can know",
+					"Faithful spouse and the other man/woman",
+					"She doesn't yet show and he doesn't yet know",
+					"The one in the film and the one who has the film"
+				]
+			},
+			{
+				"title" : "Showbiz",
+				"elements" : [
+					"\"We're actually dancers. Well, we're gonna be.\"",
+					"Director and star",
+					"Celebrity and spurned fan",
+					"Desperate talent agent and hot young thing",
+					"Singer and songwriter",
+					"The star and oh, yeah, the other one"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get in",
+				"elements" : [
+					"...with the gang that controls this neighborhood",
+					"...to Studio 54",
+					"...on the big score planned for Saturday night",
+					"...with the glitterati kingmakers",
+					"...to the finals of the big disco bout",
+					"...to the cast of the next big show"
+				]
+			},
+			{
+				"title" : "To get out",
+				"elements" : [
+					"...of your dead-end life",
+					"...from under the gangs",
+					"...for just one night of bliss",
+					"...of the debts your dreams have earned",
+					"...before anyone finds out what you did",
+					"...without leaving your friend behind"
+				]
+			},
+			{
+				"title" : "To get free",
+				"elements" : [
+					"...of this neighborhood that's holding you back",
+					"...of the charges against you",
+					"...on the dance floor, like you've dreamed",
+					"...of the person they want you to be",
+					"...by pretending to be someone else, if that's what it takes",
+					"...of the drug that's ruining you"
+				]
+			},
+			{
+				"title" : "To get respect",
+				"elements" : [
+					"...from the one you love",
+					"...for doing the hard work, the ugly things",
+					"...from the audience, for your moves",
+					"...even if you don't deserve it",
+					"...to show them you don't need it",
+					"...from the ones you hate"
+				]
+			},
+			{
+				"title" : "To get even",
+				"elements" : [
+					"...with the ones in charge",
+					"...by getting back what was taken",
+					"...with the ones who couldn't see that you're special",
+					"...for the one who can't get her own revenge now",
+					"...without getting taken down yourself",
+					"...in a way that everyone can see"
+				]
+			},
+			{
+				"title" : "To get high",
+				"elements" : [
+					"...on the thrill of the dance floor",
+					"...above this city in a place of your own",
+					"...up in the ranks of the organization",
+					"...on the good stuff, just once",
+					"...where someone will help you get straight",
+					"...on something true and real, for a change"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Private",
+				"elements" : [
+					"Dim private room, deep inside the club",
+					"Apartment above a third-rate club, rattling with the bass",
+					"In the rear of a Chevy Vega hatchback",
+					"High-class high-rise hotel room, trashed",
+					"Final hour of a waning private loft party",
+					"Inside a bathroom stall with a line forming outside"
+				]
+			},
+			{
+				"title" : "Clubs",
+				"elements" : [
+					"Third-rate discotheque with a first-rate crowd",
+					"All alone on a crowded dance floor",
+					"Inside Studio 54",
+					"On the light-up dance floor at Medallions",
+					"Last night of a club called Glamorous",
+					"On the balcony at The Nyx, overlooking the dance floor"
+				]
+			},
+			{
+				"title" : "Turf",
+				"elements" : [
+					"Alley behind the sex shop",
+					"Inside a busy precinct house",
+					"Hot-dog cart on enemy turf",
+					"Fourth-floor fire escape outside a forbidden place",
+					"Bedroom of a powerful person you hardly know",
+					"Intersection claimed by rival gangs"
+				]
+			},
+			{
+				"title" : "Public",
+				"elements" : [
+					"Last train back to Brooklyn",
+					"Payphone under surveillance",
+					"In a front seat of a sketchy gypsy cab",
+					"Just one gatekeeper away from Studio 54",
+					"A diner sworn off long ago",
+					"Night on the Verrazano-Narrows Bridge"
+				]
+			},
+			{
+				"title" : "Hellholes",
+				"elements" : [
+					"Cramped and dirty cell in the station house",
+					"Burned-out building in Hell's Kitchen",
+					"Parking lot, broken glass, flecks of blood",
+					"In a teeming, fleeing crowd",
+					"The back row of a smoky porno theater",
+					"\"Let's call it what it is: my grave.\""
+				]
+			},
+			{
+				"title" : "Showbiz",
+				"elements" : [
+					"Inside a celebrity's stained white Cadillac",
+					"Projection booth during a showing of Grease",
+					"Backstage at a show you couldn't get tickets for",
+					"A moldy room used for auditions",
+					"A peep-show booth in Peacock's off Times Square",
+					"In the spotlight, on the big night"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Personal",
+				"elements" : [
+					"Signed copy of the Saturday Night Fever soundtrack",
+					"\"The finest hi-fi system in the five boroughs\"",
+					"Half of a loved one's photograph",
+					"Unreleased dance single that'll change the world",
+					"Your audition tape, created at great expense",
+					"The switchblade that did the killing"
+				]
+			},
+			{
+				"title" : "Official",
+				"elements" : [
+					"Police detective's badge",
+					"Medal awarded during Vietnam",
+					"A famous club's liquor license",
+					"Surveillance photos of a celebrity suspect",
+					"Unsigned confession",
+					"Warrant smeared by the rain"
+				]
+			},
+			{
+				"title" : "Criminal",
+				"elements" : [
+					"Unshakeable memory of the deed",
+					"One obvious forgery",
+					".45 pistol in a velvet-lined case",
+					"Reel-to-reel recording with a dead man's voice on it",
+					"Dirty pictures in an envelope all stamped and ready to go",
+					"Hidden body of the wrong man"
+				]
+			},
+			{
+				"title" : "Drugs",
+				"elements" : [
+					"One clean needle, one dirty needle",
+					"Suitcase full of cut product, half as pure as advertised",
+					"Biggest shipment of the year",
+					"Brick marked as evidence",
+					"Silver spoon on a chain",
+					"A Lincoln loaded with hidden heroin"
+				]
+			},
+			{
+				"title" : "Misplaced",
+				"elements" : [
+					"Pistol with three live rounds in it",
+					"Pregnancy test results, positive",
+					"One reel of film, labeled \"Jaws 2,\" that contains no sharks",
+					"Keys to the club",
+					"Wedding ring inscribed \"Forever and Ever After\"",
+					"8-track tape with a key hidden inside"
+				]
+			},
+			{
+				"title" : "Disco",
+				"elements" : [
+					"Winged hard-hat, painted silver",
+					"\"Glitter? I thought you were at work.\"",
+					"A dozen hundreds, rolled and ready",
+					"A bloody disco ball",
+					"Crate of records that aren't yours",
+					"Sexy jumpsuit with an obvious gash"
+				]
+			}
+    ]
+  }
+}

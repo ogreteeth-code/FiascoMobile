@@ -1,0 +1,299 @@
+﻿{
+  "playset" :
+  {
+    "title" : "Keepin' On Keeping On The Borderlands",
+    "credits" : 
+    {
+      "author" : "Nick Wedig"
+    },
+    "movie_night" :
+    [
+      { "title" : "Hellboy 2: The Golden Army" },
+      { "title" : "Invader Zim" },
+      { "title" : "Labyrinth" },
+      { "title" : "Rosencrantz and Guildenstern are Dead (really)" },
+      { "title" : "any low budget or badly made fantasy movie (perhaps the terrible D&D movies)" }
+    ],
+    "score" :
+    {
+      "title" : "In The Caves of Chaos",
+      "paragraphs" : [
+        "Just on the edge of the human kingdom lies a valley whose cliff faces are riddled with caves. In these caves dwell a surprising variety of monstrous races: sneaky goblins, downtrodden kobolds, savage orcs, enormous ogres and stranger things still. These monstrous peoples are only tenuously united by the common worship of the bloody god Zemox.",
+        "The human Baron of Restwell Keep is supposed to keep the monsters under control, but there isn't much he can do. Sure, every year or two you get a couple of self proclaimed \"heroes\" coming in to wipe out the monsters. But most of these adventuresome kids wind up on the wrong end of a glaive-guisarme. The monsters, they stick around. The biggest threat to the monsters isn't the human warriors, but the constant infighting between monstrous tribes. Gathering together this many violent subhumans in one place is a surefire recipe for disaster. The valley is a fiasco, just waiting to happen."
+      ],
+      "tagline" : "... In The Caves of Chaos"
+    },
+    "relationships" : [
+			{
+				"title" : "Romance",
+				"elements" : [
+          "Love across species",
+          "Unrequited love",
+          "Mated pair",
+          "Both after the same man / woman",
+          "\"You killed my lover\"",
+          "Former lovers"
+				]
+			},
+			{
+				"title" : "Family",
+				"elements" : [
+          "Parent and child",
+          "Clan patriarch/matriarch and descendant",
+          "Siblings",
+          "Adopted into the tribe",
+          "Black sheep of the family",
+          "You think you're related, but you aren't"
+				]
+			},
+			{
+				"title" : "Warfare",
+				"elements" : [
+          "Brothers in arms",
+          "\"You killed my brother\"",
+          "Powerful warrior and oppressed lackey",
+          "One killed the paladin, one got the credit",
+          "Brutish mercenary and employer",
+          "Tactician and savage berserker"
+				]
+			},
+			{
+				"title" : "Vile Sorcery",
+				"elements" : [
+          "Shaman and apprentice",
+          "Were friends before one died and came back as an undead",
+          "Both enchanted with a terrible curse",
+          "Necromancer and toady",
+          "High Priest of Zemox and heretic",
+          "Doppelganger and the person being impersonated"
+				]
+			},
+			{
+				"title" : "Survival",
+				"elements" : [
+          "Scavengers from rival tribes",
+          "Basilisk herders",
+          "Hunting dragons together",
+          "Made a terrible bargain for their own survival",
+          "Deserters from the big battle",
+          "Fungus farmers"
+				]
+			},
+			{
+				"title" : "Tribal",
+				"elements" : [
+          "Outcasts from the tribe",
+          "Deposed chieftain and usurper",
+          "Aging goblin king and heir",
+          "Spies for rival tribes",
+          "\"You tribe has been stealing our food\"",
+          "One tribe pays fealty to the other"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To Get Revenge",
+				"elements" : [
+          "...on the humans of Restwell Keep",
+          "...on the lying kobold on the other side of the valley",
+          "...on the Mad Hermit of the Wood",
+          "...by ruining a black magic ceremony",
+          "...by starting a war with the lizardmen of the swamp",
+          "...by letting a horrible monster loose"
+				]
+			},
+			{
+				"title" : "To Get Glory",
+				"elements" : [
+          "...by defeating the wizard of Restwell Keep",
+          "...by leading the orc warriors in battle",
+          "...by outwitting the minotaur of the caves",
+          "...by completing the ritual of human sacrifice",
+          "...by stealing an enchanted sword",
+          "...by lying about what you did"
+				]
+			},
+			{
+				"title" : "To Get Rich",
+				"elements" : [
+          "...by looting Restwell Keep",
+          "...by stealing from the orc tribe next door",
+          "...by robbing the temple of Zemox",
+          "...so you can afford the magic ritual",
+          "...by finding lost treasure",
+          "...by opening a legitimate place of business"
+				]
+			},
+			{
+				"title" : "To Get Out",
+				"elements" : [
+          "...of the dungeons of Restwell Keep",
+          "...of the Caves of Chaos",
+          "...of a debt that you owe",
+          "...of the medusa's clutches",
+          "...before they uncover your lies",
+          "...and become leader of your own tribe"
+				]
+			},
+			{
+				"title" : "To Get The Truth",
+				"elements" : [
+          "...by kidnapping the Baron of Restwell Keep",
+          "...about the location of the buried treasure",
+          "...about the curse on this magic wand",
+          "...about the high priest of Zemox",
+          "...about the medusa's secret weakness",
+          "...before it's too late"
+				]
+			},
+			{
+				"title" : "To Get Laid",
+				"elements" : [
+          "...by the human priestess in Restwell Keep",
+          "...because that's where half-orcs come from",
+          "...by the strongest warrior in the valley",
+          "...to remove this terrible curse",
+          "...to continue on the royal bloodline",
+          "...and become the Kobold Queen's consort"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Restwell Keep",
+				"elements" : [
+          "The Baron's bedchamber",
+          "Locked in the dungeons",
+          "The jewel merchant's storeoom",
+          "The hidden shrine to Zemox",
+          "The Stumbling Giant tavern",
+          "The Wizard's Guildhouse"
+				]
+			},
+			{
+				"title" : "The Border Forest",
+				"elements" : [
+          "The village of those stupid elves",
+          "The Mad Hermit's hut",
+          "The web of a giant spider",
+          "The sacred grove of the druids",
+          "A bandit's camp",
+          "The largest tree in the world"
+				]
+			},
+			{
+				"title" : "The Caves of Chaos",
+				"elements" : [
+          "The kobold warrens",
+          "The minotaur's labyrinth",
+          "The edge of a bottomless pit",
+          "The goblin's supply room",
+          "The mushroom farm",
+          "Where two chiefs meet in secret"
+				]
+			},
+			{
+				"title" : "The Church of Zemox the Bloody",
+				"elements" : [
+          "The Treasure Chamber",
+          "The Black Priest's personal chambers",
+          "The Innermost Sanctum",
+          "The Altar of Peril",
+          "Inside the Secret Passage",
+          "The Cursed Pool"
+				]
+			},
+			{
+				"title" : "The Broken Cliffs",
+				"elements" : [
+          "Where a Dwarvish mine come to the surface",
+          "The hippogriff's nest",
+          "Wedged between two boulders",
+          "Where the stone men gather",
+          "Hanging from a tree branch",
+          "The lookout's post"
+				]
+			},
+			{
+				"title" : "By the Crooked River",
+				"elements" : [
+          "Underneath the King's Bridge",
+          "Where you dumped the body",
+          "The burrow of a dire weasel",
+          "Where dead men walk",
+          "The swamps where the lizardmen dwell",
+          "The wreckage of a crashed riverboat"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Valuables",
+				"elements" : [
+          "The crown of the Baron of the Western Lands",
+          "A diamond the size of a plover's egg",
+          "A lewd statue of the human's Goddess of Chastity",
+          "The jewel encrusted skull of a necromancer",
+          "Two dragon eggs: one red and one gold",
+          "A chest full of electrum coins"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+          "A map of the secret entrance to Restwell Keep",
+          "The diaries of the Mad Hermit",
+          "Notes on how to disarm the traps in the caves",
+          "The defaced holy book of the human's goddess",
+          "A dying orc's last confession",
+          "The secret codeword to pass the checkpoint"
+				]
+			},
+			{
+				"title" : "Animals",
+				"elements" : [
+          "A sorcerer's weasel familiar",
+          "A rabid owlbear",
+          "A specially trained chicken",
+          "A pig resurrected as a zombie",
+          "A gelatinous cube blocked in a dead end cave",
+          "A mated pair of basilisks"
+				]
+			},
+			{
+				"title" : "Magic",
+				"elements" : [
+          "A sorcerer's stolen spellbook",
+          "An enchanted mirror",
+          "A helm of telepathy",
+          "Instructions to a dark ritual",
+          "The Black Priest's magic armor",
+          "An intelligent talking sword"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+          "A fallen paladin's longsword",
+          "A stolen greataxe",
+          "The jawbone of a dinosaur",
+          "A cursed spear",
+          "A malfunctioning catapult",
+          "The Elf King's Golden Bow"
+				]
+			},
+			{
+				"title" : "Traps",
+				"elements" : [
+          "A hobgoblin ambush just down the corridor",
+          "A rug stretched across a hidden pit",
+          "A cave-in waiting to be triggered",
+          "An magically animated crossbow turret",
+          "A boulder suspended on top of a cliff",
+          "A mummified medusa's head hidden by a curtain"
+				]
+			}
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "playset" :
+  {
+    "title" : "The Big Anime Con",
+    "credits" : 
+    {
+      "author" : "Ewen Cluney"
+    },
+    "movie_night" :
+    [
+      { "title" : "Anime" }
+    ],
+    "score" :
+    {
+      "title" : "The Big Anime Con",
+      "paragraphs" : [
+        "This is a playset for games of Fiasco taking place at an anime convention in a major city in the U.S. It really helps to know anime and anime fandom if you want to use it, since some of the references just aren’t disturbing enough otherwise. I can’t say I’ve ever experienced anything worthy of a Coen Brothers movie at an anime convention, but a lot of the stuff in the tables comes from things I’ve witnessed, heard about, or at least could very easily imagine happening at an anime con. And if there was ever a group of people with \"powerful ambition and poor impulse control,\" it’s anime fans."
+      ],
+      "tagline" : "At a Big Anime Convention in California"
+    },
+    "relationships" : [
+			{
+				"title" : "Close",
+				"elements" : [
+					"Siblings who tend to fight but both like anime",
+					"Cousins from different parts of the country",
+					"Parent and child, both obsessed fans",
+					"Babysitter and babysat",
+					"Childhood friends",
+					"Parent and child, one of whom doesn’t want to be here."
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+					"Store owner and employee",
+					"Convention staff in the same department",
+					"Former co-workers",
+					"Fan and person they’re a fan of",
+					"Anime publisher’s employees",
+					"Video game testers"
+				]
+			},
+			{
+				"title" : "Club/Projects",
+				"elements" : [
+					"Collaborating on a comic",
+					"Costume designer and wearer",
+					"Collaborating on a game",
+					"Tabletop gaming group",
+					"Anime club organizers",
+					"Artist’s group producing a comic anthology"
+				]
+			},
+			{
+				"title" : "Otaku Bonding",
+				"elements" : [
+					"A n00b and his or her veteran otaku mentor",
+					"Glomping partners",
+					"Cosplayer and stalker",
+					"Competing spenders",
+					"Convention hooligans",
+					"Drunken revelers"
+				]
+			},
+			{
+				"title" : "Networking",
+				"elements" : [
+					"Sharing a hotel room",
+					"Carpooled from a long way away",
+					"Meeting up about a professional opportunity",
+					"College roomies",
+					"Scheming to get in free",
+					"Business venture"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Crush",
+					"Significant Others",
+					"Exes",
+					"Fuck buddies",
+					"Casual encounter at the con",
+					"Young lovers"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To Buy",
+				"elements" : [
+					"...sketches of your prized Original Character",
+					"...as much as possible from a certain series",
+					"...tickets to a big event at the con",
+					"...love or something like it",
+					"...lots of porn",
+					"...a new costume"
+				]
+			},
+			{
+				"title" : "To Get Even",
+				"elements" : [
+					"...for being kicked off of con staff",
+					"...for a slight online",
+					"...for your costume being mocked",
+					"...for a prank at last year’s con",
+					"...for disrespect from attendees",
+					"...with con security because they told you off"
+				]
+			},
+			{
+				"title" : "To Get Laid",
+				"elements" : [
+					"...with a guest of honor",
+					"...with someone Japanese",
+					"...with a hot cosplayer",
+					"...with anyone you can",
+					"...with a prominent staff member",
+					"...with someone who’s drunk"
+				]
+			},
+			{
+				"title" : "To Get Attention",
+				"elements" : [
+					"...any way you can, from anyone you can",
+					"...by freaking people out",
+					"...for your talents, real or imagined",
+					"...through some kind of crazy stunt",
+					"...for your sexy body",
+					"...by playing music in the halls"
+				]
+			},
+			{
+				"title" : "To Win",
+				"elements" : [
+					"...the masquerade at all costs",
+					"...the fighting game tournament",
+					"...any and all free stuff you can",
+					"...a rare animation cell from the auction",
+					"...the con’s ridiculous game show",
+					"...the respect of someone who thinks you’re an idiot"
+				]
+			},
+			{
+				"title" : "To Have Fun",
+				"elements" : [
+					"...at someone else’s expense",
+					"...taking pictures of cosplayers",
+					"...disrupting the con",
+					"...meeting new people",
+					"...getting hugs from strangers",
+					"...getting drunk to relax after hours"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "The Hotel",
+				"elements" : [
+					"Someone else's hotel room",
+					"The hotel's expensive restaurant",
+					"A party room",
+					"The bar",
+					"The swimming pool",
+					"A suite"
+				]
+			},
+			{
+				"title" : "Convention Center",
+				"elements" : [
+					"Overpriced snack bar",
+					"Dealers Room booth",
+					"Artists Alley booth",
+					"Front area choked with cosplayers",
+					"A video room",
+					"The main event hall"
+				]
+			},
+			{
+				"title" : "Downtown",
+				"elements" : [
+					"A McDonald's with sticky floors",
+					"Matusda Sushi",
+					"Swiftly Bubble Tea",
+					"Starbooks Coffee",
+					"A nasty public bathroom",
+					"Crossings Bookstore"
+				]
+			},
+			{
+				"title" : "Convention Events",
+				"elements" : [
+					"The masquerade/costume contest",
+					"The AMV contest",
+					"The dance",
+					"A J-rock concert",
+					"The karaoke contest",
+					"A famous webcomic artist's panel"
+				]
+			},
+			{
+				"title" : "Behind the Scenes",
+				"elements" : [
+					"The Green Room, where guests of honor hang out",
+					"Con Ops, the nerve center of the convention",
+					"Backstage in the main event hall",
+					"A meeting room",
+					"Volunteers/gopher headquarters",
+					"A guest's hotel room"
+				]
+			},
+			{
+				"title" : "Unknown Territory",
+				"elements" : [
+					"At the airport",
+					"Japantown",
+					"The mall",
+					"The university",
+					"Krispy Kreme Donuts",
+					"A grocery store"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Merchandise",
+				"elements" : [
+					"A plushie",
+					"A model kit",
+					"A DVD boxed set",
+					"Hentai doujinshi",
+					"Daimakura (body pillow with an image of a scantily clad character)",
+					"Japanese snacks"
+				]
+			},
+			{
+				"title" : "Handmade",
+				"elements" : [
+					"Cat-ear fleece cap",
+					"Oversized plush of some object (a stick of Pocky, a Wii controller, etc.)",
+					"A sketch by a popular artist",
+					"A customized Asian ball-jointed doll",
+					"A gothic lolita dress",
+					"A collar and leash"
+				]
+			},
+			{
+				"title" : "Rarities",
+				"elements" : [
+					"A guest's autograph",
+					"A Limited Edition video game with tons of extras",
+					"A very rare doujin",
+					"A very expensive adult plastic figure",
+					"A Hello Kitty vibrator",
+					"A prohibited weapon"
+				]
+			},
+			{
+				"title" : "Cosplay",
+				"elements" : [
+					"A skimpy costume",
+					"A ridiculously oversized sword",
+					"A kigurumi suit (a big fuzzy mascot character costume)",
+					"A ninja costume",
+					"A cardboard box",
+					"A crossplay outfit"
+				]
+			},
+			{
+				"title" : "Property Damage",
+				"elements" : [
+					"A license plate",
+					"A light fixture",
+					"A broken window",
+					"Afire",
+					"A trashed hotel room",
+					"A ruined costume prop"
+				]
+			},
+			{
+				"title" : "Mischief",
+				"elements" : [
+					"Someone else’s badge",
+					"A misleading sign",
+					"Firecrackers",
+					"A lost (but still working) cell phone",
+					"A stolen room key",
+					"Someone's car"
+				]
+			}
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "playset" :
+  {
+    "title" : "The Tomb of Horrors",
+    "credits" : 
+    {
+      "author" : "Hamish Cameron"
+    },
+    "movie_night" :
+    [
+      { "title" : "This playset is a tribute to this infamous D&D module. The playset does not require a copy of The Tomb of Horrors to use, but the group should probably be well-versed in early D&D dungeon designs. Further information on these monsters and classes is readily available on wikipedia or in the original game material" }
+    ],
+    "score" :
+    {
+      "title" : "The Legend of the Tomb",
+      "paragraphs" : [
+        "\"Somewhere under a lost and lonely hill of grim and foreboding aspect lies a labyrinthine crypt. It is filled with terrible traps and not a few strange and ferocious monsters to slay the unwary. It is filled with rich treasures both precious and magical...\"",
+		"Gary Gygax, The Tomb of Horrors, p.2.",
+		"The Tomb of Horrors is a small dungeon, diabolically populated with traps, misdirection and monsters. Only the strongest and best equipped adventuring parties have even the slimmest chance of surviving the protections with guard the crypt of the Lich who awaits within. Of course, by the time any D&D party has reached this sort of level, even an initially unified group of characters will have been riven and sundered by the trials of a career of murder and looting. This playset is about those rifts in the party. Oh yes, it's a Fiasco alright!",
+		"Things to Look For",
+		"The First Act should start with the characters already deep inside the tomb. As in a regular game of Fiasco, it's probably impolite to kill other players in the First Act – you'll be doing better than in the original module, already! – but feel free to trap people in impossible situations, strip them of equipment, maim them, all the usual fun stuff. There should be a trap (or less frequently, a monster) in every scene, not necessarily as an obstacle, but at least for colour. Use the Location and Object lists as inspiration. Be diabolical.",
+		"If the group is actually trying to kill the Lich and take his treasure, you might want to save that conflict for the last set of scenes, or even the Aftermath. That said, meeting and defeating the Tomb's main denizen could make for a great start to the game as well."
+      ],
+      "tagline" : "In the Tomb of Horrors"
+    },
+    "relationships" : [
+			{
+				"title" : "Adventurers",
+				"elements" : [
+					"Magic User and magic-fearing Barbarian",
+					"Thief and the Cleric attempting to reform him",
+					"Fighter and Ranger, both proud and arrogant",
+					"Elf and Dwarf, both steeped in bigotry",
+					"Master and apprentice",
+					"Employer and hireling"
+				]
+			},
+			{
+				"title" : "Past",
+				"elements" : [
+					"Criminal and bounty hunter",
+					"Grew up together",
+					"War adversaries",
+					"Sharing a dark secret",
+					"War hero and resentful veteran",
+					"We could have saved them"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Manipulator and victim",
+					"Old hand and newbie",
+					"Friendly rivals",
+					"Bitter rivals",
+					"Friends with benefits",
+					"Drinking buddies"
+				]
+			},
+			{
+				"title" : "Criminal Activities",
+				"elements" : [
+					"Callous killer and the one with the conscience",
+					"Wanted thieves and bandits, unknown to the party",
+					"Temple robbers",
+					"Regicides on the run",
+					"Con artist and mark",
+					"Professional and thrill-seeker"
+				]
+			},
+			{
+				"title" : "Community",
+				"elements" : [
+					"Deputised officials",
+					"Local nobles",
+					"Co-religionists",
+					"Religious rivals",
+					"Guild members",
+					"Secret society"
+				]
+			},
+			{
+				"title" : "Spirit",
+				"elements" : [
+					"Adventurers for life",
+					"The only survivors",
+					"Nihilists",
+					"Good and Evil",
+					"Law and Chaos",
+					"One last big score"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To Get Out",
+				"elements" : [
+					"...of this party, with what you stole",
+					"...of this party, before he kills you",
+					"...of this dungeon, before the curse gets you",
+					"...of this dungeon, to see your family again",
+					"...of your obligation",
+					"...of this crazy scheme"
+				]
+			},
+			{
+				"title" : "To Get Even",
+				"elements" : [
+					"...with your rival",
+					"...with the Lich",
+					"...with your friend's killer",
+					"...with the other party in this dungeon",
+					"...with the man who did this to you",
+					"...with all these bastards"
+				]
+			},
+			{
+				"title" : "To Get Rich",
+				"elements" : [
+					"...through any means necessary",
+					"...through looting the bodies of your companions",
+					"...through teamwork, with the other party in this dungeon",
+					"...through stealing the Magic User's gem",
+					"...through finding that hidden stash",
+					"...through betraying the party"
+				]
+			},
+			{
+				"title" : "To Get Respect",
+				"elements" : [
+					"...from the party, by selflessness",
+					"...from the party, by being a badass",
+					"...from that hottie in the robes, by killing the Lich",
+					"...from your master, by obeying his secret command",
+					"...from the Lich, doing what the dream commanded",
+					"...from yourself, by finally doing it once and for all"
+				]
+			},
+			{
+				"title" : "To Get the Truth",
+				"elements" : [
+					"...about what those two are plotting",
+					"...about the Lich's plan",
+					"...about your brother's curse",
+					"...about why he killed her",
+					"...about why she really brought you all here",
+					"...about his sword"
+				]
+			},
+			{
+				"title" : "To Get Laid",
+				"elements" : [
+					"...by an old lover, to start over",
+					"...to break the curse",
+					"...by that hot new party member",
+					"...by the creature in the tomb",
+					"...to sweeten the betrayal",
+					"...because that will make everything better"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Not so bad...",
+				"elements" : [
+					"A wondrous foyer, decorated in coloured marbles",
+					"A royal chamber, in disarray",
+					"An evil chapel with pews and an altar",
+					"A hall adorned with painted doors",
+					"A columned throne room",
+					"An opulent fake crypt"
+				]
+			},
+			{
+				"title" : "No Escape!",
+				"elements" : [
+					"All the exits lead back to this room!",
+					"A descending rock seals the room!",
+					"Teleported into doorless room!",
+					"Sealed at the bottom of a 100 foot pit!",
+					"Rocks fall! Everyone dies!",
+					"Lava!"
+				]
+			},
+			{
+				"title" : "Pit traps",
+				"elements" : [
+					"Hidden, spiked and poisoned",
+					"Uncovered and obvious, but itself trapped",
+					"Improbably deep",
+					"Inhabited by something hungry",
+					"Triggered by a door or lever",
+					"Deep and ending in a stagnant pool"
+				]
+			},
+			{
+				"title" : "Arcane",
+				"elements" : [
+					"A magical laboratory containing strange vats",
+					"An embalming room, littered with body parts",
+					"An armoury containing a scintillating violet portal",
+					"An altar, opaque and glowing with a blue light",
+					"A huge carved face, its gaping maw unnaturally black",
+					"The crypt of the Lich, devilishly trapped and apparently empty"
+				]
+			},
+			{
+				"title" : "Doors",
+				"elements" : [
+					"A trapped false door",
+					"An impervious door",
+					"A teleportation gate",
+					"A secret door",
+					"A trapped secret door",
+					"A hall of illusory doors"
+				]
+			},
+			{
+				"title" : "Too good to be true",
+				"elements" : [
+					"A treasure room, filled with gold",
+					"A room with three magical chests: gold, silver and wood",
+					"A gold inlaid treasure chamber, guarded by wicked iron statues",
+					"The shattered remains of the Lich in a granite sarcophagus",
+					"A pleasant cavern, filled with gold and silver mists",
+					"A long corridor ending in natural light and smelling of fresh air"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Trap",
+				"elements" : [
+					"Trapped treasure chest",
+					"An explosive gem that grants cursed wishes",
+					"A smoking bronze urn, home to an Efreet",
+					"A demon-haunted crown and sceptre",
+					"A cloud of poisonous gas, sapping your strength",
+					"A cloud of poisonous gas, weakening your mind"
+				]
+			},
+			{
+				"title" : "Treasure",
+				"elements" : [
+					"A bejewelled crown",
+					"A pile of gems",
+					"A pile of gold",
+					"A bag of fake gems, well enchanted",
+					"A candelabra of enchanted candles",
+					"A bag of healing potions"
+				]
+			},
+			{
+				"title" : "Monster",
+				"elements" : [
+					"A friendly Siren, trapped by an enchantment",
+					"A huge Ochre Jelly",
+					"A Green Slime, disguised as a tapestry",
+					"A four-armed Gargoyle with a necklace of jewels",
+					"A jewelled skull with diamond teeth, hungry for the souls of the living",
+					"A giant Skeleton, wielding wicked scimitars"
+				]
+			},
+			{
+				"title" : "Weapon",
+				"elements" : [
+					"Silver-inlaid mace, deadly to undead.",
+					"Inherited sword",
+					"Sturdy mace",
+					"Crossbow",
+					"Curved dagger",
+					"A staff, channelling powerful magic"
+				]
+			},
+			{
+				"title" : "Useful",
+				"elements" : [
+					"A ten foot pole",
+					"A holy symbol",
+					"A magical gem that allows the user to see through illusions",
+					"A ring that makes the wearer invisible",
+					"A map of the tomb",
+					"A 50 foot length of rope"
+				]
+			},
+			{
+				"title" : "Cryptic message on the wall",
+				"elements" : [
+					"...promising death",
+					"...offering a hopeless choice",
+					"...promising treasure",
+					"...revealing the exit",
+					"...showing the way forward",
+					"...mentioning you by name"
+				]
+			}
+    ]
+  }
+}

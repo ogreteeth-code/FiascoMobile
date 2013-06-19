@@ -1,0 +1,302 @@
+{
+  "playset" :
+  {
+    "title" : "Bravazzo!",
+    "credits" : 
+    {
+      "author" : "Pete Douglas"
+    },
+    "movie_night" :
+    [
+      { "title" : "Shakespeare's Plays" },
+      { "title" : "Ridicule" },
+      { "title" : "The Name of the Rose" },
+      { "title" : "The Count of Monte Cristo" },
+      { "title" : "Les Liaisons dangereuses" },
+      { "title" : "The Baroque Cycle" }
+    ],
+    "score" :
+    {
+      "title" : "Ferrara, 1435",
+      "paragraphs" : [
+        "Bravazzo! is set in the Italian city-state of Ferrara in 1435 at the dawning of the Renaissance.",
+		"It fuses together the vain ambitions of the nobility, the desperate brutality of the peasantry, the venal profiteering of the merchants, and the mystical corruption of the priesthood in a con-fuse-ion of double-dealing, back-stabbing, empire- building, and courtly intrigue at a time when the Reason of Man was slowly emerging from the darkness of the Middle Ages.",
+		"Players will assume the roles of corrupt bishops, murderous nobility, ambitious bankers, pious priests, desperate brigands, virginal maidens, and coarse peasants, in a sordid medieval fiasco."
+      ],
+      "tagline" : "In Renaissance Italy"
+    },
+    "relationships" : [
+			{
+				"title" : "Religious",
+				"elements" : [
+					"Confessor to a sinner",
+					"We are pilgrims making pilgrimage in Ferrara",
+					"We took holy orders together",
+					"Papal inquisitor and heretic",
+					"Priest and parishioner",
+					"Holy mystic and adherent"
+				]
+			},
+			{
+				"title" : "Family",
+				"elements" : [
+					"Siblings",
+					"Father and bastard",
+					"Family by arranged marriage",
+					"Distant relatives through obscure heritage",
+					"We don't know we are related, but we are",
+					"Parent and child"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Rivals at court",
+					"Childhood friends now torn apart by old family feuds",
+					"Star-crossed lovers",
+					"A shared ambition binds us together",
+					"Highly unlikely friends",
+					"Firm but hugely competitive friends"
+				]
+			},
+			{
+				"title" : "Peasantry",
+				"elements" : [
+					"Lowly servants of the nobility",
+					"Convicted criminals, previous recipients of secular justice",
+					"We are landless brigands",
+					"Young bravos with only courage and sword to earn their fortune",
+					"We are peasant farmers who break our backs feeding the nobility",
+					"A village girl who provides the sole income for her family"
+				]
+			},
+			{
+				"title" : "Professional",
+				"elements" : [
+					"Innkeeper and servant",
+					"Master and student (dancing, fencing, music, courting, etc.)",
+					"A patron of the arts and an artist of genius",
+					"Tradesman and apprentice (stonemason, sword smith, tailor, etc.)",
+					"Rival merchant-bankers",
+					"Assassins with the same mark"
+				]
+			},
+			{
+				"title" : "Court",
+				"elements" : [
+					"We are fellow cogs in the machine of war (cook, dogsbody, courier, etc.)",
+					"Spy master and spy",
+					"Rival ambassadors from the courts of other European powers",
+					"Swiss mercenaries",
+					"We are court functionaries (castellan, minstrel, jester, etc.)",
+					"Lady and her lady-in-waiting"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To Win Renown",
+				"elements" : [
+					"... as a great lover of women",
+					"... as a duellist without peer",
+					"... as a man whom God loves like His own Son",
+					"... as someone not to be trifled with",
+					".. as someone who sacrificed their all for love",
+					"... as the victor in a great battle"
+				]
+			},
+			{
+				"title" : "Revenge Against",
+				"elements" : [
+					"... the fools who humiliated us",
+					"... the sibling who's crazed ambition will ruin you all",
+					"... a rich and powerful noble",
+					"... an indiscreet lover",
+					"... the bravo who so cavalierly ruined your friend",
+					"... those priests who damn good folk to hell"
+				]
+			},
+			{
+				"title" : "To Get Rich",
+				"elements" : [
+					"... by marrying into one of the houses of the old nobility",
+					"... by trusting that God will reward His Godly servant",
+					"... by murdering those of my family who stand in my way",
+					"... by blackmail",
+					"... by profiting from the wars",
+					"... through a theft of surpassing audacity"
+				]
+			},
+			{
+				"title" : "To Woo",
+				"elements" : [
+					"... the object of my heart's most fervent desire",
+					"... the wife of my enemy and make her fat with my seed",
+					"... and win the hand of someone of noble birth",
+					"... one of my own sex to sate the urgings of my ungodly flesh",
+					"... the daughter whose father will pay the largest dowry",
+					"... the Mademoiselle de Ferrant, whose purity will make sweet the pricking"
+				]
+			},
+			{
+				"title" : "Respect",
+				"elements" : [
+					"... from your venerable father",
+					"... from God who greatly desires to redeem your blackened soul",
+					"... from your jealous and vengeful peers",
+					"... from the nobility",
+					"... from the common people, by championing their cause",
+					"... from the many lovers who you have cast by the wayside"
+				]
+			},
+			{
+				"title" : "The Truth",
+				"elements" : [
+					"... about the Archbishop da Mosta's candidacy for the Papacy",
+					"... about a brutal burning at the stake",
+					"... about your parentage",
+					"... about the dark secret that hangs over the nobility of Ferrara",
+					"... about the shame that stains your family name",
+					"... about the disappearance of the Mademoiselle Luchezzi"
+
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "The Castello Estense",
+				"elements" : [
+					"The Government Room",
+					"The Garden of the Oranges",
+					"The Duke's bedchamber and surrounds",
+					"The Hall of Games",
+					"The dungeons",
+					"The Lion's Fortress"
+				]
+			},
+			{
+				"title" : "The Church Holdings",
+				"elements" : [
+					"The residences of the priesthood",
+					"Saint George's Basilica",
+					"The roadside cross just outside the city walls",
+					"The quiet gloom of Ferrara cemetery",
+					"The stalls of the confessional that reek of incense and whispered shame",
+					"The monastery of Sant'Antonio"
+				]
+			},
+			{
+				"title" : "Ferrara Itself",
+				"elements" : [
+					"The austere banking offices of the House of Medici",
+					"The bustling market square of the Palazzo Comunale",
+					"The small yet opulent ghetto of the Jews",
+					"The fragrant salon of the erudite Madame de Brazzi",
+					"The great stone city walls, pitted and scarred from countless battles",
+					"The Teatro Laceyo, a theatre crammed with gaudy entertainments"
+				]
+			},
+			{
+				"title" : "The Back Alleys",
+				"elements" : [
+					"A smoke-filled, spit-and-sawdust osteria (tavern)",
+					"Tangled muddy streets threaded through the cramped housing of the poor",
+					"Madame Orbizzo's House of Fragrant Courtesans",
+					"The pungent river wharf where life is lazy and crude",
+					"A quiet house, wherein a corpse lies swaddled in cloth",
+					"The snarling pigs and grimy ordure of the communal rubbish pits"
+				]
+			},
+			{
+				"title" : "The Countryside",
+				"elements" : [
+					"The grazing pastures of the Duke's herds",
+					"The ruined Roman fort",
+					"The forest cave dwelling of a holy hermit",
+					"The roadside inn wreathed in greasy smoke",
+					"The rutted causeway known as the Devil's Backbone",
+					"The Duke's vineyards where the vines hang heavy with fat grapes"
+				]
+			},
+			{
+				"title" : "The River Po",
+				"elements" : [
+					"The stinking tannery",
+					"The Ponte Este (a sturdy stone bridge)",
+					"The splendid home of the river pilot Renatto",
+					"The marshy and mist-covered lowlands of the Po Delta",
+					"The village of the coarse local fishermen",
+					"The picturesque flood meadows"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Religious",
+				"elements" : [
+					"A Papal Bull",
+					"A splinter from the True Cross of the Risen Christ",
+					"The personalised prayer-book of a noble lady",
+					"A wondrously illuminated Bible",
+					"The finger bones of a martyr",
+					"A plain wooden rosary"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+					"A letter of Excommunication from the Holy Roman Church",
+					"The gossip of the Master of the Duke's Bedchamber",
+					"The signed terms of a secret military alliance",
+					"Letters of love that make mention of unnatural longings",
+					"The transcript of the last confession of the Archbishop of Ravenna",
+					"The testimony of the filthiest of whores"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+					"An exotic Eastern sedan chair",
+					"A great metal flying machine, a most wondrous contraption!",
+					"A lumbering peasant wagon",
+					"An ornate carriage",
+					"A spirited Arabian palfrey",
+					"A richly outfitted river barge"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+					"A herd of pigs with a taste for meat",
+					"A garrotte greased with human fat",
+					"A paid assassin from faraway Arabia, dusky of skin and cruel of mien",
+					"A phial of a \"most cruel and agonising\" poison",
+					"A deep pit filled with sharp stakes and lime",
+					"A misericorde"
+				]
+			},
+			{
+				"title" : "Odd",
+				"elements" : [
+					"A choir of castrati",
+					"Wondrous plans for a great metal flying machine",
+					"A freakish cripple reputedly from the Kingdom of Prestor John",
+					"The Satanic journals of a heretic alchemist",
+					"A cockerel with the face of the Madonna visible in the feathers",
+					"A bloated and stinking corpse hauled from the river"
+				]
+			},
+			{
+				"title" : "Valuables",
+				"elements" : [
+					"A richly illuminated book of Byzantine pornography",
+					"An extant copy of Aristotle's Second Book of Poetics",
+					"A hermaphrodite courtesan, skilled in many forms of erotic pleasure",
+					"One half of a treasure map",
+					"A savage lion in a gilded cage",
+					"A fabulous necklace bedecked with rubies \"fat as hens eggs\""
+				]
+			}
+    ]
+  }
+}

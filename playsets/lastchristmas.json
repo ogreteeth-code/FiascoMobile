@@ -1,0 +1,309 @@
+{
+  "playset" :
+  {
+    "title" : "The Last Christmas in O'Hare",
+    "credits" : 
+    {
+      "author" : "Brian A Liberge"
+    },
+    "movie_night" :
+    [
+      { "title" : "2012" },
+      { "title" : "Airplane!" },
+      { "title" : "Airport" },
+      { "title" : "Catch Me if You Can" },
+      { "title" : "Die Hard 2" },
+      { "title" : "Heist" }
+    ],
+    "score" :
+    {
+      "title" : "Have a Merry Christmas",
+      "paragraphs" : [
+        "O'Hare airport is a mess. It's the 4th busiest airport in the world, so crowds of people pass through every day from all over the world. It's not even that people want to go to Chicago. They don't. It's just a decent place for connecting flights.",
+		"Maybe decent isn't the right word.",
+		"Tonight is Christmas Eve, and the sky is as full of planes as Union Station is full of trains during rush hour. The snowstorm is getting worse, grounding all flights until the morning and unceremoniously stranding several hundred people.",
+		"And then there's that whole \"end of the world\" thing that's supposed to happen any time now. I don't know about any worldwide cataclysm, but all that anger and confusion should make it easy to pull a fast one.",
+		"It'll be the last Christmas for at least one sap here. What a shit place to die in."
+      ],
+      "tagline" : "On the last Christmas in O'Hare"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+					"Siblings",
+					"Cousins",
+					"Parent and child",
+					"In-laws",
+					"Distant relations",
+					"Members of the same tribe"
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+					"Menial co-workers (fast food, retail)",
+					"Supervisor and employee",
+					"Skilled professionals (air traffic controllers, engineers)",
+					"Religious (Monks, priest and church goer)",
+					"Pilot and flight attendant",
+					"Rivals at the same company"
+				]
+			},
+			{
+				"title" : "The Past",
+				"elements" : [
+					"Friends from way back",
+					"Served in the same military unit",
+					"High School rivals",
+					"Ex-gang members",
+					"Unwilling Experience (abducted, test subjects)",
+					"Blood pact"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Divorcees",
+					"Current spouses",
+					"Fuck buddies",
+					"Just started dating",
+					"Secret lust",
+					"Married to the same person"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"Petty thieves",
+					"Smugglers",
+					"Serial killer and planned victim",
+					"Detective and counterfeiter",
+					"Bomber and accomplice",
+					"Drug dealer and supplier"
+				]
+			},
+			{
+				"title" : "Community",
+				"elements" : [
+					"Secret society members",
+					"Cultists of the ancient one",
+					"Coach and cheerleader",
+					"Health inspector and the inspected",
+					"Government official and personal assistant",
+					"U.S. Marshall and protected witness"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get out",
+				"elements" : [
+
+					"...of this painful existence",
+					"...of a deal",
+					"...of this controlling relationship",
+					"...of this goddamned airport",
+					"...of this country, before things catch up with you",
+					"...of this dead end job"
+				]
+			},
+			{
+				"title" : "To get even",
+				"elements" : [
+
+					"...for the impudence",
+					"...for putting me in prison",
+					"...and everyone will know",
+					"...for never noticing me",
+					"...with the god who screwed me",
+					"...with the whole world"
+				]
+			},
+			{
+				"title" : "To get rich",
+				"elements" : [
+
+					"...by midnight",
+					"...so you can buy it back",
+					"...so you can buy a new life",
+					"...in the next world anyway",
+					"...and cover my lies",
+					"...by screwing him over"
+				]
+			},
+			{
+				"title" : "To get respect",
+				"elements" : [
+
+					"...like you should have had in the first place",
+					"...to show her your worth it",
+					"...from these simple people",
+					"...from the police, by stopping something big",
+					"...from those cocky pilots",
+					"...by showing how dangerous you really are"
+				]
+			},
+			{
+				"title" : "To get the truth",
+				"elements" : [
+
+					"...about the human condition",
+					"...about what they think of you",
+					"...about what really happened at that bar",
+					"...about what's beneath the airport",
+					"...about who that person really is",
+					"...about where the money goes"
+				]
+			},
+			{
+				"title" : "To get laid",
+				"elements" : [
+
+					"...by your secret fantasy",
+					"...on the desk where he works everyday",
+					"...and get it all on camera",
+					"...midflight",
+					"...and drive them crazy",
+					"...before you die"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Inside",
+				"elements" : [
+					"Terminal 3, Orange Augustus fruit smoothies",
+					"Terminal 1, Jet Air customer service desk",
+					"Terminal 2, executive sky lounge",
+					"Terminal 2, Eric O'Ladder pub",
+					"Terminal 1, baggage claim",
+					"Terminal 4, immigration services"
+				]
+			},
+			{
+				"title" : "Outside",
+				"elements" : [
+					"Taxi stand",
+					"Runway 28",
+					"The stair car outside Gate B16",
+					"Huge mound of snow, just off the last runway",
+					"A private hangar",
+					"Helicopter pad with grounded military chopper"
+				]
+			},
+			{
+				"title" : "Employees Only",
+				"elements" : [
+					"Security holding cells",
+					"Air traffic control tower",
+					"Walk-in freezer of Joey's Burgers",
+					"Baggage sorting room",
+					"Jet Air staff locker room",
+					"Vault of the duty free jewelry store"
+				]
+			},
+			{
+				"title" : "Nearby",
+				"elements" : [
+					"Lobby bar of the Vacation Inn",
+					"Friendly Airport Shuttle Services",
+					"Birch Country Club",
+					"Lake Opeka",
+					"Schiller Woods South",
+					"Alliance Credit Union"
+				]
+			},
+			{
+				"title" : "Secret",
+				"elements" : [
+					"Closed Air National Guard base",
+					"Hidden shrine in janitorial services",
+					"Confiscated items storage",
+					"Old Indian burial ground off runway 10",
+					"Portal to the plane of madness under Terminal 3",
+					"Terminal 4, the hollowed out arm rest of a chair"
+				]
+			},
+			{
+				"title" : "The City",
+				"elements" : [
+					"The Sears Tower",
+					"Wrigley Field",
+					"Navy Pier",
+					"Sausage King sausage factory",
+					"Art Institute of Chicago",
+					"Rundown Motel 4, two and half miles out"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Untoward",
+				"elements" : [
+					"Bound and gagged call boy",
+					"Leather satchel filled with sex toys",
+					"Naughty elf costume",
+					"Naked photos of the Airport Manager",
+					"Journal of a mad bomber",
+					"Wreckage of a crashed airliner"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+					"A snowplow",
+					"An Antonov AN-225 cargo plane",
+					"A luggage cart",
+					"A Boeing 747 airliner",
+					"A yellow taxi cab",
+					"The St Mary's Holy Choir bus"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+					"All plastic Magnum",
+					"A vial of mutated virus",
+					"A very sharp pencil",
+					"Several thousand gallons of aviation fuel",
+					"A carving knife",
+					"A vest full of dynamite"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+					"An overheard payphone call",
+					"The x-ray scans of weeks' worth of passengers",
+					"The flight information of Senator Robert Mackey",
+					"The recipe to Joey's secret burger sauce",
+					"A phone number written on a pack of matches",
+					"The main server access codes"
+				]
+			},
+			{
+				"title" : "Valuables",
+				"elements" : [
+					"200 lbs. of uncut cocaine",
+					"A suitcase with 1 million dollars cash",
+					"The recovered gold of a French frontiersman",
+					"President Barrack Obama's birth certificate",
+					"An original Andy Warhol print",
+					"Action Comics issue #1"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"An original Thesis on the Mayan Calendar",
+					"A wedding ring on a silver chain",
+					"An autographed photo of Matthew Broderick",
+					"A tattered teddy bear with a missing eye",
+					"An old collapsible telescope",
+					"A 'Just Married' keepsake ornament"
+				]
+			}
+    ]
+  }
+}

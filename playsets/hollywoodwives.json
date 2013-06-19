@@ -1,0 +1,302 @@
+{
+  "playset" :
+  {
+    "title" : "Hollywood Wives",
+    "credits" : 
+    {
+      "author" : "Jobe Bittman"
+    },
+    "movie_night" :
+    [
+      { "title" : "The Real Housewives of Beverly Hills (TV)" },
+      { "title" : "Desperate Housewives (TV)" },
+      { "title" : "Get Shorty" },
+      { "title" : "Intolerable Cruelty" },
+      { "title" : "Thirteen Women" },
+      { "title" : "Down and Out in Beverly Hills" }
+    ],
+    "score" :
+    {
+      "title" : "The Good Lives",
+      "paragraphs" : [
+        "Palm tree-lined streets. Glittering beaches, movie star neighbors— Beverly Hills, California.",
+		"You all lead lives of fabulous luxury and wealth. Armani handbags, Louboutin shoes, jewelry by Neil Lane, personal chefs, the best bodies money can buy—you have it all. You’re living the southern Califonia dream. Your days are spent shopping on Rodeo Drive and your nights revolve around dining with your girlfriends at the trendy hot spot du jour.",
+		"Either that, or you clean up the mess those people leave behind.",
+		"Regardless, the glamorous life isn’t all it’s cracked up to be. The mansion’s almost in foreclosure, your financial advisors are running a Ponzi scheme, and the your philandering husband is banging the nanny. You can’t lose it all now. If only there was some way to make all your problems disappear... forever."
+      ],
+      "tagline" : "In Swanky Los Angeles"
+    },
+    "relationships" : [
+			{
+				"title" : "Friends",
+				"elements" : [
+					"Long-time neighbors",
+					"Sorority sisters",
+					"Frenemies",
+					"Of Carmella Holdenkampf",
+					"\"Our girls are in the same grade at The Marlborough School\"",
+					"BFFs"
+				]
+			},
+			{
+				"title" : "Family",
+				"elements" : [
+					"Sickeningly sweet couple",
+					"Step-parent and red-headed step-child",
+					"Mom's new boyfriend and custodial child",
+					"\"Are you two twins?\"",
+					"Acrimoniously divorced, constantly at each other's throats",
+					"My two moms"
+				]
+			},
+			{
+				"title" : "CRIME",
+				"elements" : [
+					"Mobsters",
+					"Keepers of a dark secret",
+					"Killer and would-be victim",
+					"Securities fraudster and undercover SEC agent",
+					"Con artist and mark",
+					"Crooked accountant and client"
+				]
+			},
+			{
+				"title" : "High Society",
+				"elements" : [
+					"Junior League associates",
+					"Members of the same country club",
+					"\"Save the American Rainforest\" co-chairpersons",
+					"Film industry enthusiasts",
+					"Eventual heirs to the Holdenkampf fortune",
+					"Parent and nanny"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Sugar daddy and sweetheart",
+					"Secret lovers, one wants to go public",
+					"Gay lovers",
+					"Holds a secret crush",
+					"Open marriage",
+					"Dominant and submissive"
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+					"A pair of one-credit IMDB pages",
+					"Employer and personal assistant",
+					"Plastic surgeon and patient",
+					"Celebrity and paparazzi",
+					"Life coach and work in progress",
+					"Personal trainer and trainee"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To Get Back Your Groove",
+				"elements" : [
+					"...by a personal actualization regimen involving kale",
+					"...by killing your enemy's favorite pet",
+					"...by moving a surprising amount of cocaine",
+					"...by maxing out all of that lousy cheater's credit cards",
+					"...by getting $250,000 in \"work\" done",
+					"...by getting freaky with the pool boy"
+				]
+			},
+			{
+				"title" : "To Get Famous",
+				"elements" : [
+					"...by launching a music career",
+					"...by getting people to think you're already famous",
+					"...by launching your kid's modeling career",
+					"...by marrying someone famous",
+					"...by doing something outrageous on a reality show",
+					"...by \"leaking\" naked photos/videos"
+				]
+			},
+			{
+				"title" : "To Get Rich",
+				"elements" : [
+					"...collecting on a hefty life insurance policy",
+					"...by kidnapping someone or some thing",
+					"...dragging a dying fiancé to the altar",
+					"...launching a new and completely untested product",
+					"...bilking your investors",
+					"...selling cut-rate time shares in a down market"
+				]
+			},
+			{
+				"title" : "To Utterly Ruin",
+				"elements" : [
+					"...a former spouse",
+					"...anyone who gets in your way",
+					"...Carmella Holdenkampf",
+					"...an emotionally distant parent",
+					"...someone who saw too much",
+					"...a family name"
+				]
+			},
+			{
+				"title" : "To cover up",
+				"elements" : [
+					"...the name of the real baby daddy",
+					"...that your family's not really dead. They live in a trailer in the Ozarks.",
+					"...what happened that night in Room 13",
+					"...the fact that you are broke",
+					"...the whereabouts of your daughter's missing prescriptions",
+					"...your immodest child"
+				]
+			},
+			{
+				"title" : "To Escape",
+				"elements" : [
+					"...crushing debt",
+					"...an unhappy marriage",
+					"...a federal indictment",
+					"...an air-tight contract",
+					"...sheer and utter boredom",
+					"...a stalker"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "shopping",
+				"elements" : [
+					"Barney's on Wilshire Boulevard",
+					"Shopping for jewelry at Neil Lane",
+					"Choza de Pollo on West Pico",
+					"Whole Foods",
+					"Makeup counter at Neiman Marcus",
+					"Golf pro shop"
+				]
+			},
+			{
+				"title" : "Party",
+				"elements" : [
+					"Black-tie benefit",
+					"Art opening for a fake artist",
+					"Three Nicaraguans in a van with no wheels",
+					"Celebrity charity auction",
+					"Bachelorette party",
+					"A new hot West Hollywood night club"
+				]
+			},
+			{
+				"title" : "Leisure",
+				"elements" : [
+					"A mansion's sauna room",
+					"Drinking margaritas by the pool",
+					"The Korean Bell and Friendship pavilion in San Pedro",
+					"Yoga class",
+					"Dining at a five-star restaurant",
+					"Resort gift shop"
+				]
+			},
+			{
+				"title" : "doctors and meds",
+				"elements" : [
+					"Marijuana dispensary",
+					"Psychologist's office",
+					"Cedars-Sinai Medical Center",
+					"\"Pharmacy\"",
+					"Plastic surgery consultation",
+					"Veterinary plastic surgery consultation"
+				]
+			},
+			{
+				"title" : "Travel",
+				"elements" : [
+					"Cruising on Mulholland Drive",
+					"Yacht dinner",
+					"Catalina Island for the weekend",
+					"Stuck in traffic on the 405",
+					"Waiting for a flight at LAX",
+					"St. Regis Hotel, Dana Point"
+				]
+			},
+			{
+				"title" : "Around town",
+				"elements" : [
+					"Capitol Records Building",
+					"Vietnamese nail salon",
+					"Betting on horses at Santa Anita",
+					"Botox party",
+					"Bunco night",
+					"The green room in Studio 11, NBC Studios Burbank"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Salacious",
+				"elements" : [
+					"Embarrassingly awkward sex tape",
+					"Monogrammed thong",
+					"Sticky riding crop",
+					"Computer with something disturbing in the web browser cache",
+					"Incriminating sexts",
+					"Love letters with something wrong with them"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+					"Stretch limousine",
+					"Bright yellow Hummer",
+					"Black town car with bullet-proof windows",
+					"Yacht",
+					"Gold Piper Comanche, tail number NC2799",
+					"Felt pro-level track bike, never ridden"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+					"Fireplace poker",
+					"Box of rat poison",
+					"Mercedes-Benz SLR McLaren",
+					"9 inch stiletto heel",
+					"Rigged tanning bed",
+					"Cocaine cut with fiberglass"
+				]
+			},
+			{
+				"title" : "More weapons",
+				"elements" : [
+					"Tainted Beluga caviar",
+					"Custom-made Perazzi shotgun",
+					"Super-sized bottle of bleach",
+					"Credit Suisse 400 troy ounce gold bullion bar",
+					"Bejeweled dog leash",
+					"Dirty Botox needle"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+					"Paternity test results",
+					"Security alarm codes",
+					"Post-it note with several passwords",
+					"Pre-nuptial agreement, possibly doctored",
+					"Whistleblower ready to turn state's evidence",
+					"Map to a grave in Forest Lawn"
+				]
+			},
+			{
+				"title" : "Valuable OR Sentimental",
+				"elements" : [
+					"Tattered photo of the young Holdenkampfs",
+					"Safety deposit box key",
+					"Pampered Bichon Frise puppy named \"Mr. Showbiz\"",
+					"Briefcase filled with untraceable bank notes",
+					"Ten kilos of \"Columbian Marching Powder\"",
+					"Picasso painting"
+				]
+			}
+    ]
+  }
+}

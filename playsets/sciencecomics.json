@@ -1,0 +1,299 @@
+﻿{
+  "playset" :
+  {
+    "title" : "Science Comics!",
+    "credits" : 
+    {
+      "author" : "Nick Wedig"
+    },
+    "movie_night" :
+    [
+      { "title" : "The Venture Brothers" },
+      { "title" : "Dr. Horrible’s Sing-A-Long Blog" },
+      { "title" : "The Tick (the live action show more than the cartoon)" }
+    ],
+    "score" :
+    {    
+      "title" : "Second String at Best",
+      "paragraphs" : [
+        "\"For every successful superhero who was belted by gamma rays, injected with magic ginseng or... for instance... bit by a radioactive spider like Spiderman, there are many, many more who are not so spectacular.\" --Flaming Carrot Comics, by Bob Burden",
+        "Somewhere out there, Solarman is saving the world from an invasive alternate reality full of insect-men. Somewhere else, the Wonder League fights for truth and justice against big name villains like Baron von Violence. And somewhere else, the superscientist Professor Chrysalis is discovering a cure for all known diseases.",
+        "That's not here, though. Sure, you work in the same \"costumed aggression\" industry as those guys. But you aren't the big name heroes or villains. You aren't even the henchmen of the top tier villains. You're down with the dregs. Third rate heroes, has-been villains and minions who couldn't even get hired as cannon fodder. These are a bunch of people with poor social skills, terrible impulse control, giant ambitions and access to deadly superscientific doomsday devices. When their personal lives get all muddled up into their professional hero and villain routine, it's sure to be a fiasco.",
+        "\"It's about the beauty of failure. It's about that failure happens to all of us... Every character is not only flawed, but sucks at what they do, and is beautiful at it and Jackson and I suck at what we do, and we try to be beautiful at it, and failure is how you get by... It shows that failure's funny, and it's beautiful and it's life, and it's okay, and it's all we can write because we are big... failures. (Laughter).\" --Doc Hammer, describing The Venture Brothers"
+      ],
+      "tagline" : "... in Science Comics!"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+          "Brother and sister",
+          "You think you aren't related, but you are",
+          "Parent and illegitimate child",
+          "Took in and adopted an orphan child",
+          "Close enough that you might as well be related",
+          "Clones"
+				]
+			},
+			{
+				"title" : "Social",
+				"elements" : [
+          "Neighbors",
+          "Old college pals",
+          "Bowling rivals",
+          "Small time drug peddler and client",
+          "\"He's renting out my spare room for a while\"",
+          "Journalist and inside source"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+          "Ex-husband and ex-wife",
+          "She wants him, he doesn't want her.",
+          "She left him for another man",
+          "Kicked out of the military on a Don't Ask Don't Tell beef",
+          "Had a one night stand, long ago",
+          "Both are after the same woman"
+				]
+			},
+			{
+				"title" : "Heroes",
+				"elements" : [
+          "Smart sidekick to a dumb hero",
+          "Old has-been and his number one fan",
+          "Hunted vampires together back in the seventies",
+          "Hero and his arch-enemy",
+          "Rival superscientists",
+          "Bodyguard and the guy you're guarding"
+				]
+			},
+			{
+				"title" : "Villains",
+				"elements" : [
+          "Similarly themed villains both fighting for use of the same name",
+          "Villain and the innocent caught in my evil plan",
+          "Supervillain and bureaucrat from the Global League of Villainous Enterprises",
+          "Supervillain team-up!",
+          "\"Curse your sudden but inevitable betrayal!\"",
+          "Both trying to kill the same hero"
+				]
+			},
+			{
+				"title" : "Minions",
+				"elements" : [
+          "Villain and number two henchman",
+          "Two henchmen assigned to the same task",
+          "\"He's covering for me while I'm busy\"",
+          "New recruit and old hand",
+          "Just assigned here by the henchmen temp agency",
+          "Taskmaster and cowardly minion"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get even...",
+				"elements" : [
+          "Before your debt comes due",
+          "With the lousy Captain Victory for what he did to you",
+          "With Undercover Girl for exposing your secret",
+          "With the whole damn world",
+          "With the Global League of Villainous Enterprises, for kicking you out",
+          "With your old college roommate"
+				]
+			},
+			{
+				"title" : "To get laid...",
+				"elements" : [
+          "By an honest to goodness superhero",
+          "To prove that you still got it",
+          "By a sexy green skinned extraterrestrial",
+          "And finally prove your love",
+          "To prove that you're better than him",
+          "To get at what you really want"
+				]
+			},
+			{
+				"title" : "To get rich...",
+				"elements" : [
+          "By robbing banks, taking hostages and the usual villain stuff",
+          "By holding the entire United Nations hostage",
+          "By passing off someone else's work as your own",
+          "So you can finally retire",
+          "By working as a gunman for hire",
+          "Because you desperately need the money for the operation"
+				]
+			},
+			{
+				"title" : "To get the truth...",
+				"elements" : [
+          "About who your parents really are",
+          "By impersonating a major name villain",
+          "About the true goals of the Global League of Villainous Enterprises",
+          "About The Ladybug's true identity",
+          "About what happens at midnight mass at the Cathedral of St. Drogo",
+          "About who has been embezzling from the henchmen's weekly lottery pool"
+				]
+			},
+			{
+				"title" : "To get respect...",
+				"elements" : [
+          "By killing the indestructible Captain Victory",
+          "From your mother, who said that you'd never amount to anything",
+          "From the kids that laughed at you back at Don Winslow High School",
+          "From the bureaucrats at the Global League of Villainous Enterprises who classified you as a 'D' class villain",
+          "By stealing what was said to be unstealable",
+          "From the Mole People that live under New York City"
+				]
+			},
+			{
+				"title" : "To get out...",
+				"elements" : [
+          "Of a legally binding merchandising contract",
+          "Of this disastrous blind date",
+          "Of this maximum security supervillain prison",
+          "Before the Global League of Villainous Enterprises discovers your unsanctioned use of a Class 1\"Doomsday Device\"",
+          "Of an uncomfortable social obligation",
+          "Before your carefully constructed lies fall apart"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "In the Arizona Desert",
+				"elements" : [
+          "The Air Force testing facility at Groom Lake",
+          "A rundown trailer park",
+          "The vast private estates of a deceased superscientist",
+          "The edge of a smoking crater",
+          "A long forgotten fallout shelter deep beneath the earth",
+          "A seedy strip club (is there any other kind?)"
+				]
+			},
+			{
+				"title" : "Downtown New York City",
+				"elements" : [
+          "Offices in a towering skyscraper",
+          "The United Nations",
+          "Times Square",
+          "Atop the Statue of Liberty",
+          "In an abandoned subway station",
+          "A dingy, cockroach ridden hotel room"
+				]
+			},
+			{
+				"title" : "The suburbs",
+				"elements" : [
+          "A planned community for supervillains",
+          "Laundrytown, your one stop for 2-hour self serve cleanliness",
+          "Your friendly neighborhood strip mall",
+          "A pep rally at Don Winslow High School (Go Crocs!)",
+          "Teapot Dome Regional Hospital",
+          "An estate auction for a deceased superscientist"
+				]
+			},
+			{
+				"title" : "Foreign parts",
+				"elements" : [
+          "Tijuana, baby",
+          "The deepest, darkest parts of the Amazon rainforest",
+          "A scientific research station on Antarctica",
+          "An ancient castle in Bavaria",
+          "An Asian nation mysteriously not on any map",
+          "At a rave in Stockholm"
+				]
+			},
+			{
+				"title" : "Exotic locales",
+				"elements" : [
+          "Onboard a pirate ship, out at sea",
+          "Onboard Daedalus 2, a geosynchronous space station",
+          "A volcanic island shaped like your head",
+          "On the astral plane",
+          "A gateway that opens on an alternate reality",
+          "Ten thousand years in the future, accessible via time portal"
+				]
+			},
+			{
+				"title" : "Intimate",
+				"elements" : [
+          "In a 1-year old girl's bedroom",
+          "Inside my own subconscious",
+          "Trapped in an elevator together",
+          "Inside Dr. Plasma's back pocket",
+          "The confessional booth at the Cathedral of St. Drogo",
+          "The Honeymoon Suite at the Hotel of Love"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Doomsday devices",
+				"elements" : [
+          "The Zero Time detonator",
+          "A nuclear device bought on the black market from some Serbians",
+          "A Saturninan Planetary-scale Gravitic Negater",
+          "Dr. Thunder's weather control device",
+          "Suleiman's Iron Sphere, wherein are trapped hundreds of deadly djinn",
+          "A single vial labelled \"extremely deadly nerve toxin\""
+				]
+			},
+			{
+				"title" : "Tawdry",
+				"elements" : [
+          "A baggie of cocaine stuffed inside a child's teddy bear",
+          "The photographs from Dr. Plasma's bachelor party",
+          "Both sets of financial records for the Wonder League's merchandising company",
+          "Lightning Girl's sex tape",
+          "A forged license to operate as a costumed hero",
+          "The severed hand of The Purple Claw"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+          "Your massive Captain Victory comic book collection",
+          "Your old bass guitar from your high school band",
+          "The only photo of your real mother",
+          "The phone number of the last woman you slept with",
+          "The Congressional Medal of Honor",
+          "Your old outfit from when you were a big shot"
+				]
+			},
+			{
+				"title" : "Valuable",
+				"elements" : [
+          "Blueprints to a secret project",
+          "Two ounces of Unobtanium, the rarest chemical compound in the universe",
+          "The alchemical formula for turning lead into gold",
+          "A mysterious mechanical device, built by ancient scholars, of unknown purpose",
+          "The deed to the Daedalus \"geosynchronous space station\"",
+          "The stolen contents of a bank safety deposit box"
+				]
+			},
+			{
+				"title" : "Superscience",
+				"elements" : [
+          "A malfunctioning shrink ray",
+          "A really stupid artificial intelligence",
+          "A prototype laser melee weapon that the military rejected (\"They said they don't do much hand to hand fighting any more.\")",
+          "A tabletop cold fusion reactor",
+          "Truth serum with unknown, potentially dangerous side effects",
+          "The Memory Erasing Tank"
+				]
+			},
+			{
+				"title" : "Vehicles",
+				"elements" : [
+          "A broken down hoverbike",
+          "An experimental supersonic jet",
+          "A jet propelled submersible",
+          "The Amazing Rocket Hat",
+          "The family minivan",
+          "An old muscle car, retrofitted with all the superspy gadgets"
+				]
+			}
+    ]
+  }
+}

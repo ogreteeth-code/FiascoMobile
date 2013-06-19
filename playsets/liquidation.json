@@ -1,0 +1,294 @@
+{
+  "playset" :
+  {
+    "title" : "Liquidation",
+    "credits" : 
+    {
+      "author" : "Ewen Cluney"
+    },
+    "movie_night" :
+    [
+      { "title" : "" }
+    ],
+    "score" :
+    {
+      "title" : "Liquidation",
+      "paragraphs" : [
+        "Crossings is one of the biggest bookstore chains in the country. Due to a changing market and (according to some) mismanagement, the company has been in pretty bad shape for a while. Now the other shoe has finally dropped, and Crossings has declared bankruptcy. All of the stores are closing, just as soon as they can liquidate enough of their merchandise. In the midst of it all, you’re going to become some of the employees and regulars, out to get the best deals (or steals), settled grudges, or maybe just get your life in order before the inevitable end."
+      ],
+      "tagline" : "All the damn time"
+    },
+    "relationships" : [
+			{
+				"title" : "Work",
+				"elements" : [
+					"Supervisor and worker",
+					"Longtime co-workers",
+					"Temp help and supervisor",
+					"Veteran and rookie of the retail wars",
+					"Manager and favorite snitch",
+					"Ranting partners"
+				]
+			},
+			{
+				"title" : "Dirty Deeds",
+				"elements" : [
+					"Wannabe con men",
+					"Vandals out to decimate the store",
+					"Pranksters with a common enemy",
+					"Selling stuff on the side",
+					"Shared guilt for something really bad",
+					"Drug dealer and customer"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+					"Gaming buddies",
+					"Lunch buddies",
+					"Friends since high school",
+					"Fanboys, ever competing in obscure trivia",
+					"Bibliophile and book dealer",
+					"True friends since forever"
+				]
+			},
+			{
+				"title" : "Loitering",
+				"elements" : [
+					"Manga hobo and otaku rival",
+					"Homeless guy and security guard",
+					"Wannabe novelist and eternal naysayer",
+					"Working and nonworking college students",
+					"Lonely old person and pestered staff",
+					"Wingnut and a staffer who listens for entertainment value."
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Illicit tryst",
+					"Pure romance, doomed to fail",
+					"Ex-somethings",
+					"Sexual harassment",
+					"Creepy stalking thing",
+					"Fuck buddies"
+				]
+			},
+			{
+				"title" : "History",
+				"elements" : [
+					"Blackmailer and blackmailee",
+					"Family of some kind",
+					"Bitter past rivalry",
+					"Had a band together",
+					"Former business partners, until Crossings ruined it",
+					"Childhood friends reunited at a crap job"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To Get Even",
+				"elements" : [
+					"...with the manager",
+					"...with the customers. All of them.",
+					"...with a co-worker",
+					"...with the guys at Games Boutique next door",
+					"...with the security guard",
+					"...with an asshole customer"
+				]
+			},
+			{
+				"title" : "To leave",
+				"elements" : [
+					"...this city and go home",
+					"...retail work. Forever. For real this time.",
+					"...before they realize what you did",
+					"...for a better job",
+					"...and just keep going",
+					"...this relationship"
+				]
+			},
+			{
+				"title" : "To Get Respect",
+				"elements" : [
+					"...from that hottie",
+					"...from your parents",
+					"...by doing something spectacularly illegal",
+					"...of some kind, dammit",
+					"...by getting published",
+					"...from your S.O."
+				]
+			},
+			{
+				"title" : "To Steal",
+				"elements" : [
+					"...anything that isn't nailed down",
+					"...some choice valuables",
+					"...the manager's prized sales award",
+					"...something insanely big",
+					"...someone's car",
+					"...someone's boyfriend/girlfriend"
+				]
+			},
+			{
+				"title" : "To Get Laid",
+				"elements" : [
+					"...before the store closes",
+					"...with the hot chick from the music department",
+					"...because it beats working",
+					"...and finally lose your virginity",
+					"...because you're so damn horny",
+					"...to dull the pain"
+				]
+			},
+			{
+				"title" : "To Find",
+				"elements" : [
+					"...a significant other",
+					"...where they hid the money",
+					"...where they hid that book you really wanted",
+					"...your meds",
+					"...a reason to go on",
+					"...the one who wronged you"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Store Attractions",
+				"elements" : [
+					"The Seattle Café",
+					"The bathrooms",
+					"The manga aisle",
+					"Information kiosk",
+					"Reading area with comfy sofas",
+					"Famous(ish) author's reading and signing"
+				]
+			},
+			{
+				"title" : "Behind the Scenes",
+				"elements" : [
+					"The manager's office",
+					"The warehouse",
+					"The janitorial closet",
+					"The break room",
+					"The shipping docks",
+					"The roof"
+				]
+			},
+			{
+				"title" : "Downtown",
+				"elements" : [
+					"A scummy fast food place",
+					"A trendy coffee shop",
+					"Surf Pizza",
+					"The parking garage",
+					"The First Pentecostal Church",
+					"The train station"
+				]
+			},
+			{
+				"title" : "Nearby",
+				"elements" : [
+					"ATM",
+					"Games Boutique (video game retailer)",
+					"The Sizzler",
+					"Drug store",
+					"Safeway (with a staff of hooligans)",
+					"The university"
+				]
+			},
+			{
+				"title" : "Departments",
+				"elements" : [
+					"eBook Reader Display",
+					"The bargain book aisles",
+					"Music & DVDs",
+					"The magazine racks",
+					"The children's section",
+					"Religious Fiction"
+				]
+			},
+			{
+				"title" : "Further Afield",
+				"elements" : [
+					"The manager's house",
+					"An employee's crappy apartment",
+					"Read To Live, an independent bookstore",
+					"A dark alley",
+					"Read and Read Again, a used bookstore",
+					"A seedy motel"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Books",
+				"elements" : [
+					"Teen paranormal romance bestseller with a fake autograph",
+					"Nude photography book",
+					"Rabid right-wing bestseller",
+					"Expensive programming textbook",
+					"2012 apocalypse book",
+					"Teen wizard bestseller boxed set"
+				]
+			},
+			{
+				"title" : "Weird Merch",
+				"elements" : [
+					"Disturbing anime plush",
+					"Magicwandflashlight",
+					"Sparkly vampire pillow",
+					"Novelty ice cube trays",
+					"Unintentionally suggestive children's toy",
+					"Henna tattoo kit and book"
+				]
+			},
+			{
+				"title" : "Secret",
+				"elements" : [
+					"Secret stash of prime merchandise",
+					"The store's cooked account books",
+					"A copy of the store's master key",
+					"Manager-only memos",
+					"The alarm disarm code",
+					"A surveillance tape"
+				]
+			},
+			{
+				"title" : "Lost and Found",
+				"elements" : [
+					"A wallet with $2,000 in cash",
+					"Something left in the back of the fridge",
+					"A working cell phone",
+					"A sex toy",
+					"A bag of weed",
+					"Nunchucks"
+				]
+			},
+			{
+				"title" : "Retail Necessities",
+				"elements" : [
+					"A pricing gun",
+					"A pallet of gift cards",
+					"The Customer Appreciation Bat",
+					"The nightly deposit bag of cash and receipts",
+					"A roll of discount stickers",
+					"The staff's penultimate paychecks"
+				]
+			},
+			{
+				"title" : "Just Weird",
+				"elements" : [
+					"A box of condiment packets",
+					"A really offensive tattoo",
+					"A suitcase full of underwear",
+					"A water bottle of yellow liquid",
+					"An obviously terrible movie script for \"Paleolithic Park\"",
+					"NSFW novelty candy"
+				]
+			}
+    ]
+  }
+}

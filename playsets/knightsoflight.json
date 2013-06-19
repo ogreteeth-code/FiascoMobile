@@ -1,0 +1,301 @@
+{
+  "playset" :
+  {
+    "title" : "The Knights of Light",
+    "credits" : 
+    {
+      "author" : "Ewen Cluney"
+    },
+    "movie_night" :
+    [
+      { "title" : "The Guild" },
+      { "title" : "Google search results for \"guild drama\"" },
+      { "title" : "the message boards of any given MMORPG..." },
+      { "title" : "you get the idea." }
+    ],
+    "score" :
+    {
+      "title" : "It’s about Damn Time",
+      "paragraphs" : [
+        "The Knights of Light are a small, local guild for an extremely popular MMORPG that shall remain unnamed. You’re all pretty damn serious about this whole thing. You play very regularly, and if you make plans for a raid you are absurdly dedicated to keeping them. Your fellow guild members don’t always get along, but for the most part everyone knows what they’re doing in the game. (Too bad you can’t say the same about life in general.) Chances are you haven’t actually met in person, but that’s probably going to change, because Fiasco games are crazy like that.",
+		"Slight Variations:",
+		"* Scene Types: Any time you start a scene, be sure to declare whether it’s in real life or online. \"Online\" doesn’t have to be in the game necessarily; you could, for example, have an entire scene consisting of players taking turns narrating guild forum posts or IM chat sessions.",
+		"* Events: For the purposes of this playset I've replaced \"Locations\" with \"Events.\" Apart from having a somewhat different flavor, these should slot in the same place just fine.",
+		"* Tilt Events: If you’re feeling particularly adventurous you could let players choose entries from the Events table for the Tilt."
+      ],
+      "tagline" : "In A Struggling MMORPG Guild"
+    },
+    "relationships" : [
+			{
+				"title" : "Guild Mates",
+				"elements" : [
+					"Leader and loyal member",
+					"Rebel and rule-follower",
+					"Newbie carry and mentor",
+					"Characters are married",
+					"Exes uncomfortably reunited in the guild",
+					"Close-knit guild founders"
+				]
+			},
+			{
+				"title" : "Online Relations",
+				"elements" : [
+					"Troll and victim",
+					"Stalker visiting in real life",
+					"Fake relationship",
+					"Role-playing partners getting personal",
+					"Frothing bloggers",
+					"Political arguers"
+				]
+			},
+			{
+				"title" : "Sort of Normal",
+				"elements" : [
+					"Child and overbearing parent",
+					"Manipulative younger sibling",
+					"Apartment neighbors",
+					"Hovel roommates",
+					"Gamer widow/widower",
+					"Roommates with benefits"
+				]
+			},
+			{
+				"title" : "In-Game Rivalry",
+				"elements" : [
+					"Guild warfare",
+					"Sleeping with the enemy",
+					"Constantly fighting over loot",
+					"Game strategy debaters",
+					"Competitive guild officers",
+					"Guild defector and seducer"
+				]
+			},
+			{
+				"title" : "Screwed Up",
+				"elements" : [
+					"One has a girlfriend, other lusts after her",
+					"Extorting favors for in-game stuff",
+					"Guild leader and someone trying to undermine them and take over",
+					"Inner circle and outer hanger-on",
+					"Queen bee and sex drone",
+					"Spouse working to sabotage partner’s gaming from within"
+				]
+			},
+			{
+				"title" : "Mundane",
+				"elements" : [
+					"Coworkers",
+					"Fellow college students",
+					"Vendor and customer",
+					"Manager and employee",
+					"Nerdy Significant Others",
+					"Drinking buddies"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "The Game",
+				"elements" : [
+					"To play as much as humanly possible. Maybe more.",
+					"To get a working computer ASAP",
+					"To get an awesome guild hall",
+					"Win at PVP, at all costs",
+					"Complete a massive raid for epic loot",
+					"Demand morality in how people play the game"
+				]
+			},
+			{
+				"title" : "Selfishness",
+				"elements" : [
+					"Get someone to buy you things.",
+					"Have the guild hall made how you want",
+					"Get suboptimal gear that looks pretty",
+					"Be the center of attention",
+					"Listen to loud, annoying music",
+					"Ruin others’ fun, just because"
+				]
+			},
+			{
+				"title" : "The Guild",
+				"elements" : [
+					"Lead the guild and make all important decision s",
+					"Complain about how much things suck now that a former member is gone",
+					"Tell everyone why the way they play is wrong",
+					"To not play with any girls (or any other girls?)",
+					"To take everything as an insult",
+					"Recruit new (and hopefully better) members so you can do bigger raids"
+				]
+			},
+			{
+				"title" : "Basics",
+				"elements" : [
+					"Human contact. Please.",
+					"Food. So hungry.",
+					"Reliable net access",
+					"Sleep, at long last",
+					"To go on a journey to find yourself (while still playing the game of course)",
+					"To avoid in-person human contact"
+				]
+			},
+			{
+				"title" : "To Get Laid",
+				"elements" : [
+					"...with a guild-mate",
+					"...with that hot avatar",
+					"...before you go crazy",
+					"...with each other, all the time",
+					"...and get something in-game in return",
+					"...for the first time"
+				]
+			},
+			{
+				"title" : "To Role-Play",
+				"elements" : [
+					"...your strange fetish",
+					"...a sordid romance",
+					"...without letting them know you have a crush in real life",
+					"...about how unbelievably awesome your character is.",
+					"...a perfectly beneficent character everyone likes",
+					"...at all times while gaming, without exception"
+				]
+			}
+    ],
+    "events" : [
+			{
+				"title" : "In-Game Holidays",
+				"elements" : [
+					"Zombie-Fest",
+					"Lovely Valentine Days",
+					"Christmas Present Rush",
+					"Easter Eggmania",
+					"Beer Fest",
+					"Turkey Massacre"
+				]
+			},
+			{
+				"title" : "Internet Famous",
+				"elements" : [
+					"Embarrassing viral video, and the inevitable auto-tune version",
+					"Epic blue text (moderator-posted) slam",
+					"Scheme that ruins the in-game economy",
+					"A guild member pulls a stupid stunt and gets banned",
+					"Your FAQ on a very narrow part of the game gets well-known",
+					"Internet stalker spreads your personal info far and wide"
+				]
+			},
+			{
+				"title" : "Real Life",
+				"elements" : [
+					"A relative dies and leaves a complicated inheritance",
+					"Evicted",
+					"Parents visiting",
+					"Forced to get a job",
+					"An ill-advised marriage proposal",
+					"Messy divorce"
+				]
+			},
+			{
+				"title" : "Meta-Game",
+				"elements" : [
+					"New expansion midnight launch",
+					"A new patch shakes up your characters' abilities",
+					"Account gets hacked",
+					"Game convention with exclusive content codes",
+					"The servers are down for several hours for maintenance",
+					"Account gets banned. And yes, it’s your own damn fault."
+				]
+			},
+			{
+				"title" : "Neighborhood",
+				"elements" : [
+					"The neighbor's S.O. turns out to hate you",
+					"The new neighbor is hot",
+					"A new wi-fi network shows someone from the game may be local now",
+					"Better internet access becomes available",
+					"An unwanted block party at your place",
+					"Blackmailed into actually doing stuff in real life"
+				]
+			},
+			{
+				"title" : "Guild Drama",
+				"elements" : [
+					"An auction creates bad blood",
+					"Member is given loot when the consensus is they don’t deserve it",
+					"A player ragequits while holding an important item",
+					"A member’s child is traumatized by guild chat",
+					"A member suddenly disappears without any explanation",
+					"A member fakes their death"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "In-Game",
+				"elements" : [
+					"The Sword of 1,000 Truths",
+					"A huge amount of gold",
+					"The Celestial Pony, an epic mount available as a separate purchase",
+					"A top-level character, for sale",
+					"A piece of legendary gear, soulbound to the wrong character",
+					"A game chat transcript"
+				]
+			},
+			{
+				"title" : "Human Factors",
+				"elements" : [
+					"Neglected kids",
+					"A Korean guy who died from playing too long",
+					"Neglected spouse",
+					"A kid who gold farms for you",
+					"A birth control device",
+					"A photo of that special someone"
+				]
+			},
+			{
+				"title" : "Bio",
+				"elements" : [
+					"2 gallons of ketchup",
+					"A case of ramen",
+					"A portable toilet",
+					"Dirty laundry",
+					"Medication",
+					"A delicious homemade meal"
+				]
+			},
+			{
+				"title" : "Computing",
+				"elements" : [
+					"A top-class gaming PC",
+					"Stolen wi-fi access",
+					"A work computer, used for games",
+					"Cheating tools",
+					"A computer virus",
+					"A USB drive"
+				]
+			},
+			{
+				"title" : "Almost Normal",
+				"elements" : [
+					"A crappy car, full of trash",
+					"Shiny new credit cards",
+					"A board game adaptation of the MMO you play",
+					"A bag of weed",
+					"A hollowed-out Bible",
+					"A girly bicycle"
+				]
+			},
+			{
+				"title" : "Oddities",
+				"elements" : [
+					"Game swag inflatable swords",
+					"Sorceress costume, XL size",
+					"Self-diagnosed Asperger’s syndrome",
+					"Hallucinations of your character talking to you",
+					"A sex toy that’s also unofficial merchandise of the game",
+					"Expensive commissioned art of your character, nude"
+				]
+			}
+    ]
+  }
+}
