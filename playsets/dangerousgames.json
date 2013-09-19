@@ -1,0 +1,314 @@
+{
+  "playset" :
+  {
+    "title" : "Dangerous Games",
+    "credits" : 
+    {
+      "author" : "Matt Forbeck"
+    },
+    "movie_night" :
+    [
+      { "title" : "Die Hard" },
+      { "title" : "The Taking of Pelham 123" },
+      { "title" : "Fanboys" },
+      { "title" : "Galaxy Quest" },
+      { "title" : "Comic Con Episode IV: A Fan's Hope" }
+    ],
+    "book_club" :
+    [
+      { "title" : "How to Play, by Matt Forbeck" },
+      { "title" : "How to Cheat, by Matt Forbeck" },
+      { "title" : "How to Win, by Matt Forbeck" },
+      { "title" : "Murder at the ABA, by Isaac Asimov" },
+      { "title" : "Bimbos of the Death Sun, by Sharyn McCrumb" },
+      { "title" : "Zombies of the Gene Pool, by Sharyn McCrumb" },
+      { "title" : "Rocket to the Morgue, by Anthony Boucher" },
+      { "title" : "Leverage: The Con Job, by Matt Forbeck" }
+    ],
+    "score" :
+    {
+      "title" : "The Most Dangerous Game",
+      "paragraphs" : [
+        "Gen Con. The largest tabletop gaming convention in the Western Hemisphere. A gathering of the particular branch of the geek tribe that likes to get its game on analog-style, rolling dice, pushing lead, and slapping down cards.",
+		"With something shy of 50,000 people descending on Indianapolis for a long, hot weekend in the middle of August, Gen Con is the size of a small city. A gamer-tastic Brigadoon that pops up on Wednesday in the Indiana Convention Center and then vanishes on Sunday, until next year.",
+		"They call it the Best Four Days in Gaming.",
+		"It might also be the deadliest.",
+		"This playset is based upon the Dangerous Games trilogy of novels written by Matt Forbeck. Each of these is set at Gen Con. See the new \"Book Club\" section for details"
+      ],
+      "tagline" : "At Gen Con"
+    },
+    "relationships" : [
+		{
+			"title" : "Family",
+			"elements" : [
+				"Single parent trying to relate to geeky teen",
+				"Gamer and spouse who doesn’t understand the lure",
+				"Siblings competing to find the coolest things",
+				"Siblings, one of whom now hates gamers",
+				"Newlyweds spending their honeymoon at Gen Con",
+				"Cousins who get together only for the show"
+			]
+		},
+		{
+			"title" : "Friends",
+			"elements" : [
+				"Twitter/Facebook friends who have never met in real life",
+				"College gaming buddies reunited at the show",
+				"Adult gaming buddies back home",
+				"Pals who only meet at Gen Con",
+				"Lovers having an affair at the convention",
+				"Game designers and drinking buddies - but I repeat myself"
+			]
+		},
+		{
+			"title" : "Business",
+			"elements" : [
+				"Game company coworkers",
+				"Boss and employee",
+				"Freelancer and corporate client",
+				"Partners in a new gaming company",
+				"Gen Con employees",
+				"Mentor and noob"
+			]
+		},
+		{
+			"title" : "Rivals",
+			"elements" : [
+				"Players in the Gen Con Puzzle Hunt",
+				"Heads of competing gaming companies",
+				"Players in the Romance of the Nine Kingdoms CCG tournament",
+				"Game designers determined to grab the best gigs",
+				"Cosplayers competing in the Costume Contest",
+				"Two sides of a love triangle"
+			]
+		},
+		{
+			"title" : "Teammates",
+			"elements" : [
+				"Workers in the True Dungeon",
+				"Members of an MMORPG guild",
+				"Players in the D&D Open",
+				"Demo volunteers in a gaming company booth",
+				"Podcasters",
+				"Actors or performers"
+			]
+		},
+		{
+			"title" : "Twisted",
+			"elements" : [
+				"Drug dealer and customer",
+				"Fence and thief",
+				"Cosplaying prostitute and client",
+				"Members of a real-combat club",
+				"Members of a game-cheating team",
+				"Ex-cons at the con"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "To Get Rich",
+			"elements" : [
+				"... so you can pay for your mother’s cancer treatments",
+				"... so you can pay off your company’s debts",
+				"... so you can impress someone",
+				"... so you can complete your collection",
+				"... so you can publish your genius design",
+				"... by running a Kickstarter"
+			]
+		},
+		{
+			"title" : "To Get Revenge",
+			"elements" : [
+				"... on the jackass who stole your lover",
+				"... on the bastard who stole your game design",
+				"... on the gamer who beat you in the finals of your favorite game",
+				"... on the fool who humiliated you in front of your peers",
+				"... on the blogger who destroyed your business",
+				"... on the filth who killed your best friend"
+			]
+		},
+		{
+			"title" : "To Learn",
+			"elements" : [
+				"... the secret behind the collectible card game patent",
+				"... who brought your favorite company down",
+				"... why your favorite author hasn’t finished that book yet",
+				"... where all the game designers meet",
+				"... who killed that famous game designer",
+				"... how to fix your game design"
+			]
+		},
+		{
+			"title" : "To Find",
+			"elements" : [
+				"... the last collectibles to complete your collection",
+				"... your one true love",
+				"... someplace to sleep tonight",
+				"... a drink",
+				"... a way (back) into the gaming industry",
+				"... your wallet"
+			]
+		},
+		{
+			"title" : "To Escape",
+			"elements" : [
+				"... the depression that threatens to destroy your life",
+				"... the writer’s block that’s killing your dreams",
+				"... the blame for the terrible things you’ve done",
+				"... the guilt for being here instead of where you should be",
+				"... from your hotel bill",
+				"... the people following you"
+			]
+		},
+		{
+			"title" : "To Win",
+			"elements" : [
+				"... the Magic: The Gathering pro tournament and its cash prize",
+				"... a job with the company of your dreams",
+				"... the heart of your secret crush",
+				"... back some of your self-respect",
+				"... enough money hustling games to get back home",
+				"... something, anything, for once"
+			]
+		}
+    ],
+    "locations" : [
+
+		{
+			"title" : "Exhibit hall",
+			"elements" : [
+				"A secret office inside a major game company’s booth",
+				"A demo table at the Indie Press Revolution booth",
+				"A one-table booth selling a single game",
+				"A jam-packed aisle in the heart of the show",
+				"A lonely writer’s table in Author’s Avenue",
+				"The last stall in a well-used rest room"
+			]
+		},
+		{
+			"title" : "Hotels",
+			"elements" : [
+				"The service elevator in the Hyatt",
+				"A private booth in Champions bar & grill at the Marriott",
+				"A table at the breakfast buffet at the Embassy Suites",
+				"The open balcony of a rooftop suite at the Omni",
+				"The (sometimes leaky) pool in the Westin",
+				"A railroad-car room in the Crowne Plaza"
+			]
+		},
+		{
+			"title" : "Bars and Restaurants",
+			"elements" : [
+				"The private game room in the back of the RAM",
+				"The karaoke lounge at the Slippery Noodle",
+				"The billiards table at the Pub",
+				"The fry station at the Steak & Shake",
+				"The meat locker at St. Elmo’s steak house",
+				"The white-tiled rest room at the House, a temporary bar in the basement of Union Station"
+			]
+		},
+		{
+			"title" : "Convention Center",
+			"elements" : [
+				"A back row in a panel at the Writer’s Symposium",
+				"The True Dungeon Fantasy Tavern, Hall D",
+				"A table at Games on Demand",
+				"The lots inspection area of the Gen Con Auction",
+				"The Battle of Pelennor Fields miniatures game, Hall C",
+				"A table at the Paint & Take miniatures painting lessons"
+			]
+		},
+		{
+			"title" : "Indy’s Streets",
+			"elements" : [
+				"A quiet bench in Convention Center Plaza",
+				"The DJ booth in Ike & Jonesy's nightclub",
+				"The balcony overlooking the Indianapolis Arts Garden",
+				"The lobby of the Indianapolis Metropolitan Police Department",
+				"The beer garden in the Georgia Street promenade",
+				"The dark alley just past Howl at the Moon"
+			]
+		},
+		{
+			"title" : "Off-Site",
+			"elements" : [
+				"The food court in the Circle Center Mall",
+				"A night club in the worst part of town, which no cabbie can find",
+				"The Grand Hall at Union Station",
+				"Baggage claim at the Indianapolis International Airport",
+				"One of the second-story walkways that connect downtown",
+				"The visitor’s area at the Marion County Jail II"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Games",
+			"elements" : [
+				"A signed copy of the white-box edition of Dungeons & Dragons",
+				"Any version of Munchkin",
+				"A generic ticket, for any game with an opening",
+				"A prototype of a new design",
+				"The latest indie RPG darling",
+				"A sold-out or embargoed board or battle game"
+			]
+		},
+		{
+			"title" : "Costumes",
+			"elements" : [
+				"Zombie",
+				"Klingon, may be associated with a charity jail",
+				"Chainmail (bikini or otherwise)",
+				"Superhero or villain",
+				"Dr. Who or companion (any version)",
+				"Stormtrooper from the 501st Legion"
+			]
+		},
+		{
+			"title" : "Merchandise",
+			"elements" : [
+				"A black T-shirt with snarky saying or company logo — or both",
+				"A Geek Chic gaming table",
+				"The Diana Jones Award (not for sale — yet)",
+				"Dice — lots of dice",
+				"Minatures",
+				"An app for that"
+			]
+		},
+		{
+			"title" : "Recreational",
+			"elements" : [
+				"A brick of drugs smuggled in a game",
+				"A growler of beer from the RAM or the Sun King Brewery",
+				"A flask full of whisky",
+				"A loaded smartphone/tablet/laptop",
+				"An invitation to the White Wolf/CCP/Onyx Path party",
+				"An escort’s business card"
+			]
+		},
+		{
+			"title" : "Weapons",
+			"elements" : [
+				"A working steampunk pistol",
+				"A replica sword with a real edge",
+				"A box cutter",
+				"A handgun",
+				"A sniper rifle",
+				"A tear gas canister"
+			]
+		},
+		{
+			"title" : "Events — or tickets to",
+			"elements" : [
+				"The Diana Jones Award party",
+				"The Killer Breakfast",
+				"A screening of either InSpectres or The Gamers: Hands of Fate",
+				"A private boxing match “for charity”",
+				"The ENnies",
+				"A private game launch party for Kickstarter backers"
+			]
+		}
+    ]
+  }
+}

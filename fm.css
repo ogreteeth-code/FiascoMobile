@@ -40,7 +40,7 @@ h3 {
 	font: normal 20px "Metrophobic", Helvetica, Arial, sans-serif;
 	}
 
-p { 
+p, ul { 
 	margin-top: 0;
 	padding: 0 8px;
 	font-family: "Metrophobic", Helvetica, Arial, sans-serif;

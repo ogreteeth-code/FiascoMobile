@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<base href="http://fiascomobile.ogreteeth.com/" />
+<base href="http://brooklynindiegames.com/fm/" />
 <link href="http://fonts.googleapis.com/css?family=Syncopate:400,700%7CMetrophobic" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="jquery-1.4.3.min.js"></script>
 <script type="text/javascript" src="jquery.tmpl.min.js"></script>
@@ -24,6 +24,11 @@
 		<p>{{each playset.movie_night}}${title}. {{/each}}</p>
 		{{/if}}
 
+		{{if playset.book_club}}
+		<h3>Book Club</h3>
+		<ul>{{each playset.book_club}}<li>${title}</li>{{/each}}</ul>
+		{{/if}}
+                
 		<div id="playnow" onClick="loadJSONPlayset('${filename}')">Play Now</div>
 		</div>
 	</div>

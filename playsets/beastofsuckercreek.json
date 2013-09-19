@@ -1,0 +1,305 @@
+{
+  "playset" :
+  {
+    "title" : "The Beast of Sucker Creek",
+    "credits" : 
+    {
+      "author" : "Jason Morningstar"
+    },
+    "movie_night" :
+    [
+      { "title" : "Legend of Boggy Creek" },
+      { "title" : "Sasquatch Odyssey" },
+      { "title" : "The Mysterious Monsters" },
+      { "title" : "Bigfoot and Wildboy" },
+      { "title" : "In Search of: Bigfoot" },
+      { "title" : "Creature From Black Lake" }
+    ],
+    "score" :
+    {
+      "title" : "The Beast Lives On",
+      "paragraphs" : [
+        "Sightings of a hairy, man-like creature in and around Sucker Creek go back hundreds of years—the legends of the Rayado people tell of Ni-teshi-ih; “The Strong One” who lived in the dark swamps of the Sucker Creek basin.",
+		"Since white settlement of the region, reports of blood-chilling cries in the night and occasional sightings of the Beast have been a fixture of local gossip. Is it a madman? A crazed bear? Something strange and wholly new to science? No one knows, but those who have crossed paths with it are convinced of one thing—the Beast of Sucker Creek is real, and you don’t want to make it angry.",
+		"Special Rule",
+		"The Beast of Sucker Creek may be real or not, but by the end of the game no conclusive proof of its existence can remain. If it is real and photos are taken they must be lost or erased (if it is fake they are obvious hoaxes). If the carcass is paraded down Main Street it must later be devoured by wild dogs. If somebody has its baby...",
+		"OK, that’s fine, actually.",
+		"Trainwreck Mode",
+		"This playset shares certain elements with Flyover and News Channel Six and they would be wonderful multi-Fiasco companions. Flyover-Beast- News Channel Six sounds very tasty, give it a try!"
+      ],
+      "tagline" : "In Sucker Creek Swamp"
+    },
+    "relationships" : [
+		{
+			"title" : "Town Friends",
+			"elements" : [
+				"Fellow black sheep at church",
+				"Law and outlaw",
+				"Developer and surveyor, Starfield Acres II",
+				"Lawyer and butcher",
+				"Former members of a prison gang",
+				"Owner and scooper, Lowell’s Ice Cream Shoppe"
+			]
+		},
+		{
+			"title" : "Swamp Friends",
+			"elements" : [
+				"Hog farmer and cattle rancher",
+				"“Neighbors”",
+				"Crazy one and sympathetic one",
+				"Pot grower and part-time help",
+				"Grew up hunting and fishing the bottomlands",
+				"UFO investigators"
+			]
+		},
+		{
+			"title" : "Monster Hunters",
+			"elements" : [
+				"Fancy equipment and huge debts",
+				"When not huffing butane",
+				"As a convenient cover story",
+				"Author of Skunk Apes: Fact or Fiction? and author of Incident at Sucker Creek",
+				"Earnest scientist and local guide",
+				"Television’s Rico “The Manhunter” Sanchez and local fan"
+			]
+		},
+		{
+			"title" : "Troublemakers",
+			"elements" : [
+				"\"You bring the rifles, I’ll bring the beer\"",
+				"Hoaxers",
+				"Escaped convict and accessory",
+				"Greenhorn swamp campers",
+				"Rival eyewitnesses",
+				"Weekend paramilitary nutjobs"
+			]
+		},
+		{
+			"title" : "Family",
+			"elements" : [
+				"Parent and child",
+				"Siblings",
+				"Distant relatives, believe it or not",
+				"Grandparent and grandchild",
+				"“Swamp kin”",
+				"In-laws, apparently"
+			]
+		},
+		{
+			"title" : "Romance",
+			"elements" : [
+				"When convenient",
+				"Married",
+				"\"Swamp married\"",
+				"Dogged pursuer and delighted object of affection",
+				"Co-authors of Taken by the Beast",
+				"The restraining order says no"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "To Wreck",
+			"elements" : [
+				"...somebody’s reputation; possibly your own",
+				"...Sucker Creek, by draining it to build Starfield Acres II",
+				"...your truck, muddin’",
+				"...yourself, with vodka and pills, permanently and irrevocably",
+				"...somebody’s chances",
+				"...a bulldozer or two, to save the animals"
+			]
+		},
+		{
+			"title" : "To Enjoy",
+			"elements" : [
+				"...finishing the research at last",
+				"...some quiet time after the accident",
+				"...a gorilla suit",
+				"...getting baked in your swamp hut",
+				"...the revenge you so richly deserve",
+				"...showing off your incontrovertible proof"
+			]
+		},
+		{
+			"title" : "To Profit",
+			"elements" : [
+				"...from misguided Beast hunters",
+				"...from a little recreational poaching",
+				"...from a secret map",
+				"...from selling 400 bales of marijuana",
+				"...from the monster evidence you’ve found",
+				"...from selling bogus residential plots in Starfield Acres II"
+			]
+		},
+		{
+			"title" : "To Prove",
+			"elements" : [
+				"...Dave Knudsen doesn’t own his land",
+				"...the Beast is a stupid hoax",
+				"...you can too take care of a family",
+				"...your love, the only way you know how",
+				"...Marcie Lowell plagiarized The Beast of Sucker Creek",
+				"...you aren’t crazy"
+			]
+		},
+		{
+			"title" : "To Contact",
+			"elements" : [
+				"...the Beast",
+				"...the global conspiracy hiding the truth about the Beast",
+				"...television’s Rico “The Manhunter” Sanchez",
+				"...whoever is behind the massive dope grow",
+				"...the hoaxers",
+				"...Spirits of the Ni-teshi-ih"
+			]
+		},
+		{
+			"title" : "To Explore",
+			"elements" : [
+				"...Marcie Lowell, if you know what I mean",
+				"...the deepest corner of the Sucker Creek basin",
+				"...legal ways to block the Starfield Acres II project",
+				"...the creepy old cabin on the island in the swamp",
+				"...the depths of your own amoral greed",
+				"...forbidden sexual feelings"
+			]
+		}
+    ],
+    "locations" : [
+		{
+			"title" : "West Side Of Sucker Creek",
+			"elements" : [
+				"Shab’s Bar on West Branch",
+				"Starfield Acres II building site",
+				"Failed farm and abandoned homestead",
+				"Swimming hole",
+				"Lowell family cattle pasture",
+				"Illegal dump pit"
+			]
+		},
+		{
+			"title" : "Around Town",
+			"elements" : [
+				"Semi truck parked behind the Community Health Clinic",
+				"Clipper Bank and Trust",
+				"Coffee and pie with a “witness” at the Windmill Diner",
+				"Council chamber in City Hall, set up for a press conference",
+				"Untouched Cold War bunker beneath the tire shop",
+				"Glove box of a rental car"
+			]
+		},
+		{
+			"title" : "East Side Of Sucker Creek",
+			"elements" : [
+				"Equipment staging area off Jaguar Road",
+				"Patch of burning, lightning-struck swamp",
+				"A dry island in the tea-colored water",
+				"Booby trapped dope farm",
+				"Hollow tree full of bees",
+				"Mysterious circular dead spot, “The Beast’s Tramping Ground”"
+			]
+		},
+		{
+			"title" : "The Spawning Channel",
+			"elements" : [
+				"Rabid raccoon’s den",
+				"Dave Knudsen’s shack",
+				"Sewage treatment plant with a torn up fence",
+				"Shallow grave in a neglected sunflower field",
+				"News Channel Six Action Van",
+				"Drainage ditch “party cave”"
+			]
+		},
+		{
+			"title" : "Way Back Deep",
+			"elements" : [
+				"Beaver dam full of beavers",
+				"Bramble patch with a hidden tunnel through it",
+				"The Beast’s stinking lair",
+				"Concealed suck-hole",
+				"Hunter’s blind, way up a tree",
+				"In a sinking canoe"
+			]
+		},
+		{
+			"title" : "The Big City",
+			"elements" : [
+				"Mystical Tymes book store",
+				"Studios of News Channel Six",
+				"Law offices of Dumfries, Kinkade, and Prantz PA",
+				"University Biological Sciences laboratory",
+				"Costume Towne",
+				"Crappy trailer with 20 cars parked in the yard"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Suspicious",
+			"elements" : [
+				"Gigantic tracks leading into the woods",
+				"Tripwires at ankle height",
+				"Pink shotgun",
+				"Flatboat full of “gardening supplies”",
+				"Gorilla suit, slightly used",
+				"Blood-curdling howls echoing through the night"
+			]
+		},
+		{
+			"title" : "Expensive",
+			"elements" : [
+				"Winger, world champion Bluetick Coonhound",
+				"Cessna 206 airplane, by the hour",
+				"TV equipment packed into an airboat",
+				"Diamond necklace worth more than a car",
+				"Caterpillar 319D Excavator",
+				"Catered lunch for 100 distinguished guests"
+			]
+		},
+		{
+			"title" : "Depressing",
+			"elements" : [
+				"Very small coffin",
+				"Group photo from the 2006 Bigfoot Jamboree",
+				"Pile of overdue bills and collections notices",
+				"Love letter sealed in a Zip-Loc freezer bag",
+				"Jar of “Authentic Indian Hawthorn Cancer Cure”",
+				"Wedding ring snagged on a fishing hook"
+			]
+		},
+		{
+			"title" : "Monster Hunting",
+			"elements" : [
+				"Tranquilizer dart rifle",
+				"Handmade orangutan call",
+				"Photos from a camera trap",
+				"SCUBA gear and a speargun",
+				"Rotting meat and fox urine in a cooler",
+				"Green 1965 Chevrolet custom van"
+			]
+		},
+		{
+			"title" : "Swampy",
+			"elements" : [
+				"Trap line for catching medium-sized animals",
+				"Dead guy",
+				"Ghost lights deeper in",
+				"Water moccasin",
+				"Tricked out Gator XUV 825 off-road vehicle",
+				"Airtight military case floating in an eddy"
+			]
+		},
+		{
+			"title" : "Chump Hunting",
+			"elements" : [
+				"Plaster cast of a Beast foot",
+				"Dog-eared, annotated copy of Incident at Sucker Creek",
+				"Business card reading “SWAMP EXPERT”",
+				"Grainy but haunting photograph",
+				"Dave Knudsen, hapless local guide",
+				"Fancy, hotted-up paintball gun"
+			]
+		}
+    ]
+  }
+}

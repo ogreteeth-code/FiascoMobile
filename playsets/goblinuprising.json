@@ -1,0 +1,303 @@
+{
+  "playset" :
+  {
+    "title" : "Goblin Uprising",
+    "credits" : 
+    {
+      "author" : "Jason Pitre"
+    },
+    "movie_night" :
+    [
+      { "title" : "Gremlins" },
+      { "title" : "The Hobbit" },
+      { "title" : "Fellowship of the Ring" },
+      { "title" : "The Two Towers" },
+      { "title" : "Return of the King" }
+    ],
+    "score" :
+    {
+      "title" : "The Goblins are Coming",
+      "paragraphs" : [
+        "My king, the goblins of the eastern kingdoms threaten us all. Our scouts have heard rumours of raids on the Halfling homesteads and assaults on the elven settlements in the Morkwood. Strange noises have been heard within their putrid warrens and our wizards have sensed a surge of dark energies.",
+		"As you know, the goblins are small in body but great in ambition. They have a devious cunning and an innate skill for destruction. They breed in large numbers, cast primitive sorceries, and consort with all sorts of monsters. Most dangerous of all, they have blatant disregard for their own petty lives.",
+		"Our only hope is that they are too busy fighting each other, sire.",
+		"Tips and Dirty Tricks",
+		"This playset focuses on playing petty, vicious goblins in the style of a classic fantasy setting with dungeons and/or dragons involved. Bonus points for speaking in goblin voices, or after playing the Dragonslayers playset.",
+		"If you have multiple conflicting relationships, consider having each player controlling multiple distinct goblins. You will need some spares."
+      ],
+      "tagline" : "In The Goblin Warrens"
+    },
+    "relationships" : [
+		{
+			"title" : "Blood",
+			"elements" : [
+				"Brood-twins",
+				"Brood-kin",
+				"Matron / Whelp",
+				"Sire / Whelp",
+				"Pureblood / Half-demon",
+				"Pureblood / Half-human"
+			]
+		},
+		{
+			"title" : "Professions",
+			"elements" : [
+				"Axe-grinders",
+				"Bone-pickers",
+				"Rat Farmers",
+				"What passes for goblin diplomacy",
+				"Tinkerers",
+				"Rival Artists"
+			]
+		},
+		{
+			"title" : "Clan",
+			"elements" : [
+				"Raiding Leader / Bumbling Scout",
+				"Mad Shaman / Reckless Apprentice",
+				"Goblin Overseer / Monstrously Large Goblin",
+				"Chief / Matron",
+				"Headhunter / Traitor",
+				"Tyrant / Activist Leader"
+			]
+		},
+		{
+			"title" : "Raiding",
+			"elements" : [
+				"Used to be in a band together",
+				"Rival spider riders",
+				"Raiding leader / Prisoner of war",
+				"Bonesetter / patient",
+				"Only survivors of a botched raid",
+				"Goblin sappers"
+			]
+		},
+		{
+			"title" : "Cults",
+			"elements" : [
+				"Rat Whisperer Cultists",
+				"Shroom Tenders Cultists",
+				"Sludge Keepers Cultists",
+				"Forbidden worshippers of the human gods",
+				"Worshippers of the great Gorlaxythak, Demon of Petty Vengeance",
+				"Goblin Labour Union Local 166"
+			]
+		},
+		{
+			"title" : "Romance",
+			"elements" : [
+				"Hopeless romantic / heartless manipulator",
+				"Paired for political power",
+				"Paired because of prophesy",
+				"Jealous rivals",
+				"Keeping love in the family",
+				"Goblin divorce is rare for a reason...."
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "To Steal",
+			"elements" : [ 
+				"...Enough rats for the winter",
+				"...The human siege engine",
+				"...The dwarven forge",
+				"...The halfling pipeweed harvest",
+				"...A heart through devious seduction",
+				"...Their hearts for dark rituals"
+			]
+		},
+		{
+			"title" : "To Destroy",
+			"elements" : [ 
+				"...The local barracks",
+				"...The village militia",
+				"...The elven village",
+				"...The leader of the holy order",
+				"...The archmage’s ritual protections",
+				"...The dragon from the east"
+			]
+		},
+		{
+			"title" : "To Get Away",
+			"elements" : [ 
+				"...With the goblin treasury",
+				"...Before the heroes arrive",
+				"...Before they realize who you really work for",
+				"...With a murder that matters",
+				"...With the love of your life",
+				"...With strange heresy"
+			]
+		},
+		{
+			"title" : "To Ally with...",
+			"elements" : [ 
+				"...A brood of oozes and jellies",
+				"...A multi-eyed abomination in love",
+				"...A scheming band of dark elves",
+				"...The things from outside reality",
+				"...A human kingdom in civil war",
+				"...A dragon with unusual ambitions"
+			]
+		},
+		{
+			"title" : "To Get Petty Vengeance",
+			"elements" : [ 
+				"...For a promise broken",
+				"...For a trinket stolen",
+				"...For a rumour spread",
+				"...For a truth revealed",
+				"...For a vision denied",
+				"...For stealing all the credit"
+			]
+		},
+		{
+			"title" : "To Rule",
+			"elements" : [ 
+				"...The rival goblin tribe",
+				"...A new tribe of your own",
+				"...The halfling village",
+				"...By marrying into royalty",
+				"...A mercenary company",
+				"...Everything"
+			]
+		}
+    ],
+    "locations" : [
+		{
+			"title" : "Home",
+			"elements" : [
+				"The Vermin Stables",
+				"The Feeding Hall",
+				"The Bone Pit",
+				"The trapped tunnels",
+				"The shaman’s grotto",
+				"The Chief’s treasury"
+			]
+		},
+		{
+			"title" : "It’s a Trap!",
+			"elements" : [
+				"The Rival Kobold Hive",
+				"Campsite occupied by a band a human adventurers",
+				"Temple of the Demon God",
+				"Arcane Library",
+				"Grimtooth’s Unreliable Deathtrap",
+				"The Dragon’s Lair"
+			]
+		},
+		{
+			"title" : "The Human Fortress",
+			"elements" : [
+				"The Catacombs",
+				"The Scum and Villainy Tavern",
+				"Kordhelm military outpost",
+				"Lord Trammel’s Keep",
+				"The Temple of Everlasting Peace",
+				"The War Wizard’s Academy"
+			]
+		},
+		{
+			"title" : "The Halfling Village",
+			"elements" : [
+				"The Hobford corn maze",
+				"A hops plantation, minimally guarded",
+				"Lomlet mushroom farm",
+				"The Stout Semolina Bakery",
+				"The Ironbone mine",
+				"The Bazaar of the Bizarre"
+			]
+		},
+		{
+			"title" : "That Ugly Green Forest",
+			"elements" : [
+				"The Dryad’s Glen",
+				"The Web-filled Morkwood Forest",
+				"The charred remains of an ancient forest",
+				"The Twitching Woods",
+				"The wood elf camp, filled with flowers.",
+				"The sleeping giant hills"
+			]
+		},
+		{
+			"title" : "Wonderful Wetlands",
+			"elements" : [
+				"The breeding mud pit",
+				"Abandoned mine with a dark secret",
+				"The sludge grotto",
+				"The ghost marsh",
+				"The leech-filled fishing hole",
+				"The toxic cesspool"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Pointy Sticks",
+			"elements" : [
+				"A half-melted iron fire poker",
+				"A wizard’s staff with a knob at the end",
+				"A spear coated in glowing ichor",
+				"A large skewer of rats",
+				"The broken banner stand of the lost army",
+				"The cursed sword of the demon king"
+			]
+		},
+		{
+			"title" : "Goblin Ritual Magics",
+			"elements" : [
+				"Torog’s Uncontrollable Explosive Flatulence",
+				"The Discipline of Kleptomancy; divination via theft",
+				"The Ritual of Reincarnation",
+				"Vermin Swarm Sorcery",
+				"Summoning Random Planar Beings",
+				"Goblins shouldn’t throw fireballs"
+			]
+		},
+		{
+			"title" : "Spoils of War",
+			"elements" : [
+				"A slightly damaged pipe organ",
+				"A massive pile of exotic art",
+				"The contents of an herbalist’s shop",
+				"An entire village’s livestock",
+				"A wagon load of costumes being sent to the bardic college",
+				"A mountain of miscellaneous, mundane books"
+			]
+		},
+		{
+			"title" : "Abandoned by Adventurers",
+			"elements" : [
+				"The Crown of fearlessness, slightly dented",
+				"The map of the human city",
+				"A cask of 800-year-old dwarven booze, half-filled",
+				"A bag of holding, filled with strange tools",
+				"A deck of countless things",
+				"A dozen unlabeled potions"
+			]
+		},
+		{
+			"title" : "Weapons",
+			"elements" : [
+				"Poisoned dagger (dirk of vicious viper’s venom)",
+				"Gnomish repeater crossbow (X-35 automatic projectile launcher)",
+				"Experimental goblin enhancement potions",
+				"Stolen Human catapult",
+				"An enchanted flame whip",
+				"500lbs of explosives and unreliable fusing"
+			]
+		},
+		{
+			"title" : "Captives and Food Stores",
+			"elements" : [
+				"A self-righteous paladin, abandoned by her friends",
+				"A trade merchant, seeking to make a deal",
+				"A noble child with a bizarre magical talent",
+				"A Cave Troll, slave since birth",
+				"A dwarven priest, evangelical and persuasive",
+				"A demon, strangely obedient"
+			]
+		}
+    ]
+  }
+}
