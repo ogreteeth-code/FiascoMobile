@@ -1,297 +1,300 @@
 {
   "playset" :
   {
-    "title" : "1913 New York",
+    "title" : "Zannen Gakuen",
     "credits" : 
     {
-      "author" : "Jason Morningstar"
+      "author" : "GremlinLegions"
     },
     "movie_night" :
     [
-      { "title" : "City Lights" },
-      { "title" : "Pink Tights" },
-      { "title" : "The Saphead" },
-      { "title" : "The Purple Lady" }
+      { "title" : "Great Teacher Onizuka" },
+      { "title" : "Ouran High School Host Club" },
+      { "title" : "Boys Over Flowers (a.k.a. Hana Yori Dango, either anime version, Japanese drama, or Korean drama versions)" },
+      { "title" : "Vampire Knight" },
+      { "title" : "Maria Watches Over Us" },
+      { "title" : "or any anime dealing with exclusive high schools with an elitist culture" }
     ],
     "score" :
     {
-      "title" : "The End Of The Beginning",
+      "title" : "An Elite Academy for the most Elite Students",
       "paragraphs" : [
-        "Fin de si&egrave;cle New York, 1913 - a city perched on the edge of the abyss.",
-        "Modernity is at war with tradition, and automobiles uneasily share the roads with horse-drawn carriages. Change - sweeping, terrible change - is in the air, and all of Europe is about to be thrown under the bus, dragging the world down after it. But tonight? For now? Cars that can go forty miles an hour, women not ashamed to show off a little ankle, and as much opium as you care to smoke. In the dirty places labor is organizing, anarchists are murdering plutocrats, and children are going hungry.",
-        "But it's a pretty good world if you are on top of it, so find a way to get on top, fast..."
+        "It is the school that all the other schools whisper about. The campus grounds are the size of a park. The school buildings look like some grand, Hollywood mansion that is only ever seen in the movies. The teachers and administrators are all either certified geniuses, former company executives, or celebrities in their own right.",
+        "And then there's the students. The heir to the Dengeki Electronics Zaibatsu? He goes there. The daughter of the Miyamoto Department Store president? She goes there too. That creepy kid who was on the television the other day helping police solve crimes with his \"psychic\" predictions? Yep, he's there as well.",
+        "In a school where vast sums of money are commonplace, and the least privileged child is merely the son or daughter of an international investment banker, all concepts of normality are thrown out the window. Who is going to tell a child that can purchase small countries that they can't skip out on the weekly test? Who is going to teach the stuck-up handsome boy that just because he can fuck any girl he wants, doesn't mean he should?",
+        "For the sake of this playset, we are assuming that you have a copy of the newly released Fiasco Companion. You'll want to use the softer Tilt and Aftermath tables...unless you really want the story of your rich kids to end traumatically, in which case, go for it! But it'll probably be more fun if it isn't taken as seriously as regular games of Fiasco."
       ],
-      "tagline" : "In 1913 New York"
+      "tagline" : "At the Academy Cultural Festival"
     },
     "relationships" : [
 			{
 				"title" : "Family",
 				"elements" : [
-					"Godparent and child",
-					"Parent and stepchild",
-					"Siblings",
-					"Cousins",
-					"Grandparent and grandchild",
-					"Relatives in the Old Country"
+					"Close Siblings",
+					"Twin Siblings",
+					"Estranged Siblings",
+					"Step-Siblings",
+					"Raised as Siblings",
+					"Distant yet Identical Cousins"
 				]
 			},
 			{
-				"title" : "Work",
+				"title" : "Friends",
 				"elements" : [
-					"Former co-workers",
-					"Current co-workers",
-					"Supervisor / employee",
-					"Working stiff / client (mechanic, plumber, gardener, groomsman)",
-					"Salesman and customer",
-					"Professional and client (pastor, lawyer, accountant, prostitute)"
+					"Classmates",
+					"Best Friends Forever",
+					"Childhood Friends",
+					"Friendship of Convenience",
+					"Sempai/Kohai",
+					"Friend in Common"
 				]
 			},
 			{
-				"title" : "Friendship",
+				"title" : "Rivals",
 				"elements" : [
-					"Manipulator and victim",
-					"Old friends",
-					"Disreputable friends (criminal, opium addict, gambling, whoring)",
-					"Friendly sporting rivals",
-					"Club / society friends",
-					"Social adversaries"
+					"...for Mika Koizumi's Affection",
+					"...for Genzo Hanabusa's Respect",
+					"...for the Best Grades",
+					"...for the Most Popular",
+					"...for Sensei Horiguchi's Praise",
+					"...for the Best University"
+				]
+			},
+			{
+				"title" : "Enemies",
+				"elements" : [
+					"Estranged Former Best Friends",
+					"Bully and Weakling",
+					"Opposing Gangs",
+					"Distant yet Bitterly Angry Cousins",
+					"You Stole My Girlfriend!",
+					"You Stole My Birthright!"
 				]
 			},
 			{
 				"title" : "Romance",
 				"elements" : [
-					"Spouses in name only",
-					"Current spouses",
-					"Stalker and obsession",
-					"Broken engagement or one-time fling",
-					"Lovers",
-					"Former lovers"
+					"Deeply in Love",
+					"Tumultuous Love",
+					"Stalker",
+					"Yaoi",
+					"Yuri",
+					"Forbidden Love"
 				]
 			},
 			{
-				"title" : "Crime",
+				"title" : "Authority",
 				"elements" : [
-					"Graft giver and receiver",
-					"Gamblers",
-					"Thieves (shoplifters, burglars, purse snatchers)",
-					"Con man and mark",
-					"Hoodlums (gangsters, knuckleheads, delinquents)",
-					"Drug people (sellers, distributors, users)"
-				]
-			},
-			{
-				"title" : "Community",
-				"elements" : [
-					"Appointed officials (Sanitation or commerce board, judges)",
-					"Volunteers (Neighborhood committee, election officials)",
-					"Church (Lay reader, deacon, sexton, temperance society)",
-					"Ethnic group (Clubs and societies, education or relief society)",
-					"Vigilantes (Vigilance committee, ethnic gang)",
-					"Radicals (Organizers, anarchists, Wobblies)"
+					"Wealthy Heir & Toady",
+					"Wealthy Heir & Secret Guard",
+					"Class President & Treasurer",
+					"School Paper Editor & Photographer",
+					"Occult Club President & UFO Otaku",
+					"Kendo Captain & New Member"
 				]
 			}
     ],
     "needs" : [
 			{
-				"title" : "To free your body and soul",
+				"title" : "To Escape",
 				"elements" : [
-					"...From the slums, before they eat you alive",
-					"...From your oppressive family",
-					"...From your spouse",
-					"...From an unwanted lover",
-					"...From a heavy obligation to a family member",
-					"...From a crushing debt coming due"
+					"...from a mountain of debt owed to the Yakuza",
+					"...from a debt of honor owed to the Principal",
+					"...from everyone's critical judgement",
+					"...from your date with Keiko Fujita",
+					"...from your duel with \"Razor\" Ishikawa",
+					"...from this crazy School!"
 				]
 			},
 			{
-				"title" : "To avenge a great wrong",
+				"title" : "To Get Even",
 				"elements" : [
-					"...perpetrated by the New York political machine",
-					"...caused by America, which has turned you into a monster",
-					"...committed by a police officer",
-					"...covered up by your own family",
-					"...arrogantly enacted by a business rival",
-					"...corrupting the very heart of industrial capitalism"
+					"...with the Principal's daughter",
+					"...with the School Nurse",
+					"...with the School Disciplinary Committee",
+					"...with the Vice-Principal and his dog, Taro",
+					"...with that dreaded English teacher, Reggie",
+					"...with the Captain of the Karate Team"
 				]
 			},
 			{
-				"title" : "To gain the wealth of croesus",
+				"title" : "To Get",
 				"elements" : [
-					"...Through stealing from the Chinese",
-					"...Through robbing a business unlikely to notice",
-					"...Through simple but bold fraud",
-					"...Through the death of an elderly person",
-					"...Through political graft",
-					"...Through a sudden windfall that does not belong to you"
+					"...last week's copy of Shonen Jump away from your girlfriend",
+					"...the last hamburger from the school lunch room",
+					"...the photos from Drama Club before they go to press",
+					"...the Principal's secret flask of whiskey",
+					"...a chance to try expensive fatty tuna (oÌ„toro) sushi",
+					"...that black envelope away from Atsuko Tsuchiya"
 				]
 			},
 			{
-				"title" : "To earn universal respect",
+				"title" : "To Secretly",
 				"elements" : [
-					"...From New York, by bringing that politician down",
-					"...From the city, by demonstrating your power and reach",
-					"...From your lover, by proving yourself in the most grave extreme",
-					"...From the police, by assisting them at dire personal danger",
-					"...From a family member, by rescuing them from ruin",
-					"...From yourself, by ending the long wait and pulling the trigger"
+					"...swap the teachers' tea with wasabi powder",
+					"...sabotage the Drama Club's script",
+					"...report your \"friends\" activities to the Vice-Principal",
+					"...have a romantic interlude with Keiko Fujita",
+					"...take pictures of Mika Koizumi's underwear",
+					"...have a romantic interlude with the Principal!"
 				]
 			},
 			{
-				"title" : "To discover the dark truth",
+				"title" : "To publicly",
 				"elements" : [
-					"...About the family's shameful past",
-					"...About New York's political corruption",
-					"...About a loved one's criminal history",
-					"...About someone's infidelity",
-					"...About what happened on the S.S. Tuscania",
-					"...About the woman's face that haunts you still"
+					"...declare your love for the School Nurse",
+					"...expose the Vice-Principal for the criminal he is!",
+					"...take control of your father's conglomerate",
+					"...declare your love for \"Razor\" Ishikawa",
+					"...embarrass the Class President",
+					"...reveal your true identity!"
 				]
 			},
 			{
-				"title" : "To engage in immoral congress",
+				"title" : "To Steal",
 				"elements" : [
-					"...With anyone, anywhere, to dull the pain",
-					"...With a flash bit of ankle down at Macy's",
-					"...With an exotic foreigner",
-					"...And rekindle a dormant romance",
-					"...As a means to a very terrible end",
-					"...With the best of them, to prove you are a man"
+					"...anything not nailed down",
+					"...Manabu Takahashi's Kamen Driver figurine",
+					"...your Sempai's heart",
+					"...the money for the class trip to Okinawa",
+					"...the indie band's demo CD",
+					"...the Principal's new sports car"
 				]
 			}
     ],
-    "moments" : [
+    "locations" : [
 			{
-				"title" : "Posh New York",
+				"title" : "School Grounds",
 				"elements" : [
-					"H. Kauffman & Sons Harness Company, Park Avenue South at East 24th street (See Notes)",
-					"The United States Mortgage and Trust Company, 55 Cedar Street",
-					"Tiffany and Company, at Fifth Avenue and 37th Street",
-					"The Arnold-Constable department store, Broadway and E. 19th St",
-					"Association for Befriending Children and Young Girls, 136 2nd Ave",
-					"Union League Club, Fifth Avenue and 39th Street"
+					"Behind the gymnasium",
+					"The roof",
+					"The courtyard",
+					"Teachers' parking lot",
+					"Student greenhouse",
+					"Library"
 				]
 			},
 			{
-				"title" : "Working New York",
+				"title" : "Off School Grounds",
 				"elements" : [
-					"Yonah Shimmel's Bakery, 137 East Houston Street (try the knishes)",
-					"KALEM Moving Picture Studios, 131 Seventh Avenue",
-					"The American Bank Note Company, Broad and Beaver Streets",
-					"Columbia Warehouses, 149 Columbus Avenue",
-					"Lee Machine Works, Mott and Hester Streets",
-					"New York Court of Common Pleas, City Hall Park"
+					"Mika Koizumi's bedroom",
+					"Crazy Granny Hachi's house",
+					"\"Lucky Lady\" transvestite bar",
+					"Minayama Park Tennis Courts",
+					"The boardroom of Taketani Conglomerate",
+					"Streets of Shibuya, in Tokyo"
 				]
 			},
 			{
-				"title" : "Yegg New York",
+				"title" : "Classrooms",
 				"elements" : [
-					"Segal's, the restaurant of choice among working criminals, Second Avenue and First Street",
-					"The burned out shell of the Asch Building on Washington Place",
-					"Block Drugs, 101 East Sixth Street",
-					"Bismark Hall, Second Avenue and 13th Street, the epicenter of the criminal underworld",
-					"Saint Marks-in-the-Bowery Church, at Second Avenue West and East Tenth Street",
-					"New York County Workhouse, Blackwell's Island"
+					"Sensei Horiguchi's Class 3-B",
+					"Audio-Video room",
+					"Art room",
+					"Nurse's office",
+					"Gymnasium",
+					"Principal's office"
 				]
 			},
 			{
-				"title" : "Chinese New York",
+				"title" : "Festival",
 				"elements" : [
-					"A low stakes Fran-Tan parlor on Pell Street",
-					"The On Leong Merchant's Association Building on Pell Street",
-					"Dr. Hum Mun Tau's Apothecary on Doyer Street",
-					"The Canton Club, Fifth Avenue and Mulberry",
-					"The Bing Ching Union gambling hall",
-					"A high-class brothel on Mott Street"
+					"Kendo Club's grilled corn stand",
+					"Manga Club's fanzine table",
+					"Occult Club's yakisoba stand",
+					"Fashion Club's Haunted House",
+					"Cosplay Club's \"Catgirl Cafe\"",
+					"Teacher's smoke-break pavillion"
 				]
 			},
 			{
-				"title" : "Entertaining New York",
+				"title" : "Events",
 				"elements" : [
-					"The Metropolitan Roller Skating Rink at Broadway and 52nd Street",
-					"Wallack's Theater, Broadway and East 13th Street",
-					"The Houston Athletic Club, 143 East Houston Street",
-					"The Holland Brothers' Kinetoscope Parlor, at 1157 West 27th Street",
-					"John Delmonico's restaurant, arguably New York's finest, at Fifth Avenue and 44th Street",
-					"Hadley Hall, at 293 East First Street and the Bowery"
+					"The exclusive Masquerade Dance",
+					"Drama Club's presentation of Snow White",
+					"Scavenger Hunt",
+					"Music Club's sold-out rock concert",
+					"The Principal's opening ceremony speech",
+					"Ending Ceremony folk dance and bonfire"
 				]
 			},
 			{
-				"title" : "Residences",
+				"title" : "Creepy",
 				"elements" : [
-					"A squalid tenement apartment in the lower East Side",
-					"A posh \"bachelor apartment\" in the Sherry building, Fifth Avenue and 44th Street",
-					"A family apartment in The Mitchell, 123 West 15th street",
-					"Secure top floor suite of the St. Denis hotel, Broadway and East 11th",
-					"A weekly room in the Liberty Hotel, 295 East First Street and Bowery",
-					"An elegant townhouse overlooking Tompkins Square"
+					"The \"cursed\" unused classroom on the 2nd floor",
+					"The incinerator out back",
+					"Gymnasium storage room",
+					"Last restroom stall on the right, with the stuck door",
+					"The groundkeeper's shed",
+					"Trunk of the Vice-Principal's car"
 				]
 			}
     ],
-    "events" : [
+    "objects" : [
 			{
-				"title" : "Unwholesome",
+				"title" : "Rare and Wonderful",
 				"elements" : [
-					"A purple velvet Brooks Brothers ladies flying suit",
-					"A lock-box from Tammany Hall, Park Avenue and East 17th Street",
-					"A prodigious brick of cocaine in a Block Drugs bag",
-					"The pickled head of a murderer in a jar",
-					"An aborted fetus wrapped in an old copy of the New York Journal",
-					"An opium fiend's monogrammed kit"
+					"Exclusive membership to the school's VIP Club",
+					"Tailor-made Italian suit that costs more than a car",
+					"Sheer determination and perseverence",
+					"Limited Edition DVD release of Hana Yori Dango",
+					"Pre-Release Copy of latest American teen novel",
+					"Platinum Credit Card"
 				]
 			},
 			{
-				"title" : "Weapons",
+				"title" : "Dangerous",
 				"elements" : [
-					"Fowling piece, still in the box from the Abercrombie and Fitch Company, 57 Reade Street",
-					"A leopard",
-					"Dynamite bomb with timer",
-					"Ladies' pistol, dainty as you please",
-					"Beaker of hydrofluoric acid",
-					"Lacquered basswood airplane strut"
+					"Box Cutter",
+					"Bokken",
+					"Switchblade",
+					"Dented aluminum baseball bat",
+					"Mace",
+					"Taser"
 				]
 			},
 			{
-				"title" : "Transportation",
+				"title" : "Ecchi",
 				"elements" : [
-					"Gaggenau 7-ton gasoline truck",
-					"Alco \"anti-fatigue\" motorcar, 2-time winner of the Vanderbilt Cup",
-					"Studebaker hansom horse-drawn carriage",
-					"Curtiss Model 1911-D aeroplane",
-					"An I.R.T. elevated train car",
-					"A freight lighter moored at the East River docks"
+					"Photos of Mika Koizumi undressing",
+					"Pack of condoms",
+					"Hello Kitty \"Back Massager\"",
+					"July Issue of BukkakeGold Magazine",
+					"AV starlet Takako Hamada's panties",
+					"LoliParadise Dating Sim Game"
 				]
 			},
 			{
-				"title" : "Information",
+				"title" : "Secrets",
 				"elements" : [
-					"A list of all 67,000 New York telephone subscribers with certain names underlined",
-					"A blueprint of the H. Wolff Book Bindery, Tenth Avenue and West 26th Street, one of the few poured concrete buildings in New York",
-					"A threatening note addressed to Adams Dry Goods, Sixth Avenue and West 22nd Street",
-					"Annotated copy of the Report of the Exhibition and Tests of Street Cleaning",
-					"A treasure map",
-					"Curious letter penned by an inmate of the Riverside Rest Association, Second Avenue & East 26th Street"
-				]
-			},
-			{
-				"title" : "Valuable",
-				"elements" : [
-					"An envelope containing Hamburg-American Line tickets to Europe",
-					"The key to a deposit box at the Chase Bank, 200 Park Avenue South",
-					"A Turkish rug from Ferdossi Rugs, Broadway and East 21st Street",
-					"A camera and tripod from E & T Anthony and Co., 591 Broadway",
-					"Chemicals misplaced from the New York Lying-In Hospital",
-					"A gold Hip Sing tong \"Dragon Head\" necklace"
+					"Incriminating video recording",
+					"Copy of the school Nurse's \"real\" job history",
+					"Team of loyal bodyguards",
+					"Part-time job working at a Maid CafeÌ",
+					"Part-time job working as a CEO",
+					"Cellphone footage of an intimate encounter"
 				]
 			},
 			{
 				"title" : "Sentimental",
 				"elements" : [
-					"A gentleman's tasteful moonstone tie-tack",
-					"A soldier's diary from the Spanish-American War",
-					"A wedding ring",
-					"A budgie in a cage",
-					"A family bible stuffed with correspondence",
-					"A tattered Daguerreotype of the Engine Company Eleven crew, at the 437 Columbia St. firehouse"
+					"Flattened, preserved flower from last Summer",
+					"Broken watch that was never repaired",
+					"Sempai's handkerchief",
+					"Tsuchie Toriyama's phone number",
+					"Memories of the Spring Track Meet",
+					"Old charm from the temple in your hometown"
+				]
+			},
+			{
+				"title" : "Strange",
+				"elements" : [
+					"Devilish-looking puppet",
+					"Plain white UltraHero mask",
+					"Jar of dead cicadas",
+					"Small vial of old blood",
+					"Lint...that smells kind of odd",
+					"Black memo filled with blank, torn pages"
 				]
 			}
     ]

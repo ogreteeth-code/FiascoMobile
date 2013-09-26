@@ -1,299 +1,390 @@
 {
   "playset" :
   {
-    "title" : "1913 New York",
+    "title" : "De Medici",
     "credits" : 
     {
-      "author" : "Jason Morningstar"
+      "author" : "Giulia Barbano and Renato Ramonda"
     },
     "movie_night" :
     [
-      { "title" : "City Lights" },
-      { "title" : "Pink Tights" },
-      { "title" : "The Saphead" },
-      { "title" : "The Purple Lady" }
+      { "title" : "Nothing Left to Do But Cry (Non ci resta che piangere)" },
+      { "title" : "For Love and Gold (L’armata Brancaleone)" },
+      { "title" : "The Borgias (TV series)" },
+      { "title" : "Much Ado About Nothing" },
+      { "title" : "The Name of the Rose" },
+      { "title" : "Prince of Foxes" },
+      { "title" : "The Pillars of the Earth (TV series)" }
     ],
     "score" :
     {
-      "title" : "The End Of The Beginning",
+      "title" : "The innkeeper's reckoning",
       "paragraphs" : [
-        "Fin de si&egrave;cle New York, 1913 - a city perched on the edge of the abyss.",
-        "Modernity is at war with tradition, and automobiles uneasily share the roads with horse-drawn carriages. Change - sweeping, terrible change - is in the air, and all of Europe is about to be thrown under the bus, dragging the world down after it. But tonight? For now? Cars that can go forty miles an hour, women not ashamed to show off a little ankle, and as much opium as you care to smoke. In the dirty places labor is organizing, anarchists are murdering plutocrats, and children are going hungry.",
-        "But it's a pretty good world if you are on top of it, so find a way to get on top, fast..."
+        "Florence, 1559: a city of opportunities for men who have the guts to pursue them. Here, struggling artists find rich patrons, visionary architects create their dreams, ruthless mercenaries get lucrative contracts, and shrewd merchants become as powerful as kings.",
+        "Ever since the times of Cosimo the Elder, the bankers, the Medici, have ruled this city. Sure, way back then it was still called a democracy, but the art, the armies and the votes were all paid with Medici money. The words of the heretic monk Savonarola shook the consciences for a brief time, bringing back a glimpse of the Republic; but the Emperor and the Pope put the Medici back in charge, with Duke Alessandro.",
+        "Upon the Duke’s assassination twenty-two years ago, the merchants and lords of the city enthusiastically welcomed young Cosimo, the barely seventeen years old son of the mercenary warlord Giovanni delle Bande Nere, who had never lived in Florence. The nobles saw him as inexperienced, weak, and an easy puppet to manipulate.",
+        "They couldn’t have been more wrong."
       ],
-      "tagline" : "In 1913 New York"
+      "tagline" : "Under Cosimo De' Medici"
     },
     "relationships" : [
-			{
-				"title" : "Family",
-				"elements" : [
-					"Godparent and child",
-					"Parent and stepchild",
-					"Siblings",
-					"Cousins",
-					"Grandparent and grandchild",
-					"Relatives in the Old Country"
-				]
-			},
-			{
-				"title" : "Work",
-				"elements" : [
-					"Former co-workers",
-					"Current co-workers",
-					"Supervisor / employee",
-					"Working stiff / client (mechanic, plumber, gardener, groomsman)",
-					"Salesman and customer",
-					"Professional and client (pastor, lawyer, accountant, prostitute)"
-				]
-			},
-			{
-				"title" : "Friendship",
-				"elements" : [
-					"Manipulator and victim",
-					"Old friends",
-					"Disreputable friends (criminal, opium addict, gambling, whoring)",
-					"Friendly sporting rivals",
-					"Club / society friends",
-					"Social adversaries"
-				]
-			},
-			{
-				"title" : "Romance",
-				"elements" : [
-					"Spouses in name only",
-					"Current spouses",
-					"Stalker and obsession",
-					"Broken engagement or one-time fling",
-					"Lovers",
-					"Former lovers"
-				]
-			},
-			{
-				"title" : "Crime",
-				"elements" : [
-					"Graft giver and receiver",
-					"Gamblers",
-					"Thieves (shoplifters, burglars, purse snatchers)",
-					"Con man and mark",
-					"Hoodlums (gangsters, knuckleheads, delinquents)",
-					"Drug people (sellers, distributors, users)"
-				]
-			},
-			{
-				"title" : "Community",
-				"elements" : [
-					"Appointed officials (Sanitation or commerce board, judges)",
-					"Volunteers (Neighborhood committee, election officials)",
-					"Church (Lay reader, deacon, sexton, temperance society)",
-					"Ethnic group (Clubs and societies, education or relief society)",
-					"Vigilantes (Vigilance committee, ethnic gang)",
-					"Radicals (Organizers, anarchists, Wobblies)"
-				]
-			}
+		{
+			"title" : "Faith",
+			"elements" : [
+				"Brothers in Christ",
+				"Front bench at Sunday’s Mass in Santa Croce (see notes)",
+				"Penitent and confessor",
+				"Neighbors, devout and not so devout",
+				"Inquisitor and heretic",
+				"We share common beliefs, best kept private"
+			]
+		},
+		{
+			"title" : "Love",
+			"elements" : [
+				"Spouses in a loveless marriage",
+				"Secretly betrothed",
+				"The shameful mistake of one night",
+				"Tied by a forbidden passion",
+				"Bitter ex-lovers",
+				"Chaste, yet burning for one another"
+			]
+		},
+		{
+			"title" : "War and violence",
+			"elements" : [
+				"Protector and protected",
+				"Former brothers in arms",
+				"Deadly rivals",
+				"Veterans of a free company",
+				"Hired assassin and target",
+				"Mercenary and employer"
+			]
+		},
+		{
+			"title" : "Arts and crafts",
+			"elements" : [
+				"Artist and young apprentice",
+				"Artist and patron of the arts",
+				"Rival merchants",
+				"Ex students at Pisa’s University",
+				"Skilled laborer (carpenter, sculptor) and supervisor of the Opera del Duomo (see notes)",
+				"Established court artist and young rising star"
+			]
+		},
+		{
+			"title" : "At court",
+			"elements" : [
+				"Noble and page/handmaiden",
+				"High rank parent and bastard child",
+				"Younger cousins in a noble family",
+				"Secret lovers",
+				"Servant and servant’s servant",
+				"High ranking noble and lowly subject"
+			]
+		},
+		{
+			"title" : "Of low morals",
+			"elements" : [
+				"Corrupt public officer and rich merchant",
+				"Moneylender and debtor",
+				"Wrongdoers (thugs, housebreakers, pickpockets, thieves)",
+				"Con man and mark",
+				"Members of the same cabal/conspiracy",
+				"Relic peddler and religious zealot"
+			]
+		}
     ],
     "needs" : [
-			{
-				"title" : "To free your body and soul",
-				"elements" : [
-					"...From the slums, before they eat you alive",
-					"...From your oppressive family",
-					"...From your spouse",
-					"...From an unwanted lover",
-					"...From a heavy obligation to a family member",
-					"...From a crushing debt coming due"
-				]
-			},
-			{
-				"title" : "To avenge a great wrong",
-				"elements" : [
-					"...perpetrated by the New York political machine",
-					"...caused by America, which has turned you into a monster",
-					"...committed by a police officer",
-					"...covered up by your own family",
-					"...arrogantly enacted by a business rival",
-					"...corrupting the very heart of industrial capitalism"
-				]
-			},
-			{
-				"title" : "To gain the wealth of croesus",
-				"elements" : [
-					"...Through stealing from the Chinese",
-					"...Through robbing a business unlikely to notice",
-					"...Through simple but bold fraud",
-					"...Through the death of an elderly person",
-					"...Through political graft",
-					"...Through a sudden windfall that does not belong to you"
-				]
-			},
-			{
-				"title" : "To earn universal respect",
-				"elements" : [
-					"...From New York, by bringing that politician down",
-					"...From the city, by demonstrating your power and reach",
-					"...From your lover, by proving yourself in the most grave extreme",
-					"...From the police, by assisting them at dire personal danger",
-					"...From a family member, by rescuing them from ruin",
-					"...From yourself, by ending the long wait and pulling the trigger"
-				]
-			},
-			{
-				"title" : "To discover the dark truth",
-				"elements" : [
-					"...About the family's shameful past",
-					"...About New York's political corruption",
-					"...About a loved one's criminal history",
-					"...About someone's infidelity",
-					"...About what happened on the S.S. Tuscania",
-					"...About the woman's face that haunts you still"
-				]
-			},
-			{
-				"title" : "To engage in immoral congress",
-				"elements" : [
-					"...With anyone, anywhere, to dull the pain",
-					"...With a flash bit of ankle down at Macy's",
-					"...With an exotic foreigner",
-					"...And rekindle a dormant romance",
-					"...As a means to a very terrible end",
-					"...With the best of them, to prove you are a man"
-				]
-			}
+		{
+			"title" : "To get rich",
+			"elements" : [
+				"...through fraud and duplicity",
+				"...by blackmailing the Archbishop",
+				"...by robbing a money changer",
+				"...through a once in a lifetime opportunity",
+				"...by carefully saving every penny over a lifetime",
+				"...through one huge winning bet at Il Palio"
+			]
+		},
+		{
+			"title" : "To right a wrong",
+			"elements" : [
+				"...by one of the powers that be",
+				"...to get back at an old love that ended badly",
+				"...with a public challenge",
+				"...by one of the faith",
+				"...to get your name back",
+				"...to save a life"
+			]
+		},
+		{
+			"title" : "To abandon",
+			"elements" : [
+				"...temptation on the altar of righteousness",
+				"...the life your family has planned for you",
+				"...a helpless woman and the child you sired",
+				"...holy orders",
+				"...the oath of allegiance to your Lord",
+				"...the conspiracy"
+			]
+		},
+		{
+			"title" : "To prove your repentance",
+			"elements" : [
+				"...to your loved one",
+				"...from your unforgivable sins",
+				"...to Cosimo himself",
+				"...before you can kill him",
+				"...to a friend you have wronged",
+				"...to an innocent dragged into scandal"
+			]
+		},
+		{
+			"title" : "To defend Florence",
+			"elements" : [
+				"...by silencing a rival",
+				"...by defending Cosimo De’ Medici",
+				"...from her own ungodly vanity",
+				"...from Siennese spies, real and imagined",
+				"...with a casual threat of heresy",
+				"...with great enthusiasm but no real effect"
+			]
+		},
+		{
+			"title" : "To complete your mission",
+			"elements" : [
+				"...and write your name in history",
+				"...by returning to your village richer than Croesus",
+				"...by slaying Cosimo",
+				"...by destroying yourself, literally or figuratively",
+				"...whispered in your ear by the Devil",
+				"...by delivering a message of the utmost importance"
+			]
+		}
     ],
-    "moments" : [
-			{
-				"title" : "Posh New York",
-				"elements" : [
-					"H. Kauffman & Sons Harness Company, Park Avenue South at East 24th street (See Notes)",
-					"The United States Mortgage and Trust Company, 55 Cedar Street",
-					"Tiffany and Company, at Fifth Avenue and 37th Street",
-					"The Arnold-Constable department store, Broadway and E. 19th St",
-					"Association for Befriending Children and Young Girls, 136 2nd Ave",
-					"Union League Club, Fifth Avenue and 39th Street"
-				]
-			},
-			{
-				"title" : "Working New York",
-				"elements" : [
-					"Yonah Shimmel's Bakery, 137 East Houston Street (try the knishes)",
-					"KALEM Moving Picture Studios, 131 Seventh Avenue",
-					"The American Bank Note Company, Broad and Beaver Streets",
-					"Columbia Warehouses, 149 Columbus Avenue",
-					"Lee Machine Works, Mott and Hester Streets",
-					"New York Court of Common Pleas, City Hall Park"
-				]
-			},
-			{
-				"title" : "Yegg New York",
-				"elements" : [
-					"Segal's, the restaurant of choice among working criminals, Second Avenue and First Street",
-					"The burned out shell of the Asch Building on Washington Place",
-					"Block Drugs, 101 East Sixth Street",
-					"Bismark Hall, Second Avenue and 13th Street, the epicenter of the criminal underworld",
-					"Saint Marks-in-the-Bowery Church, at Second Avenue West and East Tenth Street",
-					"New York County Workhouse, Blackwell's Island"
-				]
-			},
-			{
-				"title" : "Chinese New York",
-				"elements" : [
-					"A low stakes Fran-Tan parlor on Pell Street",
-					"The On Leong Merchant's Association Building on Pell Street",
-					"Dr. Hum Mun Tau's Apothecary on Doyer Street",
-					"The Canton Club, Fifth Avenue and Mulberry",
-					"The Bing Ching Union gambling hall",
-					"A high-class brothel on Mott Street"
-				]
-			},
-			{
-				"title" : "Entertaining New York",
-				"elements" : [
-					"The Metropolitan Roller Skating Rink at Broadway and 52nd Street",
-					"Wallack's Theater, Broadway and East 13th Street",
-					"The Houston Athletic Club, 143 East Houston Street",
-					"The Holland Brothers' Kinetoscope Parlor, at 1157 West 27th Street",
-					"John Delmonico's restaurant, arguably New York's finest, at Fifth Avenue and 44th Street",
-					"Hadley Hall, at 293 East First Street and the Bowery"
-				]
-			},
-			{
-				"title" : "Residences",
-				"elements" : [
-					"A squalid tenement apartment in the lower East Side",
-					"A posh \"bachelor apartment\" in the Sherry building, Fifth Avenue and 44th Street",
-					"A family apartment in The Mitchell, 123 West 15th street",
-					"Secure top floor suite of the St. Denis hotel, Broadway and East 11th",
-					"A weekly room in the Liberty Hotel, 295 East First Street and Bowery",
-					"An elegant townhouse overlooking Tompkins Square"
-				]
-			}
+    "locations" : [
+		{
+			"title" : "In Piazza della Signoria",
+			"elements" : [
+				"Palazzo Ducale (see notes)",
+				"Loggia dei Lanzi, among the Medici’s statues (see notes)",
+				"Groundworks for the new offices (in Florentine, uffizi) of the thirteen Magistrates of the Arts (see notes)",
+				"Tribunale della Mercanzia (see notes)",
+				"Palazzo Uguccioni (see notes)",
+				"Arte del Cambio, the corporation of bankers (see notes)"
+			]
+		},
+		{
+			"title" : "The narrow streets of the center",
+			"elements" : [
+				"Filthy streets of the Market after closing hours",
+				"Lungarno, in the middle of the night (see notes)",
+				"Forgotten Roman temple, beneath the potter’s shop",
+				"Butcher shops on Ponte Vecchio (see notes)",
+				"Goldsmith’s workshop",
+				"Black Boar’s Inn"
+			]
+		},
+		{
+			"title" : "In the country",
+			"elements" : [
+				"Crossroads on the way to Montalcino (see notes)",
+				"Monastery in Chianti",
+				"Vineyard, precious grapes on the vines",
+				"Ancient oak in Balduccio’s field",
+				"Old Hangman’s Coaching Inn",
+				"Hidden bend of the Arno, downriver from the city"
+			]
+		},
+		{
+			"title" : "Of the faith",
+			"elements" : [
+				"Hidden alcove in the cathedral, Santa Maria del Fiore (see notes)",
+				"Basilica of Santa Croce, Franciscan convent and seat of the Inquisition (see notes)",
+				"Convent of cloistered nuns observing the vow of silence",
+				"In the quiet shade of a rich Benedictine cloister",
+				"Confessional in a discreet church",
+				"Two synagogues in the ghetto, a few yards from the Archbishopric"
+			]
+		},
+		{
+			"title" : "At Cosimo's court",
+			"elements" : [
+				"Cosimo’s private apartments",
+				"Palace medicinal garden",
+				"Beneath a long oak dining table",
+				"Bedroom of Lucrezia, Cosimo’s stunning (and secluded) daughter (see notes)",
+				"Secret passage, cleverly disguised",
+				"Busy palace kitchens"
+			]
+		},
+		{
+			"title" : "Unsavory",
+			"elements" : [
+				"Gambling house",
+				"Back of the undertaker’s workshop",
+				"Secret chapel of a small heretic congregation",
+				"Cosimo’s informal torture chamber",
+				"Stinking tannery near Ponte Vecchio",
+				"Brothel near the Arno"
+			]
+		}
     ],
-    "events" : [
-			{
-				"title" : "Unwholesome",
-				"elements" : [
-					"A purple velvet Brooks Brothers ladies flying suit",
-					"A lock-box from Tammany Hall, Park Avenue and East 17th Street",
-					"A prodigious brick of cocaine in a Block Drugs bag",
-					"The pickled head of a murderer in a jar",
-					"An aborted fetus wrapped in an old copy of the New York Journal",
-					"An opium fiend's monogrammed kit"
-				]
-			},
-			{
-				"title" : "Weapons",
-				"elements" : [
-					"Fowling piece, still in the box from the Abercrombie and Fitch Company, 57 Reade Street",
-					"A leopard",
-					"Dynamite bomb with timer",
-					"Ladies' pistol, dainty as you please",
-					"Beaker of hydrofluoric acid",
-					"Lacquered basswood airplane strut"
-				]
-			},
-			{
-				"title" : "Transportation",
-				"elements" : [
-					"Gaggenau 7-ton gasoline truck",
-					"Alco \"anti-fatigue\" motorcar, 2-time winner of the Vanderbilt Cup",
-					"Studebaker hansom horse-drawn carriage",
-					"Curtiss Model 1911-D aeroplane",
-					"An I.R.T. elevated train car",
-					"A freight lighter moored at the East River docks"
-				]
-			},
-			{
-				"title" : "Information",
-				"elements" : [
-					"A list of all 67,000 New York telephone subscribers with certain names underlined",
-					"A blueprint of the H. Wolff Book Bindery, Tenth Avenue and West 26th Street, one of the few poured concrete buildings in New York",
-					"A threatening note addressed to Adams Dry Goods, Sixth Avenue and West 22nd Street",
-					"Annotated copy of the Report of the Exhibition and Tests of Street Cleaning",
-					"A treasure map",
-					"Curious letter penned by an inmate of the Riverside Rest Association, Second Avenue & East 26th Street"
-				]
-			},
-			{
-				"title" : "Valuable",
-				"elements" : [
-					"An envelope containing Hamburg-American Line tickets to Europe",
-					"The key to a deposit box at the Chase Bank, 200 Park Avenue South",
-					"A Turkish rug from Ferdossi Rugs, Broadway and East 21st Street",
-					"A camera and tripod from E & T Anthony and Co., 591 Broadway",
-					"Chemicals misplaced from the New York Lying-In Hospital",
-					"A gold Hip Sing tong \"Dragon Head\" necklace"
-				]
-			},
-			{
-				"title" : "Sentimental",
-				"elements" : [
-					"A gentleman's tasteful moonstone tie-tack",
-					"A soldier's diary from the Spanish-American War",
-					"A wedding ring",
-					"A budgie in a cage",
-					"A family bible stuffed with correspondence",
-					"A tattered Daguerreotype of the Engine Company Eleven crew, at the 437 Columbia St. firehouse"
-				]
-			}
-    ]
+    "objects" : [
+		{
+			"title" : "Religious",
+			"elements" : [
+				"Nail from the True Cross",
+				"Cathedral’s Eucharistic chalice, all gold and precious stones",
+				"Finely done illuminated Bible",
+				"Elderly and comatose Benedictine bursar",
+				"Ceremonial costume of Tlatlauhqui Tezcatlipoca, Aztec God of death and rebirth",
+				"Franciscan monk’s habit and a hand-drawn map"
+			]
+		},
+		{
+			"title" : "Untoward",
+			"elements" : [
+				"Forbidden book, put to the Index by the Holy Church (see notes)",
+				"Ingredients and recipe for the Philosopher’s Stone",
+				"Lambskin “French letter”",
+				"Newborn bastard",
+				"Corpse, freshly stolen",
+				"Siennese war banner"
+			]
+		},
+		{
+			"title" : "Of intrigue",
+			"elements" : [
+				"Ring with a secret compartment",
+				"Secret dispatch, cyphered",
+				"Wooden cross that hides a dagger",
+				"Incriminating testimony from a witness",
+				"Sleeping draught, prepared a little strong",
+				"Overheard secret that could destroy a reputation"
+			]
+		},
+		{
+			"title" : "Weapons",
+			"elements" : [
+				"Dagger, dripping poison",
+				"Butcher’s cleaver",
+				"Sword, received as heirloom",
+				"Clever collapsible bow",
+				"Massive block of fine white Carrara marble",
+				"Rosary with heavy stone beads"
+			]
+		},
+		{
+			"title" : "Curious and bizarre",
+			"elements" : [
+				"Stolen plans for one of Leonardo’s machines",
+				"Two exotic savage beasts, in cages",
+				"Ocularia with extremely well crafted lenses from Holland",
+				"Siren, mummified",
+				"Alchemical oven",
+				"The Florentine codex, an Aztec manuscript"
+			]
+		},
+		{
+			"title" : "Precious",
+			"elements" : [
+				"Necklace of sapphires",
+				"Golden signet ring",
+				"Trunk of silver coins, half full",
+				"Letter of exchange worth a thousand gold ducats",
+				"Perfectly proportioned skull, cut from New World jade",
+				"Siennese race horse named after the Pope"
+			]
+		}
+    ],
+ 	"notes" : [
+		{
+			"title" : "Santa Maria del Fiore",
+			"elements" : [
+				"The cathedral, started over two hundred and sixty years ago, was finished in the last century. It’s almost ninety years now that the cross was placed over the dome that Brunelleschi designed. Now, it seems that Vasari (yes, the biographer of the artists and supreme gossiper, but a fine painter and architect himself) will be working on the frescoes as soon as he’s done with the Uffizi. Too bad for the façade, though. It’s still the plain stone of old times, and nobody really likes it—but nobody knows how to fix it."
+			]
+		},
+		{
+			"title" : "Santa Croce",
+			"elements" : [
+				"Santa Croce is the greatest Franciscan church in the world. It holds several chapels, some decorated by Giotto, and it’s connected to the Franciscan convent. The refectory, which holds the Crucifix by Cimabue, is undergoing repairs after the 1557 flood. In the last two centuries the Franciscan have held the role of inquisitors in the city."
+			]
+		},
+		{
+			"title" : "Opera del Duomo",
+			"elements" : [
+				"The cathedral of Santa Maria del Fiore has been completed over a century ago, but work isn’t over—someone has to maintain the buildings, create new statues and oversee the works. The Opera del Duomo does all that, and gives artists workspace, as it did over fifty years ago with Michelangelo for his David."
+			]
+		},
+		{
+			"title" : "Loggia dei Lanzi",
+			"elements" : [
+				"A building with wide arches opening on Piazza della Signoria; not more than ten years ago, Cosimo used this lodge to showcase a massive whale caught in the waters of Livorno. He has also commissioned an allegorical statue of Perseus to Cellini and it now overlooks the piazza, with its bronze serpents reminding the citizen of the pitfalls of the Republic."
+			]
+		},
+		{
+			"title" : "Uffizi",
+			"elements" : [
+                "The thirteen magistrates oversee the administration of the city and Cosimo wants them close. He has entrusted Vasari with the design of the Uffizi, a new building to hold all the offices of the administration, the tribunal, and the state archives."
+            ]
+        },
+        {
+        	"title" : "Tribunale della Mercanzia",
+        	"elements" : [
+				"The Tribunale della Mercanzia, built two centuries ago, hosts the court responsible for adjudicating controversies between merchants or members of the corporations. Six of the judges are citizen counselors, and six are foreigners, expert at law."
+			]
+		},
+		{
+			"title" : "Palazzo Uguccioni",
+			"elements" : [
+				"Home of the powerful Giovanni Uguccioni, a faithful supporter of Cosimo, who personally intervened to make the Palace the most prominent of the Piazza (excluding Palazzo Ducale, of course). The works are almost finished, but it seems like Giovanni will not enjoy the palace, as his health is faltering."
+			]
+		},
+		{
+			"title" : "Arte del Cambio",
+			"elements" : [
+				"One of the first corporations of Florence, the guild of the bankers and money changers was also one of the most powerful and rich. That is, until the Spanish siege, thirty years ago; the Republic confiscated most of their money, and now Cosimo is using the remains to build the Uffizi."
+			]
+		},
+		{
+			"title" : "Palazzo Ducale",
+			"elements" : [
+				"It used to be called Palazzo della Signoria, from the times when Florence was a Republic, and it hosted the government. Cosimo had it renamed when he moved in with his family, but his wife, Eleonora, fears that life in the busy center is harming her health. She bought a palace on the south bank of the river from the destitute Buonaccorso Pitti, and wants to move the family there."
+			]
+		},
+		{
+			"title" : "The river Arno",
+			"elements" : [
+				"Lungarno is the name of both the streets on the banks of the River Arno.",
+				"Ponte Vecchio is one of the bridges that cross the Arno. For over a century the bridge has had butchers’ shops built across it to try to contain the stench."
+			]
+		},
+		{
+			"title" : "Lucrezia",
+			"elements" : [
+				"The fifth daughter of Cosimo, last summer she was given in marriage to Alfonso, prince of Ferrara. Her mother, Eleonora, is keeping her close until she is ready to consummate the wedding—after all, she’s barely 14. However, now it seems that the father of Alfonso, the Duke Ercole, is very ill; Alfonso might rise to power soon and reclaim his wife by his side."
+			]
+		},
+		{
+			"title" : "Montalcino",
+			"elements" : [
+				"Montalcino is the last of the cities under Siennese influence, where the nobles fleeing from cities conquered by Cosimo fled to find refuge."
+			]
+		},
+		{
+			"title" : "The Index",
+			"elements" : [
+				"\"The Index\" of banned books (Cathalogus librorum Haereticorum), has just been issued by the Roman Church. The Inquisition is in charge of its application and bans whole categories of books (astrology, magic, translated Bibles) and the entire works of some authors (including Pietro Aretino, Savonarola, Machiavelli, Erasmus, William of Ockham, and Rabelais). Some voices in the Church are already complaining about its harshness, and it might be brought up for discussion during the upcoming sessions of the Council of Trent, which will deal with the Protestants once and for all."
+			]
+		},
+		{
+			"title" : "Alchemy",
+			"elements" : [
+				"It’s well known among the other scholars and practitioners of The Supreme Art that Cosimo has inherited the passion for alchemy from his grandmother, Caterina Sforza. Alchemy was recently banned by the church, though, after being a viable avenue of study and philosophy for the Christian faithful for centuries. Cosimo’s pastime is an open secret."
+			]
+		}
+	]
   }
 }

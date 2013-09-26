@@ -1,297 +1,302 @@
 {
   "playset" :
   {
-    "title" : "1913 New York",
+    "title" : "Camp Death",
     "credits" : 
     {
-      "author" : "Jason Morningstar"
+      "author" : "James Gabrielsen"
     },
     "movie_night" :
     [
-      { "title" : "City Lights" },
-      { "title" : "Pink Tights" },
-      { "title" : "The Saphead" },
-      { "title" : "The Purple Lady" }
+      { "title" : "Friday the 13th Parts I and II" },
+      { "title" : "Sleepaway Camp" },
+      { "title" : "The Burning" },
+      { "title" : "Madman" },
+      { "title" : "Just Before Dawn" },
+      { "title" : "Just about any slasher flick from the '70s or '80s is good inspiration. Wikipedia has a good list at http://en.wikipedia.org/wiki/Slasher_film" }
     ],
     "score" :
     {
-      "title" : "The End Of The Beginning",
+      "title" : "Ki... ki... ki... ma... ma... ma...",
       "paragraphs" : [
-        "Fin de si&egrave;cle New York, 1913 - a city perched on the edge of the abyss.",
-        "Modernity is at war with tradition, and automobiles uneasily share the roads with horse-drawn carriages. Change - sweeping, terrible change - is in the air, and all of Europe is about to be thrown under the bus, dragging the world down after it. But tonight? For now? Cars that can go forty miles an hour, women not ashamed to show off a little ankle, and as much opium as you care to smoke. In the dirty places labor is organizing, anarchists are murdering plutocrats, and children are going hungry.",
-        "But it's a pretty good world if you are on top of it, so find a way to get on top, fast..."
+        "So, here’s the deal. Camp Clearwater's been abandoned since some grisly, \"unsolved\" murders 20 years ago. Or whatever. The new owner probably made that up as some creepy story to tell the campers and scare up business.",
+		"What I know is that we've got a couple weeks to get this place set up before any campers arrive, and most of the hard work is already done. We've got enough booze, pot, and distance from authority to make this the greatest summer ever.",
+		"What could go wrong?",
+		"READ THIS! Seriously. Read it.",
+		"Slasher films are notorious for late-movie revelations and plot twists, and Camp Death is no exception. The Who Is The Killer? section at the end of this Playset includes a few options for determining the identity of the killer. Before starting the game, take a look at the options and decide which you want to use.",
+		"One final note: take care when choosing Relationships in this Playset. Many of the elements, such as those under \"Local,\" assume that only one character will be a camp counselor, and this may result in difficult or impossible combinations."
       ],
-      "tagline" : "In 1913 New York"
+      "tagline" : "All the damn time"
     },
     "relationships" : [
 			{
+				"title" : "Friends",
+				"elements" : [
+					"Friends since grade school",
+					"Unlikely friends",
+					"Old friends reunited",
+					"Alpha male/queen bee and sycophant",
+					"Members of the \"In Crowd\"",
+					"Fellow social outcasts"
+				]
+			},
+			{
 				"title" : "Family",
 				"elements" : [
-					"Godparent and child",
-					"Parent and stepchild",
-					"Siblings",
+					"Older sibling and \"baby\" sister/brother",
+					"Identical twins",
+					"Step-siblings",
+					"Ex-spouses",
 					"Cousins",
-					"Grandparent and grandchild",
-					"Relatives in the Old Country"
+					"Parent and child"
 				]
 			},
 			{
 				"title" : "Work",
 				"elements" : [
-					"Former co-workers",
-					"Current co-workers",
-					"Supervisor / employee",
-					"Working stiff / client (mechanic, plumber, gardener, groomsman)",
-					"Salesman and customer",
-					"Professional and client (pastor, lawyer, accountant, prostitute)"
-				]
-			},
-			{
-				"title" : "Friendship",
-				"elements" : [
-					"Manipulator and victim",
-					"Old friends",
-					"Disreputable friends (criminal, opium addict, gambling, whoring)",
-					"Friendly sporting rivals",
-					"Club / society friends",
-					"Social adversaries"
+					"Fellow camp counselors",
+					"Head counselor and underling",
+					"Forest ranger and camp counselor",
+					"Gas station attendant and customer",
+					"Bus driver and camp counselor",
+					"Dealer and pot head"
 				]
 			},
 			{
 				"title" : "Romance",
 				"elements" : [
-					"Spouses in name only",
-					"Current spouses",
-					"Stalker and obsession",
-					"Broken engagement or one-time fling",
-					"Lovers",
-					"Former lovers"
+					"Obnoxious public displays of affection",
+					"Once, while drunk, at some stupid party...",
+					"Happily engaged",
+					"Fuck buddies",
+					"Once mutual lust, now mutual disgust",
+					"Promiscuous partner and desperate virgin"
 				]
 			},
 			{
-				"title" : "Crime",
+				"title" : " Secret",
 				"elements" : [
-					"Graft giver and receiver",
-					"Gamblers",
-					"Thieves (shoplifters, burglars, purse snatchers)",
-					"Con man and mark",
-					"Hoodlums (gangsters, knuckleheads, delinquents)",
-					"Drug people (sellers, distributors, users)"
+					"Admiring from afar",
+					"Lovers behind others' backs",
+					"Stalker and object of sick obsession",
+					"Bound by a dark secret",
+					"Peeping tom and eye candy",
+					"Not who they appear to be"
 				]
 			},
 			{
-				"title" : "Community",
+				"title" : "Local",
 				"elements" : [
-					"Appointed officials (Sanitation or commerce board, judges)",
-					"Volunteers (Neighborhood committee, election officials)",
-					"Church (Lay reader, deacon, sexton, temperance society)",
-					"Ethnic group (Clubs and societies, education or relief society)",
-					"Vigilantes (Vigilance committee, ethnic gang)",
-					"Radicals (Organizers, anarchists, Wobblies)"
+					"Fisherman and camp counselor",
+					"Lost hunter and camp counselor",
+					"Old hermit and camp counselor",
+					"Crazy drunk and camp counselor",
+					"Paranoid survivalist and camp counselor",
+					"Passing motorist and hitchhiking camper"
 				]
 			}
     ],
     "needs" : [
 			{
-				"title" : "To free your body and soul",
+				"title" : "To get Laid",
 				"elements" : [
-					"...From the slums, before they eat you alive",
-					"...From your oppressive family",
-					"...From your spouse",
-					"...From an unwanted lover",
-					"...From a heavy obligation to a family member",
-					"...From a crushing debt coming due"
+					"... by every girl/guy here",
+					"... by your ex",
+					"... to prove that you're straight",
+					"... to win a bet",
+					"... one last time before the end",
+					"... to finally lose your virginity"
 				]
 			},
 			{
-				"title" : "To avenge a great wrong",
+				"title" : "To get Away",
 				"elements" : [
-					"...perpetrated by the New York political machine",
-					"...caused by America, which has turned you into a monster",
-					"...committed by a police officer",
-					"...covered up by your own family",
-					"...arrogantly enacted by a business rival",
-					"...corrupting the very heart of industrial capitalism"
+					"... from your old life",
+					"... with the money before anyone realizes it's gone",
+					"... from these losers",
+					"... with the lie you've been telling",
+					"... with murder",
+					"... from the cops"
 				]
 			},
 			{
-				"title" : "To gain the wealth of croesus",
+				"title" : "To get Respect",
 				"elements" : [
-					"...Through stealing from the Chinese",
-					"...Through robbing a business unlikely to notice",
-					"...Through simple but bold fraud",
-					"...Through the death of an elderly person",
-					"...Through political graft",
-					"...Through a sudden windfall that does not belong to you"
+					"... from the camp owner by running things well",
+					"... from the voice in your head",
+					"... by sleeping alone in Cabin 13",
+					"... as a result of your sexual prowess",
+					"... by showing them they shouldn't have fucked with you",
+					"... by turning your life around"
 				]
 			},
 			{
-				"title" : "To earn universal respect",
+				"title" : "To get Even",
 				"elements" : [
-					"...From New York, by bringing that politician down",
-					"...From the city, by demonstrating your power and reach",
-					"...From your lover, by proving yourself in the most grave extreme",
-					"...From the police, by assisting them at dire personal danger",
-					"...From a family member, by rescuing them from ruin",
-					"...From yourself, by ending the long wait and pulling the trigger"
+					"... with the guy/girl who spurned your advances",
+					"... by embarrassing him/her in front of everyone",
+					"... because why should they be so happy?",
+					"... for what they did last year",
+					"... with every last one of these motherfuckers",
+					"... by stealing him/her back from that backstabber"
 				]
 			},
 			{
-				"title" : "To discover the dark truth",
+				"title" : "To get In",
 				"elements" : [
-					"...About the family's shameful past",
-					"...About New York's political corruption",
-					"...About a loved one's criminal history",
-					"...About someone's infidelity",
-					"...About what happened on the S.S. Tuscania",
-					"...About the woman's face that haunts you still"
+					"... to his/her pants",
+					"... tight with this new group of friends",
+					"... to their heads",
+					"... to the administration office",
+					"... to the lock box",
+					"... to a committed relationship"
 				]
 			},
 			{
-				"title" : "To engage in immoral congress",
+				"title" : "To get Out",
 				"elements" : [
-					"...With anyone, anywhere, to dull the pain",
-					"...With a flash bit of ankle down at Macy's",
-					"...With an exotic foreigner",
-					"...And rekindle a dormant romance",
-					"...As a means to a very terrible end",
-					"...With the best of them, to prove you are a man"
+					"... of a stifling relationship",
+					"... of town and lay low for a while, to let things calm down",
+					"... of the way",
+					"... of your mind, to get totally blazed",
+					"... of the downward spiral your life has been in",
+					"... alive"
 				]
 			}
     ],
-    "moments" : [
+    "locations" : [
 			{
-				"title" : "Posh New York",
+				"title" : "The Lodge",
 				"elements" : [
-					"H. Kauffman & Sons Harness Company, Park Avenue South at East 24th street (See Notes)",
-					"The United States Mortgage and Trust Company, 55 Cedar Street",
-					"Tiffany and Company, at Fifth Avenue and 37th Street",
-					"The Arnold-Constable department store, Broadway and E. 19th St",
-					"Association for Befriending Children and Young Girls, 136 2nd Ave",
-					"Union League Club, Fifth Avenue and 39th Street"
+					"Big fireplace in the common area",
+					"Upstairs bedrooms",
+					"Camp administration office",
+					"Locked boiler room",
+					"Gun safe",
+					"Attic with a pull-down stairway"
 				]
 			},
 			{
-				"title" : "Working New York",
+				"title" : "The Cabins",
 				"elements" : [
-					"Yonah Shimmel's Bakery, 137 East Houston Street (try the knishes)",
-					"KALEM Moving Picture Studios, 131 Seventh Avenue",
-					"The American Bank Note Company, Broad and Beaver Streets",
-					"Columbia Warehouses, 149 Columbus Avenue",
-					"Lee Machine Works, Mott and Hester Streets",
-					"New York Court of Common Pleas, City Hall Park"
+					"Twisting, muddy paths to the cabins",
+					"Cabin 1, the cabin closest to the lodge",
+					"Cabin 13, haunted according to camp legend",
+					"Cabin 20, the cabin closest to the lake",
+					"Supply shed",
+					"Big fire pit with log benches"
 				]
 			},
 			{
-				"title" : "Yegg New York",
+				"title" : "The Lake",
 				"elements" : [
-					"Segal's, the restaurant of choice among working criminals, Second Avenue and First Street",
-					"The burned out shell of the Asch Building on Washington Place",
-					"Block Drugs, 101 East Sixth Street",
-					"Bismark Hall, Second Avenue and 13th Street, the epicenter of the criminal underworld",
-					"Saint Marks-in-the-Bowery Church, at Second Avenue West and East Tenth Street",
-					"New York County Workhouse, Blackwell's Island"
+					"Rickety lifeguard tower",
+					"Docks and boathouse",
+					"Trails around the lake",
+					"Small island",
+					"Secluded cove",
+					"Marshy east shore"
 				]
 			},
 			{
-				"title" : "Chinese New York",
+				"title" : "Weather",
 				"elements" : [
-					"A low stakes Fran-Tan parlor on Pell Street",
-					"The On Leong Merchant's Association Building on Pell Street",
-					"Dr. Hum Mun Tau's Apothecary on Doyer Street",
-					"The Canton Club, Fifth Avenue and Mulberry",
-					"The Bing Ching Union gambling hall",
-					"A high-class brothel on Mott Street"
+					"Thunderstorm",
+					"Thick fog",
+					"Moonless night",
+					"Heat wave",
+					"Cold snap",
+					"Wind storm"
 				]
 			},
 			{
-				"title" : "Entertaining New York",
+				"title" : "The Woods",
 				"elements" : [
-					"The Metropolitan Roller Skating Rink at Broadway and 52nd Street",
-					"Wallack's Theater, Broadway and East 13th Street",
-					"The Houston Athletic Club, 143 East Houston Street",
-					"The Holland Brothers' Kinetoscope Parlor, at 1157 West 27th Street",
-					"John Delmonico's restaurant, arguably New York's finest, at Fifth Avenue and 44th Street",
-					"Hadley Hall, at 293 East First Street and the Bowery"
+					"Lost",
+					"Secluded cave",
+					"Mounds of freshly dug earth",
+					"Small clearing with the remnants of several campfires",
+					"Hidden, seemingly abandoned shack",
+					"Dense trees well off the trail"
 				]
 			},
 			{
-				"title" : "Residences",
+				"title" : "The Way out of camp",
 				"elements" : [
-					"A squalid tenement apartment in the lower East Side",
-					"A posh \"bachelor apartment\" in the Sherry building, Fifth Avenue and 44th Street",
-					"A family apartment in The Mitchell, 123 West 15th street",
-					"Secure top floor suite of the St. Denis hotel, Broadway and East 11th",
-					"A weekly room in the Liberty Hotel, 295 East First Street and Bowery",
-					"An elegant townhouse overlooking Tompkins Square"
+					"Muddy road to the highway",
+					"Someone's secret stash by the welcome sign",
+					"Power lines running to the lodge",
+					"Highway several miles down the road",
+					"Gas station on the edge of the nearby town",
+					"Rusted-out car sunk in the mud on the side of the road"
 				]
 			}
     ],
-    "events" : [
+    "objects" : [
 			{
-				"title" : "Unwholesome",
+				"title" : "Useful",
 				"elements" : [
-					"A purple velvet Brooks Brothers ladies flying suit",
-					"A lock-box from Tammany Hall, Park Avenue and East 17th Street",
-					"A prodigious brick of cocaine in a Block Drugs bag",
-					"The pickled head of a murderer in a jar",
-					"An aborted fetus wrapped in an old copy of the New York Journal",
-					"An opium fiend's monogrammed kit"
+					"Keys to the camp bus",
+					"Master key to the lodge and cabins",
+					"Map of the area and compass",
+					"Large flashlight",
+					"Hatchet",
+					"Ham radio"
 				]
 			},
 			{
 				"title" : "Weapons",
 				"elements" : [
-					"Fowling piece, still in the box from the Abercrombie and Fitch Company, 57 Reade Street",
-					"A leopard",
-					"Dynamite bomb with timer",
-					"Ladies' pistol, dainty as you please",
-					"Beaker of hydrofluoric acid",
-					"Lacquered basswood airplane strut"
+					"Well-used wood ax",
+					"Unlicensed revolver",
+					"Rusty machete",
+					"Old, taped-up oar",
+					"Hunting shotgun and box of shells",
+					"Hedge clippers"
 				]
 			},
 			{
-				"title" : "Transportation",
+				"title" : "Smuggled Goods",
 				"elements" : [
-					"Gaggenau 7-ton gasoline truck",
-					"Alco \"anti-fatigue\" motorcar, 2-time winner of the Vanderbilt Cup",
-					"Studebaker hansom horse-drawn carriage",
-					"Curtiss Model 1911-D aeroplane",
-					"An I.R.T. elevated train car",
-					"A freight lighter moored at the East River docks"
+					"Couple bottles of liquor",
+					"Several ounces of high-quality weed",
+					"Porno mags",
+					"Enough condoms to last the summer",
+					"Illegal fireworks",
+					"Carton of cigarettes"
+				]
+			},
+			{
+				"title" : "Embarrassing",
+				"elements" : [
+					"Sappy, undelivered love letter",
+					"Unfortunately shaped birthmark",
+					"Exotic vibrator",
+					"Fungal cream",
+					"Virginity (and everyone knows it)",
+					"Unsavory reputation"
+				]
+			},
+			{
+				"title" : "Ominous Findings",
+				"elements" : [
+					"Corpses of tortured animals",
+					"\"The master key to the lodge and cabins is missing!\"",
+					"Roughly carved occult symbols",
+					"Dark stains",
+					"Bleached human skull just off the trail",
+					"\"The power lines have been deliberately cut!\""
 				]
 			},
 			{
 				"title" : "Information",
 				"elements" : [
-					"A list of all 67,000 New York telephone subscribers with certain names underlined",
-					"A blueprint of the H. Wolff Book Bindery, Tenth Avenue and West 26th Street, one of the few poured concrete buildings in New York",
-					"A threatening note addressed to Adams Dry Goods, Sixth Avenue and West 22nd Street",
-					"Annotated copy of the Report of the Exhibition and Tests of Street Cleaning",
-					"A treasure map",
-					"Curious letter penned by an inmate of the Riverside Rest Association, Second Avenue & East 26th Street"
-				]
-			},
-			{
-				"title" : "Valuable",
-				"elements" : [
-					"An envelope containing Hamburg-American Line tickets to Europe",
-					"The key to a deposit box at the Chase Bank, 200 Park Avenue South",
-					"A Turkish rug from Ferdossi Rugs, Broadway and East 21st Street",
-					"A camera and tripod from E & T Anthony and Co., 591 Broadway",
-					"Chemicals misplaced from the New York Lying-In Hospital",
-					"A gold Hip Sing tong \"Dragon Head\" necklace"
-				]
-			},
-			{
-				"title" : "Sentimental",
-				"elements" : [
-					"A gentleman's tasteful moonstone tie-tack",
-					"A soldier's diary from the Spanish-American War",
-					"A wedding ring",
-					"A budgie in a cage",
-					"A family bible stuffed with correspondence",
-					"A tattered Daguerreotype of the Engine Company Eleven crew, at the 437 Columbia St. firehouse"
+					"Ridiculous, creepy camp legends",
+					"Medical case files",
+					"Crazy drunk's incoherent warning",
+					"Dusty old video reel and projector",
+					"Map with one location clearly marked",
+					"Dark secrets"
 				]
 			}
     ]

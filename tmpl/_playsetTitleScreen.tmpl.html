@@ -1,0 +1,28 @@
+<script id="playsetTitleScreen" type="text/x-jquery-tmpl">
+	<div id="IOSContainer">
+		<h1>${playset.title}</h1>
+		<div id="bodyContainer">
+		<h2>By ${playset.credits.author}</h2>
+		
+		
+		<h3>The Score</h3>
+		{{each playset.score.paragraphs}}
+		<p>${$value}</p>
+		{{/each}}
+
+		<img src="img/fiascofuse.png">
+		
+		{{if playset.movie_night}}
+		<h3>Movie Night</h3>
+		<p>{{each playset.movie_night}}${title}. {{/each}}</p>
+		{{/if}}
+
+		{{if playset.book_club}}
+		<h3>Book Club</h3>
+		<ul>{{each playset.book_club}}<li>${title}</li>{{/each}}</ul>
+		{{/if}}
+                
+		<div id="playnow" onClick="loadJSONPlayset('${filename}')">Play Now</div>
+		</div>
+	</div>
+</script>

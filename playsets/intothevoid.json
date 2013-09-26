@@ -1,297 +1,303 @@
 {
   "playset" :
   {
-    "title" : "1913 New York",
+    "title" : "Into the Void",
     "credits" : 
     {
-      "author" : "Jason Morningstar"
+      "author" : "GremlinLegions"
     },
     "movie_night" :
     [
-      { "title" : "City Lights" },
-      { "title" : "Pink Tights" },
-      { "title" : "The Saphead" },
-      { "title" : "The Purple Lady" }
+      { "title" : "Firefly and Serenity" },
+      { "title" : "Defying Gravity" },
+      { "title" : "Planates (anime)" },
+      { "title" : "Moonlight Mile (anime)" }
     ],
     "score" :
     {
-      "title" : "The End Of The Beginning",
+      "title" : "Where No One Has Gone Before",
       "paragraphs" : [
-        "Fin de si&egrave;cle New York, 1913 - a city perched on the edge of the abyss.",
-        "Modernity is at war with tradition, and automobiles uneasily share the roads with horse-drawn carriages. Change - sweeping, terrible change - is in the air, and all of Europe is about to be thrown under the bus, dragging the world down after it. But tonight? For now? Cars that can go forty miles an hour, women not ashamed to show off a little ankle, and as much opium as you care to smoke. In the dirty places labor is organizing, anarchists are murdering plutocrats, and children are going hungry.",
-        "But it's a pretty good world if you are on top of it, so find a way to get on top, fast..."
+        "In the golden age of cinema and television, when people would look up to the stars, they would see grand adventures between good and evil, with intrepid space explorers venturing out into the unknown, making the Galaxy a better place for one and all.",
+		"Of course, we know better. People will be just as rotten in space as they are planetside, bringing their pettiness, bickering, backstabbing, and greed to the stars. Sure, they may talk about grand plans and bettering humanity, but its only a matter of time before someone starts to claim planets and asteroids for their own, leading to the next great gold rush.",
+		"For the sake of this playset, we're assuming that we haven't gotten too far outside of our system. This isn't Star Trek or Star Wars where warp drives and hyperspace coordinates are easily available...hell, they aren't even valid theories yet. While spacecraft have advanced since the 20th Century, going from Earth to Mars still takes several weeks, and further out can take upwards of months to a year. All that time aboard a ship can lead to many poor decisions as crewmates start to lose patience with each other."
       ],
-      "tagline" : "In 1913 New York"
+      "tagline" : "In the Cold Depths of Space"
     },
     "relationships" : [
 			{
-				"title" : "Family",
+				"title" : "Confederates",
 				"elements" : [
-					"Godparent and child",
-					"Parent and stepchild",
-					"Siblings",
-					"Cousins",
-					"Grandparent and grandchild",
-					"Relatives in the Old Country"
+					"Old squad-mates",
+					"Imperial Investigators",
+					"Crusading Senator & Secretary",
+					"Mentor & Student",
+					"Professional Associates",
+					"Commander & XO"
 				]
 			},
 			{
-				"title" : "Work",
+				"title" : "Adversaries",
 				"elements" : [
-					"Former co-workers",
-					"Current co-workers",
-					"Supervisor / employee",
-					"Working stiff / client (mechanic, plumber, gardener, groomsman)",
-					"Salesman and customer",
-					"Professional and client (pastor, lawyer, accountant, prostitute)"
-				]
-			},
-			{
-				"title" : "Friendship",
-				"elements" : [
-					"Manipulator and victim",
-					"Old friends",
-					"Disreputable friends (criminal, opium addict, gambling, whoring)",
-					"Friendly sporting rivals",
-					"Club / society friends",
-					"Social adversaries"
+					"Traitor & Former Ally",
+					"Corrupt Senator & Investigator",
+					"Bounty Hunter & Quarry",
+					"Rival Clans",
+					"Former Enemies",
+					"Professional Rivals"
 				]
 			},
 			{
 				"title" : "Romance",
 				"elements" : [
-					"Spouses in name only",
-					"Current spouses",
-					"Stalker and obsession",
-					"Broken engagement or one-time fling",
-					"Lovers",
-					"Former lovers"
+					"Once But Never Again",
+					"Together Now & Forever",
+					"Unrequited Affection",
+					"Forbidden Affection",
+					"Unhealthy Obsession",
+					"At Each Others' Throats"
 				]
 			},
 			{
-				"title" : "Crime",
+				"title" : "Family",
 				"elements" : [
-					"Graft giver and receiver",
-					"Gamblers",
-					"Thieves (shoplifters, burglars, purse snatchers)",
-					"Con man and mark",
-					"Hoodlums (gangsters, knuckleheads, delinquents)",
-					"Drug people (sellers, distributors, users)"
+					"Estranged Parent & Child",
+					"Siblings Separated by Conspiracy",
+					"Twins Separated at Birth",
+					"Distant Cousins",
+					"Clones of the Same Original",
+					"Members of the Same Clan"
 				]
 			},
 			{
-				"title" : "Community",
+				"title" : "Criminal",
 				"elements" : [
-					"Appointed officials (Sanitation or commerce board, judges)",
-					"Volunteers (Neighborhood committee, election officials)",
-					"Church (Lay reader, deacon, sexton, temperance society)",
-					"Ethnic group (Clubs and societies, education or relief society)",
-					"Vigilantes (Vigilance committee, ethnic gang)",
-					"Radicals (Organizers, anarchists, Wobblies)"
+					"Fugitive Smugglers",
+					"Assassin & Target",
+					"Spy & Informant",
+					"Scoundrel & Mark",
+					"Thief & Fence",
+					"Crime Lord & Enforcer"
+				]
+			},
+			{
+				"title" : "Destiny",
+				"elements" : [
+					"You're Not My Father!",
+					"Survivors of Tragedy",
+					"Keepers of the Doctrine",
+					"Witnesses to a Crime",
+					"Student Seeking a Master",
+					"Called by Alien Voices"
 				]
 			}
     ],
     "needs" : [
 			{
-				"title" : "To free your body and soul",
+				"title" : "To Escape",
 				"elements" : [
-					"...From the slums, before they eat you alive",
-					"...From your oppressive family",
-					"...From your spouse",
-					"...From an unwanted lover",
-					"...From a heavy obligation to a family member",
-					"...From a crushing debt coming due"
+
+					"...from the shadow of past mistakes",
+					"...from indentured servitude",
+					"...from an abusive master",
+					"...from corrupting psychic influence",
+					"...from immense debt owed to a crime lord",
+					"...from government scrutiny"
 				]
 			},
 			{
-				"title" : "To avenge a great wrong",
+				"title" : "To Get Even",
 				"elements" : [
-					"...perpetrated by the New York political machine",
-					"...caused by America, which has turned you into a monster",
-					"...committed by a police officer",
-					"...covered up by your own family",
-					"...arrogantly enacted by a business rival",
-					"...corrupting the very heart of industrial capitalism"
+
+					"...with a former lover",
+					"...with the greedy freighter captain",
+					"...with a former master",
+					"...with the colony on Titan",
+					"...with the Emperor",
+					"...with a junk trader on Europa"
 				]
 			},
 			{
-				"title" : "To gain the wealth of croesus",
+				"title" : "To Find",
 				"elements" : [
-					"...Through stealing from the Chinese",
-					"...Through robbing a business unlikely to notice",
-					"...Through simple but bold fraud",
-					"...Through the death of an elderly person",
-					"...Through political graft",
-					"...Through a sudden windfall that does not belong to you"
+
+					"...the lost Delta Five space station",
+					"...the criminals who killed your lover",
+					"...a safe passage through the Kuiper Belt",
+					"...the origin of a strange, repeating signal",
+					"...the last remaining copy of Paradise Lost",
+					"...Grendel the Red's trove of stolen supplies"
 				]
 			},
 			{
-				"title" : "To earn universal respect",
+				"title" : "To Save",
 				"elements" : [
-					"...From New York, by bringing that politician down",
-					"...From the city, by demonstrating your power and reach",
-					"...From your lover, by proving yourself in the most grave extreme",
-					"...From the police, by assisting them at dire personal danger",
-					"...From a family member, by rescuing them from ruin",
-					"...From yourself, by ending the long wait and pulling the trigger"
+
+					"...a child from slavery",
+					"...your colony from destruction",
+					"...your credits for a transplant",
+					"...a friend from his addiction",
+					"...the Empire from corrupting forces",
+					"...the Empire from alien invaders"
 				]
 			},
 			{
-				"title" : "To discover the dark truth",
+				"title" : "To Hump",
 				"elements" : [
-					"...About the family's shameful past",
-					"...About New York's political corruption",
-					"...About a loved one's criminal history",
-					"...About someone's infidelity",
-					"...About what happened on the S.S. Tuscania",
-					"...About the woman's face that haunts you still"
+
+					"...anyone and everyone you can",
+					"...a perfect clone of yourself",
+					"...the last pure-strain human",
+					"...on the pristine grasses of Earth",
+					"...your Master's daughter/son",
+					"...your way to power and influence"
 				]
 			},
 			{
-				"title" : "To engage in immoral congress",
+				"title" : "To Steal",
 				"elements" : [
-					"...With anyone, anywhere, to dull the pain",
-					"...With a flash bit of ankle down at Macy's",
-					"...With an exotic foreigner",
-					"...And rekindle a dormant romance",
-					"...As a means to a very terrible end",
-					"...With the best of them, to prove you are a man"
+
+					"...anything not riveted down",
+					"...the plans to the Imperial prototype space probe",
+					"...the Emperor's genetic code",
+					"...the gold reserves on Phobos",
+					"...the Moon",
+					"...the fastest ship in the system"
 				]
 			}
     ],
-    "moments" : [
+    "locations" : [
 			{
-				"title" : "Posh New York",
+				"title" : "Planetary",
 				"elements" : [
-					"H. Kauffman & Sons Harness Company, Park Avenue South at East 24th street (See Notes)",
-					"The United States Mortgage and Trust Company, 55 Cedar Street",
-					"Tiffany and Company, at Fifth Avenue and 37th Street",
-					"The Arnold-Constable department store, Broadway and E. 19th St",
-					"Association for Befriending Children and Young Girls, 136 2nd Ave",
-					"Union League Club, Fifth Avenue and 39th Street"
+					"Olympus Mons, Mars",
+					"The Ruins of New York City, Earth",
+					"Beta Regio Highlands, Venus",
+					"Caloris Basin, Mercury",
+					"High Orbit above Pluto",
+					"Rings of Saturn"
 				]
 			},
 			{
-				"title" : "Working New York",
+				"title" : "Moons",
 				"elements" : [
-					"Yonah Shimmel's Bakery, 137 East Houston Street (try the knishes)",
-					"KALEM Moving Picture Studios, 131 Seventh Avenue",
-					"The American Bank Note Company, Broad and Beaver Streets",
-					"Columbia Warehouses, 149 Columbus Avenue",
-					"Lee Machine Works, Mott and Hester Streets",
-					"New York Court of Common Pleas, City Hall Park"
+					"The base of Mons Esam, Moon",
+					"Beneath the Ice, Eurpoa",
+					"Sulfur Fields, Io",
+					"Voltaire Crater, Deimos",
+					"Zhang Xi Iron Mines, Ganymede",
+					"MicroCraft Research Facility, Nereid"
 				]
 			},
 			{
-				"title" : "Yegg New York",
+				"title" : "Stations",
 				"elements" : [
-					"Segal's, the restaurant of choice among working criminals, Second Avenue and First Street",
-					"The burned out shell of the Asch Building on Washington Place",
-					"Block Drugs, 101 East Sixth Street",
-					"Bismark Hall, Second Avenue and 13th Street, the epicenter of the criminal underworld",
-					"Saint Marks-in-the-Bowery Church, at Second Avenue West and East Tenth Street",
-					"New York County Workhouse, Blackwell's Island"
+					"International Space Station IV, Jupiter",
+					"Olympus Mons Space Elevator, Mars",
+					"Terra Station Zero, Earth",
+					"Imperial Defense Platform, Saturn",
+					"\"Shangri-La\" Station ...somewhere",
+					"Institut d'Astrophysique de Vénus"
 				]
 			},
 			{
-				"title" : "Chinese New York",
+				"title" : "Colonies",
 				"elements" : [
-					"A low stakes Fran-Tan parlor on Pell Street",
-					"The On Leong Merchant's Association Building on Pell Street",
-					"Dr. Hum Mun Tau's Apothecary on Doyer Street",
-					"The Canton Club, Fifth Avenue and Mulberry",
-					"The Bing Ching Union gambling hall",
-					"A high-class brothel on Mott Street"
+					"Cinnabar Colony, Mars",
+					"Emerald City, Moon",
+					"New Nippon, Moon",
+					"Galileo Colony, Callisto",
+					"Hades Base, Pluto",
+					"Atlantis Colony, Europa"
 				]
 			},
 			{
-				"title" : "Entertaining New York",
+				"title" : "Secret",
 				"elements" : [
-					"The Metropolitan Roller Skating Rink at Broadway and 52nd Street",
-					"Wallack's Theater, Broadway and East 13th Street",
-					"The Houston Athletic Club, 143 East Houston Street",
-					"The Holland Brothers' Kinetoscope Parlor, at 1157 West 27th Street",
-					"John Delmonico's restaurant, arguably New York's finest, at Fifth Avenue and 44th Street",
-					"Hadley Hall, at 293 East First Street and the Bowery"
+					"Tortuga Crater Haven",
+					"Imperial Cloning Facility",
+					"Hei Long Triad Station",
+					"Sentinel Laser Station",
+					"Nomad Orbiting Free Market",
+					"Singularity Research Station"
 				]
 			},
 			{
-				"title" : "Residences",
+				"title" : "Unexpected",
 				"elements" : [
-					"A squalid tenement apartment in the lower East Side",
-					"A posh \"bachelor apartment\" in the Sherry building, Fifth Avenue and 44th Street",
-					"A family apartment in The Mitchell, 123 West 15th street",
-					"Secure top floor suite of the St. Denis hotel, Broadway and East 11th",
-					"A weekly room in the Liberty Hotel, 295 East First Street and Bowery",
-					"An elegant townhouse overlooking Tompkins Square"
+					"Rogue Planet",
+					"Ruins of Ancient Martian City",
+					"Hyperspace Gate",
+					"Hidden Alien Colony",
+					"Young Black Hole",
+					"Orbiting Obsidian Slab"
 				]
 			}
     ],
-    "events" : [
+    "objects" : [
 			{
-				"title" : "Unwholesome",
+				"title" : "Equipment",
 				"elements" : [
-					"A purple velvet Brooks Brothers ladies flying suit",
-					"A lock-box from Tammany Hall, Park Avenue and East 17th Street",
-					"A prodigious brick of cocaine in a Block Drugs bag",
-					"The pickled head of a murderer in a jar",
-					"An aborted fetus wrapped in an old copy of the New York Journal",
-					"An opium fiend's monogrammed kit"
+					"Duct Tape",
+					"Satellite Relay Communicator",
+					"Poorly Maintained Spacesuit",
+					"Laser Welder",
+					"Medical Droid",
+					"Breach Sealant"
 				]
 			},
 			{
-				"title" : "Weapons",
+				"title" : "Weapon",
 				"elements" : [
-					"Fowling piece, still in the box from the Abercrombie and Fitch Company, 57 Reade Street",
-					"A leopard",
-					"Dynamite bomb with timer",
-					"Ladies' pistol, dainty as you please",
-					"Beaker of hydrofluoric acid",
-					"Lacquered basswood airplane strut"
+					"Laser Pen",
+					"Taser",
+					"Flechette Pistol",
+					"Carbon-steel tubing",
+					"Combat Blade",
+					"Slugthrower Rifle"
 				]
 			},
 			{
-				"title" : "Transportation",
+				"title" : "Transport",
 				"elements" : [
-					"Gaggenau 7-ton gasoline truck",
-					"Alco \"anti-fatigue\" motorcar, 2-time winner of the Vanderbilt Cup",
-					"Studebaker hansom horse-drawn carriage",
-					"Curtiss Model 1911-D aeroplane",
-					"An I.R.T. elevated train car",
-					"A freight lighter moored at the East River docks"
+					"Orbital Shuttle",
+					"Interplanetary Freigher",
+					"Gravcycle",
+					"Snubfighter",
+					"Luxury Cruiser",
+					"Modified Smuggler's Transport"
 				]
 			},
 			{
 				"title" : "Information",
 				"elements" : [
-					"A list of all 67,000 New York telephone subscribers with certain names underlined",
-					"A blueprint of the H. Wolff Book Bindery, Tenth Avenue and West 26th Street, one of the few poured concrete buildings in New York",
-					"A threatening note addressed to Adams Dry Goods, Sixth Avenue and West 22nd Street",
-					"Annotated copy of the Report of the Exhibition and Tests of Street Cleaning",
-					"A treasure map",
-					"Curious letter penned by an inmate of the Riverside Rest Association, Second Avenue & East 26th Street"
+					"Incriminating Data on a Prominent Senator",
+					"Statistics on Declining Birth Rates",
+					"A Hermetically-Sealed Letter from 1908",
+					"Three Datachips",
+					"Severed Droid Head",
+					"Detailed Stellar Charts"
 				]
 			},
 			{
-				"title" : "Valuable",
+				"title" : "Contraband",
 				"elements" : [
-					"An envelope containing Hamburg-American Line tickets to Europe",
-					"The key to a deposit box at the Chase Bank, 200 Park Avenue South",
-					"A Turkish rug from Ferdossi Rugs, Broadway and East 21st Street",
-					"A camera and tripod from E & T Anthony and Co., 591 Broadway",
-					"Chemicals misplaced from the New York Lying-In Hospital",
-					"A gold Hip Sing tong \"Dragon Head\" necklace"
+					"Crate of Gauss Rifles",
+					"Organically Grown Herbs",
+					"Five Kilograms of Fertility Medication",
+					"Two Vials of \"Spice\"",
+					"Stolen Imperial Uniform",
+					"Imperial Encryption Decoder"
 				]
 			},
 			{
-				"title" : "Sentimental",
+				"title" : "Strange",
 				"elements" : [
-					"A gentleman's tasteful moonstone tie-tack",
-					"A soldier's diary from the Spanish-American War",
-					"A wedding ring",
-					"A budgie in a cage",
-					"A family bible stuffed with correspondence",
-					"A tattered Daguerreotype of the Engine Company Eleven crew, at the 437 Columbia St. firehouse"
+					"Cryogenically Preserved Eyeballs",
+					"Octopus Puppet",
+					"Child's Voice Modulating Toy and Black Helmet",
+					"Thirteen Floppy Disks Threaded with Dental Floss",
+					"Quartz Crystal",
+					"Small Bag of Bear-Shaped Jelly Candies"
 				]
 			}
     ]
