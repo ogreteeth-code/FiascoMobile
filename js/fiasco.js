@@ -1,9 +1,11 @@
 function loadHomeScreen() {
 	$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
+	setTimeout(function(){scrollTo(0,0)},1);
 }
 
 function loadAboutApp() {
 	$('#IOSContainer').load('tmpl/_aboutapp.tmpl.html');
+	setTimeout(function(){scrollTo(0,0)},1);
 }
 
 function subSwap(folioID) {
@@ -23,6 +25,7 @@ function getPlayset(playset) {
 	// console.log(playset);
 	title = {"filename": playset};
 	$.getJSON("playsets/" + playset,function(data) {data = title.merge(data); $("#playsetTitleScreen").tmpl(data).replaceAll("#IOSContainer");});
+	setTimeout(function(){scrollTo(0,0)},1);
 }
 
 Object.prototype.merge = (function (ob) {var o = this;var i = 0;for (var z in ob) {if (ob.hasOwnProperty(z)) {o[z] = ob[z];}}return o;});
