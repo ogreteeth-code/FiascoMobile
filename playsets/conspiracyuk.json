@@ -1,0 +1,299 @@
+{
+  "playset" :
+  {
+    "title" : "Conspiracy UK",
+    "credits" : 
+    {
+      "author" : "Simon Break"
+    },
+    "movie_night" :
+    [
+      { "title" : "Various James Bond films" },
+      { "title" : "The Bourne Ultimatum" },
+      { "title" : "Various London based TV shows, but in particular Spooks" }
+    ],
+    "score" :
+    {
+      "title" : "Paranoia, on the streets of London",
+      "paragraphs" : [
+        "\"Let me take you by the hand and lead you through the streets of London. I’ll show you something that’ll make you change your mind...\"",
+        "We hear things every day, in the news, on the internet. Theories, ideas, bizarre yet not entirely impossible to disregard. Perhaps the Russians have been engineering a bio-gentic virus in their labs. Perhaps the terrorist bombing campaign was nothing but a hoax orchestrated by the government to justify joining a unjustifiable war. Perhaps the royal family are really lizards.",
+        "For every person who actively chasing after conspiracies there are those who are drawn in unaware. But who’s the more dangerous... the one who believes the theories, or those determined to silence them.",
+        "This playset deals with everyday people who get wrapped up in conspiracy theories (and is set in and around London, seat of the government, home to the royal family, and magnet for all sorts of weirdness)."
+      ],
+      "tagline" : "On the Streets of London "
+    },
+    "relationships" : [
+		{
+			"title" : "Family",
+			"elements" : [
+				"Scarred parent and worried child",
+				"Concerned parent and obsessed child",
+				"Siblings",
+				"Cousins",
+				"Step parent and step child",
+				"Teenager and ‘connected’ uncle/aunt"
+			]
+		},
+		{
+			"title" : "Friends",
+			"elements" : [
+				"Friends since school",
+				"Work together, day in, day out",
+				"Drinking buddies",
+				"Internet contacts",
+				"Regular customer and friend behind the counter",
+				"Members of the same club"
+			]
+		},
+		{
+			"title" : "Support Group",
+			"elements" : [
+				"For victims of the same tragedy",
+				"For alcoholics/drug addicts",
+				"Grief counselling",
+				"Social events for newly divorced people",
+				"Rehabilitation for criminals",
+				"Stress counselling for military personnel"
+			]
+		},
+		{
+			"title" : "Romance",
+			"elements" : [
+				"Happily married",
+				"Unhappily married",
+				"Have a child together",
+				"Having an affair",
+				"Had a drunken fumble that one time",
+				"Will they/won't they (\"just good friends\")?"
+			]
+		},
+		{
+			"title" : "Professional",
+			"elements" : [
+				"Members of Her Majesty’s government",
+				"Representatives of a sinister agency",
+				"Scientists at a medical laboratory",
+				"Worked together on a Top Secret project",
+				"Working for a foreign power",
+				"Police inspector/officer and ‘assistant’"
+			]
+		},
+		{
+			"title" : "Street",
+			"elements" : [
+				"Journalist, and subject of current story",
+				"Homeless person and person who knows him/her",
+				"Conspiracy theorist and ‘suspicious’ figure",
+				"Addicted to the same drug",
+				"Criminal connections",
+				"The hunter and the hunted"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "To Get Rich...",
+			"elements" : [
+				"through selling secrets",
+				"through blackmail",
+				"through working to the top",
+				"through completing this ‘one last job’",
+				"through a revolutionary new product",
+				"through computer hacking"
+			]
+		},
+		{
+			"title" : "To Get Laid...",
+			"elements" : [
+				"before you reach 40",
+				"with your great looking new colleague",
+				"with your partner for one last time",
+				"to prove you still can",
+				"now that you’re back on the market",
+				"in order to deliberate spread your ‘disease’"
+			]
+		},
+		{
+			"title" : "To Discover The Truth...",
+			"elements" : [
+				"about your mysterious past",
+				"about the aliens",
+				"about the reoccuring code/symbol",
+				"about what happened to your experiment",
+				"about what happened to a loved one",
+				"about the terrible tragedy"
+			]
+		},
+		{
+			"title" : "To Discover The Secret...",
+			"elements" : [
+				"behind the throne",
+				"behind the government",
+				"behind the monolithic corporation",
+				"alien agenda",
+				"hinted at by the dead writer/artist",
+				"of an ancient civilisation"
+			]
+		},
+		{
+			"title" : "To Locate...",
+			"elements" : [
+				"the missing child",
+				"the highly sought technology",
+				"the dimensional gateway",
+				"the stolen Top Secret datafiles",
+				"the mysterious blackmailer",
+				"the cure to the disease"
+			]
+		},
+		{
+			"title" : "To Escape...",
+			"elements" : [
+				"from the police",
+				"from the shadowy agency",
+				"from the city/town/village",
+				"from the country",
+				"from the shapeshifters",
+				"from reality"
+			]
+		}
+    ],
+    "locations" : [
+		{
+			"title" : "Famous Landmarks",
+			"elements" : [
+				"In a pod of the London Eye",
+				"Midway across Tower Bridge",
+				"In the Whispering Gallery of St. Pauls",
+				"In the grounds of Buckingham Palace",
+				"In an office near the top of the Shard",
+				"By the base of Cleopatra’s Needle"
+			]
+		},
+		{
+			"title" : "Crowded Locations",
+			"elements" : [
+				"During a display of some sort in Trafalgar Square",
+				"Before a film premiere at Leicester Square",
+				"Dodging traffic as Picadilly Circus",
+				"Dodging people on Oxford Street",
+				"Waterloo Station during rush hour",
+				"The Notting Hill Carnival"
+			]
+		},
+		{
+			"title" : "Galleries and Museums",
+			"elements" : [
+				"The new exhibit at The British Museum",
+				"Around a popular canvas at the Tate Modern",
+				"A quiet corner of The British Library",
+				"A small display at The National Gallery",
+				"Amongst dinosaurs at The Natural History Museum",
+				"Private party at The Victoria and Albert Museum"
+			]
+		},
+		{
+			"title" : "Hidey Holes",
+			"elements" : [
+				"An old World War bunker",
+				"A dimly lit church",
+				"A private office near the back of the building",
+				"The small salon above a quiet pub",
+				"An ‘old boy’s’ club",
+				"A secure laboratory"
+			]
+		},
+		{
+			"title" : "Escape Routes and Dead Ends",
+			"elements" : [
+				"A rooftop/balcony with an amazing view",
+				"The tunnels of an Underground station",
+				"Lost amongst the boxes in a warehouse",
+				"Down a dark alleyway",
+				"In the back of a taxi-cab",
+				"Into the sewers"
+			]
+		},
+		{
+			"title" : "Out of London",
+			"elements" : [
+				"A quaint and quiet little village",
+				"A large mansion in Surrey",
+				"On the Thames heading towards the sea",
+				"Fleeing across the Peak District",
+				"On the streets of Liverpool",
+				"A dingy nightclub in Manchester"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Weapons",
+			"elements" : [
+				"A handy little pistol",
+				"A sniper rifle",
+				"A switchblade knife",
+				"A baseball bat",
+				"Kitchen utensils, in the wrong hands",
+				"Poison"
+			]
+		},
+		{
+			"title" : "Technology",
+			"elements" : [
+				"Some sort of advanced stun weapon",
+				"A small weapon hidden inside an everyday item",
+				"A scanner that detects strange energy fluctuations",
+				"A rocket assisted vehicle of some sort",
+				"A bomb with a specific purpose",
+				"A device with unknown properties"
+			]
+		},
+		{
+			"title" : "Biology",
+			"elements" : [
+				"Lizard DNA",
+				"A blood sample from a suspect",
+				"An infected animal in the streets",
+				"A vial containing a deadly nanovirus",
+				"The unknown carrierof a terrible new strain",
+				"The cure, finally isolated!"
+			]
+		},
+		{
+			"title" : "Notes",
+			"elements" : [
+				"A rough manuscript of an unpublished book",
+				"A list of names, one of which is crossed out",
+				"Observations of someone’s actvities",
+				"Words scrawled in an unknown/alien language",
+				"A print out of apparently random numbers",
+				"A diary of someone’s final days"
+			]
+		},
+		{
+			"title" : "Pictures",
+			"elements" : [
+				"A still from a security camera",
+				"Faded photographs from twenty five years ago",
+				"A children’s drawing with suspicious imagery",
+				"A photo with hidden clues in the background",
+				"A hand drawn plan with notes",
+				"A photo of the next target"
+			]
+		},
+		{
+			"title" : "Memories",
+			"elements" : [
+				"Strange lights in the skies",
+				"Snapping jaws and slashing claws",
+				"Being strapped into a chair",
+				"Part of a song you can’t pin down",
+				"The sounds of screaming, the smell of burning",
+				"Nothing unusual, until a spoken word unlocks them"
+			]
+		}
+    ]
+  }
+}
