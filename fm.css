@@ -1,3 +1,21 @@
+@font-face {
+	font-family: 'Metrophobic';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Metrophobic'), url('res/Metrophobic400.woff') format('woff');
+}
+@font-face {
+	font-family: 'Syncopate';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Syncopate'), local('Syncopate-Regular'), url('res/Syncopate400.woff') format('woff');
+}
+@font-face {
+	font-family: 'Syncopate';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Syncopate Bold'), local('Syncopate-Bold'), url('res/Syncopate700.woff') format('woff');
+}
 body {
 	background-color: #C41102;
 	width: 100%;
