@@ -9,7 +9,25 @@
     <name>FiascoMobile</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+Do you want to play a game of fictional mayhem with your friends? Then you've come to the right place. 
+FiascoMobile gives you one less thing to worry about when you want to have a Fiasco away from home.
+
+With Jason Morningstar's tabletop game Fiasco, players tell the story of people whose ambitions exceed their common sense. Light on rules and heavy on disastrous fun, Fiasco can be played with some six sided dice, 3-5 friends, one book, and the playset of your choice.
+
+This app has more than two dozen playsets to pick from, at the swipe of a finger.  Playsets contain a variety of character goals, locations, places and relationships, which you can use as a group to tell stories about everything from bank heists gone wrong to historical dramas. This app will have periodic updates consisting of more playsets.
+
+FiascoMobile only contains playsets, and not the core rules for the game. If you don't have a copy of Fiasco, you can download it in digital format, or buy it in print, from Bully Pulpit Games.
+So pull up a chair, and weave a story of ambition and betrayal in the time it would take to watch a movie about one.
+
+Playsets include
+
+Camp Death, by James Gabrielsen. Counselors at Camp Clearwater only have a few weeks before camp starts at the site of a historic murder. Can they and the locals survive?
+
+The Manna Hotel, by Dan Puckett. The first Manna Hotel burnt down in the fifties. The new one was built atop its bones, slow, run down, full of secrets. Mystic, deadly secrets.
+
+Town And Gown, by Stephen Granade. Townies hate the University, students hate the faculty, faculty hate each other. The school and the town around it are a powder keg of frustration. Got a match?
+
+Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 was a hard, dark year for New York City. But '78 has disco, comedy, glitterati and an explosion of new music. You can find a good time that just might explode every hour of the night on a Saturday in '78.
     </description>
 
     <author href="http://brooklynindiegames.com" email="support@brooklynindiegames.com">
@@ -21,13 +39,14 @@
         The "device" permission is required for the 'deviceready' event.
     -->
     <feature name="http://api.phonegap.com/1.0/device" />
-
     <!--
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
         permission on your app, which PhoneGap requires.
     -->
     <preference name="permissions"                value="none"/>
+
+	<gap:platform name="ios" />
 
     <!-- Customize your app and platform with the preference element. -->
     <preference name="phonegap-version"           value="2.9.0" />          <!-- all: current version of PhoneGap -->

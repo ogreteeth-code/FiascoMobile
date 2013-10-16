@@ -1,0 +1,44 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" href="fm.css" type="text/css" media="screen, mobile" title="main">
+    <script type="text/javascript" src="jquery-1.4.3.min.js"></script>
+    <script>
+	function mailvalidate(e) {
+		var valid = e.value.toLowerCase()
+		e.value = valid;
+		}
+    </script>
+    <link href="http://fonts.googleapis.com/css?family=Syncopate:400,700%7CMetrophobic" rel="stylesheet" type="text/css">
+	<title>Fiasco Mobile Login</title>
+</head>
+<body>
+
+<nav><img src="img/header.png" alt="Fiasco Mobile" /></nav>
+
+<div id="IOSContainer">
+	<h1>Log in...</h1>
+	
+	<div class="playset loginForm">	
+		<form action="fm.pl" method="post">
+			<label for="mailbox">Enter email address:</label>
+			<input name="mailbox" type="email" value="" onblur="javascript:mailvalidate(this)"><input type="submit">
+		</form>
+	</div>
+
+	<h1>About the App</h1>
+	<div class="playset">
+		<p>FiascoMobile is the most convenient way to carry Fiasco playsets with you on the go. It is a web application designed specifically for use on a mobile device.</p>
+		<p>On an iOS device, you can install it to your homescreen and treat it like any other app. You can also use it on your home computer! It's also known to work on Android, Blackberry, and any other device that uses a modern web browser.</p>
+		<p><a href="demo/">Try the demo</a> and let me know what you think.</p>
+	</div>
+
+	<h1>Buy now</h1>
+	<div class="playset" id="paypalButton"></div>
+</div>
+<h1 class="footer">...on the internet</h1>
+</div>
+<script>$(document).ready(function(){$('#paypalButton').load('paypal.html');})</script>
+</body>
+</html>
