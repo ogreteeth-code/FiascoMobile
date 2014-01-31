@@ -1,0 +1,366 @@
+{
+  "playset" :
+  {
+    "title" : "Colonials",
+    "credits" : 
+    {
+      "author" : "James D'Amato"
+    },
+    "movie_night" :
+    [
+      { "title" : "Aliens" }
+    ],
+    "score" :
+    {
+      "title" : "2179-",
+      "paragraphs" : [
+        "In the not so distant future, human kind has finally attained interstellar travel. Thanks to the invention of stasis, humans can travel great distances while consuming very few resources. Mega corporations are racing across the galaxy to find new sources of wealth and bring them back to earth, but wealth is not the only thing to be found in the could reaches of space. Not everyone is equipped to handle that.",
+        "This playset is designed to parody films like Aliens. Rather than focusing on horror and/or action Colonials adopts the Coen-esque tragicomedy structure that you'd expect from a game of Fiasco.",
+        "Colonials takes place in a universe with greedy megacorps, retro futuristic sci-fi, and of course unstoppable alien killing machines. Rather than playing scientists, explorers, and badasses who discover a colony after it has been destroyed you will be playing the sorry bastards who cause everything to go pear-shaped to begin with. Through your misplaced ambition and terrible impulse control you will (probably) cause your space colony to be overrun with terrifying space monsters.",
+        "In Colonials, No matter what, during the tilt the monsters hatch/get loose/run amok in addition to the complications that you get from the tilt table in the usual way.",
+        "In space, no one can hear you scheme..."
+      ],
+      "tagline" : "In space..."
+    },
+"relationships" : [
+		{
+			"title" : "Family",
+			"elements" : [
+				"Eskimo Brothers/Sisters",
+				"Parent/Child Step child",
+				"In-laws",
+				"Raised in same orphanage",
+				"Same space commando unit",
+				"Twins"
+			]
+		},
+		{
+			"title" : "Work",
+			"elements" : [
+				"Lead Scientist/Lab Tech",
+				"Dealer/Client",
+				"Pilot/Co-pilot",
+				"Laborer (Janitor, Plumber, Electrician, etc.)/Client",
+				"Superior Officer/Subordinate",
+				"Observer/Observed (Megacorp Liaison, Babysitter, Psychiatrist, etc.)"
+			]
+		},
+		{
+			"title" : "Friendship",
+			"elements" : [
+				"Good natured rivals",
+				"Drinking buddies",
+				"Friend you secretly hate",
+				"Friend you secretly pity",
+				"Manipulator/victim",
+				"Life debt"
+			]
+		},
+		{
+			"title" : "Romance",
+			"elements" : [
+				"Lovers",
+				"Spouses",
+				"Sex Friends who are not on the same page",
+				"Ex-lovers",
+				"Fell in love with them while they were in stasis",
+				"Wishing they were with another person"
+			]
+		},
+		{
+			"title" : "Crime",
+			"elements" : [
+				"Partners",
+				"Brains/Enforcer",
+				"Briber/Bribed",
+				"Blackmailer/Blackmailed",
+				"Enabler/Enabled",
+				"Gang/Mob/Blackmarket"
+			]
+		},
+		{
+			"title" : "Rivalries",
+			"elements" : [
+				"Criminal and cop",
+				"No matter the circumstance you can't help but hate each other",
+				"Constantly daring one another",
+				"Competing to be the best in a given field",
+				"Competing over the same person's affection",
+				"Obsessed with the other person trying to get you"
+			]
+		}
+	],
+    "needs" : [
+		{
+			"title" : "To get off",
+			"elements" : [
+				"...by getting high",
+				"...by giving in to curiosity",
+				"...by excising power over others",
+				"...by breaking the rules",
+				"...the old fashioned way",
+				"...by stealing something really valuable"
+			]
+		},
+		{
+			"title" : "To find the truth",
+			"elements" : [
+				"...about why you were sent here",
+				"...about the corruption in this organization",
+				"...about life, the universe, and everything",
+				"...about what happened to your loved one",
+				"...about the purpose of this colony",
+				"...by forcing someone to tell you"
+			]
+		},
+		{
+			"title" : "To get respect",
+			"elements" : [
+				"...from your corporate masters, by getting something valuable",
+				"...from your commanding officer, by proving yourself",
+				"...from yourself, by making up for your mistakes",
+				"...from your rival by besting them",
+				"...from your lover/crush, by being a hero",
+				"...from your community by making a major discovery"
+			]
+		},
+		{
+			"title" : "To get free",
+			"elements" : [
+				"...from your addiction",
+				"...from your commanding officer",
+				"...from this fucking job",
+				"...from rules you don't agree with",
+				"...from the past",
+				"...from your toxic relationship"
+			]
+		},
+		{
+			"title" : "To get even",
+			"elements" : [
+				"...with the person who is one step ahead of you",
+				"...with the system that kept you on the bottom",
+				"...with what that took away what you cared about most",
+				"...with the people who doubted you",
+				"...with the person who doesn’t even know your name",
+				"...with everything that makes you afraid"
+			]
+		},
+		{
+			"title" : "To win",
+			"elements" : [
+				"...by making it public and messy",
+				"...by taking it all down with you",
+				"...by showing them they can't make you feel small",
+				"...by escaping with no consequences",
+				"...by ending things on your terms",
+				"...with overwhelming force"
+				]
+			}
+    ],
+    "locations" : [
+		{
+			"title" : "Military",
+			"elements" : [
+				"Barracks",
+				"Armory",
+				"Locker rooms",
+				"Security office",
+				"Holding cells",
+				"Patrol buggy"
+			]
+		},
+		{
+			"title" : "Civilian",
+			"elements" : [
+				"Gym",
+				"Cafeteria",
+				"Personal quarters",
+				"School",
+				"Bar",
+				"Kitchen"
+			]
+		},
+		{
+			"title" : "Scientific",
+			"elements" : [
+				"Quarantine",
+				"The stasis pods",
+				"The transport vessel",
+				"Research server room",
+				"Medical bay",
+				"Biology lab"
+			]
+		},
+		{
+			"title" : "Corporate",
+			"elements" : [
+				"The transport",
+				"The communications center",
+				"The executive lounge",
+				"The atmospheric generator",
+				"The machine bay",
+				"The panic room"
+			]
+		},
+		{
+			"title" : "Shady",
+			"elements" : [
+				"The back table of the cafeteria",
+				"The vent behind the scientific wing",
+				"The unoccupied civilian quarters",
+				"The maintenance closet",
+				"The shower stall all the way at the end of the barracks",
+				"The central power station"
+			]
+		},
+		{
+			"title" : "Space horror",
+			"elements" : [
+				"Ancient alien burial chamber",
+				"The hatchery",
+				"The mysterious space temple",
+				"The malfunctioning stasis pod",
+				"The crashed alien ship",
+				"The poorly patrolled area in the science wing"
+				]
+			}
+    ],
+    "objects" : [
+		{
+			"title" : "Weapons",
+			"elements" : [
+				"Grenades",
+				"Machine gun",
+				"Radar",
+				"Flame thrower",
+				"Combat knife",
+				"Minigun"
+			]
+		},
+		{
+			"title" : "Personal",
+			"elements" : [
+				"Picture of family",
+				"Unused engagement ring",
+				"Copy of At the Mountains of Madness",
+				"Diary about current research project",
+				"Stash of illegal substances",
+				"Teddy bear"
+			]
+		},
+		{
+			"title" : "Misplaced",
+			"elements" : [
+				"Black ooze",
+				"Clearance badge for the transport",
+				"Child",
+				"Basic chemicals for balancing pH levels",
+				"High-level corporate ID",
+				"Diary with love confession"
+			]
+		},
+		{
+			"title" : "Valuables",
+			"elements" : [
+				"Codes to the space ship",
+				"Suitcase full of credits",
+				"Monster egg",
+				"Fuel rods",
+				"Large stash of drugs",
+				"Main security override ID"
+			]
+		},
+		{
+			"title" : "Incriminating evidence",
+			"elements" : [
+				"Underpants that don't belong to you",
+				"The real mission statement from corporate",
+				"Ledger full of illicit transactions with names and dates",
+				"\"Deleted\" security footage",
+				"Dead person's personal affects",
+				"Used syringe"
+			]
+		},
+		{
+			"title" : "Transportation",
+			"elements" : [
+				"Atmosphere suit",
+				"Teleporter",
+				"Troop transport",
+				"Corporate escape pod",
+				"Janitor's bucket",
+				"Decommissioned space ship"
+				]
+			}
+    ],
+    "tilt" : [
+		{
+			"title" : "Body",
+			"elements" : [
+				"Someone loses a limb",
+				"Someone gets a nasty infection",
+				"Something \"gets in your head\"",
+				"Someone realizes what all the tests were for",
+				"Someone gets shot",
+				"Someone grows a new limb"
+			]
+		},
+		{
+			"title" : "Mind",
+			"elements" : [
+				"Suddenly everything you thought was right is wrong",
+				"Someone becomes completely paranoid",
+				"Someone goes on a bloody rampage",
+				"Someone loses touch with reality",
+				"Someone identifies with their abusers",
+				"Solipsism"
+			]
+		},
+		{
+			"title" : "Soul",
+			"elements" : [
+				"Complete moral 180",
+				"Someone betrays the person they care about most",
+				"Someone no longer identifies with the human condition",
+				"Someone loses religion",
+				"Someone finds religion",
+				"Nihilism"
+			]
+		},
+		{
+			"title" : "People",
+			"elements" : [
+				"Sudden reversal of status",
+				"Every single lie gets exposed",
+				"Someone dies just after figuring out how to save everyone",
+				"Two people who hate each other have to work together",
+				"There is a serious disagreement about what to do next",
+				"Robot uprising"
+			]
+		},
+		{
+			"title" : "Places",
+			"elements" : [
+				"The power goes out",
+				"The escape pods don't/are gone",
+				"The compound seals itself",
+				"Life support fails",
+				"Catastrophic depressurization",
+				"Self destruct"
+			]
+		},
+		{
+			"title" : "Things",
+			"elements" : [
+				"You pull the trigger and get a \"click\" instead of a \"bang\"",
+				"\"Signal's dead\"",
+				"The flashlight only works when you don't want to see",
+				"The thing you need is just out of reach",
+				"When you are safe you find it behind you",
+				"It turns out there is a much larger version of the thing you are afraid of"
+				]
+			}
+    ]
+  }
+}
