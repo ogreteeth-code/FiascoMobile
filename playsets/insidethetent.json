@@ -94,73 +94,73 @@
     ],
     "needs" : [
 			{
-				"title" : "To free your body and soul",
+				"title" : "Pissing out",
 				"elements" : [
-					"...From the slums, before they eat you alive",
-					"...From your oppressive family",
-					"...From your spouse",
-					"...From an unwanted lover",
-					"...From a heavy obligation to a family member",
-					"...From a crushing debt coming due"
+					"...to get out of the UK",
+					"...to get out of prison",
+					"...to get that misinformative satire removed from culture",
+					"...to cover up those deaths that weigh on your conscience",
+					"...to get out of this awful job",
+					"...to prepare the world for the coming apocalypse"
 				]
 			},
 			{
-				"title" : "To avenge a great wrong",
+				"title" : "Pissing in",
 				"elements" : [
-					"...perpetrated by the New York political machine",
-					"...caused by America, which has turned you into a monster",
-					"...committed by a police officer",
-					"...covered up by your own family",
-					"...arrogantly enacted by a business rival",
-					"...corrupting the very heart of industrial capitalism"
+					"...to oust the leader through any means necessary",
+					"...to get into prison",
+					"...to get those interfering civil servants on your side",
+					"...to overcome your illness, or else succumb",
+					"...to backstab a special person, because you have no other choice",
+					"...to screw over someone who's had it coming"
 				]
 			},
 			{
-				"title" : "To gain the wealth of croesus",
+				"title" : "Loadsamoney!",
 				"elements" : [
-					"...Through stealing from the Chinese",
-					"...Through robbing a business unlikely to notice",
-					"...Through simple but bold fraud",
-					"...Through the death of an elderly person",
-					"...Through political graft",
-					"...Through a sudden windfall that does not belong to you"
+					"...by selling weapons from this side to the other side",
+					"...from that upper-class twit who doesn't know the value of it",
+					"...by getting tax breaks for your income bracket that everyone else can pay for",
+					"...by abusing your current position to get into showbiz",
+					"...through your Royal connections",
+					"...through selling something very precious"
 				]
 			},
 			{
-				"title" : "To earn universal respect",
+				"title" : "May we bring love",
 				"elements" : [
-					"...From New York, by bringing that politician down",
-					"...From the city, by demonstrating your power and reach",
-					"...From your lover, by proving yourself in the most grave extreme",
-					"...From the police, by assisting them at dire personal danger",
-					"...From a family member, by rescuing them from ruin",
-					"...From yourself, by ending the long wait and pulling the trigger"
+					"...by burying the hatchet with your old enemy",
+					"...by burying something else inside your old friend",
+					"...by getting them to see you as \"hip with the kids, yo\"",
+					"...by getting that Fleet Street girl to call you \"Daddy\"",
+					"...by keeping the world from finding out about your sex life",
+					"...everywhere, to everyone and everything. Paying if necessary"
 				]
 			},
 			{
-				"title" : "To discover the dark truth",
+				"title" : "May we bring truth",
 				"elements" : [
-					"...About the family's shameful past",
-					"...About New York's political corruption",
-					"...About a loved one's criminal history",
-					"...About someone's infidelity",
-					"...About what happened on the S.S. Tuscania",
-					"...About the woman's face that haunts you still"
+					"...by telling your grotesquely altered version of it to everyone",
+					"...by being truthful and honest, despite your position",
+					"...by showing everyone the photograph",
+					"...by proving to everyone that you were right about that bastard",
+					"...by getting your work of art out to the masses",
+					"...to a person you despise"
 				]
 			},
 			{
-				"title" : "To engage in immoral congress",
+				"title" : "May we bring harmony",
 				"elements" : [
-					"...With anyone, anywhere, to dull the pain",
-					"...With a flash bit of ankle down at Macy's",
-					"...With an exotic foreigner",
-					"...And rekindle a dormant romance",
-					"...As a means to a very terrible end",
-					"...With the best of them, to prove you are a man"
+					"...to your exploited country, by achieving independence",
+					"...to your shattered community, by restoring its heart",
+					"...to your tortured mind, through illegal self-medication",
+					"...by just killing all those blessed Scots",
+					"...by making it impossible for them to hurt you anymore",
+					"...by starting World War III"
 				]
 			}
     ],
-    "moments" : [
+    "locations" : [
 			{
 				"title" : "Posh New York",
 				"elements" : [
@@ -228,7 +228,7 @@
 				]
 			}
     ],
-    "events" : [
+    "objects" : [
 			{
 				"title" : "Unwholesome",
 				"elements" : [
