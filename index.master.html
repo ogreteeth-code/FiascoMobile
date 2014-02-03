@@ -3,7 +3,19 @@
 	<meta charset="UTF-8">
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1" />
     <link rel="stylesheet" href="fm.css" type="text/css" media="screen, mobile" title="main">
-    <script type="text/javascript" src="jquery-1.4.3.min.js"></script>
+<SCRIPT LANGUAGE="JavaScript"> 
+<!-- Begin 
+if (navigator.appName == 'Netscape') 
+  var language = navigator.language; 
+else 
+  var language = navigator.browserLanguage; 
+// if (language.indexOf('en') > -1) document.location.href = 'en.html'; 
+// else if (language.indexOf('pt-br') > -1) document.location.href = 'pt-br.html'; 
+// else if (language.indexOf('it') > -1) document.location.href = 'italian.html'; 
+// End --> 
+</script>
+
+    <script type="text/javascript" src="js/jquery-1.4.3.min.js"></script>
     <script>
 	function mailvalidate(e) {
 		var valid = e.value.toLowerCase()
@@ -23,7 +35,7 @@
 	<div class="playset loginForm">	
 		<form action="fm.pl" method="post">
 			<label for="mailbox">Enter email address:</label>
-			<input name="mailbox" type="email" value="" onblur="javascript:mailvalidate(this)"><input type="submit">
+			<input name="mailbox" type="email" value="" onblur="javascript:mailvalidate(this)" /><input type="submit">
 		</form>
 	</div>
 

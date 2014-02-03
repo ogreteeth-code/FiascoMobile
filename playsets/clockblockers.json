@@ -1,0 +1,301 @@
+{
+  "playset" :
+  {
+    "title" : "Clock Blockers",
+    "credits" : 
+    {
+      "author" : "Rob Wieland"
+    },
+    "movie_night" :
+    [
+      { "title" : "Back to the Future" },
+      { "title" : "Bill & Ted's Excellent Adventure" },
+      { "title" : "Hot Tub Time Machine" },
+      { "title" : "Time Bandits" }
+    ],
+    "score" :
+    {
+      "title" : "Plundering History for Fun and Profit",
+      "paragraphs" : [
+        "Time travel. One of mankind's longest lived dreams. Who hasn't thought about seeing the pyramids built, or hearing the Gettysburg Address, or watching the Berlin Wall tumble?",
+        "Fuck those assholes",
+        "You're using the time machine for your own selfish, dangerous desires. It's only a matter of time before everyone can time travel, so why not lie, cheat, and steal your way through history, while placing a few bets along the way to fill the Ark of the Covenant you're using as a coffee table with some Aztec gold?"
+      ],
+      "tagline" : "Spinning Through Time"
+    },
+    "relationships" : [
+			{
+				"title" : "Work",
+				"elements" : [
+				"Corrupt time cops",
+				"Co-owners of the time machine",
+				"Documentarian and subject",
+				"Investor and inventor",
+				"Old maintenance hand and new recruit",
+				"Timeline Tours Guide and client"
+				]
+			},
+			{
+				"title" : "Academic",
+				"elements" : [
+				"Professor and student",
+				"Bitter rivals",
+				"Ex-lovers stuck together on this project",
+				"A former protege and outshined mentor",
+				"Roommates dragged into this for credit",
+				"The disgraced scientist and the administrator who fired you"
+				]
+			},
+			{
+				"title" : "Family",
+				"elements" : [
+				"Genius kid and older sibling",
+				"Embarrassingly proud parent and child",
+				"Noble ancestor and scummy modern-day descendant",
+				"Past and future versions of the same person",
+				"Your grandparent when they were your age",
+				"The person who was actually your parent"
+				]
+			},
+			{
+				"title" : "Friends",
+				"elements" : [
+				"Debtor and debtee",
+				"Frenemies",
+				"Grown-up nerd and washed-up bully",
+				"Best friends forever",
+				"Childhood sweethearts",
+				"\"Hi, I answered the personal you placed...?\""
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+				"Reincarnated soulmates",
+				"Star-crossed lovers",
+				"Unrequited",
+				"You gained a time machine but ruined a marriage",
+				"Future lovers not yet in love",
+				"A secret affair"
+				]
+			},
+			{
+				"title" : "Across Time And Space",
+				"elements" : [
+				"Two misplaced cavemen",
+				"A soldier and prisoner",
+				"They can't speak each other's language",
+				"A historical figure and their biggest fan",
+				"The one person who remembers you from the original timeline",
+				"Travellers able to swap bodies at will"
+				]
+			}
+		],
+
+    "locations" : [
+		{
+			"title" : "Ancient History",
+			"elements" : [
+				"The building of Stonehedge",
+				"The library of Alexandria",
+				"Sodom and Gommorah",
+				"Thermopylae and the 300 Spartans",
+				"The night Rome burns",
+				"The moment man discovered fire"
+				]
+			},
+			{
+				"title" : "Recorded History",
+				"elements" : [
+				"The Black Plague",
+				"The French Revolution",
+				"The signing of the Declaration of Independence",
+				"The Mayflower",
+				"Venice during the Renaissance",
+				"Tortuga"
+				]
+			},
+			{
+				"title" : "Modern History",
+				"elements" : [
+				"The Orient Express",
+				"The Titanic",
+				"The Hindenburg",
+				"Pearl Harbor",
+				"The battle of Gettysburg",
+				"The Wright Brothers' first flight"
+				]
+			},
+			{
+				"title" : "Recent History",
+				"elements" : [
+				"The Battle of Britain",
+				"The Apollo 11 launch",
+				"Woodstock",
+				"The start of Prohibition",
+				"The fall of the Berlin Wall",
+				"New Year's Eve, 200, New York City"
+				]
+			},
+			{
+				"title" : "Future History",
+				"elements" : [
+				"The discovery of intelligent alien life",
+				"World peace",
+				"The first settlements on the moon",
+				"The end of the world",
+				"The last human on Earth",
+				"The creation of artificial intelligence"
+				]
+			},
+			{
+				"title" : "Alternate Timelines",
+				"elements" : [
+				"The Third Reich triumphant",
+				"Inauguration day of the Confederate States of America",
+				"The bicentennial of America's Colonial rule",
+				"The fall of Capitalism",
+				"A recent presidential election goes the other way",
+				"Rome never falls"
+				]
+			}
+		],
+
+    "needs" : [
+			{
+				"title" : "To Get Laid",
+				"elements" : [
+				"By a famous historical person",
+				"To activate the time machine",
+				"By the one you thought got away",
+				"To lose your virginity in a unique way",
+				"To have sex with a past/future version of yourself",
+				"To found your own bloodline"
+				]
+			},
+			{
+				"title" : "To See For Yourself",
+				"elements" : [
+				"A famous speech",
+				"To take part in a famous battle",
+				"The heroic death of a relative",
+				"“Time travel? You must be absurd!”",
+				"The moment your parents met",
+				"The last time you saw your true love"
+				]
+			},
+			{
+				"title" : "To Get Rich",
+				"elements" : [
+				"By selling the time machine to the highest bidder",
+				"By stealing a fortune in gold",
+				"By betting on current events with future knowledge",
+				"By bringing back future tech and claiming it as your own invention",
+				"By replacing a historical figure with yourself",
+				"By holding a pivotal moment hostage"
+				]
+			},
+			{
+				"title" : "To Find The Truth",
+				"elements" : [
+				"Who shot JFK?",
+				"Was Jesus divine?",
+				"Who built the pyramids?",
+				"Is Elvis alive?",
+				"Was King Arthur real?",
+				"Are aliens real?"
+				]
+			},
+			{
+				"title" : "To Break Something",
+				"elements" : [
+				"Stop a wedding",
+				"Cause a terrible train wreck",
+				"Destroy an important document",
+				"Kill someone who lived the first time",
+				"To destroy the time machine in the first place",
+				"Fall in love with someone else"
+				]
+			},
+			{
+				"title" : "To Fix Something",
+				"elements" : [
+				"Reverse a humiliating failure",
+				"A second chance at true love",
+				"Go right instead of left",
+				"To save someone's life",
+				"Erase evidence of previous history meddling",
+				"To rescue someone stuck in time"
+				]
+			}
+		],
+    "objects" : [
+			{
+				"title" : "The Time Machine",
+				"elements" : [
+				"A mystical doorway",
+				"A souped-up vehicle",
+				"An ancient spellbook",
+				"An innocuous item that fits in a pocket",
+				"A stolen time machine from the future",
+				"Alien technology unearthed in a dig"
+				]
+			},
+			{
+				"title" : "Historically Significant",
+				"elements" : [
+				"The gun that shot Lincoln",
+				"Excalibur",
+				"Fat Man and Little Boy",
+				"Mozart's finished Unfinished Symphony",
+				"Jim Morrison's last poem",
+				"The Holy Grail"
+				]
+			},
+			{
+				"title" : "Historically Obscure",
+				"elements" : [
+				"The first knife that stabbed Caesar",
+				"Hitler's paintbrush",
+				"A plate from the Last Supper",
+				"The first stone of the Great Wall of China",
+				"FDR's wheelchair",
+				"Einstein's hair"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+				"Your mother's wedding ring",
+				"Your favorite toy as a child",
+				"A family photo",
+				"A diary",
+				"A lock of hair",
+				"The pocketwatch you thought you lost"
+				]
+			},
+			{
+				"title" : "Not Yet Invented",
+				"elements" : [
+				"A cure for cancer",
+				"Flying car",
+				"Teleporter",
+				"Brain installed computers",
+				"Human clones",
+				"A better time machine"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+				"A letter from a dead soldier",
+				"The handwritten manuscript of a famous novel",
+				"The location of a lost masterpiece",
+				"Rival time travellers are following you",
+				"A historical figure replaced by a time traveller",
+				"Proof that someone changed the timeline"
+				]
+			}
+		]
+  }
+}

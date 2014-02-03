@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 use Digest::MD5 qw(md5_hex);
 
@@ -23,7 +23,19 @@ print <<EO1;
 <div class="playset loginForm">
 EO1
 
-#&envy;
+
+# &envy;
+
+@playset = split('\?', $ENV{HTTP_REFERER});
+
+if (@playset[1]) {
+	# print "Playset present... <br />";
+	@playset = split('\?', $ENV{HTTP_REFERER});
+	$playset = @playset[1];
+	# print "playset: $playset<br />";
+} else {
+	# print "Eql?";
+}
 
 if ($ENV{'REQUEST_METHOD'} eq "POST") {
 	$checksum = 1;
@@ -78,13 +90,13 @@ sub ValidateQ($) {
 }
 
 sub PreValidated($) {
-	if ($_[0] == "true") {print "<script>location.href='http://fiascomobile.ogreteeth.com/lns/$digest.html';</script></div>";}
+	if ($_[0] == "true") {print "<script>location.href='http://brooklynindiegames.com/fm/lns/$digest.html';</script></div>";}
 }
 
 sub ValidatedGo() {
 	print "<script>document.getElementById('title').innerHTML = 'Success!';setTimeout(\"document.getElementById('footer').style.display = 'none'\", 35);</script>
 	Thanks for logging in! Click the following link to go directly to the playsets, and then bookmark and/or add the resulting page to your iOS Home Screen<br />
-	</div><div id=\"playnow\" onClick=\"javascript:location.href='http://fiascomobile.ogreteeth.com/lns/$digest.html';\">LOG IN NOW</div>";
+	</div><div id=\"playnow\" onClick=\"javascript:location.href='http://brooklynindiegames.com/fm/lns/$digest.html?$playset';\">LOG IN NOW</div>";
 }
 
 sub ValidateFail($) {
