@@ -76,6 +76,8 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     	<param name="URL_SCHEME" value="fiascomobile" />
 	</gap:plugin>
 
+	<gap:plugin name="com.simonmacdonald.prefs" />
+
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
