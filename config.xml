@@ -47,6 +47,7 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     <preference name="permissions"                value="none"/>
 
 	<gap:platform name="ios" />
+	<gap:platform name="android" />
 
     <!-- Customize your app and platform with the preference element. -->
     <preference name="phonegap-version"           value="3.1.0" />          <!-- all: current version of PhoneGap -->
@@ -70,6 +71,10 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
         <gap:plugin name="Example" />
         A list of available plugins are available at https://build.phonegap.com/docs/plugins
     -->
+
+	<gap:plugin name="nl.x-services.plugins.launchmyapp">
+    	<param name="URL_SCHEME" value="fiascomobile" />
+	</gap:plugin>
 
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
