@@ -34,12 +34,13 @@ $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').appen
 $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(templates);});
 
 
-$(document).ready(function(){var x=location.search.split("?")[1];});
-
-if(x) {
-	alert(x);
-	$(document).ready(function(){getPlayset(x+".json");)};
-} else {
-	alert("no playset passed");
-	$(document).ready(function(){$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');)};
-}
+$(document).ready(function(){
+	var x=location.search.split("?")[1];
+	if(x) {
+		alert(x);
+		getPlayset(x+".json");
+	} else {
+		alert("no playset passed");
+		$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
+	}
+});
