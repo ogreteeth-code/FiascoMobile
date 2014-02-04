@@ -40,20 +40,20 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
         The "device" permission is required for the 'deviceready' event.
     -->
     <feature name="http://api.phonegap.com/1.0/device" />
+	<gap:platform name="ios" />
+	<gap:platform name="android" />
+
+    <gap:url-scheme name="com.brooklynindiegames.fiascomobile" role="None">
+      <scheme>fiascomobile</scheme>
+    </gap:url-scheme>
+
     <!--
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
         permission on your app, which PhoneGap requires.
     -->
     <preference name="permissions"                value="none"/>
-
-    <gap:url-scheme name="com.brooklynindiegames.fiascomobile" role="None">
-      <scheme>fiascomobile</scheme>
-    </gap:url-scheme>
-
-	<gap:platform name="ios" />
-	<gap:platform name="android" />
-
+	
     <!-- Customize your app and platform with the preference element. -->
     <preference name="phonegap-version"           value="3.1.0" />          <!-- all: current version of PhoneGap -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->

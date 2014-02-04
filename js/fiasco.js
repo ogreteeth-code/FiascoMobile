@@ -33,5 +33,9 @@ Object.prototype.merge = (function (ob) {var o = this;var i = 0;for (var z in ob
 $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').append(templates);});
 $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(templates);});
 
-$(document).ready(function(){$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');});
-
+x=location.href.split("?")[1];
+if(x) {
+	$(document).ready(function(){getPlayset(x+".json");});
+} else {
+	$(document).ready(function(){$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');});
+}
