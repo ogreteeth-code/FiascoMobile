@@ -1,13 +1,18 @@
 function handleOpenURL(url) {
-	var y=url.search.split("?")[1];
-	if(y) {
+    window.setTimeout(function () {
+        window.alert('handleOpenURL: ' + url);       
+		var y=url.search.split("?")[1];
+		if(y) {
 	
-		$(document).ready(function(){
-			getPlayset(x+".json");
-		});
-	}	
-	alert(url);
+			$(document).ready(function(){
+				getPlayset(x+".json");
+			});
+		}	
+		alert(url);
+    }, 1000);
 }
+
+
 
 function loadHomeScreen() {
 	$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
@@ -44,7 +49,15 @@ Object.prototype.merge = (function (ob) {var o = this;var i = 0;for (var z in ob
 $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').append(templates);});
 $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(templates);});
 
+document.addEventListener("deviceready", onDeviceReady, false);
 
+function onDeviceReady() {
+    if ('invokeString' in window) {
+        window.alert('onDeviceReady: ' + invokeString);
+    } else {
+        window.alert('onDeviceReady: no invokeString');
+    }    
+}
 
 $(document).ready(function(){
 	alert('Seed is ' + window.Invoke_params.seed);
