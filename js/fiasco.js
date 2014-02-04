@@ -35,7 +35,9 @@ $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(tem
 
 x=location.href.split("?")[1];
 if(x) {
+	alert(x);
 	$(document).ready(function(){getPlayset(x+".json");});
 } else {
+	alert("no playset passed");
 	$(document).ready(function(){$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');});
 }
