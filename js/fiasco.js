@@ -2,9 +2,7 @@ function handleOpenURL(url) {
     window.setTimeout(function () {
 
 		var y=url.search.split("?")[1];
-
         window.alert('handleOpenURL: ' + y);       
-
 		if(y) {
 			getPlayset(x+".json");
 		}	
@@ -48,19 +46,7 @@ Object.prototype.merge = (function (ob) {var o = this;var i = 0;for (var z in ob
 $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').append(templates);});
 $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(templates);});
 
-document.addEventListener("deviceready", onDeviceReady, false);
-
-function onDeviceReady() {
-    if ('invokeString' in window) {
-        window.alert('onDeviceReady: ' + invokeString);
-    } else {
-        window.alert('onDeviceReady: no invokeString');
-    }    
-}
-
 $(document).ready(function(){
-	alert('Seed is ' + window.Invoke_params.seed);
-	
 	var x=location.search.split("?")[1];
 	if(x) {
 		//alert(x);
