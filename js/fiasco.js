@@ -2,12 +2,10 @@ function handleOpenURL(url) {
     window.setTimeout(function () {
         window.alert('handleOpenURL: ' + url);       
 		var y=url.search.split("?")[1];
-		window.alert('Handling: ' + y); 
 		if(y) {
-			getPlayset(x+".json");
+			getPlayset(y+".json");
 		}	
-		alert(url);
-    }, 1000);
+    }, 500);
 }
 
 function loadHomeScreen() {
