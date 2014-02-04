@@ -38,6 +38,6 @@ if(x) {
 	alert(x);
 	$(document).ready(function(){getPlayset(x+".json");});
 } else {
-	alert("no playset passed");
+	alert("no playset passed: " + location.href);
 	$(document).ready(function(){$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');});
 }
