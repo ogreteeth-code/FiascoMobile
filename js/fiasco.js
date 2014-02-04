@@ -33,11 +33,13 @@ Object.prototype.merge = (function (ob) {var o = this;var i = 0;for (var z in ob
 $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').append(templates);});
 $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(templates);});
 
-x=location.href.split("?")[1];
+
+$(document).ready(function(){
+	x=location.href.split("?")[1];
 if(x) {
 	alert(x);
-	$(document).ready(function(){getPlayset(x+".json");});
+	getPlayset(x+".json");
 } else {
-	alert("no playset passed: " + location.href);
-	$(document).ready(function(){$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');});
-}
+	alert("no playset passed");
+	$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
+};
