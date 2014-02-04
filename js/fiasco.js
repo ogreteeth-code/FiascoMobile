@@ -1,6 +1,11 @@
 function handleOpenURL(url) {
-	var x=url.search.split("?")[1];
-	if(x) getPlayset(x+".json");
+	var y=url.search.split("?")[1];
+	if(y) {
+	
+	$(document).ready(function(){
+		getPlayset(x+".json"); }
+	});
+		
 	alert(url);
 }
 
@@ -44,10 +49,10 @@ $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(tem
 $(document).ready(function(){
 	var x=location.search.split("?")[1];
 	if(x) {
-		alert(x);
+		//alert(x);
 		getPlayset(x+".json");
 	} else {
-		alert("no playset passed");
+		// alert("no playset passed");
 		$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
 	}
 });
