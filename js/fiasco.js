@@ -47,6 +47,8 @@ $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(tem
 
 
 $(document).ready(function(){
+	alert('Seed is ' + window.Invoke_params.seed);
+	
 	var x=location.search.split("?")[1];
 	if(x) {
 		//alert(x);

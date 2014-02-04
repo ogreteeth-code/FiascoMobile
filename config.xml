@@ -43,7 +43,7 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
 	<gap:platform name="ios" />
 	<gap:platform name="android" />
 
-    <gap:url-scheme name="com.brooklynindiegames.fiascomobile" role="None">
+    <gap:url-scheme name="com.brooklynindiegames.fiascomobile" role="Viewer">
       <scheme>fiascomobile</scheme>
     </gap:url-scheme>
 
