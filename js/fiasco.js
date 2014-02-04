@@ -34,6 +34,10 @@ $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').appen
 $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(templates);});
 
 
+function handleOpenURL(url) {
+	alert(url);
+}
+
 $(document).ready(function(){
 	var x=location.search.split("?")[1];
 	if(x) {
