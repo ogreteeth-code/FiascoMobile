@@ -2,10 +2,10 @@ function handleOpenURL(url) {
 	var y=url.search.split("?")[1];
 	if(y) {
 	
-	$(document).ready(function(){
-		getPlayset(x+".json"); }
-	});
-		
+		$(document).ready(function(){
+			getPlayset(x+".json");
+		});
+	}	
 	alert(url);
 }
 
