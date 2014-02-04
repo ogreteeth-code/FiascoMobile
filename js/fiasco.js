@@ -1,14 +1,13 @@
 function handleOpenURL(url) {
     window.setTimeout(function () {
-        window.alert('handleOpenURL: ' + url);       
+
 		var y=url.search.split("?")[1];
+
+        window.alert('handleOpenURL: ' + y);       
+
 		if(y) {
-	
-			$(document).ready(function(){
-				getPlayset(x+".json");
-			});
+			getPlayset(x+".json");
 		}	
-		alert(url);
     }, 1000);
 }
 
