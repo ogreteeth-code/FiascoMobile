@@ -1,13 +1,3 @@
-function handleOpenURL(url) {
-    window.setTimeout(function () {
-        window.alert('handleOpenURL: ' + url);       
-		var y=url.search.split("?")[1];
-		if(y) {
-			getPlayset(y+".json");
-		}	
-    }, 500);
-}
-
 function loadHomeScreen() {
 	$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
 	setTimeout(function(){scrollTo(0,0)},1);
@@ -43,23 +33,11 @@ Object.prototype.merge = (function (ob) {var o = this;var i = 0;for (var z in ob
 $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').append(templates);});
 $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(templates);});
 
-document.addEventListener("deviceready", onDeviceReady, false);
-
-function onDeviceReady() {
-    if ('invokeString' in window) {
-        window.alert('onDeviceReady: ' + invokeString);
-    } else {
-        window.alert('onDeviceReady: no invokeString');
-    }    
-}
-
 $(document).ready(function(){
 	var x=location.search.split("?")[1];
 	if(x) {
-		//alert(x);
 		getPlayset(x+".json");
 	} else {
-		// alert("no playset passed");
 		$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
 	}
 });
