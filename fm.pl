@@ -9,6 +9,7 @@ print <<EO1;
 	<script type="text/javascript" src="jquery-1.6.4.min.js"></script>
 	<meta charset="UTF-8">
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="apple-itunes-app" content="app-id=741421960">
     <link rel="stylesheet" href="fm.css" type="text/css" media="screen, mobile" title="main">
     <link href="http://fonts.googleapis.com/css?family=Syncopate:400,700%7CMetrophobic" rel="stylesheet" type="text/css">
 	<title>FiascoMobile Login</title>
