@@ -1,0 +1,310 @@
+{
+  "playset" : {
+    "title" : "Vegas, Baby!",
+    "credits" : {
+      "author" : "Wordman"
+    },
+    "movie_night" : [
+      { "title" : "Very Bad Things" },
+      { "title" : "The Hangover" },
+      { "title" : "What Happens in Vegas" },
+      { "title" : "3000 Miles to Graceland" },
+      { "title" : "The Cooler" },
+      { "title" : "Casino" },
+      { "title" : "Showgirls" },
+      { "title" : "Go" },
+      { "title" : "The Grand" },
+      { "title" : "Leaving Las Vegas" },
+      { "title" : "Get Him to the Greek" },
+      { "title" : "Leprechaun 3" }
+    ],
+    "score" : {
+      "title" : "What happens in Vegas...",
+      "paragraphs" : [
+        "It always sounds like a good idea. A few days in Vegas to blow off steam before the wedding, or to celebrate closing the deal, or just for the hell of it. Just a couple days and nights of debauchery and loosened inhibitions clears the cobwebs and makes you feel alive again. Check responsibility at the door, you’re in Sin City, baby!",
+        "But so are the grifters and the hookers, looking to fleece tourists. The mobsters looking for prey. Showbiz lowlifes and corrupt officials, all looking for a better deal. Desperate locals with an eye out for a quick score.",
+        "Hundreds of thousands of tourists a day, from all over the world, rub elbows with the locals. Sometimes it’s champagne and caviar. Most times, it’s not. And, sometimes, it’s about burying the bodies in the desert.",
+        "NOTES",
+        "Vegas, Baby! assumes the Las Vegas of around 2011. This matters because, more than most cities, the \"feel\" of Las Vegas shifts considerably over time. Bugsy, Casino, Fear and Loathing in Las Vegas, Vega$ and Ocean’s Eleven may all have been set in Las Vegas, but each period has a distinctly different vibe than modern Las Vegas. This playset will support some of these periods better than others, and the group should decide ahead of time when the game is set, and what that choice means to everyone.",
+        "As for the modern Las Vegas, there are a few things to keep in mind that might diverge from the Vegas you remember:",
+        "* In the 1990’s, attempts were made to turn Las Vegas into a \"family friendly\" destination. These efforts largely failed, though remnants of them linger. Since then, the pendulum has swung hard the other way, a sort of overcompensating backlash leading to lurid billboards all over the place embracing the notion of \"sin city\" in ever more explicit ways.",
+        "* In 2011, Las Vegas is just starting to come out of a decade long boom/bust real-estate cycle, both residential and commercial. What this means for a game like Fiasco is financial desperation on all scales and half-constructed homes and high rises.",
+        "* Most things you might feel some nostalgia for about Las Vegas no longer actually exist there, but several different overly-corporatised simulacra can be had if the price is right.",
+        "* Many large hotels have now embraced the recent trend of hipster pool parties, providing \"exclusive\" pool clubs, with \"exclusive\" cover charges (double to triple cost for men), loud music and lots of booze."
+      ],
+      "tagline" : "In Sin City"
+    },
+    "relationships" : [
+			{
+				"title" : "Envy",
+				"elements" : [
+				"Entourage to the same star",
+				"Siblings",
+				"Unhealthy obsession",
+				"Professional rivals",
+				"Mentor and better-looking trainee",
+				"Secretly hate each other"
+				]
+			},
+			{
+				"title" : "Greed",
+				"elements" : [
+				"Casino worker and corrupt official",
+				"Grifter and mark",
+				"Salesman and customer",
+				"Money launderer and client",
+				"Gambler and bookie",
+				"Escort and high-roller"
+				]
+			},
+			{
+				"title" : "Lust",
+				"elements" : [
+				"Extended hookup",
+				"Newlyweds",
+				"Stripper and \"special customer\"",
+				"Former mutual crush, running into each other ten years later",
+				"Casanova and wing man/woman",
+				"Sorority sisters with lots of history"
+				]
+			},
+			{
+				"title" : "Gluttony",
+				"elements" : [
+				"Drinking buddies",
+				"Food critic and chef",
+				"Drug entrepreneurs",
+				"Party crashers",
+				"Server and patron",
+				"Catering temps"
+				]
+			},
+			{
+				"title" : "Wrath",
+				"elements" : [
+				"Bitterly divorced",
+				"Corrupt cop and informant",
+				"Performer and director",
+				"Loan shark and debtor",
+				"Alpha and would-be usurper",
+				"Manager and talent"
+				]
+			},
+			{
+				"title" : "Sloth and Pride",
+				"elements" : [
+				"Failed gambler and protege",
+				"Poolside regulars",
+				"Co-workers",
+				"Plastic surgeon and patient",
+				"Models on the same shoot",
+				"Celebrity impersonators"
+				]
+			}
+		],
+    "needs" : [
+			{
+				"title" : "A little time away from",
+				"elements" : [
+				"...the nagging",
+				"...the twins",
+				"...all responsibilities",
+				"...the bank examiners",
+				"...the correctional facility",
+				"...the ongoing investigation"
+				]
+			},
+			{
+				"title" : "To get in",
+				"elements" : [
+				"...the door at the hottest spot in town",
+				"...the pants of that stripper",
+				"...the dressing room of visiting superstar Highness",
+				"...that one place where they... you know...",
+				"...tight with a high-roller",
+				"...between the bride and groom"
+				]
+			},
+			{
+				"title" : "To Get Out",
+				"elements" : [
+				"...of a toxic relationship",
+				"...of a dangerous obligation to the wrong people",
+				"...of a contract with visiting superstar Highness",
+				"...of a deal that is getting worse all the time",
+				"...of these handcuffs",
+				"...of town before the hammer falls"
+				]
+			},
+			{
+				"title" : "To Get Rich",
+				"elements" : [
+				"...through cheating",
+				"...through and overly elaborate con",
+				"...through ill-advised blackmail",
+				"...through kidnapping the child of visiting superstar Highness",
+				"...through sabotaging the competition in the big stakes game",
+				"...through faking someone’s death"
+				]
+			},
+			{
+				"title" : "To Return",
+				"elements" : [
+				"...the mob’s property",
+				"...to the scene of the crime",
+				"...to the good graces of the gaming commission",
+				"...the favor",
+				"...to how things used to be",
+				"...in time for the parole officer’s call"
+				]
+			},
+			{
+				"title" : "To Get Even",
+				"elements" : [
+				"...with visiting superstar Highness",
+				"...for a wasted life",
+				"...for cheating on you",
+				"...with the scum who cost you all that money",
+				"...for all those times you took a back seat",
+				"...because they ruined everything"
+				]
+			}
+		],
+    "locations" : [
+			{
+				"title" : "The Strip",
+				"elements" : [
+				"The casino of a major hotel",
+				"A luxury suite with a great view",
+				"Backstage of a major show",
+				"A street-side spectacle",
+				"An upscale restaurant",
+				"The roller coaster at the top of a tall tower"
+				]
+			},
+			{
+				"title" : "Downtown",
+				"elements" : [
+				"A room with no camera in the bowels of a casino",
+				"The poker room",
+				"A cheap hotel room with questionable plumbing",
+				"The construction site of a high-rise condo tower",
+				"Chico’s Bail & Bonds",
+				"Freemont Street"
+				]
+			},
+			{
+				"title" : "Unauthorized",
+				"elements" : [
+				"The beacon room at the top of the pyramid",
+				"The roof of a luxury hotel",
+				"The records room",
+				"Maintenance",
+				"A not yet completed suburban house",
+				"The VIP room"
+				]
+			},
+			{
+				"title" : "Off the Strip",
+				"elements" : [
+				"Degenerate bar",
+				"Questionably run shooting range",
+				"The club where the stars hang out",
+				"Hooka lounge",
+				"Hangar at McCerran International Airport",
+				"Emergency room"
+				]
+			},
+			{
+				"title" : "Way off the strip",
+				"elements" : [
+				"Hoover dam",
+				"A stylish cabana in the Cayman Islands",
+				"An out-of-state rehab clinic",
+				"An unnamed Swiss Bank",
+				"Prison",
+				"A jungle drug lab"
+				]
+			},
+			{
+				"title" : "The Desert",
+				"elements" : [
+				"The side of the interstate",
+				"Where no one will ever hear you",
+				"Around the bonfire at the center of the party",
+				"Where you can just make out the lights of the city",
+				"The place with the razor wire fence",
+				"At the top of the cliff"
+				]
+			}
+		],
+    "objects" : [
+			{
+				"title" : "Fauna",
+				"elements" : [
+				"Hallucinogenic toads",
+				"White tiger",
+				"Highly trained dolphin",
+				"High strung, champion show dog",
+				"Really big snake",
+				"Unknown baby"
+				]
+			},
+			{
+				"title" : "Incriminating",
+				"elements" : [
+				"The real account ledger",
+				"Documented proof of visiting superstar Highness’ hidden past",
+				"Thumb drive containing the pictures",
+				"The suitcase with all the drugs",
+				"Smart phone text message history",
+				"The head"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+				"Rented stretch limousine",
+				"Borrowed vintage car",
+				"Private jet",
+				"Luxury car with very large trunk",
+				"Police Segway",
+				"Fork lift"
+				]
+			},
+			{
+				"title" : "Unscrupulous",
+				"elements" : [
+				"Taser",
+				"Bottle of Rohypnol (aka \"roofies\")",
+				"Several five-gallon cans of gasoline",
+				"Weapon: clear heels",
+				"Today’s security codes",
+				"The clap"
+				]
+			},
+			{
+				"title" : "Valuables",
+				"elements" : [
+				"Locked briefcase",
+				"All of the chips",
+				"Heirloom engagement ring",
+				"Deed to the property",
+				"The down payment on the house",
+				"Key to the safety deposit box"
+				]
+			},
+			{
+				"title" : "Mysterious",
+				"elements" : [
+				"Flyer for hookers with a hand-written number on the back",
+				"Unlabeled hotel room key",
+				"Matchbook with a message",
+				"A missing memory",
+				"A message at the front desk",
+				"A stranger’s bag"
+				]
+			}
+		]
+	}
+}
