@@ -1,7 +1,29 @@
 <html>
 <head>
+<script>
+function hideSwap(gotClass) {
+	var x = document.getElementById(gotClass).style.display;
+	if (x == "none") {
+		document.getElementById(gotClass).style.display = "block";
+	} else {
+		document.getElementById(gotClass).style.display = "none";
+	}
+}
+</script>
+
+<style>
+label {
+	font: 1.5 em Helvetica;
+	}
+	
+textarea {
+	display: block;
+	}
+</style>
+
+
 </head>
-<body style="margin: auto; max-width: 640px">
+<body style="margin: auto; max-width: 640px" onLoad="bodyBuilt();">
 
 <form>
 
@@ -18,76 +40,33 @@
 </div>
 
 <div style="position: inherit; float:left">
-<h3>Relationships</h3>
 
+<label for="Relationships" onClick="javascript:hideSwap('Relationships');" style="display: block;">Relationships</label>
+<textarea cols="40" rows="42" id="Relationships" style="display: block;"></textarea>
 
-<label for="relationships1">1:</label>
-<input type="text" size="50" id="relationships1"><br />
-<label for="relationships2">2:</label>
-<input type="text" size="50" id="relationships2"><br />
-<label for="relationships3">3:</label>
-<input type="text" size="50" id="relationships3"><br />
-<label for="relationships4">4:</label>
-<input type="text" size="50" id="relationships4"><br />
-<label for="relationships5">5:</label>
-<input type="text" size="50" id="relationships5"><br />
-<label for="relationships6">6:</label>
-<input type="text" size="50" id="relationships6"><br />
-
-
-<h3>Needs</h3>
-<label for="needs">1:</label>
-<input type="text" size="50" id="needs1"><br />
-<label for="needs2">2:</label>
-<input type="text" size="50" id="needs2"><br />
-<label for="needs3">3:</label>
-<input type="text" size="50" id="needs3"><br />
-<label for="needs4">4:</label>
-<input type="text" size="50" id="needs4"><br />
-<label for="needs5">5:</label>
-<input type="text" size="50" id="needs5"><br />
-<label for="needs6">6:</label>
-<input type="text" size="50" id="needs6"><br />
+<label for="Needs" onClick="javascript:hideSwap('Needs');" style="display: block;">Needs</label>
+<textarea cols="40" rows="42" id="Needs" style="display: block;"></textarea>
 
 </div>
 
-<div style="position: inherit; float:right">
+<div style="position: inherit; float:right; width: 50%;">
 
-<h3>Locations</h3>
-<label for="locations1">1:</label>
-<input type="text" size="50" id="locations1"><br />
-<label for="locations2">2:</label>
-<input type="text" size="50" id="locations2"><br />
-<label for="locations3">3:</label>
-<input type="text" size="50" id="locations3"><br />
-<label for="locations4">4:</label>
-<input type="text" size="50" id="locations4"><br />
-<label for="locations5">5:</label>
-<input type="text" size="50" id="locations5"><br />
-<label for="locations6">6:</label>
-<input type="text" size="50" id="locations6"><br />
+<label for="Locations" onClick="javascript:hideSwap('Locations');" style="display: block;">Locations</label>
+<textarea cols="40" rows="42" id="Locations" style="display: block;"></textarea>
 
-<h3>Objects</h3>
-<label for="objects1">1:</label>
-<input type="text" size="50" id="objects1"><br />
-<label for="objects2">2:</label>
-<input type="text" size="50" id="objects2"><br />
-<label for="objects3">3:</label>
-<input type="text" size="50" id="objects3"><br />
-<label for="objects4">4:</label>
-<input type="text" size="50" id="objects4"><br />
-<label for="objects5">5:</label>
-<input type="text" size="50" id="objects5"><br />
-<label for="objects6">6:</label>
-<input type="text" size="50" id="objects6"><br />
-</div>
+<label for="Objects" onClick="javascript:hideSwap('Objects');">Objects</label>
+<textarea cols="40" rows="42" id="Objects" style="display: block;"></textarea>
 
-<div style="width: 100%; clear: both; text-align: right;">
-<br /><label for="closer">closer</label>
+<label for="closer">closer</label>
 <input type="text" size="50" id="closer" value="...In a UGC World">
+
+
+<!-- <div style="width: 100%; clear: both; text-align: right;">
+
 <br />
 </div>
 
+-->
 <div style="position: relative;">
 <input type="submit">
 </div>
