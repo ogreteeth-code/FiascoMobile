@@ -29,7 +29,8 @@ function getPlayset(playset) {
 }
 
 function onPhoneReady(){ 
-  document.addEventListener("backbutton", function(){ //hardware backbutton 
+  document.addEventListener("backbutton", function(){ //hardware backbutton
+  	alert("listening to back button");
     loadHomeScreen();
     return false; //prevents default behaviour 
   }, false); 
@@ -47,5 +48,6 @@ $(document).ready(function(){
 	} else {
 		$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
 	}
-	$(document).bind("deviceready", onPhoneReady); //when phone is ready 
+	// $(document).bind("deviceready", onPhoneReady); //when phone is ready 
+	document.addEventListener("deviceready", onPhoneReady, false);
 });
