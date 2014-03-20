@@ -30,7 +30,7 @@ function getPlayset(playset) {
 
 function onPhoneReady(){ 
   document.addEventListener("backbutton", function(){ //hardware backbutton
-  	alert("listening to back button");
+  	// alert("listening to back button");
     loadHomeScreen();
     return false; //prevents default behaviour 
   }, false); 
@@ -38,7 +38,7 @@ function onPhoneReady(){
 
 function catchback(){
 	// $(document).bind("deviceready", onPhoneReady); //when phone is ready 
-	document.addEventListener("deviceready", onPhoneReady, false);
+	
 }
 
 
@@ -54,5 +54,8 @@ $(document).ready(function(){
 	} else {
 		$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
 	}
+	
+	//load the android back button catcher.
+	document.addEventListener("deviceready", onPhoneReady, false);
 });
 
