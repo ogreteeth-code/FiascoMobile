@@ -36,6 +36,12 @@ function onPhoneReady(){
   }, false); 
 } 
 
+function catchback(){
+	// $(document).bind("deviceready", onPhoneReady); //when phone is ready 
+	document.addEventListener("deviceready", onPhoneReady, false);
+}
+
+
 Object.prototype.merge = (function (ob) {var o = this;var i = 0;for (var z in ob) {if (ob.hasOwnProperty(z)) {o[z] = ob[z];}}return o;});
 
 $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').append(templates);});
@@ -48,6 +54,5 @@ $(document).ready(function(){
 	} else {
 		$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
 	}
-	// $(document).bind("deviceready", onPhoneReady); //when phone is ready 
-	document.addEventListener("deviceready", onPhoneReady, false);
 });
+
