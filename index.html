@@ -34,13 +34,19 @@
 </div>
 
 <script>
-alert("may be listening");
-document.addEventListener("backbutton", onBackKeyDown, false);
-alert("device seems to be ready");
 
-function onBackKeyDown() {
-    alert("Get back!");
+function onPhoneReady(){ 
+  document.addEventListener("backbutton", function(){ //hardware backbutton 
+    //your magic goes here 
+alert("Get back!");
+    return false; //prevents default behaviour 
+  }, false); 
+} 
+
+$(function(){ //when document loading is ready 
+  $(document).bind("deviceready", onPhoneReady); //when phone is ready 
 }
+
 
 </script>
 </body>
