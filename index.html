@@ -32,5 +32,17 @@
 
 <div id="IOSContainer">
 </div>
+
+<script>
+document.addEventListener("deviceready", onDeviceReady, false);
+
+function onDeviceReady () {
+	document.addEventListener("backbutton", onBackKeyDown, false);
+}
+function onBackKeyDown() {
+    alert("Get back!");
+}
+
+</script>
 </body>
 </html>
