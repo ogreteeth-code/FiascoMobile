@@ -34,12 +34,10 @@
 </div>
 
 <script>
-document.addEventListener("deviceready", onDeviceReady, false);
 alert("may be listening");
-function onDeviceReady () {
-	document.addEventListener("backbutton", onBackKeyDown, false);
-	alert("device seems to be ready");
-}
+document.addEventListener("backbutton", onBackKeyDown, false);
+alert("device seems to be ready");
+
 function onBackKeyDown() {
     alert("Get back!");
 }
