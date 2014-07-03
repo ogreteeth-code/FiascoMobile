@@ -1,11 +1,13 @@
 function loadHomeScreen() {
 	$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
 	setTimeout(function(){scrollTo(0,0)},1);
+	var homescreen = 0;
 }
 
 function loadAboutApp() {
 	$('#IOSContainer').load('tmpl/_aboutapp.tmpl.html');
 	setTimeout(function(){scrollTo(0,0)},1);
+	var homescreen = -1;
 }
 
 function subSwap(folioID) {
@@ -19,20 +21,37 @@ function subSwap(folioID) {
 
 function loadJSONPlayset(title) {
 	$.getJSON("playsets/" + title,function(data) {$("#playsetProper").tmpl(data).replaceAll("#IOSContainer");});
+	var homescreen = -2;
 }
 
 function getPlayset(playset) {
+	currentPlayset = playset;
 	// console.log(playset);
 	title = {"filename": playset};
 	$.getJSON("playsets/" + playset,function(data) {data = title.merge(data); $("#playsetTitleScreen").tmpl(data).replaceAll("#IOSContainer");});
 	setTimeout(function(){scrollTo(0,0)},1);
+	var homescreen = -1;
 }
 
 function onPhoneReady(){ 
   document.addEventListener("backbutton", function(){ //hardware backbutton
   	// alert("listening to back button");
+
+  	if (homescreen == 0) {
+  		return true;
+  	} else if (homescreen == -2) {
+  		getPlayset(currentPlayset);
+  		return false;
+  	} else {
+	    loadHomeScreen();
+	    return false;
+  	}
+  	
+/*
     loadHomeScreen();
     return false; //prevents default behaviour 
+*/
+
   }, false); 
 } 
 
@@ -54,7 +73,6 @@ $(document).ready(function(){
 	} else {
 		$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
 	}
-	
 	//load the android back button catcher.
 	document.addEventListener("deviceready", onPhoneReady, false);
 });

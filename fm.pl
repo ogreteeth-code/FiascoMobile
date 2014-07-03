@@ -96,7 +96,7 @@ sub PreValidated($) {
 
 sub ValidatedGo() {
 	print "<script>document.getElementById('title').innerHTML = 'Success!';setTimeout(\"document.getElementById('footer').style.display = 'none'\", 35);</script>
-	Thanks for logging in! Click the following link to go directly to the playsets, and then bookmark and/or add the resulting page to your iOS Home Screen<br />
+	Thanks for logging in! Click the following link to go directly to the playsets, and then bookmark or add the resulting page to your Mobile Home Screen<br />
 	</div><div id=\"playnow\" onClick=\"javascript:location.href='http://brooklynindiegames.com/fm/lns/$digest.html?$playset';\">LOG IN NOW</div>";
 }
 

@@ -1,0 +1,304 @@
+{
+  "playset" :
+  {
+    "title" : "Staring Down at Madison Avenue",
+    "credits" : 
+    {
+      "author" : "John Arcadian & Trey Bagwell"
+    },
+    "movie_night" :
+    [
+      { "title" : "Mad Men (TV)" },
+      { "title" : "The Apartment" },
+      { "title" : "Revolutionary Road" },
+      { "title" : "Executive Suite" },
+      { "title" : "The Seven Year Itch" },
+      { "title" : "How to Succeed In Business Without Really Trying" },
+      { "title" : "And anything with a 60s modern feel or a treachery in business vibe" }
+    ],
+    "score" :
+    {
+      "title" : "Madison Avenue, The Only Place To Be",
+      "paragraphs" : [
+        "...if you're in the advertising game. Looking down on the bustle and movement from the windows of 17th floor that your agency leases, a drink in your hand and the pressure to come up with the next big thing, you are living the life. The life, however, consists of stress, excessive drinking, illicit affairs, and plenty of secrets interwoven into the glam and glitz that money brings. Your life may look great from the outside, and you are the envy of the town, but you go to extremes to hold it all together. In your world, when things break, they break in the most spectacular ways. Maybe you chose this world and were ready for the cut‐throat politics and struggles you would face on the rise to the top, or maybe you are an innocent bystander drawn in through your work, your spouse, or your innocent desire to be somebody. You aren't likely to get out without getting a little dirty.",
+        "Get your suit, press your dress, grab the cigarettes and the booze, and get ready to spin things in your favor as you try to work your way to the top or get out before the stress makes your exit permanent.",
+        "Meta Elements",
+        "In writing this playset, we tried to strike a fine balance between specific and vague elements that would allow you to personalize things in your own way. Many of the elements under Locations and Objects are left open to interpretation so that you can weave the stories that inspire you. Please feel free to change genders, details, and the structures of any elements if the inspiration strikes you. A good element to interweave into the setup is coming up with the name of your advertising agency. You could make it a conglomeration of the names of the characters playing the partners or just work in hilarious inside jokes.",
+        "Another fun element we included under objects were advertisements. These were left blank so that you could come up with and pitch the details of the advertisement to the group. Getting wrapped up in the pitch during the game is heavily encouraged and can be very entertaining, if not all together serious. A good pitch could bring people to tears and be a very important, well remembered part of the game."
+      ],
+      "tagline" : "That always complicate things"
+    },
+    "relationships" : [
+		{
+			"title" : "Within The Company",
+			"elements" : [
+				"Experienced mentor and new protégée",
+				"Rising star in the company and the executive resting on his laurels",
+				"The person who does the hard work and the person who takes the credit",
+				"Rival account men vying for respect and prestige",
+				"The old guard executive who cares about the company's legacy and the young turk partner who only cares about the money and perks",
+				"The silent partner who owns stock and the executive whose plans she gets in the way of"
+			]
+		},
+		{
+			"title" : "Externally Illicit",
+			"elements" : [
+				"The client who expects to get his way and the person in the company he fancies",
+				"The young starlet looking to break in and the agency man who takes advantage of it",
+				"The account man selling inside secrets and the rival who is buying them",
+				"The client who parties too much and the account man who has to clean up after him",
+				"The client with shady business and the person in creative who spins it into legitimacy",
+				"The client lured into an affair and the company man who lures him"
+			]
+		},
+		{
+			"title" : "Internally Illicit",
+			"elements" : [
+				"The secretary and the person she is having the affair with",
+				"The boss's wife and her lover in the company",
+				"The people scheming together to rise in the ranks at any cost",
+				"The one night stand at the company party",
+				"The person stealing money from the company and the one who suspects it",
+				"The person with a secret and the one who knows their secret"
+			]
+		},
+		{
+			"title" : "business rivalries",
+			"elements" : [
+				"The friendship with a rival at another agency",
+				"The one who always wins the award and the one jealous of it",
+				"The bitter rivalry with a competitor",
+				"The one who was fired and the person they feel is responsible for it",
+				"The employee who moved on and the one who was left behind",
+				"The client everyone is after and the person with the inside track to them"
+			]
+		},
+		{
+			"title" : "Family And Romance",
+			"elements" : [
+				"The spurned wife and the unavailable husband",
+				"The co‐worker who got in because of nepotism",
+				"The couple who separated",
+				"The ones who want to be together, but can't",
+				"The client who is family with the company man",
+				"The one who followed you here and regrets it"
+			]
+		},
+		{
+			"title" : "Shadows of the Past",
+			"elements" : [
+				"The previous significant other",
+				"The one whose sudden reappearance causes your life to unravel",
+				"The shady person who helped the fledgling company and now wants to reap the rewards",
+				"The one who knows what you did during the war",
+				"The one who helped you steal the money",
+				"The one who has always, secretly looked out for you"
+			]
+		}
+    ],
+  "locations" : [
+		{
+			"title" : "on the 17th Floor",
+			"elements" : [
+				"Your office, where everyone gathers to meet... and drink",
+				"The lavish office of the chief partner",
+				"The conference room where everything happens, officially",
+				"In the shared office that no one wants",
+				"In the elevator, on the way up or down",
+				"In the creative pool, pitching ideas and making jokes"
+			]
+		},
+		{
+			"title" : "Out On The Town",
+			"elements" : [
+				"...at the fancy restaurant with the astronomical prices",
+				"...slumming it with the hippies in the village",
+				"...at the brothel where all the clients want to go",
+				"...with front row seats at the Broadway show",
+				"...in the bar that never closes",
+				"...travelling in the back of the taxi cab"
+			]
+		},
+		{
+			"title" : "The Rendezvous Point",
+			"elements" : [
+				"The hotel room that you rent in the middle of the afternoon",
+				"The apartment in the city that only one other knows about",
+				"The bar/hotel/alley where you meet the person blackmailing you",
+				"The train car that you commute on every day",
+				"The office ‐ after hours when everyone else is gone",
+				"The private club with many private areas to speak in"
+			]
+		},
+		{
+			"title" : "The Place You Lay Your Head",
+			"elements" : [
+				"The house in the suburbs where your family lives",
+				"The apartment that somebody else pays for",
+				"The fancy apartment that you want to move into",
+				"The run‐down boarding room that you are ashamed of",
+				"The couch in your office",
+				"The penthouse you bought because it's what others expect of you"
+			]
+		},
+		{
+			"title" : "The Place You'd Rather Forget",
+			"elements" : [
+				"The house you grew up in but were ashamed of",
+				"The fancy house that never felt like home",
+				"The site of the crime that you never got caught for",
+				"The bloody battlefield that shows up in your flashbacks",
+				"The room you were in the only time you felt powerless",
+				"The place you buried the body"
+			]
+		},
+		{
+			"title" : "the Place You Shouldn't Be",
+			"elements" : [
+				"On the doorstep of their home",
+				"The place you retreat to when you should be working",
+				"The ledge you've contemplated jumping off of every single day",
+				"At the party, one too many drinks in, knowing you should stop talking but the words keep flowing",
+				"The 'perfect' home, where every detail is a careful lie",
+				"The business that is a front for something more sinister"
+			]
+		}
+	],
+	"needs" : [
+		{
+			"title" : "To Advance",
+			"elements" : [
+				"...in your profession",
+				"...in social status and finally be equal",
+				"...in a personal relationship that has stalled",
+				"...in the political arena or the public limelight",
+				"...past your rival, by any means necessary",
+				"...without doing the actual work"
+			]
+		},
+		{
+			"title" : "To Get Away",
+			"elements" : [
+				"...from the hectic pace of the city",
+				"...from the company that doesn't appreciate you",
+				"...from the toxic relationship that holds you back",
+				"...from the sedate life that bores you incredibly",
+				"...from the debts you hold that constantly chase you",
+				"...from temptation you want to give in to"
+			]
+		},
+		{
+			"title" : "To Be",
+			"elements" : [
+				"...a better father/husband/wife/mother",
+				"...the one that everyone respects",
+				"...safe, for once in your life",
+				"...unburdened from the weights on your shoulders",
+				"...the one they are willing to give everything up for",
+				"...someone else, even if that person is worse than who you are now"
+			]
+		},
+		{
+			"title" : "To Get Respect",
+			"elements" : [
+				"...from the one you are with",
+				"...from the one you want to be with",
+				"...your boss",
+				"...your peers",
+				"...your clients",
+				"...because you've never had it before"
+			]
+		},
+		{
+			"title" : "To Get Revenge",
+			"elements" : [
+				"...on the ones who passed you over",
+				"...on the ones who disrespected you",
+				"...on the one who holds a secret over your head",
+				"...on the one who ruined what you had before",
+				"...for the one that society holds back",
+				"...even though you don't deserve it"
+			]
+		},
+		{
+			"title" : "To Move On",
+			"elements" : [
+				"...from the past",
+				"...to a better relationship",
+				"...to something more exciting",
+				"...to something more stable",
+				"...to a better company",
+				"...to a better account than the one you are stuck on"
+			]
+		}
+	],
+    "objects" : [
+		{
+			"title" : "That Are Found In The Office",
+			"elements" : [
+				"The dicta‐phone that caught something it shouldn't have",
+				"The cartons of cigarettes, free for the taking",
+				"The stacks of magazines with inspiring ads in them",
+				"The personal bar with the best booze",
+				"The freebies from the clients",
+				"A loaded revolver in someone else's drawer"
+			]
+		},
+		{
+			"title" : "That Remind You Of The Past",
+			"elements" : [
+				"A photograph of a man and a kid fishing",
+				"The kitchen knife with deep stains",
+				"The old wedding ring with the unreadable inscription",
+				"The old cabinet that belonged to your father",
+				"The old shoebox with the letters in it",
+				"The only beautiful piece of jewelry that you own"
+			]
+		},
+		{
+			"title" : "That Are Dangerous",
+			"elements" : [
+				"The gift from your secret lover",
+				"The drug that helps you stay stable",
+				"The gun that has your fingerprints on it",
+				"The weed‐whacker from the client",
+				"The suitcase full of money",
+				"A ledger full of the real numbers and names"
+			]
+		},
+		{
+			"title" : "Transportation",
+			"elements" : [
+				"The taxi cab with the driver who knows too much",
+				"The train that takes you out of town",
+				"The car you drive at night when you need to think",
+				"The family car with the dent that never seems to get removed",
+				"The airplane that might be able to get you far enough away",
+				"The yacht that can get to international waters quickly"
+			]
+		},
+		{
+			"title" : "The Advertisements",
+			"elements" : [
+				"The ad for __________ that is exactly like another ad",
+				"The ad for __________ that weighs on your conscience",
+				"The ad for __________ with a famous star that lead to an affair",
+				"The ad for __________ that ruined a friendship",
+				"The ad for __________ that you wish you came up with",
+				"The ad for __________ that you came up with and everyone else is jealous of"
+			]
+		},
+		{
+			"title" : "That Are Signs OF The Times",
+			"elements" : [
+				"The tickets that everybody wants",
+				"The newspaper with the headline about the assassination",
+				"The controversial book that everyone is talking about",
+				"The movie that changed everything",
+				"The office equipment that changed the way business is done",
+				"The drug that changed the way you think about your life"
+			]
+		}
+    ]
+  }
+}
