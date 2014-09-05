@@ -6,7 +6,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.brooklynindiegames.fiascomobile"
         version   = "1.2.0">
-<!--<date-updated>7/7/2014</date-updated>-->
+<!--<date-updated>9/5/2014</date-updated>-->
     <name>FiascoMobile</name>
 
     <description>
@@ -55,7 +55,7 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     <preference name="permissions"                value="none"/>
 	
     <!-- Customize your app and platform with the preference element. -->
-    <preference name="phonegap-version"           value="3.3.0" />          <!-- all: current version of PhoneGap -->
+    <preference name="phonegap-version"           value="3.5.0" />          <!-- all: current version of PhoneGap -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen"                 value="true" />           <!-- all: hides the status bar at the top of the screen -->
