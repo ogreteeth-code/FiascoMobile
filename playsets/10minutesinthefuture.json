@@ -1,0 +1,312 @@
+{
+  "playset" :
+  {
+    "title" : "10 Minutes in the Future",
+    "credits" : 
+    {
+      "author" : "Tome Wilson and Adam Gastonguay"
+    },
+    "movie_night" :
+    [
+      { "title" : "Blade Runner" },
+      { "title" : "Ghost in the Shell" },
+      { "title" : "Strange Days" },
+      { "title" : "The Matrix" },
+      { "title" : "Avalon" },
+      { "title" : "Johnny Mnemonic" },
+      { "title" : "Hackers" },
+      { "title" : "Akira" },
+      { "title" : "Ergo Proxy" },
+      { "title" : "Max Headroom" },
+      { "title" : "Renaissance" }
+    ],
+    "book_club" :
+    [
+      { "title" : "The Sprawl Trilogy by William Gibson (Neuromancer, Count Zero, and Mona Lisa Overdrive)" },
+      { "title" : "Snow Crash by Neal Stephenson" },
+      { "title" : "Mirrorshades by Bruce Sterling" },
+      { "title" : "Transmetropolitan by Warren Ellis" },
+      { "title" : "The Surrogates by Robert Venditti" }
+    ],
+    "score" :
+    {
+      "title" : "The sky above the port was the color of television, tuned to a dead channel",
+      "paragraphs" : [
+        "You’re jacked in and checked out. It doesn’t matter if you woke up in London, Tokyo, or Atlanta because anything you could possibly want is just a click away. 10 Minutes in The Future takes you to the mean streets of cyberpunk where you’ll be running futuristic con jobs against the biggest Megacorps history has never known. Too bad they didn’t get to the top by playing fair.",
+        "It’s all about making the big score, and leaving enough left over to disappear in a world where everyone--and everything--is connected via cyberspace. Slap on your VR goggles, lace up your combat boots, and get ready to kick in a few doors and heads on your way out of Freeside."
+      ],
+      "tagline" : "10 Minutes in the Future"
+    },
+    "relationships" : [
+			{
+				"title" : "Synthetic",
+				"elements" : [
+				"Pleasure Bioroid & \"User\"",
+				"Combat Bioroid & Trainer",
+				"Artificial Intelligence & Creator",
+				"Cyborg & Razor Doctor",
+				"Wired to share senses with one another",
+				"Virtual assistant & Owner"
+				]
+			},
+			{
+				"title" : "Blood is thicker than water",
+				"elements" : [
+				"CEO & Organ Donor",
+				"Identical Twins",
+				"Real child & Their parent's robot child",
+				"Politician & Second Wife",
+				"Third cousin, twice removed. Cant'cha see the resemblance?",
+				"Clones"
+				]
+			},
+			{
+				"title" : "I need you, but you don't need me",
+				"elements" : [
+				"Down on their luck street hustler & Their unknowing roommate",
+				"Hacker on the run & Underground tech supplier",
+				"Street orphan & Sugar daddy",
+				"Composer/Programmer for a virtual idol & Manager",
+				"Hard boiled private eye & A client not telling them the whole story",
+				"A MetaNet sensation & The person who is going to take them \"straight to the top\""
+				]
+			},
+			{
+				"title" : "Nothing personal, it's just business",
+				"elements" : [
+				"Mercenary & Corporate Handler",
+				"Corporate Extraction Specialist & High profile scientist looking to defect",
+				"A traumatized agent & Their field psychologist",
+				"Only surviving combat vets of a mission that went terribly wrong",
+				"Undercover agent & Official contact",
+				"Software courier & Only person with the decryption key"
+				]
+			},
+			{
+				"title" : "Love has an expiration date",
+				"elements" : [
+				"A hardened street samurai & An old flame",
+				"Business owner at the end of their life & Their next of kin",
+				"Veteran surveillance operator & The unknowing target of their affection 4 Former spouses",
+				"Business romance",
+				"The old model & The hot new thing"
+				]
+			},
+			{
+				"title" : "It's all fun and games",
+				"elements" : [
+				"Popular internet host & Washed up reality star",
+				"Game show host & Contestant",
+				"Independent movie makers",
+				"Host of the System_Failure radio show & The engineer who actually runs the show",
+				"Exposed hackers on the run",
+				"Criminals out of jail and ready to settle the score"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To hack...",
+				"elements" : [
+				"The planet!",
+				"The government's secrets.",
+				"The human brain to understand it.",
+				"The human brain to control it.",
+				"And preserve freedom of information.",
+				"For the sheer fuck of it."
+				]
+			},
+			{
+				"title" : "To escape...",
+				"elements" : [
+				"This company",
+				"This country",
+				"This termination clause",
+				"From Blaster's influence",
+				"Technology",
+				"My past"
+				]
+			},
+			{
+				"title" : "To make...",
+				"elements" : [
+				"It out alive.",
+				"It to the next high.",
+				"Him/Her love me.",
+				"A name for myself.",
+				"Enough money for the surgery.",
+				"Them see what they've done to me."
+				]
+			},
+			{
+				"title" : "To see...",
+				"elements" : [
+				"If the AI has the answer.",
+				"The sunrise",
+				"How they turned out without me",
+				"How far you can push it",
+				"The other side of that ICE",
+				"If you can make it with this crowd"
+				]
+			},
+			{
+				"title" : "To forget...",
+				"elements" : [
+				"The accident",
+				"How they abandoned you",
+				"The feeling of being online",
+				"Your past life",
+				"A bad relationship",
+				"Your responsibilities"
+				]
+			},
+			{
+				"title" : "To get even...",
+				"elements" : [
+				"By blowing the lid off of this thing",
+				"With the whole Zaibatsu",
+				"By spreading false information",
+				"By showing the world how it really works",
+				"By recruiting others to your cause",
+				"By double-crossing your old company"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "High Tech / Low Life",
+				"elements" : [
+				"Chiba City's Downtown Pleasure Circle",
+				"The Scrapyards",
+				"An underground Motorball arena",
+				"A city of rafts off the coast of Los Angeles",
+				"The slums of Istanbul",
+				"A seedy bar with three light bulbs"
+				]
+			},
+			{
+				"title" : "The Sprawl",
+				"elements" : [
+				"Under a freeway in the BaltiWash Megalopolis",
+				"Inside the fence at Mr. Lee's Greater Hong Kong",
+				"A hive-like cubical farm",
+				"Backstage at a virtual idol concert",
+				"The backseat of a private-security paddy wagon",
+				"Mile-High Projects city center"
+				]
+			},
+			{
+				"title" : "NeoTokyo",
+				"elements" : [
+				"On the floor of the Crystal City Casino",
+				"New Tokyo Acropolis Museum",
+				"The abandoned storage locker of a deceased MegaCorp scientist",
+				"Low-rent coffin hotel by the NeoTokyo Airport",
+				"Super Happy Fun Box Arcade!!!",
+				"Traditional meeting room of the Triads"
+				]
+			},
+			{
+				"title" : "Armstrong Space Port",
+				"elements" : [
+				"On top of the Space Elevator's counter-weight",
+				"Inside an overheating Rad Safety Room",
+				"\"At the Top of the World\" Restaurant",
+				"Inside the pod cargo bay",
+				"Onboard Freeside, a public space station",
+				"Inside mission control during launch day"
+				]
+			},
+			{
+				"title" : "Cyberspace",
+				"elements" : [
+				"The Black Sun Hacker Club",
+				"The I/O shrine of an all-knowing AI",
+				"Home sweet 192.168.1.1",
+				"The wrong side of an Ono-Sendai ICE security wall",
+				"Inside the control network of an armed squadron of drones",
+				"Trapped online with only one way out"
+				]
+			},
+			{
+				"title" : "Even God Couldn't Afford This Place",
+				"elements" : [
+				"The Tessier-Ashpool Mansion",
+				"Sense/Net Corporate Headquarters",
+				"Sarif Industries Human Augmentation Building",
+				"Pleasure submarine at the bottom of the Marianas Trench",
+				"Onboard a corporate cloud-energy collector",
+				"A small private zoo filled with previously extinct animals"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Better than the best",
+				"elements" : [
+				"The fastest cyberdeck this side of Freeside",
+				"Military grade ICE-breaking software",
+				"A hologram able to flawlessly simulate a real world location",
+				"Scatter software that blocks all attempts to be traced",
+				"A broadcast virus able to display an alert on all computers in the area regardless of OS",
+				"The only pure human genome"
+				]
+			},
+			{
+				"title" : "That doesn't belong to you!",
+				"elements" : [
+				"A suitcase full of Kongbucks with a bloody handcuff still attached.",
+				"Embezzled funds from the Ono-Sendai Corporation",
+				"A portable EMP capable of turning off electronics within 25 miles",
+				"Evidence from a murder case",
+				"An unpublished expose that could ruin a very important person",
+				"Unlimited access to the corporate credit account"
+				]
+			},
+			{
+				"title" : "What do you know?",
+				"elements" : [
+				"Professor Thu's braintape",
+				"A captured AI datacube",
+				"A detailed diagram of the interior of the whole building",
+				"The pass key to the Tau generator",
+				"The name of Blaster's money man",
+				"The files System_Failure is REALLY broadcasting"
+				]
+			},
+			{
+				"title" : "A piece of me",
+				"elements" : [
+				"A new set of eyes",
+				"Proof of your innocence (real or faked)",
+				"My right arm",
+				"Memories of my first love",
+				"A clone ready to be released",
+				"A bio-sample of blood/DNA"
+				]
+			},
+			{
+				"title" : "A blast from the past",
+				"elements" : [
+				"A battered copy of \"Catcher in the Rye\"",
+				"A creased Fedora with a small bloodstain on the rim",
+				"A .45 caliber slugthrower with two notches on the handle",
+				"Old home movies of your past saved in an obsolete format",
+				"An acorn from one of Earth's last remaining trees",
+				"A well-worn Rubik's Cube missing a sticker"
+				]
+			},
+			{
+				"title" : "Too big for one person",
+				"elements" : [
+				"A Tyrell Corporation transport container",
+				"100 Petabytes of corporate data backups",
+				"Map to a heavily guarded datastore",
+				"A truckload of illegal firearms and wetware",
+				"A nuclear warhead",
+				"The last-surviving sample of smallpox"
+				]
+			}
+    ]
+  }
+}

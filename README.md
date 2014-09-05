@@ -9,7 +9,7 @@ Todo:
 * Android: Landscape-oriented splash screens.
 * General: Reorganize Home screen by Playsets of the Month
 * Playsets: Add more. Always.
-* iOS 8: Why no showing homescreen?
+* New, more portable auth system.
 
 Wishlist:
 * Search by movie night

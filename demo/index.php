@@ -1,7 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-<base href="http://brooklynindiegames.com/fm/" />
+<?php
+
+function curPageURL() {
+ $pageURL = 'http';
+ if ($_SERVER["HTTPS"] == "on") {$pageURL .= "s";}
+ $pageURL .= "://";
+ if ($_SERVER["SERVER_PORT"] != "80") {
+  $pageURL .= $_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"].$_SERVER["REQUEST_URI"];
+ } else {
+  $pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];
+ }
+  if(preg_match("/brooklynindie/", $pageURL)) {
+    return "<base href=\"http://brooklynindiegames.com/fm/\">";
+  } else if(preg_match("/fiascomobile.com/", $pageURL)) {
+    return "<base href=\"http://fiascomobile.com/\">";
+  } else {
+    return "<base href=\"http://fiascomobile.ogreteeth.com\">";
+  }
+}
+
+echo curPageURL();
+
+?>
+
 <link href="http://fonts.googleapis.com/css?family=Syncopate:400,700%7CMetrophobic" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="js/jquery-1.4.3.min.js"></script>
 <script type="text/javascript" src="js/jquery.tmpl.min.js"></script>

@@ -1,0 +1,298 @@
+{
+  "playset" :
+  {
+    "title" : "Pen Show",
+    "credits" : 
+    {
+      "author" : "Jason Morningstar"
+    },
+    "movie_night" :
+    [
+      { "title" : "There aren’t a lot of movies about pen shows, but there are plenty of movies about obsessive nerdery. It matters not how you nerd out, merely that you nerd well and often." },
+      { "title" : "Best in Show" }
+    ],
+    "score" :
+    {
+      "title" : "A Storm is Brewing",
+      "paragraphs" : [
+        "The earth groans as plates collide. Overhead, the sky darkens as thick clouds, heavy with rain, roll in. The air is charged. The pressure is dropping.",
+        "On the horizon, silhouetted against a lead-colored sky, is a line of men and women. Among them are kings and queens, warriors and poets. Some come to do battle, some to gain untold riches. Some would betray their beliefs for silver, others would die defending theirs against impossible odds.",
+        "The storm is here. Great armies will clash.",
+        "It’s time for the pen show."
+      ],
+      "tagline" : "At the Pen Show"
+    },
+    "relationships" : [
+			{
+				"title" : "Monarchs",
+				"elements" : [
+				"Reigning and incoming Poppleton Pen Queen",
+				"Co-chairs of the Poppleton Pen Show Guest Committee",
+				"Candidates for Vice President of the Poppleton Pen Club",
+				"Millionaire collector and hundredaire collector",
+				"Current president and Treasurer of the Poppleton Pen Club",
+				"Rival anchors of the dealer's hall"
+				]
+			},
+			{
+				"title" : "Warriors",
+				"elements" : [
+				"\"Our room is the party room\"",
+				"Divorced and filled with hatred",
+				"Selling the same line of ink from adjacent stalls",
+				"Burglary Division cop and reformed burglar",
+				"Pro-Mont Blanc and anti-Mont Blanc zealots",
+				"Entrants in the \"Best Pen\" competition"
+				]
+			},
+			{
+				"title" : "Philosophers",
+				"elements" : [
+				"Handwriting analyst and anxious client",
+				"Writers for rival pen enthusiast publications, one print, one digital",
+				"\"I write the checks, you do the work\"",
+				"Drug dealer and client",
+				"Retired astronaut and paving contractor",
+				"Pen Witch and craven admirer"
+				]
+			},
+			{
+				"title" : "Lovers",
+				"elements" : [
+				"Two girls, one pen",
+				"Divorced and remarried but still in love",
+				"Parents of a newborn baby named Lamy",
+				"Weird, ink-stained love",
+				"Shy sweethearts",
+				"Spouses, only one of whom is way into pens"
+				]
+			},
+			{
+				"title" : "Terrors",
+				"elements" : [
+				"Alan Clark and an idiot minion",
+				"Pen salesman and ex-convict who really likes pens",
+				"\"The dorks who come to these things are loaded, honey\"",
+				"Counterfeiters",
+				"Professional dog breeder and real estate magnate",
+				"Television's Rico \"The Manhunter\" Sanchez and a fan"
+				]
+			},
+			{
+				"title" : "Poets",
+				"elements" : [
+				"The only two who really get the genius of a Vacumatic fill mechanism",
+				"Calligraphers by day, drunk calligraphers by night",
+				"Critic and impresario",
+				"News Channel Six reporter and producer",
+				"Seriously, poets",
+				"Hotel worker really into pens, pen worker really into hotel workers"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get the pen",
+				"elements" : [
+				"...you can't afford",
+				"...before she gets the pen",
+				"...to write properly, so you can unload it as \"mint\"",
+				"...and thereby get the boy",
+				"...and break the curse",
+				"...before they realize what it is actually worth"
+				]
+			},
+			{
+				"title" : "To get revenge",
+				"elements" : [
+				"...on the monster who stole your life",
+				"...on the monster who stole your pen",
+				"...on the Poppleton Pen Show Guest Committee",
+				"...by publicly destroying a Towa Mannenhitsu Seisakusho Alpha",
+				"...on Alan Clark",
+				"...without really considering the collateral damage"
+				]
+			},
+			{
+				"title" : "To get in room 404",
+				"elements" : [
+				"...where the hand-off is supposed to take place",
+				"...and leave a little \"message\" on the bed",
+				"...by impressing the judges",
+				"...where the orgy is",
+				"...with Alan Clark, alone",
+				"...and commit a little grand larceny"
+				]
+			},
+			{
+				"title" : "To get honored",
+				"elements" : [
+				"...as Poppleton Pen Queen, whatever it takes",
+				"...by the Pen Witch",
+				"...by the evil cabal that has kept you down",
+				"...or was that \"hammered\"?",
+				"...with the coveted \"Best Pen of Show\" award",
+				"...by shaking hands with Alan Clark"
+				]
+			},
+			{
+				"title" : "To get rich",
+				"elements" : [
+				"...by selling a dead relatives giant collection of pens",
+				"...by ruining the competition",
+				"...well, spiritually rich at least",
+				"...Zawadzki to sell you his Shaeffer 46 Special",
+				"...like your dad, repairing one pen at a time",
+				"...by persuading a big spender to buy your Parker \"Esparto\""
+				]
+			},
+			{
+				"title" : "To get a little",
+				"elements" : [
+				"...pen-themed gift for someone very special",
+				"...respect",
+				"...gold flex nib with a beautiful left-handed oblique",
+				"...money for the bus ride home",
+				"...dirty with the low-down collectors",
+				"...high"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Dealer's Hall, Near the Door",
+				"elements" : [
+				"\"Precision Writing Tool Importers LLC\"",
+				"\"GillAntiquesandAuctions\"",
+				"\"Peppering's Pen Repair and Sharpening\"",
+				"\"Alan Clark Ltd\"",
+				"Poppleton Pen Show registration (Information and badges)",
+				"\"Modern Ink, Inc\""
+				]
+			},
+			{
+				"title" : "Inside the Hotel",
+				"elements" : [
+				"On the roof",
+				"Staff elevator",
+				"Gridiron Champions Sports Bar",
+				"In the Jacuzzi",
+				"Room 403, with a party raging next door",
+				"Lobby, amidst a pen collector's turf war"
+				]
+			},
+			{
+				"title" : "Lectures in the Orchard Room",
+				"elements" : [
+				"\"How To Buy A Pen\"",
+				"\"Secrets of the Parker Swastika\"",
+				"\"Sacred Blood, Sacred Ink: The Andorra Connection\"",
+				"\"A Brief History of the 1909 Turban Top\"",
+				"\"Mightier Than The Sword? Pen-Based Self Defense Techniques\"",
+				"\"An Evening With The Pen Witch\""
+				]
+			},
+			{
+				"title" : "Dealer's Hall, Near the Trash",
+				"elements" : [
+				"\"Pen Witch Sees All\"",
+				"\"J. Nussbaum's House of Ink\"",
+				"\"Stationery and More\"",
+				"\"Handwriting Analysis and Nib Recommendations\"",
+				"Poppleton Pen Club voting table (Best Pen of Show and officers)",
+				"\"Ye Olde Penn Shoppe\""
+				]
+			},
+			{
+				"title" : "Room 404",
+				"elements" : [
+				"Taped beneath the bed",
+				"Slipped into the Gideon bible",
+				"On the shelf in the closet",
+				"In the bath tub",
+				"On the fold-out cot",
+				"Under a pile of blood-stained towels"
+				]
+			},
+			{
+				"title" : "Outside the Hotel",
+				"elements" : [
+				"Michelle's Tavern",
+				"Trunk of a Jaguar XKE",
+				"Beneath a dyng apple tree in the moonlight",
+				"Behind the industrial grease bin",
+				"In Alan Clark's RV",
+				"Law Offices of Cockburn and Lilley, LLC"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "...of Scorn",
+				"elements" : [
+				"Giant crate filled with broken fountain pens",
+				"Cheapink",
+				"Mass market ball point pen",
+				"Obvious fake fountain pen rarities",
+				"Cowboy hat",
+				"A third-tier pre-1910 Welty hump-filler pen"
+				]
+			},
+			{
+				"title" : "...of destruction",
+				"elements" : [
+				"Garbage can filled with tritium tubes pulled from exit signs",
+				"Sheaffer Snorkel pen filled with hydrochloric acid",
+				"Rusty shovel",
+				"Remington 870 shotgun",
+				"Hot dog chili infected with botulism",
+				"Rottweiler named Clara Petacci"
+				]
+			},
+			{
+				"title" : "...of Lust",
+				"elements" : [
+				"Vice Presidency of the Poppleton Pen Club",
+				"AlanClark",
+				"Roomkey",
+				"Nakaya Skeleton in blue Urushi with silver Maki-e",
+				"Condom with a pinprick hole in it",
+				"Bottle of hand-made ink imported from Andorra"
+				]
+			},
+			{
+				"title" : "...of Pride",
+				"elements" : [
+				"Mont Blanc Meisterstück Solitaire Tribute ball point pen",
+				"Congressional Medal of Honor",
+				"\"Best Pen of Show\" award from the Poppleton Pen Club",
+				"Certificate of Authenticity",
+				"Babybump",
+				"Pen Queen nib-tiara"
+				]
+			},
+			{
+				"title" : "...of Mystery",
+				"elements" : [
+				"Subtly fake fountain pen rarities",
+				"Grimy photograph of an SS officer holding a pen",
+				"Pile of high end office supplies, soaked in urine",
+				"Taser and flexi-cuffs",
+				"Yup'ik nepcetaq mask from Toksook Bay, Alaska",
+				"The Pen With No Name"
+				]
+			},
+			{
+				"title" : "...of Curiosity",
+				"elements" : [
+				"\"Best Pen of Show\" ballot box",
+				"Hotel security camera footage",
+				"Parker 71 with a familiar name engraved on the barrel",
+				"Detailed blueprints of the hotel",
+				"Police report field after last year's Poppleton Pen Show",
+				"Alan Clark's wallet"
+				]
+			}
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "playset" :
+  {
+    "title" : "Hollywood Hospital",
+    "credits" : 
+    {
+      "author" : "Rachel Storey Burke"
+    },
+    "movie_night" :
+    [
+      { "title" : "Scrubs (TV) Seasons 1 – 8 (but not 9... never Season 9)" }
+    ],
+    "score" :
+    {
+      "title" : "And here it is...",
+      "paragraphs" : [
+        "Arrogant attendings, incompetent interns, nosy nurses, daydreaming doctors... you’ll find all these and more within the walls of Hollywood Hospital. Medicine may be the reason we’re here, but sexy scandals and hilarious hijinks are what the doctor really ordered, and it’s all about how much you can get away with before the chief comes down on you like a ton of bricks. Catch some sleep while you can, and try to stay out of the janitor’s way.",
+		"A NOTE ON SETTING",
+		"This playset is based pretty much entirely on the TV show Scrubs, and therefore all the characters should be folks you would find in a hospital. This doesn't have to mean doctors and nurses – some of the funniest material might happen between two everyday shlubs who just work at the building. Consider patients, lab-techs, med students, clergy, clinic volunteers, administrators, accountants, lawyer, janitors, security guards, delivery drivers, cafeteria workers, or even just a buddy or brother of someone else who works at the hospital.",
+		"This playset works best with the Soft Tilt and Aftermath tables from the Fiasco Companion book.",
+		"SPECIAL RULES FOR DAYDREAMING",
+		"If you've ever watched Scrubs, you know that the main character's constant daydreaming is a central component of the show. Anytime your character is doing or thinking something metaphorical, such as feeling like a deer in the headlights, or digging their own grave in a conversation, you are encouraged to narrate that as a quick one-note fantasy smash-cut, then jump right back into the action.",
+		"Additionally, however, we've included some rules for longer daydream scenes. These rules are intended to make daydream scenes part of the plot, rather than having scenes that become \"just a dream\" and therefore feel wasted.",
+		"CHOOSING SCENES",
+		"At the beginning of the game, substitute 4 red dice for 4 of the regular dice rolled for setup. Don't worry about keeping track of which ones are white or black, you'll take them out and put the regular dice back after choosing scene elements.",
+		"Any card that uses a red die for one of its elements gets marked. Each marked card must be used in a daydream scene at least once during the game.",
+		"If two red dice get used on a single card, it still counts as just one mark. More than one marked card can be used in any given daydream.",
+		"PLAYING DAYDREAMS",
+		"Daydreams are framed by your fellow players and resolved by you, so start by asking the group to set up a daydream scene for you. You'll be able to participate in the daydream portion, but the other players should control the narration, in the way that you don't usually have control over your own dreams.",
+		"When the daydream seems to be reaching a resolution, decide how to wrap it up, then have your character snap back to reality. You now take over the scene, and play out what really happened, while making the daydream a metaphor for reality.",
+		"Example",
+		"You have a marked relationship with your character's bully. You ask the group to frame a daydream scene involving that card.",
+		"The group sets up a scene where you step into the hall and see a dragon. You realize you're dressed as a knight and carrying a sword, and you decide to charge the dragon.",
+		"How does the scene go for you?",
+		"White die: You run the dragon through with your sword. Hooray! You snap back to reality, and, emboldened by your victory, confront your bully and verbally smack him down.",
+		"Black die: You charge the dragon, but it opens its jaws and breathes flame over you, turning you to ash. You snap back to reality and find yourself frozen to the spot as your bully humiliates you and then walks off laughing.",
+		"Note that the relationship card was not used directly in the fantasy portion of the daydream, though it was fairly clear how the dragon was metaphorical. However, the group could just as easily have narrated a scene with the actual boss involved."
+      ],
+      "tagline" : "At the Pen Show"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+				"Parent and child",
+				"Siblings who hate their parents",
+				"Siblings who hate each other",
+				"Uncomfortable in-laws",
+				"Not related but think you are",
+				"Related but think you aren't"
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+				"Medical staff and nonmedical staff",
+				"Medical staff and patient",
+				"Supervisor and underling",
+				"Current or former students together",
+				"Competing for the same promotion",
+				"Teacher and student"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+				"Best friends since college",
+				"Totally one-sided friendship",
+				"Buddies of the chief of staff",
+				"Friendly rivals at work",
+				"On-again-off-again friends",
+				"Extremely unlikely friends"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+				"Former spouses",
+				"Secretly dating",
+				"Once, drunk, in the on-call room",
+				"Unhealthy obsession",
+				"Dating and everyone knows it",
+				"Quid-pro-quo"
+				]
+			},
+			{
+				"title" : "Mischief",
+				"elements" : [
+				"Malpractice attorney and client or defendant",
+				"Moonlighting despite hospital policy",
+				"In the same drug rehab group",
+				"Committing insurance fraud",
+				"Accidentally screwed up a clinical trial",
+				"Drug scammer and hospital staff"
+				]
+			},
+			{
+				"title" : "Hospital",
+				"elements" : [
+				"Hospital gym workout buddies",
+				"Members of the volunteer spiritual team",
+				"Volunteer clowns in the children's ward",
+				"On the chief of staff's shit list",
+				"Part of the same air band",
+				"Members of the janitor's Brain Trust"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To stop",
+				"elements" : [
+				"...the board from forcing the chief into retirement",
+				"...the love of your life from marrying the wrong person",
+				"...your coworker from fudging the test results",
+				"...the chief from firing your best friend",
+				"...the interns from making a deadly misdiagnosis",
+				"...a patient from giving up the fight"
+				]
+			},
+			{
+				"title" : "To get even",
+				"elements" : [
+				"...with your coworker for stealing all the glory",
+				"...with the asshole who slept with your ex",
+				"...with the surgeon who messed up your elbow",
+				"...with your ex for ruining your life",
+				"...with the bastard who took your promotion",
+				"...with your underling for making you look bad"
+				]
+			},
+			{
+				"title" : "To get rich",
+				"elements" : [
+				"...by selling a black market kidney",
+				"...by backstabbing all your coworkers",
+				"...by stealing enough drugs",
+				"...enough to quit moonlighting",
+				"...by cozying up to a rich elderly patient",
+				"...by blackmailing the chief of medicine"
+				]
+			},
+			{
+				"title" : "To get respect",
+				"elements" : [
+				"...from your parents, who always sound disappointed",
+				"...from your boss, who never gives you recognition",
+				"...from your best friend, who always one-ups you",
+				"...from your coworkers, those competitive bastards",
+				"...from your lover, by getting them out of trouble",
+				"...from yourself, by standing up for yourself for once"
+				]
+			},
+			{
+				"title" : "To get the truth",
+				"elements" : [
+				"...about who stole the Percocets",
+				"...about who the baby's real father is",
+				"...about how Mrs. Wilk really died",
+				"...about who jammed the door with a penny",
+				"...about where your coworker sneaks off to at night",
+				"...about the results of the abandoned clinical trial"
+				]
+			},
+			{
+				"title" : "To get laid",
+				"elements" : [
+				"...to prove you're straight",
+				"...by your ex so you'll get back together",
+				"...by your doctor / nurse / patient even though it's illegal",
+				"...by your best friend to make them love you",
+				"...by anyone, anytime, anywhere",
+				"...to get over an old flame"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "The Halls",
+				"elements" : [
+				"Medical supply closet",
+				"Coffee and pastries shop",
+				"The only working elevator",
+				"Bank of payphones by the lobby",
+				"Janitor's supply closet",
+				"Cafeteria on sloppy joe day"
+				]
+			},
+			{
+				"title" : "Administrative Offices",
+				"elements" : [
+				"Office of the chief of staff",
+				"Posh, soundproofed board-of-directors meeting room",
+				"Patient records storage area",
+				"Cube farm of administrative desks in the basement",
+				"Classroom with an incessantly flickering bulb",
+				"Subtly scary office of the head of HR"
+				]
+			},
+			{
+				"title" : "Outside the Hospital",
+				"elements" : [
+				"Funeral (or viewing) for a deceased patient",
+				"Ozzie's: the bar across the street",
+				"Parking lot basketball court",
+				"Plan B: the strip club down the street",
+				"AMA conference in Reno",
+				"Your best friend's apartment"
+				]
+			},
+			{
+				"title" : "Patient Areas",
+				"elements" : [
+				"Quarantine patient's room",
+				"Behind a curtain in the free clinic",
+				"Patient room that wasn't really empty after all",
+				"Deluxe out-of-your-mind mack-daddy birthing suite",
+				"Empty room full of defunct medical equipment",
+				"Physical therapy whirlpool room"
+				]
+			},
+			{
+				"title" : "Employees Only",
+				"elements" : [
+				"Psych ward nurses' station",
+				"Interns' on-call room",
+				"OR viewing gallery",
+				"Empty consult room",
+				"Residents' lounge",
+				"Co-ed changing room"
+				]
+			},
+			{
+				"title" : "Utilitarian",
+				"elements" : [
+				"Toilet inexplicably installed out in the open on the roof",
+				"HVAC room full of giant pipes and ducts",
+				"Cafeteria's walk-in freezer",
+				"Information desk staffed by volunteers",
+				"Inside the hospital's main water storage tank",
+				"Hazardous waste collection area"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Scandalous",
+				"elements" : [
+				"The same clothes you were wearing last night",
+				"Camera full of faceless naked pictures",
+				"Security tape from Dr. Feelgood's farewell party",
+				"Pair of panties tacked up on the announcement board",
+				"Schoolgirl costume with a leather whip",
+				"Prescription for the \"morning after\" pill"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+				"Pretty pink scooter with the license plate \"SASHA\"",
+				"Rental truck containing someone's entire apartment",
+				"Abandoned gurney with a zipped-up body bag",
+				"Pair of bedpans with straps to attach to your feet",
+				"Golf cart converted into a floor waxer",
+				"Chief of staff's brand-new, shiny Mercedes"
+				]
+			},
+			{
+				"title" : "Deadly",
+				"elements" : [
+				"Hypodermic needle full of ebola virus",
+				"Lone sandwich of highly-questionable egg salad",
+				"Emergency defibrillator with a dead battery",
+				"Filthy, germy, used paper handkerchief lying on the floor",
+				"Set of improperly sanitized surgical tools",
+				"Donor organs containing undiagnosed rabies"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+				"Jar of urine with the label torn off",
+				"Mislabeled lab report confirming pregnancy",
+				"Chief of staff's syphilis test results",
+				"Phone number of the hot guy at Ozzie's",
+				"Printout of all the staff and their salaries",
+				"Leaked copy of the upcoming budget"
+				]
+			},
+			{
+				"title" : "Valuable",
+				"elements" : [
+				"Box of random objects, each removed from someone's ass",
+				"Baggie of stolen Percocets",
+				"Unclaimed bag of a dead patient's belongings",
+				"Creepy, stuffed, stupid yellow dead dog",
+				"Diamond ring from a broken engagement",
+				"Forgotten kidney in a chest of ice"
+				]
+			},
+			{
+				"title" : "Hijinks",
+				"elements" : [
+				"Mop bucket full of blue paint and a broken mop handle",
+				"Penny jammed in the track of a sliding glass door",
+				"Saltine hidden where the sun don't shine",
+				"Key that unlocks everything in the hospital",
+				"Car trunk full of stolen pudding and jello cups",
+				"Giant rented construction crane"
+				]
+			}
+    ]
+  }
+}

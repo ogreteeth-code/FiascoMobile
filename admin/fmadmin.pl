@@ -111,8 +111,8 @@ sub ValidatedGo() {
 		print "<p>Looks like you just added a new user... verifying...";
 		if (VerifyAdd($newuser)) {
 			print "<p>Adding Link...";
-			system "ln -s ../fiascomobile.html ../lns/$newuser.html";
-			if (stat "../lns/$newuser.html") {
+			system "ln -s ../fiascomobile.php ../lns/$newuser.php";
+			if (stat "../lns/$newuser.php") {
 				print 'linked!</p>';
 			}
 		}
@@ -128,11 +128,11 @@ sub OneEntry() {
                 print "<p>Thanks for redeeming a coupon code....verifying...";
                 if (VerifyAdd($newuser)) {
                         print "<p>Linking...";
-                        system "ln -s ../fiascomobile.html ../lns/$newuser.html";
-                        if (stat "../lns/$newuser.html") {
+                        system "ln -s ../fiascomobile.php ../lns/$newuser.php";
+                        if (stat "../lns/$newuser.php") {
                                 print 'linked!</p>';
                         }
-                print "<p>Now you can return to <a href=\"http://fiascomobile.ogreteeth.com/\">FiascoMobile</a> and log in with your email address. Once you've logged in, bookmark the resulting page.</p> <p>Enjoy FiascoMobile!</p>\n</div>";
+                print "<p>Now you can return to <a href=\"http://fiascomobile.com/\">FiascoMobile</a> and log in with your email address. Once you've logged in, bookmark the resulting page.</p> <p>Enjoy FiascoMobile!</p>\n</div>";
                 }
         }
 }
@@ -152,10 +152,16 @@ sub validateDomain($) {
 	elsif ($ENV{'HTTP_REFERER'} eq 'http://brooklynindiegames.com/fm/admin/fmadmin.pl') { 
 		return true;
 	}
+	elsif ($ENV{'HTTP_REFERER'} eq 'http://fiascomobile.com/admin/fmadmin.pl') { 
+		return true;
+	}
 	elsif ($ENV{'HTTP_REFERER'} eq 'http://brooklynindiegames.com/fm/coupon.rb') {
 		return true;
 	}
 	elsif ($ENV{'HTTP_REFERER'} eq 'http://fiascomobile.ogreteeth.com/coupon.rb') {
+		return true;
+	}
+	elsif ($ENV{'HTTP_REFERER'} eq 'http://fiascomobile.com/coupon.rb') { 
 		return true;
 	}
 	else {

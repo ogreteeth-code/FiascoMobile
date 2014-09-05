@@ -1,0 +1,290 @@
+{
+  "playset" :
+  {
+    "title" : "The Sunshine State",
+    "credits" : 
+    {
+      "author" : "Ryan Macdonald"
+    },
+    "score" :
+    {
+      "title" : "I'm from Miami fuckin' Beach and you wanna show me the ocean, huh? And what about sun, does it ever shine around here?!\rRay Bones, Get Shorty",
+      "paragraphs" : [
+        "Florida is fucking...weird, man.  I don't know if there's a state sized hole in the ozone layer that casts direct heat from the sun onto the inhabitants of the state and fries their brains or if it's something in the water, but you can't go a day without someone having their life completely implode and then instantly go crazy.  There's a reason FARK.com has a section just for Florida. Enjoy.  ~RM"
+      ],
+      "tagline" : "Somewhere in Florida"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+				"Parent and -in-Law",
+				"Siblings",
+				"Single Parent and Child",
+				"Former Teen Parent and Soon-to-be Teen Parent",
+				"Really...really close cousins",
+				"Grandparent and Grandchild"
+				]
+			},
+			{
+				"title" : "Friendship",
+				"elements" : [
+				"Just a Couple of Geeks",
+				"Wildlife Wranglers",
+				"Going to School Together",
+				"Athletes on the same sports team",
+				"Known each other since Childhood",
+				"Partners in Crime"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+				"\"We'll go to Disney on our Honeymoon!\"",
+				"A very public affair",
+				"Teacher and Student",
+				"Sugar Daddy and Gold Digger",
+				"Internet Lovers",
+				"Forbidden Lovers"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+				"Small Time Home Breakers",
+				"Teenage Drug Dealers",
+				"Hippie Pot Farmers",
+				"Loan Shark and Debtee",
+				"Career Criminals Missing a Few Brain Cells Serial",
+				"Sex Offender and New Target"
+				]
+			},
+			{
+				"title" : "Work and Community",
+				"elements" : [
+				"Independent Contractor and Employee",
+				"Catholic Priest and Faithful Believer",
+				"Theme park employees",
+				"Shop owner and frequent customer",
+				"Barbershop/Salon Co-Workers",
+				"Conservationist and Developer"
+				]
+			},
+			{
+				"title" : "Out and About",
+				"elements" : [
+				"Fun Runners",
+				"Mormons on a Mission",
+				"Too Old To Still Be Scouts",
+				"Delivery Men/Women",
+				"Garbage crew",
+				"A couple of good cops on patrol"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To Avenge...",
+				"elements" : [
+				"...your family's honor",
+				"...your truck",
+				"...the loss of your drug money",
+				"...the death of a loved one",
+				"...your dog",
+				"...the loss of your virginity"
+				]
+			},
+			{
+				"title" : "To Stop...",
+				"elements" : [
+				"...the destruction of the Florida ecosystem",
+				"...being bullied once and for all",
+				"...them from seeing each other.",
+				"...the word from getting out",
+				"...sleeping with dead beats",
+				"...letting people walk all over you"
+				]
+			},
+			{
+				"title" : "To Take...",
+				"elements" : [
+				"...back what was once mine",
+				"...them for all they are worth",
+				"...my stuff and get out",
+				"...over the family business",
+				"...the best drugs you've ever had.",
+				"...this job and SHOVE IT!"
+				]
+			},
+			{
+				"title" : "To Fuck...",
+				"elements" : [
+				"\"It's called MILF/DILF/GILF hunting my friend, you should try it!\"",
+				"...over my boss",
+				"...the Governor's Daughter",
+				"...these rich old people out of all their money",
+				"...over the Feds",
+				"...then to blackmail!"
+				]
+			},
+			{
+				"title" : "To Hide...",
+				"elements" : [
+				"...the body",
+				"...my latent homosexuality",
+				"...the funds I've laundered",
+				"...some place safe for a while",
+				"...in plain sight",
+				"...the darkness I feel inside"
+				]
+			},
+			{
+				"title" : "To Get Rich...",
+				"elements" : [
+				"...by making false promises.",
+				"...by exploiting my ex-lover",
+				"...by robbing everyone blind",
+				"...by selling things I don't own",
+				"...through fraud",
+				"...doing something no one has ever done before"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "The Pan Handle",
+				"elements" : [
+				"The Governor's Mansion",
+				"The Sales Floor of a Major Electronics Store",
+				"The Georgia Border",
+				"\"The Middle of Fucking NOWHERE!\"",
+				"The Clubhouse at Raven Golf Club",
+				"The Marina Civic Center, Panama City"
+				]
+			},
+			{
+				"title" : "Northeast Florida",
+				"elements" : [
+				"My Place Bar and Pool Hall",
+				"Jacksonville Flea Market",
+				"I-10 West Towards Jacksonville",
+				"Turkey Creek Park, Niceville",
+				"Mandarin Ale House, Jacksonville",
+				"Sundale Manor, Jacksonville"
+				]
+			},
+			{
+				"title" : "Palm and Space Coast",
+				"elements" : [
+				"Launch Pad Viewing Area, NASA",
+				"Over the Rainbow Trailer and RV Park",
+				"Space Camp, Cape Canaveral",
+				"Daytona Motorspeedway",
+				"The Thirsty Horse Biker Bar, Daytona",
+				"Cocoa Beach"
+				]
+			},
+			{
+				"title" : "Gulf Coast",
+				"elements" : [
+				"Tampa Lanes, Tampa",
+				"St. George Island",
+				"A Strip Club on Del Mabry Blvd",
+				"Sanibel Island Lighthouse",
+				"Club Cubana, Ybor City",
+				"A Frat House, University of South Florida"
+				]
+			},
+			{
+				"title" : "Central Florida",
+				"elements" : [
+				"Fountain, University of Central Florida",
+				"The Happiest Place on Earth",
+				"Rachel's Gentlemen's Club, Orlando",
+				"55 West Luxury Apartments, Orlando",
+				"Simply Orange Juice Factory, Apopka",
+				"Orlando International Airport, Terminal A 22"
+				]
+			},
+			{
+				"title" : "South Florida",
+				"elements" : [
+				"Knee deep in the middle of the Everglades",
+				"Festival Flea Market",
+				"TATE'S Comics, Ft. Lauderdale",
+				"Ft. Lauderdale Beach and Boardwalk, Hollywood",
+				"Swinging Richards, Miami",
+				"Sawgrass Mills Mall"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Valuable",
+				"elements" : [
+				"A Very Large Very Heavy Case, contents unknown",
+				"A Baby in a backpack carrier",
+				"A Kangaroo and a Goat",
+				"A file containing a state bill to ban beastiality",
+				"Treasure stolen from the shipwreck, Atocha",
+				"Someone's Last Will and Testament"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+				"12 Gauge Shotgun",
+				"A golfbag with an assortment of blunt objects",
+				"One Big Hungry Gator named Frankie",
+				"Ford F150 King Cab and a Keg of Yuengling Lager",
+				"A sword, fashioned from broken PVC pipe ripped from the ground",
+				"Your Own Hands and Teeth"
+				]
+			},
+			{
+				"title" : "Extralegal",
+				"elements" : [
+				"A VW Bus full of Marijuana",
+				"Poison Concoction",
+				"A bag of stolen dildos",
+				"A Bag of something labeled \"Bath Salts\"",
+				"A Little Black Book",
+				"Moonshine Still"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+				"An Airboat",
+				"1967 Blue Buick LeSabre",
+				"A Private Jet Owned by a Celebrity",
+				"Chevy Astro, driven by your mom",
+				"Parasail",
+				"Jet Ski"
+				]
+			},
+			{
+				"title" : "Traumatic",
+				"elements" : [
+				"17 Severed Heads in 4 Suitcases Preserved for Science",
+				"Severed Penis",
+				"Hair Doll",
+				"A 'box' in a box",
+				"The decaying corpse of an undesirable",
+				"A Time Capsule from 1994"
+				]
+			},
+			{
+				"title" : "Juicy",
+				"elements" : [
+				"A pony express envelope full of explicit photos",
+				"The hottest sex tape on the block",
+				"A map of all the truck stops in the state with star ratings next to them",
+				"A Complete Furry Costume",
+				"Extreme Sex Dice",
+				"Gimp Suit"
+				]
+			}
+    ]
+  }
+}
