@@ -123,7 +123,7 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
 
         Otherwise, you can specify specific domains:
     
-    <access origin="http://127.0.0.1*"/> <!-- allow local pages -->
+    <access origin="http://127.0.0.1*"/> - allow local pages
     <access origin="http://brooklynindiegames.com" />
     <access origin="http://vermilionink.com" />
 
