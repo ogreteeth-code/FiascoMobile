@@ -5,7 +5,7 @@ function loadHomeScreen() {
 }
 
 function loadAboutApp() {
-	homescreen(-1);
+	homescreen(2);
 	$('#IOSContainer').load('tmpl/_aboutapp.tmpl.html');
 	setTimeout(function(){scrollTo(0,0)},1);
 }
@@ -20,7 +20,7 @@ function subSwap(folioID) {
 }
 
 function loadJSONPlayset(title) {
-	homescreen(-2);
+	homescreen(3);
 	$.getJSON("playsets/" + title,function(data) {$("#playsetProper").tmpl(data).replaceAll("#IOSContainer");});
 }
 
@@ -31,7 +31,7 @@ function homescreen(reset) {
 }
 
 function getPlayset(playset) {
-	homescreen(-1);
+	homescreen(2);
 	currentPlayset = playset;
 	// console.log(playset);
 	title = {"filename": playset};
@@ -43,7 +43,7 @@ function onPhoneReady(){
   document.addEventListener("backbutton", function(){ //hardware backbutton
   	if (homescreen() == 1) {
   		return true;
-  	} else if (homescreen() == -2) {
+  	} else if (homescreen() == 3) {
   		getPlayset(currentPlayset);
   		return false;
   	} else {
