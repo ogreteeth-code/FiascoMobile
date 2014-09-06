@@ -1,13 +1,13 @@
 function loadHomeScreen() {
+	homescreen(1);
 	$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
 	setTimeout(function(){scrollTo(0,0)},1);
-	homescreen(1);
 }
 
 function loadAboutApp() {
+	homescreen(-1);
 	$('#IOSContainer').load('tmpl/_aboutapp.tmpl.html');
 	setTimeout(function(){scrollTo(0,0)},1);
-	homescreen(-1);
 }
 
 function subSwap(folioID) {
@@ -20,22 +20,23 @@ function subSwap(folioID) {
 }
 
 function loadJSONPlayset(title) {
-	$.getJSON("playsets/" + title,function(data) {$("#playsetProper").tmpl(data).replaceAll("#IOSContainer");});
 	homescreen(-2);
+	$.getJSON("playsets/" + title,function(data) {$("#playsetProper").tmpl(data).replaceAll("#IOSContainer");});
 }
 
 function homescreen(reset) {
-	if (reset) {storeValue = reset;}
+	reset ? storeValue = reset : storeValue ? storeValue : storeValue = 0;
+	// console.log(storeValue);
 	return storeValue;
 }
 
 function getPlayset(playset) {
+	homescreen(-1);
 	currentPlayset = playset;
 	// console.log(playset);
 	title = {"filename": playset};
 	$.getJSON("playsets/" + playset,function(data) {data = title.merge(data); $("#playsetTitleScreen").tmpl(data).replaceAll("#IOSContainer");});
 	setTimeout(function(){scrollTo(0,0)},1);
-	homescreen(-1);
 }
 
 function onPhoneReady(){ 
