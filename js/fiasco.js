@@ -35,14 +35,17 @@ function getPlayset(playset) {
 
 function onPhoneReady(){ 
   document.addEventListener("backbutton", function(){ //hardware backbutton
-  	// alert("listening to back button");
+  	alert("listening to back button");
 
   	if (homescreen == 0) {
+  		alert("homescreen == 0");
   		return true;
   	} else if (homescreen == -2) {
+  		alert("homescreen == -2");
   		getPlayset(currentPlayset);
   		return false;
   	} else {
+  		alert("return home now");
 	    loadHomeScreen();
 	    return false;
   	}
@@ -56,8 +59,7 @@ function onPhoneReady(){
 } 
 
 function catchback(){
-	// $(document).bind("deviceready", onPhoneReady); //when phone is ready 
-	
+	$(document).bind("deviceready", onPhoneReady); //when phone is ready 
 }
 
 
