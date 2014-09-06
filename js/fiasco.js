@@ -36,6 +36,7 @@ function getPlayset(playset) {
 function onPhoneReady(){ 
   document.addEventListener("backbutton", function(){ //hardware backbutton
   	alert("listening to back button");
+	alert(homescreen);
 
   	if (homescreen == 0) {
   		alert("homescreen == 0");
