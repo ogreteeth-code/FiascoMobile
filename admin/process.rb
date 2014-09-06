@@ -2,25 +2,7 @@
 
 require 'digest/md5'
 
-"Kickstarter Backer Report - No reward - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $1.00 USD reward - Aug 25 08pm.csv"
-
-tier_level =
-
-
-"Kickstarter Backer Report - $10.00 USD reward - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $25.00 USD reward 1 - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $25.00 USD reward 2 - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $50.00 USD reward - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $75.00 USD reward - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $100.00 USD reward - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $250.00 USD reward - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $500.00 USD reward - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $600.00 USD reward - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $1,200.00 USD reward - Aug 25 08pm.csv"
-"Kickstarter Backer Report - $2,500.00 USD reward - Aug 25 08pm.csv"
- 
-puts tier_level
+tier_level = "kickstarter report.csv"
 
 listings = File.open(tier_level, "r")
 
