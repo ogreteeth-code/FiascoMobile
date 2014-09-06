@@ -35,9 +35,7 @@ function getPlayset(playset) {
 
 function onPhoneReady(){ 
   document.addEventListener("backbutton", function(){ //hardware backbutton
-  	alert("listening to back button");
 	alert(homescreen);
-
   	if (homescreen == 0) {
   		alert("homescreen == 0");
   		return true;
@@ -68,6 +66,8 @@ Object.prototype.merge = (function (ob) {var o = this;var i = 0;for (var z in ob
 
 $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').append(templates);});
 $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(templates);});
+
+var homescreen = 0;
 
 $(document).ready(function(){
 	var x=location.search.split("?")[1];
