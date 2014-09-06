@@ -36,11 +36,11 @@ function getPlayset(playset) {
 function onPhoneReady(){ 
   document.addEventListener("backbutton", function(){ //hardware backbutton
 	var homescreen = document.getElementById("homescreen").getAttribute("value");
-	alert(homescreen);
   	if (homescreen == 0) {
+  		// alert("already at homescreen; use the back button.");
   		return true;
   	} else if (homescreen == -2) {
-  		alert("homescreen == -2");
+		// alert("go back to playset intro");
   		getPlayset(currentPlayset);
   		return false;
   	} else {
@@ -48,12 +48,6 @@ function onPhoneReady(){
 	    loadHomeScreen();
 	    return false;
   	}
-  	
-/*
-    loadHomeScreen();
-    return false; //prevents default behaviour 
-*/
-
   }, false); 
 } 
 
