@@ -44,13 +44,10 @@ function onPhoneReady(){
   	if (homescreen() == 1) {
 		alert("exiting navigator");
 		navigator.app.exitApp()		
-  		return true;
   	} else if (homescreen() == 2) {
 	    loadHomeScreen();
-	    return false;
   	} else if (homescreen() == 3) {
   		getPlayset(currentPlayset);
-  		return false;
   	}
   }, false); 
 } 
