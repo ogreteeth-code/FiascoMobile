@@ -42,13 +42,14 @@ function getPlayset(playset) {
 function onPhoneReady(){ 
   document.addEventListener("backbutton", function(){ //hardware backbutton
   	if (homescreen() == 1) {
+		device.exitApp();
   		return true;
+  	} else if (homescreen() == 2) {
+	    loadHomeScreen();
+	    return false;
   	} else if (homescreen() == 3) {
   		getPlayset(currentPlayset);
   		return false;
-  	} else {
-	    loadHomeScreen();
-	    return false;
   	}
   }, false); 
 } 
