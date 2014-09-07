@@ -40,19 +40,19 @@ function getPlayset(playset) {
 }
 
 function onPhoneReady(){ 
-  document.addEventListener("backbutton", function(){ //hardware backbutton
+  document.addEventListener("backbutton", catchback, false);   // function(){ //hardware backbutton}
+} 
+
+function catchback(){
+// You can call this function from a console to simulate the Android "Back" button!
   	if (homescreen() == 1) {
-		alert("exiting navigator");
+		// alert("exiting navigator");
 		navigator.app.exitApp()		
   	} else if (homescreen() == 2) {
 	    loadHomeScreen();
   	} else if (homescreen() == 3) {
   		getPlayset(currentPlayset);
   	}
-  }, false); 
-} 
-
-function catchback(){
 	$(document).bind("deviceready", onPhoneReady); //when phone is ready 
 }
 
