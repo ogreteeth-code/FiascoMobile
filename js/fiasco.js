@@ -42,7 +42,8 @@ function getPlayset(playset) {
 function onPhoneReady(){ 
   document.addEventListener("backbutton", function(){ //hardware backbutton
   	if (homescreen() == 1) {
-		device.exitApp();
+		alert("exiting navigator");
+		navigator.app.exitApp()		
   		return true;
   	} else if (homescreen() == 2) {
 	    loadHomeScreen();
