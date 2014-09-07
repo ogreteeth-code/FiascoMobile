@@ -98,9 +98,14 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
 
     <!-- Define app splash screen for each platform. -->
     <gap:splash src="res/screen/android/screen-ldpi-portrait.png"  gap:platform="android" gap:density="ldpi" />
+    <gap:splash src="res/screen/android/screen-ldpi-landscape.png"  gap:platform="android" gap:density="ldpi" />
     <gap:splash src="res/screen/android/screen-mdpi-portrait.png"  gap:platform="android" gap:density="mdpi" />
+    <gap:splash src="res/screen/android/screen-mdpi-landscape.png"  gap:platform="android" gap:density="mdpi" />
     <gap:splash src="res/screen/android/screen-hdpi-portrait.png"  gap:platform="android" gap:density="hdpi" />
+    <gap:splash src="res/screen/android/screen-hdpi-landscape.png"  gap:platform="android" gap:density="hdpi" />
     <gap:splash src="res/screen/android/screen-xhdpi-portrait.png" gap:platform="android" gap:density="xhdpi" />
+    <gap:splash src="res/screen/android/screen-xhdpi-landscape.png" gap:platform="android" gap:density="xhdpi" />
+
     <gap:splash src="res/screen/ios/screen-iphone-portrait.png"    gap:platform="ios"     width="320" height="480" />
     <gap:splash src="res/screen/ios/screen-iphone-portrait-2x.png" gap:platform="ios"     width="640" height="960" />
     
@@ -114,21 +119,5 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
 	<gap:splash src="splash/ios/Default-Portrait_at_2x.png" gap:platform="ios" width="1536" height="2008" />
 
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />
-
-    <!--
-        Define access to external domains.
-
-        <access />            - a blank access tag denies access to all external resources.
-        <access origin="*" /> - a wildcard access tag allows access to all external resource.
-
-        Otherwise, you can specify specific domains:
-    
-    <access origin="http://127.0.0.1*"/> - allow local pages
-    <access origin="http://brooklynindiegames.com" />
-    <access origin="http://vermilionink.com" />
-
-        <access origin="http://phonegap.com" subdomains="true" />  - same as above, but including subdomains, such as http://build.phonegap.com/
-        <access origin="http://phonegap.com" browserOnly="true" /> - only allows http://phonegap.com to be opened by the child browser.
-    -->
 
 </widget>
