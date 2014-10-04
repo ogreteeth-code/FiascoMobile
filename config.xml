@@ -44,7 +44,6 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
 		<string>121</string>
 	</gap:config-file>
 
-    
     <feature name="http://api.phonegap.com/1.0/device" />
 	<gap:platform name="ios" />
 	<gap:platform name="android" />
@@ -69,7 +68,7 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     <preference name="prerendered-icon"           value="false" />          <!-- ios: if icon is prerendered, iOS will not apply it's gloss to the app's icon on the user's home screen -->
     <preference name="stay-in-webview"            value="false" />          <!-- ios: external links should open in the default browser, 'true' would use the webview the app lives in -->
     <preference name="ios-statusbarstyle"         value="default" />   		<!-- ios: black-translucent will appear black because the PhoneGap webview doesn't go beneath the status bar -->
-    <preference name="detect-data-types"          value="true" />           <!-- ios: controls whether data types (such as phone no. and dates) are automatically turned into links by the system -->
+    <preference name="detect-data-types"          value="false" />           <!-- ios: controls whether data types (such as phone no. and dates) are automatically turned into links by the system -->
     <preference name="exit-on-suspend"            value="false" />          <!-- ios: if set to true, app will terminate when home button is pressed -->
     <preference name="show-splash-screen-spinner" value="false" />          <!-- ios: if set to false, the spinner won't appear on the splash screen during app loading -->
     <preference name="auto-hide-splash-screen"    value="true" />           <!-- ios: if set to false, the splash screen must be hidden using a JavaScript API -->
@@ -103,27 +102,23 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
 
 
     <!-- Define app splash screen for each platform. -->    
-    <gap:splash src="res/screen/android/screen-ldpi-portrait.png"  gap:platform="android" gap:qualifier="ldpi" />
-    <gap:splash src="res/screen/android/screen-mdpi-portrait.png"  gap:platform="android" gap:qualifier="mdpi" />
-    <gap:splash src="screen-hdpi-portrait.png"  gap:platform="android" gap:qualifier="hdpi" />
-    <gap:splash src="res/screen/android/screen-xhdpi-portrait.png" gap:platform="android" gap:qualifier="xhdpi" />
+    <gap:splash src="res/screen/android/screen-ldpi-portrait.png"   gap:platform="android" gap:qualifier="ldpi" />
+    <gap:splash src="res/screen/android/screen-mdpi-portrait.png"   gap:platform="android" gap:qualifier="mdpi" />
+    <gap:splash src="res/screen/android/screen-hdpi-portrait.png"   gap:platform="android" gap:qualifier="hdpi" />
+    <gap:splash src="res/screen/android/screen-xhdpi-portrait.png"  gap:platform="android" gap:qualifier="xhdpi" />
 
     <gap:splash src="res/screen/android/screen-ldpi-landscape.png"  gap:platform="android" gap:qualifier="land-ldpi" />
     <gap:splash src="res/screen/android/screen-mdpi-landscape.png"  gap:platform="android" gap:qualifier="land-mdpi" />
-    <gap:splash src="screen-hdpi-landscape.png"  gap:platform="android" gap:qualifier="land-hdpi" />
+    <gap:splash src="res/screen/android/screen-hdpi-landscape.png"  gap:platform="android" gap:qualifier="land-hdpi" />
     <gap:splash src="res/screen/android/screen-xhdpi-landscape.png" gap:platform="android" gap:qualifier="land-xhdpi" />
 
     <gap:splash src="res/screen/ios/screen-iphone-portrait.png"    gap:platform="ios"     width="320" height="480" />
     <gap:splash src="res/screen/ios/screen-iphone-portrait-2x.png" gap:platform="ios"     width="640" height="960" />
-    
-    <gap:splash src="res/screen/ios/screen-iphone5-portrait.png" gap:platform="ios"     width="640" height="1136" />
-    
-    <gap:splash src="res/screen/ios/screen-ipad-portrait.png"      gap:platform="ios"     width="768" height="1024" />
+    <gap:splash src="res/screen/ios/screen-iphone5-portrait.png"   gap:platform="ios"     width="640" height="1136" />
     <gap:splash src="res/screen/ios/screen-ipad-landscape.png"     gap:platform="ios"     width="1024" height="768" />
-
-	<!-- retina iPad support: PhoneGap 2.5.0+ only -->
-	<gap:splash src="splash/ios/Default-Landscape_at_2x.png" gap:platform="ios" width="2048" height="1496" />
-	<gap:splash src="splash/ios/Default-Portrait_at_2x.png" gap:platform="ios" width="1536" height="2008" />
+    <gap:splash src="res/screen/ios/screen-ipad-portrait.png"      gap:platform="ios"     width="768" height="1024" />
+	<gap:splash src="splash/ios/Default-Landscape_at_2x.png"       gap:platform="ios"     width="2048" height="1496" />
+	<gap:splash src="splash/ios/Default-Portrait_at_2x.png"        gap:platform="ios"     width="1536" height="2008" />
 
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />
 
