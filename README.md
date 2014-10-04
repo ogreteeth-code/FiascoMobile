@@ -7,15 +7,18 @@ Reads JSON formatted playsets and makes them available for mobile devices.
 Todo:
 * General: Reorganize Home screen by Playsets of the Month
 * Playsets: Add more. Always.
-* Android: Fix the broken splash screens
 
 Wishlist:
 * Search by movie night
 * Custom entries
+* Cover Browser
 
+1.2.2
+* Updated to latest version of PhoneGap
 
 1.2.1
 * Android: From homepage, back button now processes the standard workflow correctly.
+* Android: Fix the broken splash screens
 
 
 1.2.0
