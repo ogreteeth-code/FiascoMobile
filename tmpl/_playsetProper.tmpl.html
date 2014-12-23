@@ -86,6 +86,18 @@
 		</div>
 		{{/if}}
 
+		{{if playset.thecar}}
+		<h2 class="playsetList" onClick="subSwap('subThecar')">The Car</h2>
+		<div id="subThecar" style="display: none;" class="L0"><ol class="L1">
+		{{each(i, item) playset.thecar}}
+			<li onClick="subSwap('thecar${i}')">${item.title}</li>
+			<div id="thecar${i}" style="display: none;">
+				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
+			</div>
+		{{/each}}</ol>
+		</div>
+		{{/if}}
+		
 		{{if playset.tilt}}
 		<h2 class="playsetList" onClick="subSwap('subTilt')">Tilt</h2>
 		<div id="subTilt" style="display: none;" class="L0"><ol class="L1">

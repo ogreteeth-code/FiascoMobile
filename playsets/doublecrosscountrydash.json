@@ -1,0 +1,307 @@
+{
+  "playset" :
+  {
+    "title" : "Double Cross Country Dash",
+    "credits" : 
+    {
+      "author" : "Simon Brake"
+    },
+    "movie_night" :
+    [
+      { "title" : "It's a Mad, Mad, Mad, Mad World" },
+      { "title" : "Cannonball Run" },
+      { "title" : "Rat Race" },
+      { "title" : "Smokey and the Bandit" }
+    ],
+    "score" :
+    {
+      "title" : "The race is on!",
+      "paragraphs" : [
+		"You're going to be rich. Seriously rich. Miles away there's a small fortune waiting for you, if you can get there in time. Of course it's not just you. You've got your souped up engine. You've got your driving buddy. And you've got several car loads of competitors with exactly the same plan as you.",
+		"It'll take determination, it'll take talent, it'll take speed and it may take a few broken rules, broken speed limited and broken rivals to get there first. But we all know nice guys finish last. What would you rather be? Nice or rich beyond your wildest dreams?",
+		"Exactly!",
+		"Based on films such as It’s A Mad Mad Mad Mad World, Cannonball Run and Rat Race (or even the Lovebug films), this playset represents teams racing each other to be the first to get to a dying man’s hidden stash, a dead man’s inheritance or a millionaire’s prize money, by any means possible.",
+        "Optional rule for large groups: The 'Buddy' System",
+		"The Buddy System is a mechanic designed to deal with larger game groups, particularly where the scenario can accommodate competing teams. It should ensure that two players connected by a Relationship don't have their turns in quick succession and then have to wait for their scene to come around again. It should also speed things up a little, by allowing Teams to work through scenes together.",
+		"During the set-up of the game players may pair off with a player seated next to them as Team mates, or 'Buddies', with an internal Relationship between each other and an external Relationship to two rival Teams. If you have an uneven number of players the odd player may go it alone. Alternatively they can be the third and final member of a Team, a newcomer who doesn't share the Buddy/ Buddy relationship of the core two (and as such should be one of the players at the edge of the Team).",
+		"How does the mechanic work? The Buddies effectively play as one player, with one Buddy establishing or resolving the scene on the first round in each Act, and the other doing the same second time around. Since they are a team it is likely they will both have starring roles, to some degree. Two dice (of the same colour) are awarded at the end of a Buddy scene.",
+		"In Act 1 they may give these dice to each other, or may give one or both dice to a different player (Team dynamics may dictate you should give each die to a different member of a rival Team).",
+		"In Act 2 they keep each die they are given. They're in this til the bitter end now.",
+		"As a twist during the Tilt, particularly if the Tilt suggests so, you can re-evaluate the Team you're in, and change Buddies (as loyalties change) - move chairs so you're sitting with your new Team mate(s). Just be sure to note the Relationships you have with characters who are no longer seated next to you."
+      ],
+      "tagline" : "in a cross country car chase"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+				"Parent and child",
+				"Grandparent and grandchild",
+				"Siblings",
+				"Cousins",
+				"Aunt/uncle and child",
+				"Adult and adopted orphan"
+				]
+			},
+			{
+				"title" : "Friends",
+				"elements" : [
+				"Friends since school",
+				"Work together, day in, day out",
+				"Drinking buddies",
+				"Long term correspondences",
+				"Regular customer and friend behind the counter",
+				"Members of the same club"
+				]
+			},
+			{
+				"title" : "Rivals",
+				"elements" : [
+				"Rivals since school",
+				"Rivals since working together",
+				"Bully and regular victim",
+				"Professional rivals with opposed theories",
+				"Family feud carried down from their fathers",
+				"Members of the same club"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+				"Just married",
+				"On the way to get married",
+				"Bickering married couple",
+				"Childhood sweethearts",
+				"Star crossed lovers on rival teams",
+				"Enemies that come to love each other"
+				]
+			},
+			{
+				"title" : "Partners",
+				"elements" : [
+				"Getaway driver and hit man",
+				"Racing driver and mechanic",
+				"Inventors",
+				"Gentleman/lady and chauffeur/butler",
+				"Police officers",
+				"Doctor and nurse"
+				]
+			},
+			{
+				"title" : "Oddballs",
+				"elements" : [
+				"Comedy new age guru and straight guy",
+				"No good cheating cads",
+				"Confused hitch hikers",
+				"Foreign stereotypes",
+				"Obsessed with something other than cars/racing",
+				"Murderous hillbillies"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To Win",
+				"elements" : [
+				"...the race, as a matter of pride",
+				"...the race, as a matter of greed",
+				"...the money, any way possible",
+				"...any money, one way or another",
+				"...the hand of the man/woman you love",
+				"...the favour of a rich patron"
+				]
+			},
+			{
+				"title" : "To Beat",
+				"elements" : [
+				"...your rival, once and for all",
+				"...your rival to within an inch of his life",
+				"...everyone else, whatever the cost",
+				"...your love rival to the boy/girl",
+				"...the current land speed record",
+				"...the odds, and finish the race before you succumb to old age/illness"
+				]
+			},
+			{
+				"title" : "To Find",
+				"elements" : [
+				"...the loot before anyone else does",
+				"...the joy of the chase",
+				"...the shortcut you've discovered on the map",
+				"...where the loot rightfully belongs",
+				"...a deeper purpose to your life",
+				"...what/who the love of your life really is"
+				]
+			},
+			{
+				"title" : "To Lose",
+				"elements" : [
+				"...the race, for a price",
+				"...your tarnished reputation, finally",
+				"...your rival in the mountains",
+				"...the evidence connecting you to a crime",
+				"...your inhibitions and become a fuller person",
+				"...that police tail you've had since you began"
+				]
+			},
+			{
+				"title" : "To Sabotage",
+				"elements" : [
+				"...your rival's reputation",
+				"...the new relationship of an ex-lover",
+				"...anyone's chance of crossing the line before you",
+				"...the brakes on your rival's car",
+				"...your rival's incredible new invention",
+				"...the bridge in order to destroy it and knock out the competition"
+				]
+			},
+			{
+				"title" : "To Prove",
+				"elements" : [
+				"...that you're the best, to everyone",
+				"...that you're honourable, to the one that matters",
+				"...that you're brave, to yourself",
+				"...that your invention works, to the world",
+				"...that crime doesn't pay",
+				"...that good guys finish last"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Before the race",
+				"elements" : [
+				"Your father's study",
+				"Running from the church",
+				"Sitting in a diner",
+				"A stranger visits the garage",
+				"Working late in the laboratory",
+				"\"How about a little wager?\""
+				]
+			},
+			{
+				"title" : "The starting line",
+				"elements" : [
+				"All the cars, all lined up",
+				"Everyone madly dashes to their vehicles",
+				"Examining a rival's car",
+				"Friendly banter",
+				"Stalled.",
+				"\"Yahoo! Eat our dust!\""
+				]
+			},
+			{
+				"title" : "The open road",
+				"elements" : [
+				"The long straight road towards the horizon",
+				"The winding road beneath shady trees",
+				"Cheered on by kids in a small town",
+				"Speeding past a parked police car",
+				"Taking the scenic route",
+				"\"I know a shortcut!\""
+				]
+			},
+			{
+				"title" : "The wilderness",
+				"elements" : [
+				"Off-road, and down a hill",
+				"Along a precarious mountain side road",
+				"Crashing through a barn",
+				"Across the desert",
+				"Night time drive through a forest",
+				"\"I think we're lost!\""
+				]
+			},
+			{
+				"title" : "The final stretch",
+				"elements" : [
+				"Cheering crowds lining the city streets",
+				"Dodging traffic in the busy city",
+				"Final dash from the cars to locate the loot",
+				"Crossing the line in the wrong vehicle",
+				"Multiple pile up",
+				"\"No, turn back! You've missed it!\""
+				]
+			},
+			{
+				"title" : "After the race",
+				"elements" : [
+				"Meeting your father at the finishing line",
+				"A wedding, with guests from the race",
+				"The loot is not what it seems",
+				"The flashing lights of cameras! Fame at last!",
+				"At the scrap yard",
+				"\"Is this your vehicle, sir?\""
+				]
+			}
+    ],
+    "thecar" : [
+			{
+				"title" : "Hidden extras",
+				"elements" : [
+				"Bullet proof exterior",
+				"Bullet proof sliding panel between front and back",
+				"Souped up engine or experimental super fuel",
+				"Amphibious (the car can ‘drive' through water)",
+				"Ejector seat",
+				"It has a mind of its own"
+				]
+			},
+			{
+				"title" : "Not particularly hidden extras",
+				"elements" : [
+				"A mini bar",
+				"A mini bar PLUS sound system and disco ball",
+				"A mini cinema/games system",
+				"Subtle or not-so subtle exterior lighting",
+				"Hideous personalised hood ornament",
+				"Fluffy dice and otherwise fluffy interior"
+				]
+			},
+			{
+				"title" : "Weapon laden",
+				"elements" : [
+				"Rockets launcher behind the headlights",
+				"Blades protrude from the hubcaps",
+				"Front facing machine guns",
+				"Occupants all armed with guns",
+				"Experimental laser beam projector",
+				"The car itself is a big fucking bomb"
+				]
+			},
+			{
+				"title" : "Unique history",
+				"elements" : [
+				"Recently stolen",
+				"Used in a bank job a few months ago",
+				"Previously belonged to a secret agent",
+				"An incredibly rare, and valuable, model",
+				"Famous, from a well-loved TV show",
+				"A one-off invention by an eccentric inventor"
+				]
+			},
+			{
+				"title" : "Not actually a car",
+				"elements" : [
+				"A van full of tools",
+				"A truck transporting an elephant",
+				"A mobile home, containing family",
+				"A motorbike with sidecar",
+				"A hybrid hang-glider/buggy",
+				"A fire engine"
+				]
+			},
+			{
+				"title" : "Unexpected passengers",
+				"elements" : [
+				"A goat",
+				"Several chickens",
+				"A snake/scorpion/spider, beneath the passenger seat",
+				"A baby in a baby carrier",
+				"Several nuns",
+				"Somebodies elderly mother"
+				]
+			}
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "playset" :
+  {
+    "title" : "300 Crooks",
+    "credits" : 
+    {
+      "author" : "Ricardo Mallen, Alberto Miranda, Marcos Silva, and H&eacute;lio Paiva Neto"
+    },
+    "movie_night" :
+    [
+      { "title" : "Elite Squad 2" },
+      { "title" : "Bras&iacute;lia 18%" },
+      { "title" : "Faroeste Caboclo" },
+      { "title" : "O Bem Amado (TV Series)" },
+      { "title" : "All Daily TV News" },
+      { "title" : "All Newspapers" },
+      { "title" : "Several Humoristic Sketches (J&ocirc; Soares - Corrupto, Pra&ccedil;a e Nossa - Deputado Jo&atilde;o Plenario, Chico Anysio - Justo Verissimo" }
+    ],
+    "score" :
+    {
+      "title" : "CONFIDENTIAL CONTENT",
+      "paragraphs" : [
+      	"\"At nights in Brasilia, with all that luxury, all morals are gray\" -- Mill&ocirc;r Fernandes",
+        "When a corruption scheme ends up in Fiasco, it gets a Federal Police operation with a sophisticated codename that breaks into your home, followed closely by reporters from your favorite TV news show ********************. Even in Brasilia - a perfect place for ******************** shady deals and schemes - with the well known proportion of 300 crooks for each 2,5 thousand inhabitants, things can go very wrong ********************.",
+        "In \"300 Crooks\", contacts and influence are the things that go in your favor. Therefore, it is only fair that the person who starts playing is the one with the most contacts in his or her cell phone ********************.",
+        "Another striking characteristic of this playset is the dossier of the Federal Police operation that reveals the details of the game you just played and ********************. Therefore, don't forget, at the Aftermath, to choose a name for that operation so that we can file it properly ********************."
+      ],
+      "tagline" : "in Bras&iacute;lia"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+				"Father in law/Son in law",
+				"Father/ Son",
+				"Stepfather/ Stepson",
+				"Cousin/ Uncle/ Nephew",
+				"Husband/ Wife",
+				"Brothers-in-law"
+				]
+			},
+			{
+				"title" : "Politics",
+				"elements" : [
+				"Politician / Advisor",
+				"Lawyer / Client",
+				"Corporate man / Lobbyist",
+				"Studying for a career in the federal public service / Teacher",
+				"Civil Servant",
+				"Investigative Journalist"
+				]
+			},
+			{
+				"title" : "Favors",
+				"elements" : [
+				"Government sinecure",
+				"Campaign financing",
+				"Political godfather",
+				"Figurehead",
+				"Blackmail",
+				"Turn a blind eye"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+				"Lovers",
+				"Ex-wife/husband",
+				"Vengeful ex-mistress",
+				"Escort",
+				"Boyfriend/Girlfriend",
+				"Sex buddies"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+				"Bribe",
+				"Land Fraud",
+				"Corrupt Politician",
+				"Wiretapping",
+				"Corrupt Civil Servant",
+				"Watergate-style \"Plumber\""
+				]
+			},
+			{
+				"title" : "Community",
+				"elements" : [
+				"Political Party",
+				"Union/NGO",
+				"Gated community",
+				"School/College classmates",
+				"Church",
+				"Club members"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get laid",
+				"elements" : [
+				"with a politician's wife",
+				"with as many people as possible",
+				"with pain to feel pleasure",
+				"with your boss to get promoted",
+				"to regain your reputation",
+				"at any cost!"
+				]
+			},
+			{
+				"title" : "To get power",
+				"elements" : [
+				"by winning the election",
+				"being nominated Secretary or Minister",
+				"being promoted",
+				"becoming famous",
+				"by knowing other people's secrets",
+				"by marrying into a powerful family"
+				]
+			},
+			{
+				"title" : "To get rich",
+				"elements" : [
+				"entering the federal public service",
+				"getting a land title from NovaCAP",
+				"getting kickbacks",
+				"winning government bids",
+				"by selling public service admission tests answer keys",
+				"by inheriting a great fortune"
+				]
+			},
+			{
+				"title" : "To hide the truth",
+				"elements" : [
+				"from your family",
+				"from the press",
+				"from the party / union",
+				"to keep your office",
+				"to maintain your reputation",
+				"out of sheer force of habit"
+				]
+			},
+			{
+				"title" : "To get even",
+				"elements" : [
+				"with a political rival",
+				"with your ex-husband/wife",
+				"with a competing business",
+				"with someone who is blackmailing you",
+				"with someone who fired you",
+				"with the wrong person for the wrong reason."
+				]
+			},
+			{
+				"title" : "To get into the deal",
+				"elements" : [
+				"by being elected into office",
+				"to get your share",
+				"to ensure your retirement",
+				"to become famous",
+				"because you have no other option",
+				"to blow the whistle on the whole thing"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Where the shady deals happen",
+				"elements" : [
+				"Congress floor",
+				"State secretary's office",
+				"Cabinet minister's office",
+				"Lobbyist office",
+				"Coffee shop in the Congress",
+				"Lakeside mansion"
+				]
+			},
+			{
+				"title" : "Where you can negotiate",
+				"elements" : [
+				"Newsroom",
+				"Government department",
+				"Preparatory course for federal civil service careers",
+				"Company HQ",
+				"Local commerce",
+				"Strip club"
+				]
+			},
+			{
+				"title" : "Places to relax (leisure)",
+				"elements" : [
+				"City Park",
+				"Club",
+				"Yatch at the lake",
+				"Shopping Mall (Pier 21)",
+				"Golf Course",
+				"Sunday jog at the Big Axis"
+				]
+			},
+			{
+				"title" : "Nightlife",
+				"elements" : [
+				"Party (Calaf)",
+				"Bar (Pont&atilde;o)",
+				"Dinner Party",
+				"Late night hangout at Molho de Tomate Pizza",
+				"Rock concert",
+				"Convenience store at a gas station"
+				]
+			},
+			{
+				"title" : "The outskirts",
+				"elements" : [
+				"Massage with Happy Ending",
+				"Motel Sector - Candangol&acirc;ndia",
+				"Batch 14 Sector P-Norte (crime area)",
+				"Import's Fair (mostly counterfeit imports)",
+				"Lake Parano&aacute; Belvedere",
+				"Bezerr&atilde;o Football Stadium - Gama"
+				]
+			},
+			{
+				"title" : "On the road",
+				"elements" : [
+				"Caldas Novas / Piren&oacute;polis (Small cozy city)",
+				"Airport",
+				"Bus Station",
+				"Miami - USA",
+				"5 &Aacute;guas Lindas (Industrial Zone)",
+				"Chapadas (National Park)"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Information",
+				"elements" : [
+				"Compromising photos",
+				"Wiretap record",
+				"Mean-spirited gossip",
+				"A conversation that should not have been heard",
+				"List of politicians in payroll of kickbacks",
+				"Date of a meeting between a corrupt federal supervisor and a Constructor."
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+				"Fancy import car",
+				"Crowded bus",
+				"Governmental car",
+				"Motorbike",
+				"Subway",
+				"Nike shoes/ Bicycle / Skate"
+				]
+			},
+			{
+				"title" : "Valuables",
+				"elements" : [
+				"Suitcase full of dollars",
+				"Stock certificates",
+				"Diamonds",
+				"4 21 year old whisky",
+				"Louis Vuitton bag",
+				"Money in your underpants"
+				]
+			},
+			{
+				"title" : "Guns",
+				"elements" : [
+				"Knife",
+				"Hand pistol",
+				"Poison",
+				"Gallon of gasoline",
+				"Brass knuckles",
+				"Submachine gun"
+				]
+			},
+			{
+				"title" : "R-Rated",
+				"elements" : [
+				"Sex Toys",
+				"Logbook with record of shady deals",
+				"A dead body buried under JK Bridge",
+				"Answer key to a federal civil service test",
+				"A suitcase full of counterfeit money",
+				"Panties on the pocket of a suit jacket"
+				]
+			},
+			{
+				"title" : "Do you know who I am?",
+				"elements" : [
+				"Childhood friends",
+				"Political groupies",
+				"Hillbilly family asking for a favor",
+				"Constructor accused of money laundering",
+				"A secret family",
+				"political activist / Community organizer"
+				]
+			}
+    ]
+  }
+}
