@@ -13,6 +13,9 @@ Wishlist:
 * Custom entries
 * Cover Browser
 
+1.2.3
++ Playset: Hell’s Highway
+
 1.2.2
 * Updated to latest version of PhoneGap
 

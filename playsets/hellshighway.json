@@ -1,0 +1,300 @@
+{
+  "playset" :
+  {
+    "title" : "Hell's Highway",
+    "credits" : 
+    {
+      "author" : "Joe Ferguson"
+    },
+    "movie_night" :
+    [
+      { "title" : "Death Race" },
+      { "title" : "The Road Warrior" },
+      { "title" : "The Postman" },
+      { "title" : "The Book of Eli" },
+      { "title" : "Damnation Alley" }
+    ],
+    "score" :
+    {
+      "title" : "The Big Blast",
+      "paragraphs" : [
+        "The year is 2074, twenty six years after a world-wide radiation accident scorched the Earth. Weaponized cars roam the Wastelands in search of gasoline, fortune and food. The slave trade is booming, corrupt officials and outlaw gangs reign free and a dwindling Highway Patrol struggles to uphold what little peace is left in the world. Brave (or stupid) Highwaymen try their luck in The League, a vicious death race in the corrupt city of Broken Hill.",
+        "All is not lost however. There is a Resistance forming. A lose network of renegades, gadgeteers and freedom fighters is starting to surface. Safe houses and outposts are slowly popping up and there are even rumors of usable soil out there.",
+        "Will you join an outlaw gang of marauders in search of potential slaves? Will you trick-out your car and win your fortune racing in The League? Will you seek justice and avenge the murder of your partner from the Highway Patrol? Or are you just trying to locate a pilot light to fix the passenger-side flame-thrower on the Plymouth Firebomber you stole last week?"
+      ],
+      "tagline" : "On hell's highway"
+    },
+    "relationships" : [
+			{
+				"title" : "FAMILY AND ROMANCE",
+				"elements" : [
+					"Parent/child",
+					"Siblings",
+					"Former lovers",
+					"Distant/unknown relatives",
+					"Husband/wife",
+					"Friends with benefits"
+				]
+			},
+			{
+				"title" : "Friends",
+				"elements" : [
+					"Highway Patrol partners",
+					"Driver/mechanic",
+					"Retired League racer/noobie young gun",
+					"Scientist/assistant",
+					"League pit crew mechanics",
+					"Master/Blaster or Lenny/George"
+				]
+			},
+			{
+				"title" : "enemies",
+				"elements" : [
+					"Betrayed Lover/Betrayer",
+					"Interceptor/gang member",
+					"Long-time race rivals",
+					"Bookie/previously ripped-off gambler",
+					"Town boss/wasteland stranger",
+					"Refugee/captor"
+				]
+			},
+			{
+				"title" : "adventure",
+				"elements" : [
+					"Sponsor/racer",
+					"Rescuer/person who needs rescue",
+					"Patrolman/Public Enemy #1",
+					"Resistance freedom fighters or Pony Express riders",
+					"Hydroponic farmers",
+					"\"Two men enter, one man leaves\""
+				]
+			},
+			{
+				"title" : "crime",
+				"elements" : [
+					"Smugglers",
+					"Car jackers",
+					"Leader/bodyguard",
+					"Slaver/person buying slaves",
+					"Mercenary/target",
+					"Rival gang leaders"
+				]
+			},
+			{
+				"title" : "the wastes",
+				"elements" : [
+					"Junkyard merchant/automotive weapons gadgeteer",
+					"Gasoline merchants",
+					"Survivors of raided colony",
+					"Weapons outfitter/customer",
+					"Cult leader/follower",
+					"Wasteland gypsies"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "to survive",
+				"elements" : [
+					"The slave camp you're stuck in",
+					"The next marauder raid",
+					"The plague that has infected the town",
+					"Your contract with The League",
+					"The Patrolman on your tail",
+					"Tonight's resistance operation"
+				]
+			},
+			{
+				"title" : "to get rich",
+				"elements" : [
+					"By winning the Bloody Tire 5000",
+					"Collecting bounties",
+					"By robbing outposts/safe houses",
+					"As a wasteland courier",
+					"By exploiting a newly discovered medicine",
+					"In the slave trade"
+				]
+			},
+			{
+				"title" : "to get even",
+				"elements" : [
+					"With a corrupt League official",
+					"With those responsible for your partner's death",
+					"With your ex-husband/wife",
+					"With the Slavers who stole your childhood",
+					"With the snitch who sold you out to the Patrol",
+					"By sabotaging your enemies car"
+				]
+			},
+			{
+				"title" : "to discover the truth",
+				"elements" : [
+					"Behind the corrupt League Races",
+					"What is causing the mutant outbreak",
+					"The cause of the Big Blast",
+					"What really happened to your partner",
+					"What the Resistance is secretly fighting for",
+					"Why people are disappearing from town"
+				]
+			},
+			{
+				"title" : "to locate",
+				"elements" : [
+					"A suitable location to hide out for a while",
+					"A somewhat qualified surgeon",
+					"Armor plating for your ride",
+					"A source of water",
+					"An untapped gasoline source",
+					"The plague antidote"
+				]
+			},
+			{
+				"title" : "to join up with",
+				"elements" : [
+					"The Resistance",
+					"The Racing League Syndicate",
+					"The Church of Lost Souls",
+					"The Highway Patrol",
+					"The last civilized place of legend",
+					"The Gadgeteering Guild"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "The highway",
+				"elements" : [
+					"Refinery",
+					"Earl Blackmoor's Weapons & Salvage",
+					"Abandoned airstrip",
+					"The old power plant",
+					"Runnin' Low Petro Station",
+					"The ruins of an abandoned strip mall"
+				]
+			},
+			{
+				"title" : "broken hill",
+				"elements" : [
+					"The Grandstands of the League Racing Autodome",
+					"High Rollers Casino",
+					"The Executive Race Suite",
+					"The League garage",
+					"The Grand Luxor Hotel & Lounge",
+					"Office of the Race Commissioner"
+				]
+			},
+			{
+				"title" : "resistance",
+				"elements" : [
+					"Armory and weapons storage",
+					"The underground headquarters",
+					"Medical facilities",
+					"Hostage rehab bunker",
+					"Experimental hydroponic agricultural lab",
+					"Mission debriefing conference room"
+				]
+			},
+			{
+				"title" : "gangland",
+				"elements" : [
+					"The drug lab",
+					"The Burnt Hide Biker Bar",
+					"Abandoned junkyard",
+					"Weapons black market",
+					"Smugglers hideout",
+					"Slave Auction House"
+				]
+			},
+			{
+				"title" : "Strange",
+				"elements" : [
+					"The Wayside Tabernacle of Lost Souls",
+					"Colony of feral kids",
+					"Fully stocked bomb shelter",
+					"Miguel's Mutant Circus",
+					"The Gritty Springs Bath House",
+					"Hagglesville"
+				]
+			},
+			{
+				"title" : "The Patrol",
+				"elements" : [
+					"Patrol Headquarters",
+					"Your dead partner's wife's place",
+					"The jail",
+					"The firing range",
+					"The squad car garage",
+					"Living quarters"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "transportation",
+				"elements" : [
+					"1974 Ford Falcon XB sedan",
+					"Airtruk/small plane",
+					"Motorcycle w/ Sidecar",
+					"A fully-loaded gyro-copter",
+					"An armor-plated semi",
+					"Tank"
+				]
+			},
+			{
+				"title" : "weapons",
+				"elements" : [
+					"Rear-mounted oil slick",
+					"Passenger-side mounted flamethrower",
+					"Box of hand grenades",
+					"Dual machine guns",
+					"Rocket launcher with 1 rocket",
+					"A full set of retractable wheel spikes"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+					"A map to the Resistance headquarters",
+					"Bag of mail",
+					"The last bible",
+					"The formula for enriched soil",
+					"Track hazard details for an upcoming League Race",
+					"Security access"
+				]
+			},
+			{
+				"title" : "helpful",
+				"elements" : [
+					"A truck-load full of seeds",
+					"The cure",
+					"Car/facility keys",
+					"Experimental soil treatment",
+					"A sawed-off shotgun with plenty of shells",
+					"A fairly obedient German shepherd"
+				]
+			},
+			{
+				"title" : "unfortunate",
+				"elements" : [
+					"A body in the trunk",
+					"Busted radiator",
+					"A flat spare tire",
+					"A bomb with a timer ticking down",
+					"A monkey carrying a switchblade",
+					"A vial of mutagen and/or plague sample"
+				]
+			},
+			{
+				"title" : "valuables",
+				"elements" : [
+					"A working Zippo and half a can of lighter fuel",
+					"The goods you're supposed to deliver",
+					"A revolver with 3 bullets",
+					"A generator that still works after you kick it a few times",
+					"A stash of sunscreen and lip balm",
+					"Portable water filtration system"
+				]
+			}
+    ]
+  }
+}
