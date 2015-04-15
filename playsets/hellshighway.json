@@ -26,7 +26,7 @@
     },
     "relationships" : [
 			{
-				"title" : "FAMILY AND ROMANCE",
+				"title" : "Family and Romance",
 				"elements" : [
 					"Parent/child",
 					"Siblings",
@@ -48,7 +48,7 @@
 				]
 			},
 			{
-				"title" : "enemies",
+				"title" : "Enemies",
 				"elements" : [
 					"Betrayed Lover/Betrayer",
 					"Interceptor/gang member",
@@ -59,7 +59,7 @@
 				]
 			},
 			{
-				"title" : "adventure",
+				"title" : "Adventure",
 				"elements" : [
 					"Sponsor/racer",
 					"Rescuer/person who needs rescue",
@@ -70,7 +70,7 @@
 				]
 			},
 			{
-				"title" : "crime",
+				"title" : "Crime",
 				"elements" : [
 					"Smugglers",
 					"Car jackers",
@@ -81,7 +81,7 @@
 				]
 			},
 			{
-				"title" : "the wastes",
+				"title" : "The Wastes",
 				"elements" : [
 					"Junkyard merchant/automotive weapons gadgeteer",
 					"Gasoline merchants",
@@ -94,75 +94,75 @@
     ],
     "needs" : [
 			{
-				"title" : "to survive",
+				"title" : "To survive",
 				"elements" : [
-					"The slave camp you're stuck in",
-					"The next marauder raid",
-					"The plague that has infected the town",
-					"Your contract with The League",
-					"The Patrolman on your tail",
-					"Tonight's resistance operation"
+					"... the slave camp you're stuck in",
+					"... the next marauder raid",
+					"... the plague that has infected the town",
+					"... your contract with The League",
+					"... the Patrolman on your tail",
+					"... tonight's resistance operation"
 				]
 			},
 			{
-				"title" : "to get rich",
+				"title" : "To get rich",
 				"elements" : [
-					"By winning the Bloody Tire 5000",
-					"Collecting bounties",
-					"By robbing outposts/safe houses",
-					"As a wasteland courier",
-					"By exploiting a newly discovered medicine",
-					"In the slave trade"
+					"... by winning the Bloody Tire 5000",
+					"... collecting bounties",
+					"... by robbing outposts/safe houses",
+					"... as a wasteland courier",
+					"... by exploiting a newly discovered medicine",
+					"... in the slave trade"
 				]
 			},
 			{
-				"title" : "to get even",
+				"title" : "To get even",
 				"elements" : [
-					"With a corrupt League official",
-					"With those responsible for your partner's death",
-					"With your ex-husband/wife",
-					"With the Slavers who stole your childhood",
-					"With the snitch who sold you out to the Patrol",
-					"By sabotaging your enemies car"
+					"... with a corrupt League official",
+					"... with those responsible for your partner's death",
+					"... with your ex-husband/wife",
+					"... with the Slavers who stole your childhood",
+					"... with the snitch who sold you out to the Patrol",
+					"... by sabotaging your enemies car"
 				]
 			},
 			{
-				"title" : "to discover the truth",
+				"title" : "To discover the truth",
 				"elements" : [
-					"Behind the corrupt League Races",
-					"What is causing the mutant outbreak",
-					"The cause of the Big Blast",
-					"What really happened to your partner",
-					"What the Resistance is secretly fighting for",
-					"Why people are disappearing from town"
+					"... behind the corrupt League Races",
+					"... what is causing the mutant outbreak",
+					"... the cause of the Big Blast",
+					"... what really happened to your partner",
+					"... what the Resistance is secretly fighting for",
+					"... why people are disappearing from town"
 				]
 			},
 			{
-				"title" : "to locate",
+				"title" : "To locate",
 				"elements" : [
-					"A suitable location to hide out for a while",
-					"A somewhat qualified surgeon",
-					"Armor plating for your ride",
-					"A source of water",
-					"An untapped gasoline source",
-					"The plague antidote"
+					"... a suitable location to hide out for a while",
+					"... a somewhat qualified surgeon",
+					"... armor plating for your ride",
+					"... a source of water",
+					"... an untapped gasoline source",
+					"... the plague antidote"
 				]
 			},
 			{
-				"title" : "to join up with",
+				"title" : "To join up with",
 				"elements" : [
-					"The Resistance",
-					"The Racing League Syndicate",
-					"The Church of Lost Souls",
-					"The Highway Patrol",
-					"The last civilized place of legend",
-					"The Gadgeteering Guild"
+					"... the Resistance",
+					"... the Racing League Syndicate",
+					"... the Church of Lost Souls",
+					"... the Highway Patrol",
+					"... the last civilized place of legend",
+					"... the Gadgeteering Guild"
 				]
 			}
     ],
     "locations" : [
 			{
-				"title" : "The highway",
+				"title" : "The Highway",
 				"elements" : [
 					"Refinery",
 					"Earl Blackmoor's Weapons & Salvage",
@@ -173,7 +173,7 @@
 				]
 			},
 			{
-				"title" : "broken hill",
+				"title" : "Broken Hill",
 				"elements" : [
 					"The Grandstands of the League Racing Autodome",
 					"High Rollers Casino",
@@ -184,7 +184,7 @@
 				]
 			},
 			{
-				"title" : "resistance",
+				"title" : "Resistance",
 				"elements" : [
 					"Armory and weapons storage",
 					"The underground headquarters",
@@ -195,7 +195,7 @@
 				]
 			},
 			{
-				"title" : "gangland",
+				"title" : "Gangland",
 				"elements" : [
 					"The drug lab",
 					"The Burnt Hide Biker Bar",
@@ -230,7 +230,7 @@
     ],
     "objects" : [
 			{
-				"title" : "transportation",
+				"title" : "Transportation",
 				"elements" : [
 					"1974 Ford Falcon XB sedan",
 					"Airtruk/small plane",
@@ -241,7 +241,7 @@
 				]
 			},
 			{
-				"title" : "weapons",
+				"title" : "Weapons",
 				"elements" : [
 					"Rear-mounted oil slick",
 					"Passenger-side mounted flamethrower",
@@ -263,7 +263,7 @@
 				]
 			},
 			{
-				"title" : "helpful",
+				"title" : "Helpful",
 				"elements" : [
 					"A truck-load full of seeds",
 					"The cure",
@@ -274,7 +274,7 @@
 				]
 			},
 			{
-				"title" : "unfortunate",
+				"title" : "Unfortunate",
 				"elements" : [
 					"A body in the trunk",
 					"Busted radiator",
@@ -285,7 +285,7 @@
 				]
 			},
 			{
-				"title" : "valuables",
+				"title" : "Valuables",
 				"elements" : [
 					"A working Zippo and half a can of lighter fuel",
 					"The goods you're supposed to deliver",
