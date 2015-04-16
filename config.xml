@@ -5,7 +5,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.brooklynindiegames.fiascomobile"
-        version   = "1.2.2">
+        version   = "1.2.3">
 <!--<date-updated>9/7/2014</date-updated>-->
     <name>FiascoMobile</name>
 
@@ -41,7 +41,7 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     -->
     
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-		<string>122</string>
+		<string>123</string>
 	</gap:config-file>
 
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -60,7 +60,7 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     <preference name="permissions"                value="none"/>
 	
     <!-- Customize your app and platform with the preference element. -->
-    <preference name="phonegap-version"           value="3.6.3" />          <!-- all: current version of PhoneGap -->
+    <preference name="phonegap-version"           value="3.7.0" />          <!-- all: current version of PhoneGap -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen"                 value="true" />           <!-- all: hides the status bar at the top of the screen -->
@@ -117,8 +117,8 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     <gap:splash src="res/screen/ios/screen-iphone5-portrait.png"   gap:platform="ios"     width="640" height="1136" />
     <gap:splash src="res/screen/ios/screen-ipad-landscape.png"     gap:platform="ios"     width="1024" height="768" />
     <gap:splash src="res/screen/ios/screen-ipad-portrait.png"      gap:platform="ios"     width="768" height="1024" />
-	<gap:splash src="splash/ios/Default-Landscape_at_2x.png"       gap:platform="ios"     width="2048" height="1496" />
-	<gap:splash src="splash/ios/Default-Portrait_at_2x.png"        gap:platform="ios"     width="1536" height="2008" />
+    <gap:splash src="splash/ios/Default-Landscape_at_2x.png"       gap:platform="ios"     width="2048" height="1496" />
+    <gap:splash src="splash/ios/Default-Portrait_at_2x.png"        gap:platform="ios"     width="1536" height="2008" />
 
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />
 
