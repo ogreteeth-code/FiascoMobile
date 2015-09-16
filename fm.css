@@ -70,6 +70,16 @@ a {
 	color: black;
 }
 
+a.togglePreviewMode {
+  color: white;
+	font: 400 24px "Syncopate", Helvetica, Arial, sans-serif;
+	letter-spacing: 0.05em;
+	padding: 0 8px;
+  float: right;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
 .footer {
 	text-align: right;
 }
