@@ -70,7 +70,7 @@ a {
 	color: black;
 }
 
-a.togglePreviewMode {
+.togglePreviewMode {
   color: white;
 	font: 400 24px "Syncopate", Helvetica, Arial, sans-serif;
 	letter-spacing: 0.05em;
@@ -78,6 +78,45 @@ a.togglePreviewMode {
   float: right;
   text-transform: uppercase;
   text-decoration: none;
+
+  display: none;
+}
+
+.previewMode-cover .byCover {
+  display: inherit;
+}
+
+.previewMode-name .byName {
+  display: inherit;
+}
+
+.playsets {
+  clear: both;
+  background-color: white;
+}
+
+.playsets h1 {
+  clear: both;
+  padding: 15px;
+}
+
+.previewMode-cover .playsetList {
+  background-image: none;
+  border: none;
+  float: left;
+}
+
+.playsetList .name,
+.playsetList .cover {
+  display: none;
+}
+
+.previewMode-name .playsetList .name {
+  display: inherit;
+}
+
+.previewMode-cover .playsetList .cover {
+  display: inherit;
 }
 
 .footer {
@@ -96,6 +135,14 @@ a.togglePreviewMode {
 	background-color: #910a0a;
 	display: none;
 	}
+
+.about {
+  clear: both;
+}
+
+.about h1 {
+  padding: 15px;
+}
 
 .demo {
 	background-color: #640000;
@@ -150,3 +197,7 @@ a.togglePreviewMode {
 	padding: 0 0 10px 0;
 	font-size: 16px;
 	}
+
+.clear {
+  clear: both;
+}

@@ -1,6 +1,7 @@
 function loadHomeScreen() {
 	homescreen(1);
 	$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
+
 	setTimeout(function(){scrollTo(0,0)},1);
 }
 
@@ -28,6 +29,24 @@ function homescreen(reset) {
 	reset ? storeValue = reset : storeValue ? storeValue : storeValue = 0;
 	// console.log(storeValue);
 	return storeValue;
+}
+
+function buildTogglePreviewModeHandler() {
+  var mode = 'name';
+
+  $('body').addClass('previewMode-' + mode);
+
+  return function() {
+    $('body').removeClass('previewMode-' + mode);
+
+    if (mode  == 'name') {
+      mode = 'cover';
+    } else if (mode == 'cover') {
+      mode = 'name';
+    }
+
+    $('body').addClass('previewMode-' + mode);
+  }
 }
 
 function getPlayset(playset) {
@@ -70,6 +89,9 @@ $(document).ready(function(){
 	} else {
 	    loadHomeScreen();
 	}
+
+  $('.togglePreviewMode').live('click', buildTogglePreviewModeHandler());
+
 	//load the android back button catcher.
 	document.addEventListener("deviceready", onPhoneReady, false);
 });
