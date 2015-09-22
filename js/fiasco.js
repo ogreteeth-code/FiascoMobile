@@ -32,12 +32,10 @@ function homescreen(reset) {
 }
 
 function buildTogglePreviewModeHandler() {
-  var mode = 'name';
-
-  $('body').addClass('previewMode-' + mode);
+  var mode = 'cover';
 
   return function() {
-    $('body').removeClass('previewMode-' + mode);
+    $('.playsetPreviews').removeClass('previewMode-' + mode);
 
     if (mode  == 'name') {
       mode = 'cover';
@@ -45,7 +43,7 @@ function buildTogglePreviewModeHandler() {
       mode = 'name';
     }
 
-    $('body').addClass('previewMode-' + mode);
+    $('.playsetPreviews').addClass('previewMode-' + mode);
   }
 }
 
@@ -78,6 +76,22 @@ function catchback(){
 
 function merge(o, ob) {;var i = 0;for (var z in ob) {if (ob.hasOwnProperty(z)) {o[z] = ob[z];}}return o;}
 
+function onSwipeCover(event) {
+  var $this = $(this);
+
+  var $next;
+  if (event.type == 'swiperight') {
+    $next = $this.nextAll(':not(.disable)').first();
+  } else { // swipeleft
+    $next = $this.prevAll(':not(.disable)').first();
+  }
+
+  if ($next.length > 0) {
+    $this.removeClass('selected');
+    $next.addClass('selected');
+  }
+}
+
 $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').append(templates);});
 $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(templates);});
 
@@ -90,6 +104,8 @@ $(document).ready(function(){
 	}
 
   $('body').on('click', '.togglePreviewMode', buildTogglePreviewModeHandler());
+  $('body').on('swiperight', '.playsetList', onSwipeCover);
+  $('body').on('swipeleft', '.playsetList', onSwipeCover);
 
 	//load the android back button catcher.
 	document.addEventListener("deviceready", onPhoneReady, false);

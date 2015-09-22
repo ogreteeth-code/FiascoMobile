@@ -115,7 +115,25 @@ a {
   display: inherit;
 }
 
-.previewMode-cover .playsetList .cover {
+.previewMode-cover .playsetList {
+  display: none;
+}
+
+.previewMode-cover .playsetList.disable {
+  display: none;
+}
+
+.previewMode-cover .playsetList.selected {
+  display: inherit;
+  width: auto;
+  padding: 5px;
+}
+
+.previewMode-cover .playsetList.selected .name {
+  display: inherit;
+}
+
+.previewMode-cover .playsetList.selected .cover {
   display: inherit;
 }
 
