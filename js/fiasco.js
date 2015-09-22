@@ -81,9 +81,9 @@ function onSwipeCover(event) {
 
   var $next;
   if (event.type == 'swiperight') {
-    $next = $this.nextAll(':not(.disable)').first();
-  } else { // swipeleft
     $next = $this.prevAll(':not(.disable)').first();
+  } else { // swipeleft
+    $next = $this.nextAll(':not(.disable)').first();
   }
 
   if ($next.length > 0) {
