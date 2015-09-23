@@ -1,0 +1,299 @@
+{
+  "playset" :
+  {
+    "title" : "Echoes of the Lost City",
+    "credits" : 
+    {
+      "author" : "Simon Brake"
+    },
+    "movie_night" :
+    [
+      { "title" : "(actually based around a number of short stories, but there are a few films based on them, like The Yellow Sign. However, any creepy ghost story will do, particularly the hidden camera type film where things slowly get weirder and weirder, like The Blair Witch Project or Grave Encounters, or spooky Japanese films like The Grudge or Ring, or their American remakes)" }
+    ],
+    "score" :
+    {
+      "title" : "Have you seen the Yellow Sign?",
+      "paragraphs" : [
+        "Long ago and far away there was a great city, towers reaching into the heavens, reflected in the cold waters of the lake along which it sat. No-one knows for sure what happened to it, but people who know speak of a rivalry between a king and a queen that destroyed the royal dynasty and the city falling into the clutches of a mysterious but terrible masked figure.",
+        "Here and now the city is but a memory. But what happens when those memories start to take form, when the ancient rivalries, the enigmatic figures and the unspeakable horrors hinted at begin to manifest? When the lines between reality and dream begin to blur will you find yourself lost amongst the empty haunted streets of the ancient city? Or will your fate be much much worse?",
+        "A playset based loosely on The King In Yellow.",
+        "Optional rule: ‘Ghost’ Dice",
+        "Replacing two black and two white dice with four ‘Ghost’ Dice you can add a little extra uncertainty. A Ghost Die is presented when an action, that would otherwise lead to a good or bad outcome, is interrupted by some mysterious event. It will be subtle, not overtly supernatural, but enough to distract the active player and prevent the action being attempted, such as a picture falling off a wall, the sounds of footsteps in the empty room next door, the appearance of dripping blood from the ceiling. In game terms something the character has done has attracted the attention of the ‘ghosts’ in the story.",
+		"During the Aftermath ignore the Ghost Dice til you’ve rolled your black and white dice. Then, once you have your result roll the Ghost Dice, subtracting the roll from the previous result. This gives you a new Aftermath score, which will be tinged with some genuinely terrifying ghostly activity. It’s possible that the character will be traumatised by these events - a result of zero likely means they’ll be haunted for the rest of their short lives. If the Ghost Dice is higher than the previous result, bringing the new total to a negative ammount, the character disappears from this reality altogether, possibly messily if you had a high black result, or just trapped forever if you had a high white result. Either way you get to narrate the final disappearance of your character. If you play out each die as a scene in your Aftermath make sure the last die is a Ghost Die, although feel free to use any additional Ghost Dice ahead of other dice you have."
+      ],
+      "tagline" : "between dream and reality"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+					"Mother and child",
+					"Brother and sister",
+					"Brothers",
+					"Estranged father and child",
+					"Separated parents",
+					"They don’t know they’re related, but they are"
+				]
+			},
+			{
+				"title" : "Friends",
+				"elements" : [
+					"Friends since school",
+					"Work together, day in, day out",
+					"Drinking buddies",
+					"Internet contacts",
+					"Regular customer and friend behind the counter",
+					"New aquaintances"
+				]
+			},
+			{
+				"title" : "Criminals",
+				"elements" : [
+					"Escaped convict and confidante",
+					"Bank robbers",
+					"Hired killer and target",
+					"Drug dealer and drug addict",
+					"Gang members",
+					"Mobsters"
+				]
+			},
+			{
+				"title" : "Bystanders",
+				"elements" : [
+					"Artist and model",
+					"Police officers",
+					"Doctor and patient",
+					"Writer and publisher",
+					"Musicians",
+					"Actors"
+				]
+			},
+			{
+				"title" : "Power play",
+				"elements" : [
+					"Leader and adviser",
+					"Strong woman and weak man",
+					"Woman seduced by enigmatic stranger",
+					"Performing a masquerade",
+					"One haunts and hunts the other",
+					"Rivals for another person’s attention"
+				]
+			},
+			{
+				"title" : "Echoes",
+				"elements" : [
+					"Who deserves to rule the kingdom?",
+					"Which of you is the King?",
+					"Which of you is the Queen?",
+					"Which of you isn’t wearing a mask?",
+					"Have you read the accursed book?",
+					"Have you seen the Yellow Sign?"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "...To See...",
+				"elements" : [
+					"...the Yellow Sign",
+					"...the accursed book",
+					"...a performance of the play",
+					"...the lost city",
+					"...the patient before he/she dies",
+					"...the rising of the sun one last time"
+				]
+			},
+			{
+				"title" : "...To Find...",
+				"elements" : [
+					"...a way to escape",
+					"...the way to the city from your dreams",
+					"...who is behind the mask",
+					"...the publishers of the book",
+					"...the author of the book",
+					"...the missing girl"
+				]
+			},
+			{
+				"title" : "...To Kill...",
+				"elements" : [
+					"...whoever it is behind the mask",
+					"...the man who threatens you",
+					"...your rival for the inheritance",
+					"...the nightmare that haunts you",
+					"...the lover who wants to leave",
+					"...yourself, because you’re not good enough"
+				]
+			},
+			{
+				"title" : "...To Understand...",
+				"elements" : [
+					"...the effects of the Yellow Sign",
+					"...the nature of the story",
+					"...the nature of the city",
+					"...what those ghostly images are",
+					"...why you recognise these people",
+					"...why your name is written down here"
+				]
+			},
+			{
+				"title" : "...To Reveal...",
+				"elements" : [
+					"...your latest masterpiece to the gallery",
+					"...the lost manuscript to the world",
+					"...a new performance of the lost play",
+					"...some long hidden Truth",
+					"...the way to the city",
+					"...the face behind the mask"
+				]
+			},
+			{
+				"title" : "...To Destroy...",
+				"elements" : [
+					"...all your dreams and ambitions",
+					"...any chance of returning home",
+					"...the building and its connection to the lost city",
+					"...that accursed book",
+					"...the brooch on which you found the Yellow Sign",
+					"...the face in the mirror"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "The Old House",
+				"elements" : [
+					"Venturing into the darkened bedroom",
+					"Working away in the artist’s studio",
+					"Stumbling in the cluttered attic",
+					"The face at the window",
+					"Huddled by the bookshelf in the study",
+					"Taking tea with the hostess"
+				]
+			},
+			{
+				"title" : "The Church",
+				"elements" : [
+					"Seated on the pews",
+					"Sermon at the altar",
+					"The organ",
+					"Walking through the stone archway",
+					"A hidden side entrance?",
+					"The graveyard under a bright sky"
+				]
+			},
+			{
+				"title" : "The Apartment Block",
+				"elements" : [
+					"The front door with list of occupants",
+					"The missing girl’s room",
+					"Beneath the stair case on the ground floor",
+					"The boiler room",
+					"An empty room where you just heard noise",
+					"Ascending the stairs to another level"
+				]
+			},
+			{
+				"title" : "The Hotel",
+				"elements" : [
+					"The steps up to the entrance",
+					"The front desk in the reception",
+					"Amongst guests in the foyer",
+					"The wire caged elevator",
+					"Endless corridors and corners",
+					"A dark and dingy hotel room"
+				]
+			},
+			{
+				"title" : "Exotic Locations",
+				"elements" : [
+					"A water logged library of ruined books",
+					"A labyrinth carved out of rock, filled with bottles",
+					"A suicide chamber, in an alternative New York",
+					"A mysterious medieval French chateau",
+					"The streets of Paris",
+					"On the shore of a large lake, with strange tides"
+				]
+			},
+			{
+				"title" : "The Lost City",
+				"elements" : [
+					"Wandering down endless streets",
+					"Watching twin suns set over the lake",
+					"Watching the passing of the moon in front of a tower",
+					"In the castle’s throne room",
+					"In the castle’s ball room",
+					"Stumbling towards the figure in the field"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Manuscripts",
+				"elements" : [
+					"The play of The King In Yellow",
+					"Robert Chamber’s collection. The King in Yellow",
+					"An modernised version of the play",
+					"The scribblings of a mad man",
+					"An essay on the nature of the lost city",
+					"The Imperial Dynasty of America"
+				]
+			},
+			{
+				"title" : "Treasures",
+				"elements" : [
+					"The Yellow Sign on a brooch",
+					"A painting that seems somehow wrong",
+					"A white marble rose",
+					"A white marble rabbit",
+					"Two white marble fish",
+					"A bottle with your name on it"
+				]
+			},
+			{
+				"title" : "Creatures",
+				"elements" : [
+					"A cat, mewling for attention",
+					"A white rabbit",
+					"Two live fish, floundering on the floor",
+					"A venemous snake",
+					"A life sized marionette, strung up through the ceiling",
+					"An automated doll on wheels"
+				]
+			},
+			{
+				"title" : "Costumes",
+				"elements" : [
+					"A battered crown",
+					"A tattered yellow robe",
+					"The robes of a Queen or Princess",
+					"The robes of a Priest",
+					"A fabulous masquerade costume",
+					"A white mask"
+				]
+			},
+			{
+				"title" : "Titles",
+				"elements" : [
+					"The King In Yellow",
+					"The Last King",
+					"The Queen",
+					"The Stranger",
+					"The Phantom of Truth",
+					"The Unspeakable"
+				]
+			},
+			{
+				"title" : "Quotes",
+				"elements" : [
+					"\"Woe! woe to you who are crowned with the crown of the King in Yellow!\"",
+					"\"You, sir, should unmask.\"",
+					"\"I wear no mask.\"",
+					"\"No mask? No mask!\"",
+					"\"It is a fearful thing to fall into the hands of the living God!\"",
+					"“Have you seen the Yellow sign?\""
+				]
+			}
+    ]
+  }
+}
