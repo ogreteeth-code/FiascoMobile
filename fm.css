@@ -134,7 +134,7 @@ a {
 }
 
 .previewMode-cover .playsetList.selected .name {
-  display: inherit;
+  display: none;
 }
 
 .previewMode-cover .playsetList.selected .cover {
