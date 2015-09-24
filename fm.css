@@ -172,15 +172,11 @@ a {
   display: inherit;
 }
 
-.playsets .coverNavigation {
-  position: absolute;
-  width: 100%;
-  margin-top: 90px;
-}
-
 .playsets .coverArrow {
   display: none;
   padding: 10px 5px 5px 5px;
+  position: absolute;
+  margin-top: 90px;
 }
 
 .previewMode-cover .coverArrow {
@@ -188,7 +184,7 @@ a {
 }
 
 .playsets .coverArrow.nextCover {
-  float: right;
+  right: 0;
 }
 
 .footer {
