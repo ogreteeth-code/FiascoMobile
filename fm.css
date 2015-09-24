@@ -134,11 +134,24 @@ a {
 }
 
 .previewMode-cover .playsetList.selected .name {
-  display: inherit;
+  display: none;
 }
 
 .previewMode-cover .playsetList.selected .cover {
   display: inherit;
+}
+
+.playsets .coverArrow {
+  display: none;
+  padding: 10px 5px 5px 5px;
+}
+
+.previewMode-cover .coverArrow {
+  display: inherit;
+}
+
+.playsets .coverArrow.nextCover {
+  float: right;
 }
 
 .footer {

@@ -76,19 +76,28 @@ function catchback(){
 
 function merge(o, ob) {;var i = 0;for (var z in ob) {if (ob.hasOwnProperty(z)) {o[z] = ob[z];}}return o;}
 
-function onSwipeCover(event) {
-  var $this = $(this);
+function advanceCover(direction) {
+  var $selected = $('.playsets .playsetList.selected');
 
   var $next;
-  if (event.type == 'swiperight') {
-    $next = $this.prevAll('.playsetList:not(.disable)').first();
-  } else { // swipeleft
-    $next = $this.nextAll('.playsetList:not(.disable)').first();
+
+  if (direction == 'right') {
+    $next = $selected.prevAll('.playsetList:not(.disable)').first();
+  } else { // left
+    $next = $selected.nextAll('.playsetList:not(.disable)').first();
   }
 
   if ($next.length > 0) {
-    $this.removeClass('selected');
+    $selected.removeClass('selected');
     $next.addClass('selected');
+  }
+}
+
+function onSwipeCover(event) {
+  if (event.type == 'swiperight') {
+    advanceCover('right')
+  } else {
+    advanceCover('left')
   }
 }
 
@@ -106,6 +115,8 @@ $(document).ready(function(){
   $('body').on('click', '.togglePreviewMode', buildTogglePreviewModeHandler());
   $('body').on('swiperight', '.playsetList', onSwipeCover);
   $('body').on('swipeleft', '.playsetList', onSwipeCover);
+  $('body').on('click', '.playsets .coverArrow.nextCover', function() { onSwipeCover('right'); });
+  $('body').on('click', '.playsets .coverArrow.previousCover', function() { onSwipeCover('left'); });
 
 	//load the android back button catcher.
 	document.addEventListener("deviceready", onPhoneReady, false);
