@@ -32,7 +32,7 @@ function homescreen(reset) {
 }
 
 function buildTogglePreviewModeHandler() {
-  var mode = 'cover';
+  var mode = 'name';
 
   return function() {
     $('.playsetPreviews').removeClass('previewMode-' + mode);
@@ -44,6 +44,8 @@ function buildTogglePreviewModeHandler() {
     }
 
     $('.playsetPreviews').addClass('previewMode-' + mode);
+
+    return false;
   }
 }
 
@@ -99,6 +101,8 @@ function onSwipeCover(event) {
   } else {
     advanceCover('left')
   }
+
+  return false;
 }
 
 $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').append(templates);});
@@ -115,8 +119,8 @@ $(document).ready(function(){
   $('body').on('click', '.togglePreviewMode', buildTogglePreviewModeHandler());
   $('body').on('swiperight', '.playsetList', onSwipeCover);
   $('body').on('swipeleft', '.playsetList', onSwipeCover);
-  $('body').on('click', '.playsets .coverArrow.nextCover', function() { onSwipeCover('right'); });
-  $('body').on('click', '.playsets .coverArrow.previousCover', function() { onSwipeCover('left'); });
+  $('body').on('click', '.playsets .coverArrow.nextCover', function() { return onSwipeCover('right'); });
+  $('body').on('click', '.playsets .coverArrow.previousCover', function() { return onSwipeCover('left'); });
 
 	//load the android back button catcher.
 	document.addEventListener("deviceready", onPhoneReady, false);
