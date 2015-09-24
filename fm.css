@@ -70,6 +70,19 @@ a {
 	color: black;
 }
 
+.playsetPreviews {
+  background-color: white;
+}
+
+.playsetPreviews .head,
+.playsetPreviews .about {
+  background-color: black;
+}
+
+.playsetPreviews .head {
+  height: 60px;
+}
+
 .togglePreviewMode {
   color: white;
 	font: 400 24px "Syncopate", Helvetica, Arial, sans-serif;
