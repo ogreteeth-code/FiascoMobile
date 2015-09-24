@@ -141,6 +141,18 @@ a {
   display: inherit;
 }
 
+.playsets .coverArrow {
+  display: none;
+}
+
+.previewMode-cover .coverArrow {
+  display: inherit;
+}
+
+.playsets .coverArrow.nextCover {
+  float: right;
+}
+
 .footer {
 	text-align: right;
 }
