@@ -90,7 +90,11 @@ a {
   display: inherit;
 }
 
-.playsets {
+.playsetsWrapper {
+  background-color: white;
+}
+
+.previewMode-cover .playsets {
   clear: both;
   background-color: white;
 }
@@ -121,6 +125,16 @@ a {
 
 .previewMode-cover .playsetList {
   display: none;
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.previewMode-cover .playsetList .cover {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .previewMode-cover .playsetList.disable {
@@ -129,7 +143,6 @@ a {
 
 .previewMode-cover .playsetList.selected {
   display: inherit;
-  width: auto;
   padding: 5px;
 }
 
