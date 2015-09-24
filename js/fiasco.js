@@ -115,6 +115,8 @@ $(document).ready(function(){
   $('body').on('click', '.togglePreviewMode', buildTogglePreviewModeHandler());
   $('body').on('swiperight', '.playsetList', onSwipeCover);
   $('body').on('swipeleft', '.playsetList', onSwipeCover);
+  $('body').on('click', '.playsets .coverArrow.nextCover', function() { onSwipeCover('right'); });
+  $('body').on('click', '.playsets .coverArrow.previousCover', function() { onSwipeCover('left'); });
 
 	//load the android back button catcher.
 	document.addEventListener("deviceready", onPhoneReady, false);
