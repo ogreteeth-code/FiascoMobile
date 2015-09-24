@@ -82,6 +82,11 @@ a {
   display: none;
 }
 
+.togglePreviewMode img {
+  padding-top: 10px;
+  width: 40px;
+}
+
 .previewMode-cover .byCover {
   display: inherit;
 }
