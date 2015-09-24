@@ -1,0 +1,296 @@
+{
+  "playset" :
+  {
+    "title" : "Resleeved",
+    "credits" : 
+    {
+      "author" : "Darcy Smittenaar and Matthew Thornburg"
+    },
+    "movie_night" :
+    [
+      { "title" : "Ghost in the Shell" },
+      { "title" : "Blade Runner (Do Androids Dream of Electric Sheep?)" }
+    ],
+    "score" :
+    {
+      "title" : "Setting in brief",
+      "paragraphs" : [
+        "Earth is a graveyard, humanity scattered in colonies across the solar system, struggling to survive in the aftermath of the TITAN holocaust. But even as humanity struggles to survive, advances in technology and the sciences redefine what it means to be human in the first place.",
+        "Death is no longer the end, merely an expensive inconvenience. The person you saw yesterday with blonde hair and green eyes may be sporting chrome and hosepipes tomorrow, and that pet monkey you had when you were a kid? It might just teach you graduate-level calculus."
+      ],
+      "tagline" : "after the TITAN holocaust"
+    },
+    "relationships" : [
+			{
+				"title" : "Family?",
+				"elements" : [
+					"Ego and Fork",
+					"Two siblings, one who deleted his, or her, or its memories of the other",
+					"Ego and Muse",
+					"Niece or nephew and eccentric aunt or uncle who is still a flat",
+					"Independently wealthy man or woman who won’t pay to get his or her mother-in-law’s ego sleeved out of a virtual colony and his or her spouse",
+					"AGI and original encoder"
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+					"Professor and student",
+					"Synth morph and doctor . . . er, mechanic",
+					"Psychosurgeon and newly resleeved ego",
+					"Servant before the Fall, master after (and vice-versa)",
+					"Colony project engineer and xenoecologist",
+					"Pandora gate administration liaison and gate crasher"
+				]
+			},
+			{
+				"title" : "Past",
+				"elements" : [
+					"Pre-fall probation officer and a probation hopper",
+					"No longer married, and hating it",
+					"Ex-step-siblings",
+					"Former clerk in a retail store and the mall security guard who saved his or her life",
+					"“Officer, it was literally impossible to know she was under age.”",
+					"Pre-Fall Wall Street businessperson and the one who got screwed on a deal"
+				]
+			},
+			{
+				"title" : "Romance",
+				"elements" : [
+					"Two egos with bio morphs that appear the same age, but one has had a sesquicentennial",
+					"Ego and fork",
+					"Kinky couple who tried an ego merge and ended up botching it",
+					"Neo-whale and neo-avian",
+					"Flat with performance issues and his new partner who was last with someone in a Human 2.0 morph",
+					"High-profile bioconservative and his or her former lover who is now in a synth morph"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+					"Back-alley psychosurgeon and the patient whose morph he jacked",
+					"Flunky from a crime syndicate and the “upstanding citizen” in the boss’s morph while the boss does 25 to life in virtual storage",
+					"Creator of an Augmented Reality and the hacker who made it the laughingstock of the solar system",
+					"HR Manager biased against synth morphs and the wronged job candidate",
+					"14K Triad boss and gambler just caught cheating",
+					"Ego and Alpha Fork"
+				]
+			},
+			{
+				"title" : "community",
+				"elements" : [
+					"Bureaucrat from the Autonomist Alliance and someone who has been set a punishment for antisocial behavior",
+					"Technosocialist and hypercapitalist",
+					"Neighbors",
+					"Community leader and that one person who always speaks up in meetings—without doing any research",
+					"Methane sailing gold medalist from the previous Titan Olympics and the up-and-coming snot nose who’s trying to take it from him or her",
+					"Pre-Fall priest and the person he always tries to preach to who believes that Armageddon has already happened, so what’s the point?"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get out...",
+				"elements" : [
+					"of the solar system.",
+					"of virtual storage.",
+					"of this place!",
+					"the whoopass!",
+					"of this morph.",
+					"of this gang."
+				]
+			},
+			{
+				"title" : "To get even...",
+				"elements" : [
+					"with my fork.",
+					"with the veteran/rookie gatecrasher who screwed up our last mission.",
+					"with the flat who keeps insulting uplifts’ intelligence.",
+					"with the stuffy academic/hired muscle gate crasher who won’t admit he/she/it is wrong when it comes to this particular mission.",
+					"with the bioconservative who sabotaged my synth morph.",
+					"with the college roommate who jacked/plagiarized my paper—straight from my Cortical Stack!"
+				]
+			},
+			{
+				"title" : "To convince people or myself...",
+				"elements" : [
+					"That everything is okay.",
+					"That I’m human",
+					"That uplifts are people too.",
+					"To worship me.",
+					"That the TITANS are coming.",
+					"To do the “Funky Chicken.”"
+				]
+			},
+			{
+				"title" : "To get respect...",
+				"elements" : [
+					"From the other experts in my field of work",
+					"From the other members of my gatecrashing team",
+					"From my mother",
+					"From my fork",
+					"For flats from the government",
+					"For Infolife and uplifts everywhere!"
+				]
+			},
+			{
+				"title" : "To get the truth...",
+				"elements" : [
+					"About what happened to Earth",
+					"About those memories I accidentally deleted off of my Cortical Stack",
+					"About what really happened to Jed",
+					"And nothing but the truth, so help me God.",
+					"And consequences",
+					"About the Pandora gates"
+				]
+			},
+			{
+				"title" : "To get laid...",
+				"elements" : [
+					"Before this TITAN nanovirus kills me",
+					"By a lunar flyer.",
+					"Again, and again, and again.",
+					"In zero-G.",
+					"Before the warranty on my new morph expires.",
+					"While my fork finishes up the work."
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Virtual",
+				"elements" : [
+					"The colony of Virtual Africa, where tens of thousands of Nigerians have been waiting a decade or more for the new colony iZulu to be built, and for their first morphs",
+					"The Mesh",
+					"Inside the Third Life Game",
+					"The place where Muses go",
+					"An addict’s hallucination-turned-Augmented Reality",
+					"Inside a 4-D sculpture"
+				]
+			},
+			{
+				"title" : "Private",
+				"elements" : [
+					"The bathroom",
+					"A secure, gated residential community on Titan",
+					"or is it?",
+					"An office belonging to the CEO of a major hypercorporation",
+					"My suite at the resort on Arcadia",
+					"An ego backup facility"
+				]
+			},
+			{
+				"title" : "Gatecrashing",
+				"elements" : [
+					"The Portal gate complex on lockdown",
+					"A previously unexplored ice world",
+					"The Crash Rover’s airlock",
+					"Planet with evidence of a long-dead civilization—or is it?",
+					"Linnorm Research Institute’s Exosolar Sciences Department",
+					"“I don’t know where I am!”"
+				]
+			},
+			{
+				"title" : "Higher learning",
+				"elements" : [
+					"The professor’s office",
+					"Titan Autonomous University",
+					"A dorm room shared by a flat, a synth and a biomorph",
+					"The gatecrashers’ crash course instruction facility",
+					"Flight school for air/space vehicle AIs",
+					"The Business School of the University of New Shanghai, Aten"
+				]
+			},
+			{
+				"title" : "Solar system",
+				"elements" : [
+					"A mine in Saturn’s rings",
+					"Secret gang base in the Asteroid Belt",
+					"The Titanian Commonwealth",
+					"Earth and/or Luna",
+					"The Jovian Republic",
+					"The Planetary Consortium"
+				]
+			},
+			{
+				"title" : "The Titanian commonwealth olympic games",
+				"elements" : [
+					"Methane sailing event",
+					"In the stadium as the torch bearer hovers in to land",
+					"The winners’ stands",
+					"The announcer’s box",
+					"The press room",
+					"4-D hyper-chess competition"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Untoward",
+				"elements" : [
+					"A dark caster that has already been used",
+					"Someone’s pleasure pod attachment",
+					"A well-preserved snake skin from before the Fall",
+					"Drugs",
+					"What the heck is it?",
+					"The Mesh code that creepy Neotenic gave you, thinking you were interested"
+				]
+			},
+			{
+				"title" : "Transportation",
+				"elements" : [
+					"A pair of Go-cycles",
+					"The team’s Crash rover",
+					"A set of mechanical wings",
+					"A jet pack",
+					"The company’s cargo ship",
+					"The keys"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+					"Fire",
+					"Battering ram—with a drill attachment",
+					"Nanovirus",
+					"Monofilament sword",
+					"Kinetic pistol",
+					"Extremely long fingernails made of steel"
+				]
+			},
+			{
+				"title" : "Information",
+				"elements" : [
+					"The plan",
+					"Research grant to study the Pandora gates",
+					"The Blue Box code to get us home/wherever we’re going",
+					"Map of the known galaxy, with all the notes you’ve added in your gatecrashing career",
+					"Blackmail material",
+					"The location of the mythical Earth gate"
+				]
+			},
+			{
+				"title" : "Valuable",
+				"elements" : [
+					"The Mona Lisa (or other famous work of art, piece of jewelry, etc.)",
+					"Experimental Human 3.0 morph",
+					"The Blue Box",
+					"A real hamburger, six gates from home",
+					"An assassin’s Mesh code",
+					"The solution to the Ganymede Times Sunday Hyper- crossword"
+				]
+			},
+			{
+				"title" : "Sentimental",
+				"elements" : [
+					"The only thing you have left of your loved one who did not survive the Fall.",
+					"One of your original body parts",
+					"Your favorite coffee mug",
+					"Your best friend’s dog’s collar—from before it got uplifted and left him or her",
+					"An old family Bible",
+					"The universe’s last known copy of the Keyboard Cat video you used to enjoy on YouTube"
+				]
+			}
+    ]
+  }
+}
