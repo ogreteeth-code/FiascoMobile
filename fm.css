@@ -111,6 +111,10 @@ a {
   display: none;
 }
 
+.previewMode-cover .playsetCategory {
+  display: none;
+}
+
 .previewMode-name .playsetList .name {
   display: inherit;
 }
