@@ -1,0 +1,298 @@
+{
+  "playset" :
+  {
+    "title" : "Risky Business",
+    "credits" : 
+    {
+      "author" : "Simon Brake"
+    },
+    "movie_night" :
+    [
+      { "title" : "Dr. Strangelove" }
+    ],
+    "score" :
+    {
+      "title" : "Can you prevent the end of the world?",
+      "paragraphs" : [
+        "It is the near future. The end of the world is nigh. Representatives of the world’s most powerful countries have met together in a secure bunker to set right the world’s problems or, should their plans fail, to ensure their survival of the approaching apocalypse. However, who’s to say that it might not be more dangerous within the bunker?",
+        "Base around boardgames such as Risk, War on Terror and Pandemic and films such as Dr Strangelove, Whoops Apocalypse, and Mars Attacks.",
+        "QUICK NOTE:",
+        "The characters created first and foremost are representatives of different countires, so the relationships they have are based more often (but not always) upon the relationship between those nations. Unless you have a lot of players it’s advised that each character represents a different country.",
+        "Because most of the Fiasco takes place within the bunker of the host nation, Locations are instead replaced with Events, threats that are of great global importance. There’s no specific threat beyond those created during the set-up, but you may introduce others as the game goes on. Scenes can be set either in the main meeting room of the bunker, quiter rooms elsewhere within the complex, or outside the bunker, as a flashback."
+      ],
+      "tagline" : "at the eleventh hour!"
+    },
+    "relationships" : [
+		{
+			"title" : "Neighbouring nations",
+			"elements" : [
+				"European nations",
+				"Asian nations",
+				"Australian nations",
+				"African nations",
+				"North American nations",
+				"South American nations"
+			]
+		},
+		{
+			"title" : "Allied Nations",
+			"elements" : [
+				"A united front against evil",
+				"Leading the search for a cure",
+				"Tackling global climate change",
+				"Dominating the global market",
+				"The first to make a earth-shattering discovery",
+				"United through faith"
+			]
+		},
+		{
+			"title" : "Opposed Nations",
+			"elements" : [
+				"Fighting over land",
+				"Fighting over resources",
+				"Long time distrust since that war",
+				"Radically different cultures",
+				"Rivals for status",
+				"Divided by faith"
+			]
+		},
+		{
+			"title" : "Victims of Disaster",
+			"elements" : [
+				"First two nations hit by the killer disease",
+				"Two nations worst hit by earthquakes",
+				"Two nations worst hit by tsunami",
+				"Two nations worst hit by storms",
+				"Two nations worst hit by meteorites",
+				"Two nations descended into anarchy"
+			]
+		},
+		{
+			"title" : "Personal Roles",
+			"elements" : [
+				"Royalty",
+				"Heads of State (President or Prime Minister)",
+				"War Generals",
+				"Scientists",
+				"Businessmen",
+				"Dictators"
+			]
+		},
+		{
+			"title" : "Secrets",
+			"elements" : [
+				"Have been manipulating the media",
+				"Have a sexual relationship",
+				"One controls the other, completely",
+				"Neither of them are entirely human",
+				"Are members of the Illuminati/New World Order",
+				"Are responsible for one of the disasters"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "To Protect...",
+			"elements" : [
+				"the planet",
+				"your home nation",
+				"your family",
+				"the royal family",
+				"your legacy",
+				"your job, and the perks that come with it"
+			]
+		},
+		{
+			"title" : "To Destroy...",
+			"elements" : [
+				"the planet",
+				"your home nation",
+				"a enemy nation",
+				"all who oppose you",
+				"your opponent's reputation",
+				"the as-yet-unknown enemy"
+			]
+		},
+		{
+			"title" : "To Gain...",
+			"elements" : [
+				"power, through oil and other resources",
+				"power, through serving the big corporations",
+				"power over every mortal",
+				"immunity, diplomatic",
+				"immunity, biological",
+				"your true love's hand in marriage"
+			]
+		},
+		{
+			"title" : "To Prevent...",
+			"elements" : [
+				"your enemies gaining any power",
+				"the disease spreading any further",
+				"anyone finding out about what you did",
+				"anyone finding out about Them!",
+				"the anarchists taking control",
+				"the end of the world"
+			]
+		},
+		{
+			"title" : "To Find...",
+			"elements" : [
+				"your purpose in life",
+				"God, in one form or another",
+				"out who the puppet masters are",
+				"out how the disaster started",
+				"the cure to the big bad disease",
+				"forgiveness"
+			]
+		},
+		{
+			"title" : "To Hide...",
+			"elements" : [
+				"evidence of your involvement",
+				"the details of your secret bank account",
+				"the symptoms you're beginning to show",
+				"details about what's going on in space",
+				"your face in shame",
+				"in a big bunker deep underground"
+			]
+		}
+    ],
+    "events" : [
+		{
+			"title" : "Landmarks",
+			"elements" : [
+				"\"The Statue of Liberty, torch raised defiantly!\"",
+				"\"The tower of Big Ben, destroyed!\"",
+				"\"The White House, now a burning husk...\"",
+				"\"Twisted wreckage of The Eiffel Tower...\"",
+				"\"The Tower of Pisa, toppled...\"",
+				"\"The Great Wall of China, breached...\""
+			]
+		},
+		{
+			"title" : "Disease",
+			"elements" : [
+				"Swine flu",
+				"Avian flu, carried by migrating birds",
+				"Infected lab animals",
+				"A new secret weapon",
+				"Victims don't die but become 'crazed cannibals'",
+				"It's not biological, it's psychological!"
+			]
+		},
+		{
+			"title" : "Terror",
+			"elements" : [
+				"Escalating border skirmishes",
+				"A member of the royal family kidnapped",
+				"A head of state assassinated",
+				"Rioting in the streets",
+				"The rebels have taken over major cities",
+				"Terrorists kill civilians in a devastating act!"
+			]
+		},
+		{
+			"title" : "Mass Destruction",
+			"elements" : [
+				"Major city devastated by an earthquake",
+				"Tsunami destroys coastal city",
+				"Unexpected erruption kills thousands",
+				"Fault line cracks open across whole nation",
+				"Fires raging out of control across the city",
+				"Radioactive all-out after a nuclear explosion"
+			]
+		},
+		{
+			"title" : "Climate Change",
+			"elements" : [
+				"Hurricane hits a major city, tearing buildings down",
+				"Nation buried under heavy snow and ice",
+				"Heat wave causes wild fires and drought",
+				"Extreme flooding after unexpected heavy rain",
+				"Animals exhibiting strange behaviour",
+				"Increase in storms and destructive winds"
+			]
+		},
+		{
+			"title" : "Out Of This World",
+			"elements" : [
+				"Meteorites scar the planet",
+				"A massive meteorite is set to destroy the planet",
+				"A comet passes too close, sudden climate change",
+				"Strange activity by the sun",
+				"It was aliens all along!",
+				"It was the Rapture all along!"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Personal Weapons",
+			"elements" : [
+				"Ceremonial sword",
+				"Small pistol, securely hidden",
+				"A large pistol, on full show",
+				"A expertly trained bodyguard/assistant",
+				"An armed escort, several guards",
+				"A semi-automatic gun, and much ammo"
+			]
+		},
+		{
+			"title" : "Technology",
+			"elements" : [
+				"'The Button'",
+				"Experimental hand-held zapper",
+				"A tracking device",
+				"A live camera, filming the meeting",
+				"The latest gadgets for playing videos and music",
+				"Nuclear weapons"
+			]
+		},
+		{
+			"title" : "Valuables",
+			"elements" : [
+				"A platinum credit card",
+				"A wedding ring",
+				"A watch that belonged to one of your parents",
+				"A photograph of your family",
+				"A picture drawn by your child",
+				"An expensive and unexpected gift"
+			]
+		},
+		{
+			"title" : "Business",
+			"elements" : [
+				"Data concerning strange activities",
+				"Camera footage of unexplained events",
+				"Your nations terms for surrender",
+				"An extensive report on a recent discovery",
+				"A pact between two nations",
+				"A desperate request for aid"
+			]
+		},
+		{
+			"title" : "Pleasure",
+			"elements" : [
+				"Your mistress",
+				"Your escort/bodyguard",
+				"A large magnum of champagne",
+				"A personal sauna",
+				"A four poster bed",
+				"Your unusual pets, Ronald and Gorby"
+			]
+		},
+		{
+			"title" : "Secrets",
+			"elements" : [
+				"Alien DNA",
+				"An envelope containing compromising photos",
+				"Files concerning a military experiment",
+				"A secret camera and wire",
+				"Poison, if you should need it",
+				"Cybernetics, and a chip in your brain"
+			]
+		}
+    ]
+  }
+}

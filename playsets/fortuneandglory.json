@@ -1,0 +1,300 @@
+{
+  "playset" :
+  {
+    "title" : "Fortune and Glory",
+    "credits" : 
+    {
+      "author" : "Unknown"
+    },
+    "movie_night" :
+    [
+      { "title" : "Indiana Jones" },
+      { "title" : "Tin Tin" },
+      { "title" : "National Treasure" },
+      { "title" : "The Librarian" },
+      { "title" : "The Rundown" },
+      { "title" : "The Mummy" },
+      { "title" : "The Da Vinci Code" }
+    ],
+    "score" :
+    {
+      "title" : "\"You're gonna get killed chasing after your damn fortune and glory.\"-- Willie Scott, Indiana Jones and the Temple of Doom",
+      "paragraphs" : [
+        "There's an entire world of ancient civilizations out there to study and discover. There's even more money in it if you find the artifact of your career. But remember that guy you screwed over in Tunisia 10 years ago? He's here. Holding a gun to your back, determined to take the prize you risked your life for."
+      ],
+      "tagline" : ""
+    },
+    "relationships" : [
+		{
+			"title" : "Family",
+			"elements" : [
+				"Parent and Child",
+				"Siblings",
+				"Long Lost Relatives",
+				"Questionable Parenthood",
+				"-In-Laws",
+				"Separated at Birth"
+			]
+		},
+		{
+			"title" : "Friendship",
+			"elements" : [
+				"Best Friends",
+				"Friendly Rivals/Frenemies",
+				"You Owe Them Your Life",
+				"Old Classmates",
+				"Adult and Child Tourguide",
+				"Drinking Buddies"
+			]
+		},
+		{
+			"title" : "Romance",
+			"elements" : [
+				"A Lover Scorned",
+				"We had a...thing. Once.  Long ago.",
+				"Friends with Benefits",
+				"Persistent and Uninterested",
+				"Old Friends in Romantic Denial",
+				"Intellectuals in Love"
+			]
+		},
+		{
+			"title" : "Professional",
+			"elements" : [
+				"Competing Archaeologists",
+				"Young Journalist and Subject of Story",
+				"Museum Curator and Treasure Hunter",
+				"Bar Owner and Silent Partner",
+				"Librarian and Research Professor",
+				"Professional Adventure Seekers"
+			]
+		},
+		{
+			"title" : "The War",
+			"elements" : [
+				"Inept Military Officials",
+				"Spy and Informant",
+				"High Ranking Officers in Secret Department",
+				"Behind Enemy Lines…In Their Uniforms",
+				"Cook and Captain",
+				"The General and The Coward"
+			]
+		},
+		{
+			"title" : "Odd",
+			"elements" : [
+				"Enemies from Another Life",
+				"Restaurant Owner and Mob Boss",
+				"Acquaintances That Can't Seem to Avoid Each Other",
+				"Nosy Neighbor and Secretive Person",
+				"\"YES! I'm SURE we can trust them! Now let's go!\"",
+				"Film Maker and Gopher"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "To do the Right Thing...",
+			"elements" : [
+				"and preserve history",
+				"because it belongs in a museum!",
+				"and keep the artifact from unleashing its power",
+				"for mein Fuhrer.",
+				"and restore your family's honor.",
+				"to get laid in the process"
+			]
+		},
+		{
+			"title" : "To get rich...",
+			"elements" : [
+				"and gain fame and glory no matter the cost",
+				"because you're sick of being poor",
+				"by selling off this possibly holy trinket you \"found\"",
+				"by stealing everything out from under the team",
+				"by producing low quality fakes and selling them at a high price",
+				"of your promise to give it back, since you don't have it anymore."
+			]
+		},
+		{
+			"title" : "To gain ultimate power...",
+			"elements" : [
+				"and prove something to your dad",
+				"by turning the ancient and mythical powers of the artifact on the world",
+				"by calling upon the great one",
+				"purely by accident",
+				"and make them love me again",
+				"by besting your rival"
+			]
+		},
+		{
+			"title" : "To get revenge...",
+			"elements" : [
+				"on the person who jilted you",
+				"on the thief who stole your homeland's precious artifact",
+				"by taking back what's rightfully mine",
+				"on that jerk who keeps one upping you",
+				"after 25 long years",
+				"\"for that shit you pulled in Croatia!\""
+			]
+		},
+		{
+			"title" : "To get out...",
+			"elements" : [
+				"of the museum's back pocket",
+				"of this godforsaken country",
+				"of the relationship",
+				"of this one-sided partnership",
+				"of your parent's house...Again",
+				"with the artifact, the girl/guy, and an army of bad guys on your tail"
+			]
+		},
+		{
+			"title" : "To...",
+			"elements" : [
+				"bestow great power on myself and my leaders",
+				"reunite my family with a lost heirloom",
+				"uncover the truth about the dwarf skeleton in your study",
+				"discover the truth about your lineage",
+				"protect the artifact",
+				"find the artifact first, damn anyone that gets in your way"
+			]
+		}
+    ],
+    "locations" : [
+		{
+			"title" : "North America",
+			"elements" : [
+				"Area 51: Storage Warehouse F",
+				"Hoboken, NJ: Back Room of Italian Restaurant",
+				"Library of Congress: Secret Room",
+				"Marshall College, Connecticut; Class Room 203",
+				"French Canada",
+				"A Beach in Cancun"
+			]
+		},
+		{
+			"title" : "Oceania",
+			"elements" : [
+				"St Mary's Cathedral, Sydney",
+				"Cargo Vessel, Botany Bay off the Great Barrier Reef",
+				"Somewhere in The Outback",
+				"The Hut of an Aboriginese Tribe Leader",
+				"Cave in the Kakadu National Park",
+				"New Zealand"
+			]
+		},
+		{
+			"title" : "Asia",
+			"elements" : [
+				"Khajuraho, India; The Temple of the Tantric Savior",
+				"The Caves of Ajanta and Ellora, India",
+				"Club Obiwan, Beijng",
+				"Noodle House, Sczechuan Province",
+				"A Town At The Base of Everest",
+				"\"Yes. Russia is part of Asia. Now, get me the hell out of Serbia!\""
+			]
+		},
+		{
+			"title" : "Europe",
+			"elements" : [
+				"Book Burning Rally at the headquarters of the Third Reich",
+				"Secret Panel Under Queen Elizabeth's Throne",
+				"Vatican Square",
+				"A Brothel in Amsterdam Where Voltaire Contracted Syphillis",
+				"Catacombs of Paris",
+				"The Real London Underground"
+			]
+		},
+		{
+			"title" : "Africa",
+			"elements" : [
+				"Onboard the Cargo Ship, Bantu Wind",
+				"Tomb of the Ancient Kings",
+				"The Road to Cairo",
+				"A River Basin in the Congo",
+				"A Bazaar in the Heart of Cairo",
+				"\"We are in the GOD DAMN middle of the SAHARA FUCKING DESERT!\""
+			]
+		},
+		{
+			"title" : "South America",
+			"elements" : [
+				"A Dark, Wet, Rain Forest",
+				"Nazca, Peru; The Place With The Alien Landing Strips",
+				"A City-Sized Church in Rio",
+				"The Tribal Village Built At The Base of an Active Volcano",
+				"The Streets of Rio During Carnivale",
+				"The Jungles Surrounding The Amazon"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Unfortunate",
+			"elements" : [
+				"Poisoned Fruit",
+				"A Crate of Bad Replicas",
+				"A Bible With a Cut Out For a Flask",
+				"A Fortune Cookie Containing Bad News",
+				"A Wild Animal Kept as a Pet",
+				"A Gas Can, But No Gas"
+			]
+		},
+		{
+			"title" : "Valuable Artifacts",
+			"elements" : [
+				"Ancient Mesopotamian Cat God Figurine",
+				"A Silver Plated Fork",
+				"Golden Scarabs",
+				"The Compass of Marco Polo",
+				"A Solid Gold God of Fertility Statue",
+				"George Washington's Wooden Teeth"
+			]
+		},
+		{
+			"title" : "Weapons",
+			"elements" : [
+				"Luger P08, With One Bullet",
+				"Khanda, Double Edge Straight Sword",
+				"Poisoned Darts",
+				"Fully Loaded Revolver, With Ammo to Spare",
+				"A Swiss Army Knife That's Got Everything But A Knife",
+				"A Rocket Launcher"
+			]
+		},
+		{
+			"title" : "Mysterious and Holy",
+			"elements" : [
+				"Holy Mirror of Truth",
+				"Jesus' Foreskin",
+				"The Way of a Million Fists",
+				"A Satchel Full of Wood Chips Sacred to One Tribe of Pygmys",
+				"The Tome of the Life Thereafter",
+				"The Staff of a Thousand Souls"
+			]
+		},
+		{
+			"title" : "Transportation",
+			"elements" : [
+				"Panzerkampfwagen IV - aka the Big Fucking Tank",
+				"A Sea Plane named \"Airborne Annie of the Seas\"",
+				"Three Camels",
+				"Riveria Canal Boat",
+				"An Army Jeep That's Been to Hell and Back Twice.",
+				"A Rickshaw Pulled By The Oldest Man in The World"
+			]
+		},
+		{
+			"title" : "Information",
+			"elements" : [
+				"Dad's Diary",
+				"An Ominous Etching",
+				"A Scalp With a Map Tattooed On It",
+				"An Enemy Dossier Detailing Locations of Powerful Artifacts",
+				"Boys Life Magazine",
+				"Door Codes to Every Room in The Louvre"
+			]
+		}
+    ]
+  }
+}

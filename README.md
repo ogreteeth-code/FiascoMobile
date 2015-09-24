@@ -20,8 +20,10 @@ Wishlist:
 + Playset: 300 Crooks
 + Playset: Double Cross Country Dash
 + Playset: Echoes of the Lost City
++ Playset: Fortune and Glory
 + Playset: Hell's Highway
 + Playset: Little Town, Dark Woods
++ Playset: Risky Business
 * Added "The Car" as a top-level category template
 * Updated to latest version of PhoneGap
 * Current count: 58 playsets
