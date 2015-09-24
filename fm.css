@@ -143,6 +143,7 @@ a {
 
 .playsets .coverArrow {
   display: none;
+  padding: 10px 5px 5px 5px;
 }
 
 .previewMode-cover .coverArrow {
