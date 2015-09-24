@@ -1,0 +1,302 @@
+{
+  "playset" :
+  {
+    "title" : "#superheroes",
+    "credits" : 
+    {
+      "author" : "Sami Uusitalo"
+    },
+    "score" :
+    {
+      "title" : "Superheroes are the ultimate celebrities of today",
+      "paragraphs" : [
+        "No-one can escape social media's pervasive influence, especially the superheroes who so valiantly fight to protect our cities. In many ways, they are the ultimate celebrities of today. And with all that saving of the planet to do, many have decided to hire professional help to keep up with their twitter account and schedule talk show appearances.",
+        "You are these professionals. As members of a prestigious PR agency's Client Service Team it is your job to make sure the hero doesn't cause a shitstorm on the message boards and wears this fall's colours to the next red carpet event.",
+        "Without your help the hero's next interview could very well turn into a social media fiasco...",
+        "Regarding Superheroes",
+        "This playset is about the men and women busting ass to make sure the squeaky-clean public image of the city's beloved superhero stays untarnished. Whereas our protagonists' superpowers are limited to witty pop culture references and photoshopping wizardry, the real heroes with their superpowers are bound to show up eventually. When a scene calls for a superhero or a villain, coming up with a flashy superpower and a cool name should suffice for starters, as you can always define (or retcon) the character further in future scenes. And don't hesitate to look at existing superheroes for inspiration. After all, there are plenty of good examples out there to steal draw from."
+      ],
+    "movie_night" :
+    [
+      { "title" : "The Crazy Ones" },
+      { "title" : "Watchmen" },
+      { "title" : "Iron Man" },
+      { "title" : "The Devil Wears Prada" },
+      { "title" : "Mad Men" }
+    ],
+    "tagline" : "in the PR agency"
+    },
+    "relationships" : [
+		{
+			"title" : "Family",
+			"elements" : [
+				"Married",
+				"Used to be married",
+				"Parent and interning child",
+				"Competitive siblings",
+				"You and your cousin who always spells trouble",
+				"Identical twins"
+			]
+		},
+		{
+			"title" : "Professional",
+			"elements" : [
+				"Cross-departmental dynamic duo",
+				"Manager and secretary",
+				"Industry veteran and the new guy",
+				"You and your biggest client's representative",
+				"On the same team, assigned to the firm's #1 client",
+				"Expensive outside consultant and the one who insisted on hiring her"
+			]
+		},
+		{
+			"title" : "Less than Professional",
+			"elements" : [
+				"Celebrated professional (stylist, photographer) & disgruntled assistant",
+				"You and the one who got you fired",
+				"Share blame for a failed project",
+				"\"If I have to cover for that narcissistic deadweight again...\"",
+				"Plotting to get rid of the CEO",
+				"You both got fired by the same man"
+			]
+		},
+		{
+			"title" : "Cats and Dogs",
+			"elements" : [
+				"Vying for the same promotion",
+				"Spin doctors for hero and villain respectively",
+				"Stylist for hero (or villain) and stylist for his secret persona",
+				"Fight choreographer vs. minion safety representative",
+				"Ongoing social media feud",
+				"Vying for the same hero (sponsors, agents)"
+			]
+		},
+		{
+			"title" : "Office Romance",
+			"elements" : [
+				"Smouldering sexual tension",
+				"Rivals in love",
+				"Unhealthy obsession",
+				"One time fling",
+				"Secret lovers",
+				"Friends with benefits"
+			]
+		},
+		{
+			"title" : "Dangerous",
+			"elements" : [
+				"Paparazzi (or blogger) and inside source",
+				"Prostitute and john",
+				"Homeland security agent and liaison",
+				"Drug dealer and buyer",
+				"Corporate spy and the one who knows",
+				"Hero's (or villain's) normal partner and secret lover"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "To get respect",
+			"elements" : [
+				"From your boss, by closing this deal today",
+				"By stealing the client from your rival",
+				"By showing them all",
+				"From hero/villain, by proving your worth",
+				"By getting that promotion",
+				"By taking the most awesome selfie ever"
+			]
+		},
+		{
+			"title" : "To have sex",
+			"elements" : [
+				"To win a bet",
+				"With the hero, or villain, or both",
+				"To prove you still got it",
+				"To make and \"leak\" a sex-tape",
+				"With someone in meeting room #4",
+				"To make him/her love you"
+			]
+		},
+		{
+			"title" : "To find",
+			"elements" : [
+				"A way to get into that meeting",
+				"Out what the next big thing is",
+				"That witness before they find out your secret",
+				"Out the hero's (or villain's) secret identity",
+				"Out if they are planning to fire you",
+				"A way to discredit your colleague"
+			]
+		},
+		{
+			"title" : "To get rich",
+			"elements" : [
+				"By selling their secrets",
+				"By blackmailing someone",
+				"And famous by the virtue of your creative genius",
+				"By nailing that bonus",
+				"By doing the villain's bidding",
+				"By stealing what is now in meeting room #4"
+			]
+		},
+		{
+			"title" : "To get out",
+			"elements" : [
+				"Of this debt",
+				"Of this job to start your own business, and take your clients with you",
+				"Of the office before the bomb explodes",
+				"Of responsibility for that epic wardrobe malfunction",
+				"Of this mess by proving the hero (or villain) is a fraud",
+				"Of the way of fast approaching social media disaster"
+			]
+		},
+		{
+			"title" : "To help",
+			"elements" : [
+				"Your client come out of the closet",
+				"Your client switch sides",
+				"Your client completely revamp his/her image",
+				"Your two new clients decide which one is hero and which one is villain",
+				"Your client keep their secret identity secret",
+				"Your client's sidekick become the hero"
+			]
+		}
+    ],
+    "locations" : [
+		{
+			"title" : "Inside the Company",
+			"elements" : [
+				"Elevator going up",
+				"Waiting room with pictures of VIPs",
+				"CEO's lavish office on the top floor",
+				"Executive bathroom",
+				"Parking garage under the building",
+				"Helicopter pad with chopper ready to go"
+			]
+		},
+		{
+			"title" : "Client service team",
+			"elements" : [
+				"AD's cubicle where creative photo manipulation is taking place",
+				"Team leader's office with corny motivational posters",
+				"Recently soundproofed meeting room #4",
+				"High-security server room",
+				"Writers' pit during villainous monologue brainstorming",
+				"Screening room with a focus group"
+			]
+		},
+		{
+			"title" : "PR and media",
+			"elements" : [
+				"Studio during a photo session",
+				"Lavish hotel ballroom during a press conference",
+				"Green room just before a talk show appearance",
+				"Conference call with national media",
+				"Site of the hero's (or villain's) recent victory",
+				"Location scout's office"
+			]
+		},
+		{
+			"title" : "After work",
+			"elements" : [
+				"Courtside seats at a sporting event",
+				"Nightclub's VIP room",
+				"By the jukebox",
+				"Hotel room reserved under a fake name",
+				"Your department",
+				"Luxurious fitness club's steam room"
+			]
+		},
+		{
+			"title" : "Shady",
+			"elements" : [
+				"Parking lot behind a pool hall",
+				"Brothel rigged with microphones and peepholes",
+				"Where the stench of formalin hangs heavy in the air",
+				"Scene of the crime",
+				"Paparazzi's (or private eye's) car during a stakeout",
+				"Where you buried the body"
+			]
+		},
+		{
+			"title" : "Hero or villain related",
+			"elements" : [
+				"Flying fortress",
+				"Penthouse belonging to the hero's secret persona",
+				"Offices of hero's (or villain's) psychiatrist",
+				"Brand new secret HQ waiting to be furnished",
+				"Super-secure prison",
+				"Sidekick's home at the trailer park"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Transport",
+			"elements" : [
+				"Hero's (or villain's) new car ready to be unveiled",
+				"News chopper",
+				"CEO's private jet",
+				"Luxury yacht used for celebrity bacchanals",
+				"Readily available taxi cab",
+				"Sponsor blimp"
+			]
+		},
+		{
+			"title" : "Shhh...",
+			"elements" : [
+				"\"Dating site profile = password1234\"",
+				"Key-card",
+				"File bursting with research notes",
+				"Phone with problematic photos",
+				"USB drive with the virus",
+				"Document with forged signature"
+			]
+		},
+		{
+			"title" : "Sentimental",
+			"elements" : [
+				"Wedding ring",
+				"Your first paycheck, framed",
+				"That dress she wore that one time",
+				"\"#1 Boss\" coffee mug",
+				"Piece of blackened rubble",
+				"Photo of your hero and you as a child"
+			]
+		},
+		{
+			"title" : "Weapons",
+			"elements" : [
+				"Note with a name and a number",
+				"Syringe full of special chemical",
+				"Virus designed to stop a pacemaker",
+				"Police-issue Glock pistol",
+				"Bomb hidden inside a briefcase",
+				"Selfie stick"
+			]
+		},
+		{
+			"title" : "Tools of the trade",
+			"elements" : [
+				"Mockup of superhero figurine",
+				"Color sampler for that new cape",
+				"Laptop with dozen social media accounts logged in",
+				"Invitation to the red carpet event tonight",
+				"Sketches of the new logo",
+				"Memory card with original photos before digital manipulation"
+			]
+		},
+		{
+			"title" : "Exotic",
+			"elements" : [
+				"Special delivery from your dealer",
+				"Self-destruct codes",
+				"Unopened package from the villain",
+				"Big, red button",
+				"Ancient artefact of unknown origin",
+				"Prototype lightning gun"
+			]
+		}
+    ]
+  }
+}

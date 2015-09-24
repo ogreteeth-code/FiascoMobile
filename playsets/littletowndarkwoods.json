@@ -1,0 +1,303 @@
+{
+  "playset" :
+  {
+    "title" : "Little Town, Dark Woods",
+    "credits" : 
+    {
+      "author" : "Simon Brake"
+    },
+    "movie_night" :
+    [
+      { "title" : "Fire Walk With Me (Twin Peaks)" },
+      { "title" : "Twin Peaks (TV)" },
+      { "title" : "Supernatural (TV)" },
+      { "title" : "Haven (TV)" }
+
+
+    ],
+    "score" :
+    {
+      "title" : "Beneath the surface of a quiet little town",
+      "paragraphs" : [
+        "Somewhere in the American countryside, far away from the hustle and bustle of the big cities and nestled amongst the woods, sits a small idyllic town. People who pass through the town are often enchanted by its charm, despite it's being isolated from ‘civilisation' by at least half a day's drive. And the people are charming too.",
+        "But under the surface there are secrets. Secrets they have from each other, sometimes, but almost certainly secrets they keep from visitors. And it is said that many secrets lurk in the woods beyond the edge of town, where the shadows of trees obscure greater mysteries.",
+        "The town has kept itself for a long time, has ensured secret remain secret. But when outisders come to town and begin digging around, what will the locals do to ensure their secrets remain hidden?",
+        "Based in part on Twin Peaks, partly on modern day fairy tales where girls who venture into the woods find there are worse things than wolves lurking in the shadows, and partly on Lovecraftian horror about out of the way communities that have made pacts with dark and alien forces.",
+        "This playset also taps into TV shows like Northern Exposure, and Gravity Falls if you'd prefer a slightly less grim story."
+      ],
+      "tagline" : "in a little town of secrets"
+    },
+    "relationships" : [
+		{
+			"title" : "Family",
+			"elements" : [
+				"Parent and child",
+				"Married couple",
+				"Siblings",
+				"Cousins",
+				"As close as family",
+				"Relatives through marriage"
+			]
+		},
+		{
+			"title" : "School",
+			"elements" : [
+				"Prom queen and best friend",
+				"Teenagers in love",
+				"Young rebels",
+				"Bully and victim",
+				"Teachers",
+				"Awkward teacher/pupil relationship"
+			]
+		},
+		{
+			"title" : "Professional",
+			"elements" : [
+				"Town sheriff and deputy",
+				"Doctor and patient",
+				"Large business owner and employee",
+				"Small business owner and regular patron",
+				"Receptionist and boss",
+				"The Town Mayor and advisor"
+			]
+		},
+		{
+			"title" : "Around Town",
+			"elements" : [
+				"Regulars at the diner",
+				"Regulars at the church",
+				"Life-long friends",
+				"Labourers/odd-job ‘men'",
+				"Local gossips/eccentrics",
+				"Old childhood sweethearts"
+			]
+		},
+		{
+			"title" : "Secret",
+			"elements" : [
+				"Lovers",
+				"Drug dealers/criminals",
+				"Dabblers in drugs and/or prostitution",
+				"Dabblers in dark magics/philosophies",
+				"Members of a secret society",
+				"Vessel possessed by dark forces"
+			]
+		},
+		{
+			"title" : "Out of town",
+			"elements" : [
+				"Government agent and local contact",
+				"Visitor and host(ess)",
+				"Short-time resident and newly arrived ‘replacement'",
+				"Old friends/colleagues, long ago and far away",
+				"Lost in the woods",
+				"Know what lurks in the woods"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "...To Get Rich...",
+			"elements" : [
+				"...by snuffing out the competition",
+				"...by smuggling drugs in/out of the country",
+				"...by an inheritance - not necessarily your own",
+				"...to pay off mounting gambling debts",
+				"...by tracking down a long hidden stash",
+				"...by blackmailing someone whose secret you know"
+			]
+		},
+		{
+			"title" : "...To Get Laid...",
+			"elements" : [
+				"...for the first time",
+				"...for the last time",
+				"...for cash, to fund a secret habit",
+				"...in order to produce an heir",
+				"...in order to get yourself a man/woman",
+				"...as part of some dark ritual"
+			]
+		},
+		{
+			"title" : "...To Find Answers...",
+			"elements" : [
+				"...about what happened to the girl",
+				"...about who your parents really are",
+				"...about the strange dreams",
+				"...about the things in the woods",
+				"...about who tried to kill you",
+				"...about the whereabouts of your old rival"
+			]
+		},
+		{
+			"title" : "...To Hide...",
+			"elements" : [
+				"...your involvement in recent events",
+				"...the murder weapon",
+				"...the smoking gun",
+				"...the girl's locket",
+				"...your intentions to kill again",
+				"...your tape recordings"
+			]
+		},
+		{
+			"title" : "...To Obtain...",
+			"elements" : [
+				"...revenge",
+				"...the mssing locket",
+				"...the next book in the series",
+				"...the trust of the locals",
+				"...the trust of those who dwell in the words",
+				"...the deeds to a property you've long wanted"
+			]
+		},
+		{
+			"title" : "...To Kill...",
+			"elements" : [
+				"...any rumours about your whereabouts that night",
+				"...that person who won't shut up",
+				"...that kid that's been digging too deep",
+				"...your old rival, once and for all",
+				"...those monsters that dwell in the forest",
+				"...yourself, once the truth is out"
+			]
+		}
+    ],
+    "locations" : [
+		{
+			"title" : "The Diner",
+			"elements" : [
+				"At the front door, before opening hours",
+				"Ordering a coffee from a waitress",
+				"Chatting at the counter",
+				"Someone arrives to impart information",
+				"An awkward conversation with a teenager",
+				"Waiting in the carpark"
+			]
+		},
+		{
+			"title" : "Local Law Enforcement",
+			"elements" : [
+				"At the reception in the Sheriff's office",
+				"The Sheriff's personal office",
+				"Locked up in a cell",
+				"A stake-out at a property in the woods",
+				"A police car at the side of the road, boot open",
+				"Handcuffed in the back of a police car"
+			]
+		},
+		{
+			"title" : "Around Town",
+			"elements" : [
+				"The local bar, near closing time",
+				"In a classroom, with a conspiciously empty chair",
+				"In the foyer of the local hotel",
+				"On the couch at the doctor's office",
+				"A small studio for local radio",
+				"At the side of a open grave, paying your respects"
+			]
+		},
+		{
+			"title" : "Residential",
+			"elements" : [
+				"Outside a beautiful white house",
+				"Lying on a bed with the window open",
+				"Chatting with family over dinner",
+				"Staring into the mirror, smiling",
+				"A conversation with a guest turns bad",
+				"Attacked as you open the door to your room"
+			]
+		},
+		{
+			"title" : "Out Of Town",
+			"elements" : [
+				"The winding road into town",
+				"The lumber mill",
+				"The river, and the crossing over it",
+				"The lake, and what lies beneath the surface",
+				"The local gas-station",
+				"A small farm that suppors the town"
+			]
+		},
+		{
+			"title" : "Heading into the Woods",
+			"elements" : [
+				"The ruins of a building, long collapsed",
+				"The exclusive little club, off the beaten track",
+				"The cosey cabin in the middle of nowhere",
+				"The cave that hides an ancient secret",
+				"The circular arrangement of trees",
+				"The large tree in the centre of the clearing"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Weapons",
+			"elements" : [
+				"The Sheriff's shotgun",
+				"A kitchen knife",
+				"A pair of leather gloves",
+				"A small pistol",
+				"A viscous blade in the hands of a maniac",
+				"A stick grabbed from the ground"
+			]
+		},
+		{
+			"title" : "Criminal Activity",
+			"elements" : [
+				"A steady supply of cocaine",
+				"Locally produced marajuana",
+				"Bootlegged liquor",
+				"Counterfeit money",
+				"An arsonist's shopping list of chemicals",
+				"Details of the town's secret brothel"
+			]
+		},
+		{
+			"title" : "The Victim's Possessions",
+			"elements" : [
+				"A letter from her birth mother",
+				"Her mobile phone, left behind",
+				"Half of a locket, the other half hidden somewhere",
+				"A red hooded jacket",
+				"A diary of every day events",
+				"A secret diary that reveals her dark secrets"
+			]
+		},
+		{
+			"title" : "Clues",
+			"elements" : [
+				"A recording in possession of the local shrink",
+				"A strange message picked up by local technology",
+				"Something under the victim's finger nail",
+				"Display of local history",
+				"Footprints in the mud",
+				"Something weird about the men around town"
+			]
+		},
+		{
+			"title" : "Omens",
+			"elements" : [
+				"An amulet of native American origin",
+				"Ancient wall paintings",
+				"Dreams of a mysterious room",
+				"A near death experience provides answers",
+				"Strange carved human-sized figures",
+				"The log. It speaks to you."
+			]
+		},
+		{
+			"title" : "Creatures",
+			"elements" : [
+				"An owl swoops overhead",
+				"The howling of wolves",
+				"A talking bird",
+				"The boy who lives in the woods",
+				"In the shadows they look like men",
+				"Spirits that inhabit the mysterious otherworld"
+			]
+		}
+    ]
+  }
+}
