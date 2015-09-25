@@ -31,6 +31,20 @@ nav {
 	border-bottom: 4px solid #ffffff;
 	}
 
+.head {
+  position: absolute;
+  right: 13px;
+  top: 21px;
+}
+
+.togglePreviewMode {
+  display: none;
+}
+
+.togglePreviewMode img {
+  width: 40px;
+}
+
 form {
 	margin: 0 8px;
 	}
@@ -74,30 +88,8 @@ a {
   background-color: white;
 }
 
-.playsetPreviews .head,
 .playsetPreviews .about {
   background-color: black;
-}
-
-.playsetPreviews .head {
-  height: 60px;
-}
-
-.togglePreviewMode {
-  color: white;
-	font: 400 24px "Syncopate", Helvetica, Arial, sans-serif;
-	letter-spacing: 0.05em;
-	padding: 0 8px;
-  float: right;
-  text-transform: uppercase;
-  text-decoration: none;
-
-  display: none;
-}
-
-.togglePreviewMode img {
-  padding-top: 10px;
-  width: 40px;
 }
 
 .previewMode-cover .byCover {

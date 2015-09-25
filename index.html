@@ -22,8 +22,15 @@
 	<title>FiascoMobile</title>
 	<!-- Mobile Edition Window -->
 </head>
-<body>
-<nav><img src="img/header.png" alt="FiascoMobile" onClick="loadHomeScreen();" /></nav>
+<body class="previewMode-name">
+<nav>
+  <div class="head">
+    <a class="togglePreviewMode byName" href="#"><img src="img/cover.gif" /></a>
+    <a class="togglePreviewMode byCover" href="#"><img src="img/list.gif" /></a>
+    <div class="clear"> </div>
+  </div>
+  <img src="img/header.png" alt="FiascoMobile" onClick="loadHomeScreen();" />
+</nav>
 
 <div id="IOSContainer">
 </div>

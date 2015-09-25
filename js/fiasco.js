@@ -35,7 +35,7 @@ function buildTogglePreviewModeHandler() {
   var mode = 'name';
 
   return function() {
-    $('.playsetPreviews').removeClass('previewMode-' + mode);
+    $('body').removeClass('previewMode-' + mode);
 
     if (mode  == 'name') {
       mode = 'cover';
@@ -43,7 +43,7 @@ function buildTogglePreviewModeHandler() {
       mode = 'name';
     }
 
-    $('.playsetPreviews').addClass('previewMode-' + mode);
+    $('body').addClass('previewMode-' + mode);
 
     return false;
   }
