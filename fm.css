@@ -49,7 +49,9 @@ form {
 	margin: 0 8px;
 	}
 
-h1 {
+h1,
+.previewMode-cover .playsetList .name
+{
 	font: 400 24px "Syncopate", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	color: #c8a984;
@@ -109,10 +111,17 @@ a {
   background-color: white;
 }
 
-.playsets h1 {
+.playsets h1,
+.previewMode-cover .playsetList .name
+{
   clear: both;
   padding: 15px;
   background-color: #222;
+}
+
+.previewMode-cover .playsetList .name {
+  text-align: left;
+  width: 100%;
 }
 
 .previewMode-cover .playsetList {
@@ -121,7 +130,6 @@ a {
   float: left;
 }
 
-.playsetList .name,
 .playsetList .cover {
   display: none;
 }
@@ -137,7 +145,6 @@ a {
 .previewMode-cover .playsetList {
   display: none;
   width: 100%;
-  text-align: center;
   margin-left: auto;
   margin-right: auto;
 }
@@ -154,11 +161,12 @@ a {
 
 .previewMode-cover .playsetList.selected {
   display: inherit;
-  padding: 5px;
+  padding: 0;
 }
 
-.previewMode-cover .playsetList.selected .name {
-  display: none;
+.previewMode-cover .playsetList .name {
+  display: block;
+  margin: 0 0 5px 0;
 }
 
 .previewMode-cover .playsetList.selected .cover {
