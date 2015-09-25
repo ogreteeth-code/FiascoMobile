@@ -110,6 +110,10 @@ function advanceCover(direction) {
 }
 
 function onSwipeCover(event) {
+  if (! $('body').hasClass('previewMode-cover')) {
+    return;
+  }
+
   if (event.type == 'swiperight') {
     advanceCover('right')
   } else {
