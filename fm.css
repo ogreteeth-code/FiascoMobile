@@ -175,6 +175,7 @@ a {
 .previewMode-cover .playsetList .name {
   display: block;
   margin: 0 0 5px 0;
+  min-height: 55px;
 }
 
 .previewMode-cover .playsetList.selected .cover {
