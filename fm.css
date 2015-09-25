@@ -106,9 +106,9 @@ a {
   background-color: white;
 }
 
-.previewMode-cover .playsets {
+.previewMode-cover .playsetList {
   clear: both;
-  background-color: white;
+  background-image: none;
 }
 
 .playsets h1,
@@ -116,7 +116,6 @@ a {
 {
   clear: both;
   padding: 15px;
-  background-color: #222;
 }
 
 .previewMode-cover .playsetList .name {
@@ -124,14 +123,23 @@ a {
   width: 100%;
 }
 
+.previewMode-cover .playsets {
+  background-image: url(img/playset-name-background.png);
+  background-repeat: repeat-x;
+  background-position: 0px 1px;
+}
+
 .previewMode-cover .playsetList {
-  background-image: none;
+  background-color: transparent;
   border: none;
-  float: left;
 }
 
 .playsetList .cover {
   display: none;
+}
+
+.playsetCategory {
+  background-color: #222;
 }
 
 .previewMode-cover .playsetCategory {
