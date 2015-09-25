@@ -92,14 +92,20 @@ function advanceCover(direction) {
   var $next;
 
   if (direction == 'right') {
+    var otherDirection = 'left';
     $next = $selected.prevAll('.playsetList:not(.disable)').first();
   } else { // left
+    var otherDirection = 'right';
     $next = $selected.nextAll('.playsetList:not(.disable)').first();
   }
 
   if ($next.length > 0) {
-    $selected.removeClass('selected');
-    $next.addClass('selected');
+    $selected.hide("slide", { direction: direction }, function() {
+      $selected.removeClass('selected');
+      $next.hide();
+      $next.addClass('selected');
+      $next.show("slide", { direction: otherDirection });
+    });
   }
 }
 
