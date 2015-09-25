@@ -34,7 +34,7 @@ function homescreen(reset) {
 function buildTogglePreviewModeHandler() {
   var mode = 'name';
 
-  return function() {
+  function swapModes() {
     $('body').removeClass('previewMode-' + mode);
 
     if (mode  == 'name') {
@@ -44,6 +44,14 @@ function buildTogglePreviewModeHandler() {
     }
 
     $('body').addClass('previewMode-' + mode);
+  }
+
+  return function() {
+    if (storeValue === 1) { // Only changes modes if we're already on the home screen
+      swapModes();
+    }
+
+    loadHomeScreen();
 
     return false;
   }
