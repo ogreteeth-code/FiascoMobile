@@ -177,7 +177,7 @@ a {
   display: none;
   padding: 10px 5px 5px 5px;
   position: absolute;
-  margin-top: 90px;
+  margin-top: 160px;
 }
 
 .previewMode-cover .coverArrow {
@@ -284,5 +284,9 @@ a {
     .previewMode-cover .playsetList.selected .cover {
       width: 100%;
     }
+
+  .playsets .coverArrow {
+    margin-top: 60%;
+  }
 
 }
