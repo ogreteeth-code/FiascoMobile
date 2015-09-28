@@ -25,7 +25,7 @@ print <<EO1;
 EO1
 
 
-# &envy;
+ #  &envy;
 
 @playset = split('\?', $ENV{HTTP_REFERER});
 
@@ -36,6 +36,9 @@ if (@playset[1]) {
 	# print "playset: $playset<br />";
 } else {
 	# print "Eql?";
+	# print "<!--";
+	# @playset[0] = split('fm.pl', @playset[0]);
+	# print "-->";
 }
 
 if ($ENV{'REQUEST_METHOD'} eq "POST") {
@@ -44,7 +47,9 @@ if ($ENV{'REQUEST_METHOD'} eq "POST") {
 
 	@values = split('&', $request);
 	foreach $val (@values) {
+		# print "<!--";
 		# print "$val<br />\n"; #this line prints the split input for verification. You can use it commented for now.
+		# print "-->";
 		%splitval = (%splitval, split('=', $val));
 		}
 
@@ -91,13 +96,22 @@ sub ValidateQ($) {
 }
 
 sub PreValidated($) {
-	if ($_[0] == "true") {print "<script>location.href='@playset[0]lns/$digest.html';</script></div>";}
+	if ($_[0] == "true") {print "<script>location.href='@playset[0]lns/$digest.php';</script></div>";}
 }
 
 sub ValidatedGo() {
-	print "<script>document.getElementById('title').innerHTML = 'Success!';setTimeout(\"document.getElementById('footer').style.display = 'none'\", 35);</script>
-	Thanks for logging in! Click the following link to go directly to the playsets, and then bookmark or add the resulting page to your Mobile Home Screen<br />
-	</div><div id=\"playnow\" onClick=\"javascript:location.href='@playset[0]/lns/$digest.html?$playset';\">LOG IN NOW</div>";
+	if ($ENV{'HTTP_USER_AGENT'} =~ "MSIE 10.0") {
+		$LINKME = "><a href=\"/lns/$digest.php?$playset\" style=\"color: #b41e09;text-decoration: none;\">LOG IN NOW</a>";
+	} else {
+		$LINKME = "onClick=\"javascript:location.href='@playset[0]lns/$digest.php?$playset';\">LOG IN NOW";
+	}
+	# print "<script>document.getElementById('title').innerHTML = 'Success!';setTimeout(\"document.getElementById('footer').style.display = 'none'\", 35);</script>
+	# Thanks for logging in! Click the following link to go directly to the playsets, and then bookmark or add the resulting page to your Mobile Home Screen<br />
+	# </div><div id=\"playnow\" onClick=\"javascript:location.href='@playset[0]lns/$digest.php?$playset';\">LOG IN NOW</div>";
+        print "<script>document.getElementById('title').innerHTML = 'Success!';setTimeout(\"document.getElementById('footer').style.display = 'none'\", 35);</script>
+        Thanks for logging in! Click the following link to go directly to the playsets, and then bookmark or add the resulting page to your Mobile Home Screen<br />
+        </div><div id=\"playnow\"$LINKME</div>";
+
 }
 
 sub ValidateFail($) {
