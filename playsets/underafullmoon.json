@@ -1,0 +1,300 @@
+{
+  "playset" :
+  {
+    "title" : "Under a Full Moon",
+    "credits" : 
+    {
+      "author" : "Simon Brake"
+    },
+    "movie_night" :
+    [
+      { "title" : "Red Riding Hood" },
+      { "title" : "Company of Wolves" },
+      { "title" : "Brothers Grimm" },
+      { "title" : "Van Helsing" }
+    ],
+    "score" :
+    {
+      "title" : "Don't stray from the path.",
+      "paragraphs" : [
+        "Once upon a time, in a land not so far away, in a small town at the edge of a deep dark forest, the people were a superstitious lot, afraid of the shadows, jumping at the howlings of wolves in the night. Some of them say that wolves walk amongst them as men, whilst others suggest there are darker magics at work in the town.",
+        "And so it is that, when the town begins to be plagued by sinister occurrances, animals turning up dead and mutilated, the town elders look to each other to find a solution to their problems, whilst the rest of the town prepare themselves the best they can, locking their doors and windows at night, watching out for the suspicious activities of neighbours and strangers alike. And if someone dies tonight perhaps they'll take it into their own hands and ensure that one of those monsters dies tomorrow, hanging on the gallows at the centre of town.",
+        "This Fiasco is based around the numerous games in which the townsfolk need to eliminate the werewolves amongst them, before they outnumber the townsfolk. It makes nods towards werewolf fiction and fairy tales, as well as films such as The Village and The Legend of Sleepy Hollow.",
+        "If there isn't clearly a werewolf in play when the characters are created you can discover one through play. Alternatively, whoever has the most black dice by the Aftermath (number of dice, not total rolled, and yes, this could be multiple players) are 'revealed' as the werewolves."
+      ],
+      "tagline" : "under a full moon"
+    },
+    "relationships" : [
+		{
+			"title" : "Family",
+			"elements" : [
+				"Parent and child",
+				"Aunt/uncle and niece/nephew",
+				"Grandparent and doting grandchild",
+				"Siblings",
+				"Cousins",
+				"As close as family"
+			]
+		},
+		{
+			"title" : "Friends",
+			"elements" : [
+				"Since school",
+				"Neighbours",
+				"Drinking buddies",
+				"Work colleagues",
+				"Church goers",
+				"A shared experience not discussed"
+			]
+		},
+		{
+			"title" : "Romance",
+			"elements" : [
+				"Long time married",
+				"Newly married",
+				"Engaged to be wed",
+				"Childhood sweethearts",
+				"Starcrossed lovers",
+				"Will they/won't they?"
+			]
+		},
+		{
+			"title" : "Townsfolk",
+			"elements" : [
+				"Town elders",
+				"Town guards",
+				"The butcher, the baker",
+				"The doctor, the priest",
+				"The mayor and his clerk",
+				"The teacher and her favourite student"
+			]
+		},
+		{
+			"title" : "Outsiders",
+			"elements" : [
+				"Foreign folk with weird customs",
+				"Newly arrived travellers",
+				"The woodsman and the old woman",
+				"The huntsman and the old man",
+				"The homeless person and who they ran away from",
+				"The local idiot and the one who trusts him/her"
+			]
+		},
+		{
+			"title" : "Supernatural",
+			"elements" : [
+				"Creatures of the night",
+				"The Werewolf and his/her partner",
+				"The Seer and the one he/she loves",
+				"The Vampire and his/her assistant",
+				"The Witch and the one she/he has cursed",
+				"A Devil and an Angel, in human form"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "To Protect...",
+			"elements" : [
+				"the town",
+				"the world!",
+				"your family",
+				"the identities of the secret rulers of the town",
+				"the one you love",
+				"the church"
+			]
+		},
+		{
+			"title" : "To Destroy...",
+			"elements" : [
+				"the town",
+				"the monsters in the forest",
+				"the monsters in the town",
+				"those who destroyed your dreams",
+				"those that would use foul magic",
+				"the church"
+			]
+		},
+		{
+			"title" : "To Find...",
+			"elements" : [
+				"forgiveness from those you wronged",
+				"peace, after all the bloodshed",
+				"the magic in the forest",
+				"a way to keep your curse from destroying you",
+				"a cure for the disease",
+				"your missing child"
+			]
+		},
+		{
+			"title" : "To Build...",
+			"elements" : [
+				"a strong community",
+				"a strong wall around the town",
+				"a home of your own in the forest",
+				"your status within the town",
+				"your wealth within the town",
+				"bridges between all the fighting factions"
+			]
+		},
+		{
+			"title" : "To Reveal...",
+			"elements" : [
+				"those who are monsters",
+				"those who dabble with magic",
+				"the identity of the killer",
+				"the members of the secret society in town",
+				"the foul practices of those you despise",
+				"your true identity, at the right moment"
+			]
+		},
+		{
+			"title" : "To Escape...",
+			"elements" : [
+				"from the town",
+				"from the forest",
+				"from your family",
+				"from your past",
+				"from your cruel fate",
+				"from your heroic destiny"
+			]
+		}
+    ],
+    "locations" : [
+		{
+			"title" : "Town Hall",
+			"elements" : [
+				"In front of the grand Town Hall",
+				"A council office",
+				"The main assembly hall",
+				"The dark and dusty attic",
+				"Holding cells in the basement",
+				"The guard room"
+			]
+		},
+		{
+			"title" : "Town Centre",
+			"elements" : [
+				"The town green",
+				"The church",
+				"The belltower",
+				"The churchyard",
+				"The wishing well",
+				"The Wolf and Hound tavern"
+			]
+		},
+		{
+			"title" : "Marketplace",
+			"elements" : [
+				"The back room of the butchers",
+				"The baker's store",
+				"The grocer's stall",
+				"The florist's stall",
+				"The herbalist's stall",
+				"The curious old shop off the main square"
+			]
+		},
+		{
+			"title" : "Outskirts",
+			"elements" : [
+				"The school",
+				"The schoolyard",
+				"The doctor's surgery",
+				"A fancy townhouse (of a wealthier inhabitant)",
+				"A small townhouse",
+				"The gallows"
+			]
+		},
+		{
+			"title" : "The Edge of the Forest",
+			"elements" : [
+				"The watch tower",
+				"A field at the edge of the farm",
+				"The farmhouse",
+				"The bridge over the river",
+				"The unmarked grave",
+				"The perimeter fence"
+			]
+		},
+		{
+			"title" : "Deep in the Forest",
+			"elements" : [
+				"A dark and gloomy cave",
+				"A large and twisted tree",
+				"A mysterious dwelling",
+				"A wide open clearing",
+				"An abandoned campsite",
+				"A strangely marked boulder"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Offensive",
+			"elements" : [
+				"A single finely crafted sword",
+				"Battered old swords",
+				"Burning torches",
+				"Pitchforks",
+				"A cruel bladed knife",
+				"The one pistol in town"
+			]
+		},
+		{
+			"title" : "Defensive",
+			"elements" : [
+				"A reinforced iron door",
+				"A dented shield",
+				"A tarnished helmet",
+				"A secret hiding place under the floor",
+				"A bell to alert the town guard",
+				"Someone who has sworn to protect you"
+			]
+		},
+		{
+			"title" : "Domestic",
+			"elements" : [
+				"A carving knife",
+				"A leaky wooden bucket",
+				"A small wooden toy",
+				"The comfortable chair by the fire",
+				"Washing hung out to dry",
+				"The loyal dog"
+			]
+		},
+		{
+			"title" : "Wild",
+			"elements" : [
+				"A lone curious raven",
+				"Wolf tracks in the mud",
+				"A savaged farm animal",
+				"Howling in the night",
+				"Sightings of bats",
+				"A particularly vicious cat"
+			]
+		},
+		{
+			"title" : "'Blessed'",
+			"elements" : [
+				"An ornate cross",
+				"A small silver crucifix and bible",
+				"A sprig of wolfsbane",
+				"A string of garlic",
+				"A bowl of holy water",
+				"A mirror which shows the truth"
+			]
+		},
+		{
+			"title" : "'Cursed'",
+			"elements" : [
+				"The Devil's Mark",
+				"A metal cauldron",
+				"An infected bite",
+				"A disturbing doll made with real hair",
+				"A pentacle amulet",
+				"An occult book of hideous truths"
+			]
+		}
+    ]
+  }
+}

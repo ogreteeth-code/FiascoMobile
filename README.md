@@ -25,9 +25,10 @@ Wishlist:
 + Playset: Little Town, Dark Woods
 + Playset: Resleeved
 + Playset: Risky Business
++ Playset: Under a Full Moon
 * Added "The Car" as a top-level category template
 * Updated to latest version of PhoneGap
-* Current count: 59 playsets
+* Current count: 60 playsets
 * Windows Phone 8.x Browser: Solved arcane bug where punctuation in submitted form failed to be translated into %## code, as well as workaround for failure to correctly handle javascript href.location script.
 
 1.2.1
