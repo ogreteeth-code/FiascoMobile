@@ -15,7 +15,7 @@ Wishlist:
 
 # # #
 
-1.2.2 (unreleased as app)
+1.2.5 (unreleased as app)
 + Playset: #superheroes
 + Playset: 300 Crooks
 + Playset: Double Cross Country Dash
