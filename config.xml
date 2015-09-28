@@ -6,7 +6,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.brooklynindiegames.fiascomobile"
         version   = "1.2.5">
-<!--<date-updated>9/7/2014</date-updated>-->
+<!--<date-updated>9/27/2015</date-updated>-->
     <name>FiascoMobile</name>
 
     <description>
