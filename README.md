@@ -15,7 +15,7 @@ Wishlist:
 
 # # #
 
-1.2.5 (unreleased as app)
+1.2.5
 + Playset: #superheroes
 + Playset: 300 Crooks
 + Playset: Double Cross Country Dash
@@ -28,7 +28,7 @@ Wishlist:
 + Playset: Risky Business
 + Playset: Under a Full Moon
 * Added "The Car" as a top-level category template
-* Updated to PhoneGap multi-version build cli-5.1.1
+* Updated to PhoneGap multi-version build cli-5.2.0
 * Current count: 60 playsets
 * Windows Phone 8.x Browser: Solved arcane bug where punctuation in submitted form failed to be translated into %## code, as well as workaround for failure to correctly handle javascript href.location script.
 
