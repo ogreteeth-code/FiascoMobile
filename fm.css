@@ -79,7 +79,7 @@ a {
 	padding: 7px 0 7px 4px;
 	border-bottom: 1px dashed #be8e4d;
 	font: 21px "Metrophobic", Helvetica, Arial, sans-serif;
-	background: #a61212 url('img/fiascoarrow.png') no-repeat 98% center;
+	background: white url('img/fiascoarrow.png') no-repeat 98% center;
 	}
 
 .disable {
@@ -127,7 +127,7 @@ a {
 	}
 
 .playset h2 {
-	background: #a61212 url('img/fiascoarrow.png') no-repeat 98% center;
+	background: white url('img/fiascoarrow.png') no-repeat 98% center;
 	}
 
 .L1 {
