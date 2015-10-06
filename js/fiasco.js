@@ -1,6 +1,7 @@
 function loadHomeScreen() {
 	homescreen(1);
 	$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
+
 	setTimeout(function(){scrollTo(0,0)},1);
 }
 
@@ -30,12 +31,38 @@ function homescreen(reset) {
 	return storeValue;
 }
 
+function buildTogglePreviewModeHandler() {
+  var mode = 'name';
+
+  function swapModes() {
+    $('body').removeClass('previewMode-' + mode);
+
+    if (mode  == 'name') {
+      mode = 'cover';
+    } else if (mode == 'cover') {
+      mode = 'name';
+    }
+
+    $('body').addClass('previewMode-' + mode);
+  }
+
+  return function() {
+    if (storeValue === 1) { // Only changes modes if we're already on the home screen
+      swapModes();
+    }
+
+    loadHomeScreen();
+
+    return false;
+  }
+}
+
 function getPlayset(playset) {
 	homescreen(2);
 	currentPlayset = playset;
 	// console.log(playset);
 	title = {"filename": playset};
-	$.getJSON("playsets/" + playset,function(data) {data = title.merge(data); $("#playsetTitleScreen").tmpl(data).replaceAll("#IOSContainer");});
+	$.getJSON("playsets/" + playset,function(data) {data = merge(title, data); $("#playsetTitleScreen").tmpl(data).replaceAll("#IOSContainer");});
 	setTimeout(function(){scrollTo(0,0)},1);
 }
 
@@ -57,8 +84,44 @@ function catchback(){
 	$(document).bind("deviceready", onPhoneReady); //when phone is ready 
 }
 
+function merge(o, ob) {;var i = 0;for (var z in ob) {if (ob.hasOwnProperty(z)) {o[z] = ob[z];}}return o;}
 
-Object.prototype.merge = (function (ob) {var o = this;var i = 0;for (var z in ob) {if (ob.hasOwnProperty(z)) {o[z] = ob[z];}}return o;});
+function advanceCover(direction) {
+  var $selected = $('.playsets .playsetList.selected');
+
+  var $next;
+
+  if (direction == 'right') {
+    var otherDirection = 'left';
+    $next = $selected.prevAll('.playsetList:not(.disable)').first();
+  } else { // left
+    var otherDirection = 'right';
+    $next = $selected.nextAll('.playsetList:not(.disable)').first();
+  }
+
+  if ($next.length > 0) {
+    $selected.hide("slide", { direction: direction }, function() {
+      $selected.removeClass('selected');
+      $next.hide();
+      $next.addClass('selected');
+      $next.show("slide", { direction: otherDirection });
+    });
+  }
+}
+
+function onSwipeCover(event) {
+  if (! $('body').hasClass('previewMode-cover')) {
+    return;
+  }
+
+  if (event.type == 'swiperight') {
+    advanceCover('right')
+  } else {
+    advanceCover('left')
+  }
+
+  return false;
+}
 
 $.get('tmpl/_playsetTitleScreen.tmpl.html', function(templates) {$('body').append(templates);});
 $.get('tmpl/_playsetProper.tmpl.html', function(templates) {$('body').append(templates);});
@@ -70,6 +133,13 @@ $(document).ready(function(){
 	} else {
 	    loadHomeScreen();
 	}
+
+  $('body').on('click', '.togglePreviewMode', buildTogglePreviewModeHandler());
+  $('body').on('swiperight', '.playsetList', onSwipeCover);
+  $('body').on('swipeleft', '.playsetList', onSwipeCover);
+  $('body').on('click', '.playsets .coverArrow.nextCover', function() { return onSwipeCover('right'); });
+  $('body').on('click', '.playsets .coverArrow.previousCover', function() { return onSwipeCover('left'); });
+
 	//load the android back button catcher.
 	document.addEventListener("deviceready", onPhoneReady, false);
 });

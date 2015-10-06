@@ -31,11 +31,27 @@ nav {
 	border-bottom: 4px solid #ffffff;
 	}
 
+.head {
+  position: absolute;
+  right: 13px;
+  top: 21px;
+}
+
+.togglePreviewMode {
+  display: none;
+}
+
+.togglePreviewMode img {
+  width: 40px;
+}
+
 form {
 	margin: 0 8px;
 	}
 
-h1 {
+h1,
+.previewMode-cover .playsetList .name
+{
 	font: 400 24px "Syncopate", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	color: #c8a984;
@@ -70,6 +86,117 @@ a {
 	color: black;
 }
 
+.playsetPreviews {
+  background-color: white;
+}
+
+.playsetPreviews .about {
+  background-color: black;
+}
+
+.previewMode-cover .byCover {
+  display: inherit;
+}
+
+.previewMode-name .byName {
+  display: inherit;
+}
+
+.playsetsWrapper {
+  background-color: white;
+}
+
+.previewMode-cover .playsetList {
+  clear: both;
+  background-image: none;
+}
+
+.playsets h1,
+.previewMode-cover .playsetList .name
+{
+  clear: both;
+  padding: 15px;
+}
+
+.previewMode-cover .playsetList .name {
+  text-align: left;
+  width: 100%;
+}
+
+.previewMode-cover .playsets {
+  background-image: url(img/playset-name-background.png);
+  background-repeat: repeat-x;
+  background-position: 0px 1px;
+}
+
+.previewMode-cover .playsetList {
+  background-color: transparent;
+  border: none;
+}
+
+.playsetList .cover {
+  display: none;
+}
+
+.playsetCategory {
+  background-color: #222;
+}
+
+.previewMode-cover .playsetCategory {
+  display: none;
+}
+
+.previewMode-name .playsetList .name {
+  display: inherit;
+}
+
+.previewMode-cover .playsetList {
+  display: none;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.previewMode-cover .playsetList .cover {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.previewMode-cover .playsetList.disable {
+  display: none;
+}
+
+.previewMode-cover .playsetList.selected {
+  display: inherit;
+  padding: 0;
+}
+
+.previewMode-cover .playsetList .name {
+  display: block;
+  margin: 0 0 5px 0;
+  min-height: 55px;
+}
+
+.previewMode-cover .playsetList.selected .cover {
+  display: inherit;
+}
+
+.playsets .coverArrow {
+  display: none;
+  padding: 10px 5px 5px 5px;
+  position: absolute;
+  margin-top: 160px;
+}
+
+.previewMode-cover .coverArrow {
+  display: inherit;
+}
+
+.playsets .coverArrow.nextCover {
+  right: 0;
+}
+
 .footer {
 	text-align: right;
 }
@@ -86,6 +213,14 @@ a {
 	background-color: #910a0a;
 	display: none;
 	}
+
+.about {
+  clear: both;
+}
+
+.about h1 {
+  padding: 15px;
+}
 
 .demo {
 	background-color: #640000;
@@ -140,3 +275,27 @@ a {
 	padding: 0 0 10px 0;
 	font-size: 16px;
 	}
+
+.clear {
+  clear: both;
+}
+
+/* Phones */
+@media only screen 
+  and (min-width: 320px) 
+  and (max-width: 800px) {
+
+    .previewMode-cover .coverWrapper {
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+
+    .previewMode-cover .playsetList.selected .cover {
+      width: 100%;
+    }
+
+  .playsets .coverArrow {
+    margin-top: 60%;
+  }
+
+}
