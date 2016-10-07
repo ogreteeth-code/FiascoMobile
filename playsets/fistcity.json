@@ -1,0 +1,358 @@
+{
+  "playset" :
+  {
+    "title" : "Fist City",
+    "credits" : 
+    {
+      "author" : "James Mendez Hodes"
+    },
+    "movie_night" :
+    [
+      { "title" : "Enter the Dojo" },
+      { "title" : "Miami Connection" },
+      { "title" : "No More Heroes (video game)" },
+      { "title" : "Kill Bill" },
+      { "title" : "the Boondocks" },
+      { "title" : "Legend of the Liquid Sword" },
+      { "title" : "The Last Dragon" },
+      { "title" : "JCVD" },
+      { "title" : "The Man with the Iron Fists" },
+      { "title" : "Samurai Fiction" },
+      { "title" : "Kung Fu Hustle" },
+      { "title" : "Bloodsport" },
+      { "title" : "the Karate Kid" }
+    ],
+    "score" :
+    {
+      "title" : "Boulevard of Broken Boards",
+      "paragraphs" : [
+        "Among suburban America's rivers and lakes, parking lots and strip malls exists a secret community of warriors: martial pilgrims, spiritual leaders, and sublime masters. Bowing to no temporal authority and disregarding such mortal concerns as effectiveness, authenticity, racism, or taste, they clash with one another in underground fight clubs, heavily padded tournament halls, or black-backgrounded forums on the Internet.",
+        "Maybe you got into this business because you wanted strength or toughness or respect. Maybe you watched too much anime, too much Ultimate Fighting, or too many wuxia films. Maybe you needed a front for your drug dealership, or maybe you were just lonely. In any case, there's no backing out now. The gloves are off, or in some cases on, depending on your style. Ahead of you, the road to hell is paved with broken bottles, splintered timber, and the curbstomped faces of your enemies. Right after that it's paved with warrants for your arrest. Now come out and play."
+      ],
+      "tagline" : "In Fist City"
+    },
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+				"Divorced",
+				"Married to cement alliance between schools",
+				"Child and relative who took over for absent parent",
+				"Successful sibling, irresponsible sibling",
+				"In-laws",
+				"Parent of child who doesn't know you're their parent"
+				]
+			},
+			{
+				"title" : "Crime",
+				"elements" : [
+				"Corrupt neighborhood watch members",
+				"Paroled ex-convict and dishonorably discharged prison guard",
+				"Gang leader and traitor from the Scorpions",
+				"Pusher and addict",
+				"Uncertified holistic healer and license counterfeiter",
+				"Crafter and dealer of illegal martial arts equipment"
+				]
+			},
+			{
+				"title" : "Work",
+				"elements" : [
+				"Mall security",
+				"Small-time stunt double and fight choreographer",
+				"The only two members of a private military company",
+				"High school fencing and wrestling coaches",
+				"Biker bar bouncer and upscale nightclub door supervisor",
+				"Bureau of Alcohol, Tobacco, Firearms & Explosives desk jockeys"
+				]
+			},
+			{
+				"title" : "Religion",
+				"elements" : [
+				"Cult leader and follower",
+				"Militant evangelist and holiday religionist",
+				"Partners in violent misinterpretation",
+				"\"Reincarnated\" religious luminary and handler",
+				"Prophets",
+				"Defrocked cleric and congregant who exposed their crimes"
+				]
+			},
+			{
+				"title" : "Training Partners",
+				"elements" : [
+				"Teacher and live-in student",
+				"Partners in Death Touch fakery",
+				"Senior and junior student, one trying to seduce the other",
+				"Instructor and student who's actually better than them",
+				"Rival stylists secretly collaborating on a new style",
+				"Injuriously aggressive instructor and lawyer"
+				]
+			},
+			{
+				"title" : "Training Rivals",
+				"elements" : [
+				"Same nickname, different teachers",
+				"Second and third place at the last All-County Kumite",
+				"Enemy paintball team captains",
+				"Competing to inherit the dojo when emphysema kills Sensei",
+				"Practitioners of styles which are knockoffs of one another",
+				"Minor-promotion pro wrestling rivalry turned real"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get revenge",
+				"elements" : [
+				"...on your one-time bully",
+				"...on the one who pulled the wool over your eyes for so long",
+				"...on that meddling vigilante",
+				"...on the thieves who stole your secrets",
+				"...on the Scorpions",
+				"...on your master's murderer, of course"
+				]
+			},
+			{
+				"title" : "To win",
+				"elements" : [
+				"...the all-county mixed martial arts championship",
+				"...the all-county underground kumite championship",
+				"...control of the Parent-Teacher Association",
+				"...that cute white belt's affections",
+				"...membership in the Scorpions",
+				"...the right to call yourself master without everyone laughing"
+				]
+			},
+			{
+				"title" : "To lose",
+				"elements" : [
+				"...the distractions which keep you from fighting effectively",
+				"...the bad habit which keeps getting you knocked out",
+				"...the drug habit which is very quickly killing you",
+				"...the debt you owe to your nemesis",
+				"...so your parents will finally let you quit",
+				"...your reputation as a fraud"
+				]
+			},
+			{
+				"title" : "To learn",
+				"elements" : [
+				"...your rival style's secret technique",
+				"...the source of the Scorpions' invincibility",
+				"...how to swing a meteor hammer without killing yourself",
+				"...where the cash is hidden",
+				"...who sponsors the Kumite",
+				"...to unlock the power within you"
+				]
+			},
+			{
+				"title" : "To rule",
+				"elements" : [
+				"...the PCP trade with an iron fist",
+				"...the after-school activities pecking order",
+				"...the world—it's a mess, at least around here",
+				"...your own damn household for once",
+				"...from beyond the grave",
+				"...Co. B, 13th North Carolina Regiment, Army of Northern Virginia"
+				]
+			},
+			{
+				"title" : "To destroy",
+				"elements" : [
+				"...any drug dealer who will not bow to you",
+				"...the incident report",
+				"...the Ducati 1098 motorcycle belonging to the Scorpion leader",
+				"...yourself as gloriously as possible",
+				"...the evidence of your subterfuge",
+				"...the groin"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Asian Martial Arts Schools",
+				"elements" : [
+				"Screaming Shadow Ninja Academy",
+				"All-American Karate of America",
+				"Aikido taught by a medium channeling O-Sensei's ghost",
+				"Martial Falun Dafa",
+				"Russian Mafia combatives",
+				"Warrior Pose Yogic Self-Defense"
+				]
+			},
+			{
+				"title" : "Western Martial Arts Schools",
+				"elements" : [
+				"Frankish axe techniques reconstructed from an Osprey manual",
+				"Depressing boxing gym",
+				"1/128th Cherokee stealth commando techniques",
+				"Floridian machete fencing",
+				"Flying Armbar Cage Fighting",
+				"Weaponized LARP"
+				]
+			},
+			{
+				"title" : "Food and Drink",
+				"elements" : [
+				"Bar Fight (dojo by day, dive bar by night)",
+				"Strip mall Chicken Hut",
+				"Schulmann's Chinese Noodle Palace",
+				"One-percenter biker bar",
+				"Ayurvedic health food store",
+				"Apple Valley Supermarket sushi bar"
+				]
+			},
+			{
+				"title" : "Commerce",
+				"elements" : [
+				"Rhabdo Fit Gymnasium",
+				"Heritage Martial Arts Supply and Zombie Defense Outlet",
+				"Redbud Pawn Shop",
+				"Cheap theater which only shows decades-old chop-socky flicks",
+				"PCP lab hidden in the boarded-up former Versace's Pizza",
+				"The XXX Card, a strip joint"
+				]
+			},
+			{
+				"title" : "Wilderness",
+				"elements" : [
+				"Neo-pagan druidic circle",
+				"Survivalistbunker",
+				"Mud run course condemned by the County Health Board",
+				"Secret cave behind waterfall downstream from treatment plant",
+				"Moonlit bamboo forest on the Promise Hill Country Club golf course",
+				"Abandoned summer camp taken over by the Society for Creative Anachronism"
+				]
+			},
+			{
+				"title" : "Community",
+				"elements" : [
+				"Neighborhood Watch fortress (formerly the Weatherford house)",
+				"Lyman C Mills High School gymnasium",
+				"Family Federation for World Peace and Unification church",
+				"Masonic Temple",
+				"Municipal building, police station, courts and City Hall",
+				"Storefront cult"
+				]
+			}
+    ],
+    "objects" : [
+    		{
+				"title" : "Whispers on the Wind",
+				"elements" : [
+				"\"I'd rather be judged by twelve than carried by six\"",
+				"\"Our style is too deadly for competition\"",
+				"\"Eighty percent of fights go to the ground\"",
+				"\"I hope senpai will notice me\"",
+				"\"But does it work in the octagon?\"",
+				"\"But does it work on the street?\""
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+				"Throwing stars, throwing hearts, throwing rainbows",
+				"\"Ninja sword\" with straight blade and square handguard",
+				"Sai with sharpened points",
+				"Flying guillotine",
+				"Creatively modified garden tools",
+				"Plank with a nail in it"
+				]
+			},
+			{
+				"title" : "Special Techniques",
+				"elements" : [
+				"29 Pressure Points which Cause Cardiac Arrest if Struck in Order",
+				"Mystical Ninja Hand Symbols",
+				"Qi Fireball",
+				"Nut Shot",
+				"3.228-Inch Punch",
+				"Throw a Snake at Them"
+				]
+			},
+			{
+				"title" : "Garments",
+				"elements" : [
+				"Swedish plate armor which the art museum wants back",
+				"Training uniform composed entirely of patches",
+				"Ill-fitting youth category striped purple belt",
+				"Sexy ninja costume from Halloween City",
+				"Buddhist monk robes",
+				"Orange-and-purple camo fatigues"
+				]
+			},
+			{
+				"title" : "Training Regimens",
+				"elements" : [
+				"Sit under a waterfall during your lunch break",
+				"Tantric BDSM for qi development",
+				"24/7 stalking and ambushes by the teacher's prison buddies",
+				"Punch cars in the parking lot outside a rival dojo",
+				"$300/hour Skype lessons from Ethan Shepesky",
+				"Smartphone app that's like Tinder, but for fighting"
+				]
+			},
+			{
+				"title" : "Artifacts",
+				"elements" : [
+				"Golden panda",
+				"Certificate of authenticity, price tag still attached",
+				"Matching Chinese character tattoos, meanings forgotten",
+				"Wu-Tang Clan fanfiction novella",
+				"Towering plastic rhythmic gym-kata trophy",
+				"Disputed 6th (explosions) & 7th (food) chapters of the Book of Five Rings"
+				]
+			}
+    ],
+    "notes" : [
+    		{
+				"title" : "The Book of Five Rings",
+				"elements" : [
+				"The Book of Five Rings is a fencing manual by the autodidactic polymath Miyamoto Musashi (1584-1685). His blunt and pithy prose, bizarre personal habits, and unorthodox  ghting style have inspired hundreds of years of martial artists who think they don’t need real teachers or baths to become epic heroes."
+				]
+			},
+    		{
+				"title" : "Death Touch",
+				"elements" : [
+				"Death Touch is a legendary Chinese boxing technique which focuses energy (physical, mystical, or both) into a strike to a vital point such as an artery, in icting either instant or delayed (but certain) death. Of course I know how to do it, but I can’t demonstrate it because then I’d have to kill you."
+				]
+			},
+    		{
+				"title" : "Falun Dafa",
+				"elements" : [
+				"Falun Dafa is a system of oversimpli ed traditional Chinese meditative qì development plus moral philosophy. The Chinese Communist Party ruthlessly persecutes Falun Dafa, seeing it as an insurrectionist cult. They’re annoying, sure, but that doesn’t mean you oughta torture them."
+				]
+			},
+    		{
+				"title" : "Kumite",
+				"elements" : [
+				"Originally a karate term referring to various types of sparring, the Kumite referenced here is an illegal underground  ghting circuit so lethal and so secret that no one can verify the truth of your claims that you won it."
+				]
+			},
+    		{
+				"title" : "O-Sensei",
+				"elements" : [
+				"O-Sensei, literally \"Great Teacher,\" is the appellation of Ueshiba Morihei (1883-1969), a Japanese aristocrat who created the paci st martial art of aikido after a religious revelation. As O-Sensei aged, survived adventure after ill-advised adventure, and grew more and more notoriously invulnerable to any form of attack, his teachings became softer, more esoteric, and more inexplicable to anyone other than O-Sensei himself."
+				]
+			},
+    		{
+				"title" : "Qi",
+				"elements" : [
+				"Qi literally means \"breath,\" the Chinese cognate of the Sanskrit term \"prana,\" pronounced \"ki\" in Japanese or \"gi\" in Korean. Video game or anime characters or actual ninjas who appear to be throwing colors at each other are projecting this energy, which (depending on whom you ask) refers to anything from an abstract model of the way kinetic energy moves through the human body to the soul of the universe."
+				]
+			},
+    		{
+				"title" : "Senpai",
+				"elements" : [
+				"Senpai is a Japanese term for a student who is your senior. Especially a sexy one."
+				]
+			},
+    		{
+				"title" : "Ethan Shepesky",
+				"elements" : [
+				"Ethan Shepesky is an American martial artist largely responsible for the twentieth-century pop-culture ninja boom (and all those \"Oriental\" RPG supplements your parents threw out when you went to college). Dishonorably discharged from the Japanese martial art which trained him, Shepesky has founded his own ninja style and his own sect of Buddhism."
+				]
+			}
+	]
+
+  }
+}

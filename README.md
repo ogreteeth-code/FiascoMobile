@@ -11,9 +11,20 @@ Todo:
 Wishlist:
 * Search by movie night
 * Custom entries
-* Cover Browser
+
 
 # # #
+
+2.0.0
+* New Cover Browser feature!
+
+(todo)
+* Graphic Redesign
+* App purchase now includes access to the website. Just fill in your email address.
+-- isolate with cordova-device plugin and include device.uuid in coupon-related form submission.
+
++ Playset: Fist City
+
 
 1.2.5
 + Playset: #superheroes
