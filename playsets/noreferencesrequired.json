@@ -1,0 +1,324 @@
+{
+  "playset" :
+  {
+    "title" : "No References Required",
+    "credits" : 
+    {
+      "author" : "Krista White and Brennan Taylor"
+    },
+    "movie_night" :
+    [
+      { "title" : "Firefly" },
+      { "title" : "Guardians of the Galaxy" },
+      { "title" : "Titan A.E," },
+      { "title" : "Star Wars (the Han Solo bits)" },
+      { "title" : "Farscape" }
+    ],
+    "score" :
+    {
+      "title" : "Class D: The last job you'll ever need",
+      "paragraphs" : [
+        "TransGalaxy Pangalactic Corporation. One of the largest and most powerful entities in the galaxy. Though the Company has their fingers in everything these days, they started out as a shipping service, and that's still a core part of their business.",
+        "Class D Shipping Division. The difficult and hazardous cargo section of the Company's shipping arm. Home of the desperate, the unqualified, and the just plain stupid. That's where you ended up, most likely through fault of your own. The Company buys whatever junkers they can find for cheap, hires anyone who applies, insures the Hell out of the whole thing, and crosses their fingers that you losers can deliver enough hazardous cargo to hostile destinations to make it worth their while.",
+        "You are so desperate, such a fuck-up, or so insane that you took on this job. Unfortunately, so are your crewmates and so is your captain. Best of luck surviving your five-year contract!"
+      ],
+      "tagline" : "In Class D"
+    },
+    "relationships" : [
+			{
+				"title" : "Crewmates",
+				"elements" : [
+				"Sharing a cabin",
+				"Cook and picky eater",
+				"Engineer and guy who got passed over for the job",
+				"Captain and worst troublemaker on the crew",
+				"Hooking up on the downlow",
+				"Low guys on the totem pole"
+				]
+			},			{
+				"title" : "Friendship",
+				"elements" : [
+				"Old war comrades",
+				"Grew up together on the same backwater planet",
+				"Drinking buddies",
+				"Old hand helping out a newbie",
+				"Brothers from another planet",
+				"Ran together back in the day"
+				]
+			},			{
+				"title" : "The Past",
+				"elements" : [
+				"Exiled heirs to a fallen space kingdom",
+				"Daredevil pilot and maimed crash survivor",
+				"Newly-sprung jailbird and the snitch who put them there",
+				"Gambler and the guy who holds their marker",
+				"Failed revolutionary and desperate arms dealer",
+				"Soft-hearted mercenary and rescued civilian"
+				]
+			},			{
+				"title" : "Romance",
+				"elements" : [
+				"Interspecies romance",
+				"Old flames",
+				"Lust opposed by a complete lack of interest",
+				"Don Juan and ingenue",
+				"Star-crossed lovers",
+				"Old love grown sour"
+				]
+			},			{
+				"title" : "Crime",
+				"elements" : [
+				"Smugglers",
+				"Barracado pirates",
+				"Con man and mark",
+				"Bounty hunter and fugitive",
+				"Partners in crime",
+				"Officer of the law and perp"
+				]
+			},			{
+				"title" : "Enemy",
+				"elements" : [
+				"Professional rivals",
+				"Vendetta!",
+				"Unintentional slight",
+				"Deep, burning hatred",
+				"Species bigotry",
+				"Romantic rivals"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get away",
+				"elements" : [
+				"... from Boss Fallon's hit men",
+				"... from the Barracado pirates",
+				"... from that cop who made me",
+				"... from this awkward situation",
+				"... from that guy who's stalking me",
+				"... from this ticking bomb"
+				]
+			},			{
+				"title" : "To get out",
+				"elements" : [
+				"... of this damn five-year contract",
+				"... of the way of that blaster",
+				"... of this two-bit spaceport",
+				"... of this locked equipment closet",
+				"... of these bloodsoaked clothes",
+				"... of these wrist restraints"
+				]
+			},			{
+				"title" : "To get in",
+				"elements" : [
+				"... to that mysterious crate in the cargo hold",
+				"... on the smuggling action",
+				"... to the new crewmate's pants",
+				"... to the ship's navigation system",
+				"... to the Captain's good graces",
+				"... to this romantic relationship"
+				]
+			},			{
+				"title" : "To get revenge",
+				"elements" : [
+				"... on the Company for what they did to my planet",
+				"... on that weasel who sold me out",
+				"... on the Devalkamanchan Empire",
+				"... on that cut-rate cyberware vendor",
+				"... on the Captain for humiliating me",
+				"... on my old partners in crime"
+				]
+			},			{
+				"title" : "To get rich",
+				"elements" : [
+				"... so I can pay the loan shark off",
+				"... and finally get the respect I deserve",
+				"... and retire on Apollonia",
+				"... off of these unstable fusion bottles",
+				"... by stealing the whole damn cargo",
+				"... and finally go legit"
+				]
+			},			{
+				"title" : "To get laid",
+				"elements" : [
+				"... by that former porn star on the lam",
+				"... and forget my crappy life for a while",
+				"... and fill that hole in my soul",
+				"... and lay my eggs in my partner",
+				"... and distract them from my secret contraband",
+				"... to give me something to do"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "Aboard ship",
+				"elements" : [
+				"Behind the fusion bottle in engineering",
+				"In the auxilliary airlock",
+				"The pilot's chair on the bridge",
+				"The captain's quarters",
+				"The secret compartment in the cargo bay",
+				"At the mess table in the galley"
+				]
+			},			{
+				"title" : "A hostile planet",
+				"elements" : [
+				"Mining station floating in the storms of a gas giant",
+				"The narrow temperate area of a tide-locked planet",
+				"Dock awash with electrical storms and acid rain",
+				"Jungle planet with aggressive flora",
+				"Ice moon with an extremely thin atmosphere",
+				"In the midst of a violent revolution"
+				]
+			},			{
+				"title" : "A border crossing",
+				"elements" : [
+				"Customs office",
+				"Docked with the Imperial border control station",
+				"Gap in the network of security sensors",
+				"Local smuggler's hideout",
+				"Home of a corrupt customs of cer",
+				"In line at a formerly sleepy border checkpoint"
+				]
+			},			{
+				"title" : "In port",
+				"elements" : [
+				"Seedy spaceport bar",
+				"The TransGalaxy dispatch office",
+				"Dimly lit, labyrinthine warehouse",
+				"Crowded, smoky gambling parlor",
+				"Tattoo shop",
+				"Local black-market weapon vendor's stall"
+				]
+			},
+			{
+				"title" : "Galactic central point",
+				"elements" : [
+				"The only bordello on Apollonia that will serve me",
+				"Worst corner in the worst slum on Arsubar",
+				"High rollers' room in a casino on Stakes",
+				"Lobby of the biggest bank on G'n'va",
+				"Deep among the wrecks at Squishy's Salvage Yard",
+				"The Shrine of the Immaculate Motherboard on Infocity"
+				]
+			},
+			{
+				"title" : "Deep space",
+				"elements" : [
+				"Orbiting a rogue planet far from any sun",
+				"Threading the needle between two black holes",
+				"The twirling, spinning rocks of a dense debris field",
+				"Mysterious graveyard of starships",
+				"In orbit around a massive gas giant",
+				"Deep space refueling and maintenance station"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Hazardous",
+				"elements" : [
+				"Six crates of industrial acid",
+				"Twelve military-weapons-grade attack leeches",
+				"Poorly packaged spent fuel rods",
+				"Cryo-case of Tetsuashan flu samples with a faulty battery",
+				"Urseminite chain gang",
+				"Sticky airlock controls"
+				]
+			},			{
+				"title" : "Weapon",
+				"elements" : [
+				"Homemade neutron scrambler",
+				"Cheap plastic blast pistol",
+				"Wrench left behind by the last Dolom engineer",
+				"Remote control for the secret self-destruct system",
+				"Proton rifle illegally modified for autofire",
+				"Spring-loaded boot knife"
+				]
+			},			{
+				"title" : "Valuable",
+				"elements" : [
+				"Stasis reliquary containing an artifact of Kamanch",
+				"Arsubaran diplomat's favorite necklace",
+				"Cure for the plague/curse of Toyis",
+				"Hidden cache of pirate loot",
+				"Official seal of a Saldrallan Prefect",
+				"Stakes casino Gold Card"
+				]
+			},			{
+				"title" : "Contraband",
+				"elements" : [
+				"20 kilos of primo Ryjyllian nip",
+				"Crate of banned flechette rifles",
+				"Ten jars of concentrated Templar fertility musk",
+				"Assorted spare organs on ice... just in case",
+				"Vial of weaponized Saldrallan flu virus",
+				"File with 20,000 stolen account IDs"
+				]
+			},			{
+				"title" : "Information",
+				"elements" : [
+				"Saldrallan wanted listing with a 10k credit reward",
+				"Coordinates for a secret Barracado pirate base",
+				"Candid pictures of the Templar senator on Apollonia",
+				"Name of the guy who will fence anything",
+				"Access codes to a bank security vault",
+				"Smugglers' route through the Imperial security cordon"
+				]
+			},			{
+				"title" : "Mysterious",
+				"elements" : [
+				"Weird black obelisk you were warned not to touch",
+				"Locked briefcase with a wrist still handcuffed to it",
+				"Document in a language unknown to the Universal Translator",
+				"Urseminite passenger with a completely clean criminal record",
+				"Ancient cryo-pod with no way to see inside",
+				"Unmapped, unmanned space station"
+				]
+			}
+    ],
+    "notes" : [
+    	{
+	    "title" : "Arsubaran",
+		"elements" : ["Basically human, just with crazier hair colors."]
+		},
+		{
+	    "title" : "Dolom",
+		"elements" : ["Big, strong blue people with three arms legs, radially symmetrical. The face is on just one side though."]
+		},
+    	{
+	    "title" : "Hacragorkan",
+		"elements" : ["Burly brutes with green skin, scarification, and tattoos. They like to hit stuff."]
+		},
+    	{
+	    "title" : "Ken Reeg",
+		"elements" : ["Like Arsubarans with green skin, but well known as smarmy con-artists."]
+		},
+    	{
+	    "title" : "Robot",
+		"elements" : ["Yep, you can be a robot. We know, robots aren't a species. Where else were we going to put them?"]
+		},
+		{
+	    "title" : "Ryjyllian",
+		"elements" : ["Honor-bound feline people, they usually work as mercenaries and muscle for hire."]
+		},
+    	{
+	    "title" : "Saldrallan",
+		"elements" : ["Primary species in one of the galactic empires. Like a giant snake with arms."]
+		},
+    	{
+	    "title" : "Templar",
+		"elements" : ["AKA Devalkamanchans. Bosses of the other empire. Bald, purple and super racist."]
+		},
+		{
+	    "title" : "Tetsuashan",
+		"elements" : ["Great big one-eyed slugs. Good pilots, though."]
+		},
+    	{
+	    "title" : "Urseminite",
+		"elements" : ["The worst. Like sociopathic ambulatory teddy bears."]
+		}
+    ]
+  }
+}

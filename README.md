@@ -17,13 +17,20 @@ Wishlist:
 
 2.0.0
 * New Cover Browser feature!
++ Playset: Fist City
++ Playset: No References Required
+
+* Current count: 61 playsets
+* Update to PhoneGap multi-version build cli-6.3.0
+* Fixed bug that prevented display of playset accessed via cover-browsing mode
+* Changed "top field" navigation to work like the Android back button to back up a single level.
+- Removed "Pen Show" playset
 
 (todo)
 * Graphic Redesign
 * App purchase now includes access to the website. Just fill in your email address.
 -- isolate with cordova-device plugin and include device.uuid in coupon-related form submission.
 
-+ Playset: Fist City
 
 
 1.2.5

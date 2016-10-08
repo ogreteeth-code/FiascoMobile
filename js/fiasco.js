@@ -22,6 +22,7 @@ function subSwap(folioID) {
 
 function loadJSONPlayset(title) {
 	homescreen(3);
+	$('body').removeClass('previewMode-cover');
 	$.getJSON("playsets/" + title,function(data) {$("#playsetProper").tmpl(data).replaceAll("#IOSContainer");});
 }
 
@@ -51,7 +52,8 @@ function buildTogglePreviewModeHandler() {
       swapModes();
     }
 
-    loadHomeScreen();
+    // loadHomeScreen();
+    catchback();
 
     return false;
   }
