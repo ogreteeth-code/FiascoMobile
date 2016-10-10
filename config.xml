@@ -81,8 +81,9 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
 	    Plugins can also be added here. 
 		<gap:plugin name="cordova-plugin-splashscreen" />
     -->
-    <gap:plugin id="cordova-plugin-device" />
-    
+    <!-- <gap:plugin id="cordova-plugin-device" /> -->
+ 	<gap:plugin name="org.apache.cordova.device" source="pgb" spec="0.3.0" />
+   
     <!--
         <gap:plugin name="Example" />
         A list of available plugins are available at https://build.phonegap.com/docs/plugins
