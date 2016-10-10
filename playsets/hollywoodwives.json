@@ -50,7 +50,7 @@
 				]
 			},
 			{
-				"title" : "CRIME",
+				"title" : "Crime",
 				"elements" : [
 					"Mobsters",
 					"Keepers of a dark secret",
@@ -96,7 +96,7 @@
     ],
     "needs" : [
 			{
-				"title" : "To Get Back Your Groove",
+				"title" : "To get back your groove",
 				"elements" : [
 					"...by a personal actualization regimen involving kale",
 					"...by killing your enemy's favorite pet",
@@ -107,7 +107,7 @@
 				]
 			},
 			{
-				"title" : "To Get Famous",
+				"title" : "To get famous",
 				"elements" : [
 					"...by launching a music career",
 					"...by getting people to think you're already famous",
@@ -118,7 +118,7 @@
 				]
 			},
 			{
-				"title" : "To Get Rich",
+				"title" : "To get rich",
 				"elements" : [
 					"...collecting on a hefty life insurance policy",
 					"...by kidnapping someone or some thing",
@@ -129,7 +129,7 @@
 				]
 			},
 			{
-				"title" : "To Utterly Ruin",
+				"title" : "To utterly ruin",
 				"elements" : [
 					"...a former spouse",
 					"...anyone who gets in your way",
@@ -151,7 +151,7 @@
 				]
 			},
 			{
-				"title" : "To Escape",
+				"title" : "To escape",
 				"elements" : [
 					"...crushing debt",
 					"...an unhappy marriage",
@@ -164,7 +164,7 @@
     ],
     "locations" : [
 			{
-				"title" : "shopping",
+				"title" : "Shopping",
 				"elements" : [
 					"Barney's on Wilshire Boulevard",
 					"Shopping for jewelry at Neil Lane",
@@ -197,7 +197,7 @@
 				]
 			},
 			{
-				"title" : "doctors and meds",
+				"title" : "Doctors and Meds",
 				"elements" : [
 					"Marijuana dispensary",
 					"Psychologist's office",
@@ -287,7 +287,7 @@
 				]
 			},
 			{
-				"title" : "Valuable OR Sentimental",
+				"title" : "Valuable or Sentimental",
 				"elements" : [
 					"Tattered photo of the young Holdenkampfs",
 					"Safety deposit box key",

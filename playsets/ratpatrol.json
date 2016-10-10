@@ -1,0 +1,356 @@
+{
+  "playset" :
+  {
+    "title" : "Rat Patrol",
+    "credits" : 
+    {
+      "author" : "Jason Morningstar"
+    },
+    "score" :
+    {
+      "title" : "Lab Rats",
+      "paragraphs" : [
+        "One day you are miserable experiments, destined to have your brains extracted to see what makes you tick, and the next you are blinking in the sunlight, smelling new smells that aren't disinfectant and terror, dumped on a lawn by kids in balaclavas.",
+        "You recognize the balaclavas because you have had encyclopedias injected into your brains. First worn by British troops, whoever they were, during the Crimean War, whatever that was. You could recall the details if you thought hard enough but really, now is not the time.",
+        "Now you are free, and you know how rats are supposed to live, and what the dangers of a rat-centric lifestyle are. Behind you is a gleaming tower full of terrible people who did unspeakable things to you and your friends. In front of you is a forest full of encyclopedic dangers you can name but whose scent is entirely unknown. On either side are others like you, rats you lived with, nearly died with, got really smart with. Rattus norvegicus, Sprague-Dawley strain, mostly the offspring of a very special pair named Linda and Milky.",
+        "Time to get moving. Maybe to survive. Maybe to get revenge."
+      ],
+      "notes_title" : "Notes",
+      "notes_paragraphs" : [
+        "You are rats, with all the benefits of being rats—squeezing through 2cm wide holes, climbing brick walls like ladders, gnawing through concrete. Having grown up in a cage this is all new to you, but you are quick learners. You are super smart—as smart as people, maybe smarter. Anything you could look up on Wikipedia, you know. You don’t have thumbs and you can’t do more than squeak—although you understand each other perfectly well, no other animal will be able to communicate with you. People, well, you share a written language with them, and they would still love to drill your skulls and see what makes you tick.",
+        "This playset includes a custom Tilt, which is highly specific and recommended."
+      ],
+      "movie_night" :
+		[
+		  { "title" : "Secret of NIMH" },
+		  { "title" : "Plague Dogs" },
+		  { "title" : "Watership Down" },
+		  { "title" : "The Rescuers" },
+		  { "title" : "Flowers for Algernon" },
+		  { "title" : "Pinky and the Brain (TV)" },
+		  { "title" : "We3 (comics)" }
+		],
+      "tagline" : "Among Genius Rodents"
+    },
+    "relationships" : [
+			{
+				"title" : "Milky and Linda's family",
+				"elements" : [
+				"Two survivors out of a litter of eleven",
+				"Half-siblings",
+				"Grand-daughter and her mate",
+				"Snowy White and Inky Black",
+				"Rat bastards",
+				"Clones of Linda and Milky"
+				]
+			},			{
+				"title" : "Group Pathology",
+				"elements" : [
+				"Permanent enemies",
+				"Bruiser and opportunist",
+				"You both ate your babies",
+				"Outsider and cage boss",
+				"Strange love",
+				"You both ate a lot of other rat's babies"
+				]
+			},			{
+				"title" : "Project Wisteria",
+				"elements" : [
+				"Dying telekinetic and mate",
+				"Precognitive and fake precognitive",
+				"Telepathic siblings",
+				"Pyrokinetic and the one who keeps the pyrokinetic calm",
+				"Ghost rat and the rat who sees ghosts",
+				"One eerily fast, one weirdly strong, both badly damaged"
+				]
+			},			{
+				"title" : "Project KR-7",
+				"elements" : [
+				"\"The humans feared us.\"",
+				"Thumbed rats",
+				"Webfoot and Scaly",
+				"\"We must never tell them what we saw.\"",
+				"Pampered and over-fed",
+				"Beauty and tailless monster"
+				]
+			},			{
+				"title" : "Enrichment",
+				"elements" : [
+				"Special pet and the jealous rival",
+				"\"Our lives were good and now this is terrible.\"",
+				"One gigantic funhouse cage all to yourselves",
+				"King and queen",
+				"Genius and anti-genius",
+				"Playmates and best friends"
+				]
+			},			{
+				"title" : "Social Dominance",
+				"elements" : [
+				"Rival cage bullies",
+				"Warlord and minion",
+				"Mangy and glossy, opposites and fast friends",
+				"Loyal mates",
+				"\"My teeth, your scars.\"",
+				"Cage rebels"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To get revenge",
+				"elements" : [
+				"...on Dr. John Sutcliffe",
+				"...for a lifetime of humiliation",
+				"...on the former Cage King",
+				"...on the idiots who \"freed\" you",
+				"...by being true rats for once",
+				"...on the colony \"caretaker\""
+				]
+			},			{
+				"title" : "To get away",
+				"elements" : [
+				"...from Dr. John Sutcliffe's rat-catchers",
+				"...with murder",
+				"...from the violent mob",
+				"...with an enormous deception",
+				"...from the cat that is stalking you",
+				"...from the rats who are changing"
+				]
+			},			{
+				"title" : "To get back",
+				"elements" : [
+				"...to the security of a proper cage",
+				"...at the rats who sold you all out",
+				"...your rapidly-declining intelligence",
+				"...to nature and the way rats were meant to live",
+				"...into the lab, to save the others",
+				"...into the lab, to find a way to destroy it"
+				]
+			},			{
+				"title" : "To get around",
+				"elements" : [
+				"...your rattish limitations",
+				"...the lazy dog",
+				"...the shutdown protocol in your bloodstream",
+				"...town, see the sights, and take it all in",
+				"...the security system",
+				"...and spread your genes"
+				]
+			},			{
+				"title" : "To get through",
+				"elements" : [
+				"...to the dumb local rats",
+				"...the gauntlet of predators between you and safety",
+				"...the concrete wall",
+				"...the the encyclopedia in your brain",
+				"...the steam tunnels",
+				"...Dr. John Sutcliffe's electronic files"
+				]
+			},			{
+				"title" : "To get on top",
+				"elements" : [
+				"...of the wild rats' pecking order",
+				"...of the researcher's pecking order",
+				"...of the tree and into the owl's nest",
+				"...where the answers are",
+				"...of cage A-12-0029, to open it",
+				"...of your body weight in candy"
+				]
+			}
+    ],
+	"sensations" : [
+		{
+			"title" : "...of scorn",
+			"elements" : [
+			"Giant crate filled with broken fountain pens",
+			"Cheap ink",
+			"Mass market ball point pen",
+			"Obvious fake fountain pen rarities",
+			"Cowboy hat",
+			"A third-tier pre-1910 Welty hump-filler pen"
+			]
+		},
+		{
+			"title" : "...of destruction",
+			"elements" : [
+			"Garbage can filled with tritium tubes pulled from exit signs",
+			"Sheaffer Snorkel pen filled with hydrochloric acid",
+			"Rusty shovel",
+			"Remington 870 shotgun",
+			"Hot dog chili infected with botulism",
+			"Rottweiler named Clara Petacci"
+			]
+		},
+		{
+			"title" : "...of lust",
+			"elements" : [
+			"Vice Presidency of the Poppleton Pen Club",
+			"Alan Clark",
+			"Room key",
+			"Nakaya Skeleton in blue Urushi with silver Maki-e",
+			"Condom with a pinprick hole in it",
+			"Bottle of hand-made ink imported from Andorra"
+			]
+		},
+		{
+			"title" : "...of pride",
+			"elements" : [
+			"Mont Blanc Meisterstuck Solitaire Tribute ball point pen",
+			"Congressional Medal of Honor",
+			"\"Best Pen of Show\" award from the Poppleton Pen Club",
+			"Certificate of Authenticity",
+			"Babybump",
+			"Pen Queen nib-tiara"
+			]
+		},
+		{
+			"title" : "...of mystery",
+			"elements" : [
+			"Subtly fake fountain pen rarities",
+			"Grimy photograph of an SS officer holding a pen",
+			"Pile of high end office supplies, soaked in urine",
+			"Taser and flexi-cuffs",
+			"Yup'ik nepcetaq mask from Toksook Bay, Alaska",
+			"The Pen With No Name"
+			]
+		},
+		{
+			"title" : "...of curiosityp",
+			"elements" : [
+			"\"Best Pen of Show\" ballot box",
+			"Hotel security camera footage",
+			"Parker 71 with a familiar name engraved on the barrel",
+			"Detailed blueprints of the hotel",
+			"Police report field after last year's Poppleton Pen Show",
+			"Alan Clark's wallet"
+			]
+		}
+    ],
+    "locations" : [
+			{
+				"title" : "Lab",
+				"elements" : [
+				"Medical waste bin",
+				"Dr. John Sutcliffe's office",
+				"On a moving cart out in the hallway",
+				"The control panel for The Machine",
+				"Trapped in a cloud of poison gas",
+				"Cage A-12-0022, full of desperate rats"
+				]
+			},			{
+				"title" : "Piney Wood",
+				"elements" : [
+				"Well-traveled log bridge",
+				"Among the bones beneath the owl's tree",
+				"By the smoldering cigarette butt",
+				"\"This is the safest place in the world.\"",
+				"Old hermit's shack",
+				"Nest box with naturalists' webcam"
+				]
+			},			{
+				"title" : "Rat City",
+				"elements" : [
+				"Junkyard at the end of the woods",
+				"Pipe rapidly filling with water",
+				"A oat on a crumbling raft",
+				"Colony of not-smart rats",
+				"Inside the walls",
+				"Mole tunnels, with moles"
+				]
+			},			{
+				"title" : "Logistics",
+				"elements" : [
+				"The smashed remains of cage A-12-0034",
+				"Behind the seat of a truck",
+				"Box of new rats",
+				"Specimen freezer",
+				"Primatewing",
+				"The cage wash room"
+				]
+			},			{
+				"title" : "Flashback to Cage A12-0012",
+				"elements" : [
+				"In the back, by the food hopper",
+				"Under a pile of shavings during a cage transfer",
+				"During the flood",
+				"Warlord's perch",
+				"Beneath cage A12-0012, after the  rst escape",
+				"Only safe place when the revolution came"
+				]
+			},			{
+				"title" : "Water Margin",
+				"elements" : [
+				"Comfortable lair that does not belong to you",
+				"Culvert beneath a busy road",
+				"Snake-filled snake hole",
+				"Massive blackberry bush",
+				"Sewage outflow",
+				"A shipping container prepped for departure"
+				]
+			}
+    ],
+	"tilt" : [
+		{
+			"title" : "Withdrawal",
+			"elements" : [
+			"Blinding pain, followed by visions",
+			"Collapse, followed by vivid hallucinations",
+			"\"We're all getting stupider.\"",
+			"Uncontrollable aggression",
+			"Seizures at precisely the wrong time",
+			"\"Without another dose we'll all die.\""
+			]
+		},			{
+			"title" : "Amplification",
+			"elements" : [
+			"Bad new ideas",
+			"Paralyzing rush of voices",
+			"Agonizing physical transformation",
+			"Better, faster, stronger",
+			"\"It's infectious.\"",
+			"Good new ideas"
+			]
+		},			{
+			"title" : "Panic",
+			"elements" : [
+			"\"The encyclopedia doesn't have an entry on this!\"",
+			"A good plan, brilliantly executed, ending in disaster",
+			"Death, slowly, by unknown means",
+			"Trapped like rats",
+			"Prey turns predator",
+			"Unlikely allies"
+			]
+		},			{
+			"title" : "Terror",
+			"elements" : [
+			"Death, suddenly, by tooth or beak",
+			"Someone precious is on fire",
+			"\"You'll have to gnaw it off.\"",
+			"Confusion, followed by pain, followed by confusion",
+			"Dipped in liquid nitrogen",
+			"Consciousness transfer"
+			]
+		},			{
+			"title" : "Retrieval",
+			"elements" : [
+			"Captured",
+			"Relentless rat-hunters",
+			"Betrayed",
+			"In Dr. John Sutcliffe's soft hands",
+			"\"We need to give them one of us.\"",
+			"An unattended vial"
+			]
+		},			{
+			"title" : "Memories",
+			"elements" : [
+			"...unlocking something amazing",
+			"...washing away like beach sand",
+			"...belonging to another",
+			"...of life-before-rat-life",
+			"...of love and care",
+			"...of the future"
+			]
+		}
+    ]
+  }
+}

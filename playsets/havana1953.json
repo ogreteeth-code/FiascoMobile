@@ -1,297 +1,273 @@
 {
   "playset" :
   {
-    "title" : "1913 New York",
+    "title" : "Havana 1953",
     "credits" : 
     {
-      "author" : "Jason Morningstar"
+      "author" : "Chris Bennett"
+    },
+    "score" :
+    {
+      "title" : "Suckers in Paradise",
+      "paragraphs" : [
+        "Cuba, 1953. Havana has been called \"the sexiest city in the world\" and for good reason. The rhythm of the night is fueled by the rhumba beat, cocaine and the dazzling stars of Cuba. The Mob is starting to move in and light up the casinos, flush with easy money and easier dupes.",
+        "General Batista's government rules with an iron fist behind the scenes. All the glamour of Miami only 90 miles away and with none of the rules. So why are there armed bands in the hills led by obscure guerrillas like Fidel Castro and Che Guevara?"
+      ],
+    "tagline" : "In Havana"
     },
     "movie_night" :
     [
-      { "title" : "City Lights" },
-      { "title" : "Pink Tights" },
-      { "title" : "The Saphead" },
-      { "title" : "The Purple Lady" }
+      { "title" : "Cuban Rebel Girls (1959), I Am Cuba (1964), Our Man in Havana (1959), The Godfather Part II (1974)" }
     ],
-    "score" :
-    {
-      "title" : "The End Of The Beginning",
-      "paragraphs" : [
-        "Fin de si&egrave;cle New York, 1913 - a city perched on the edge of the abyss.",
-        "Modernity is at war with tradition, and automobiles uneasily share the roads with horse-drawn carriages. Change - sweeping, terrible change - is in the air, and all of Europe is about to be thrown under the bus, dragging the world down after it. But tonight? For now? Cars that can go forty miles an hour, women not ashamed to show off a little ankle, and as much opium as you care to smoke. In the dirty places labor is organizing, anarchists are murdering plutocrats, and children are going hungry.",
-        "But it's a pretty good world if you are on top of it, so find a way to get on top, fast..."
-      ],
-      "tagline" : "In 1913 New York"
-    },
     "relationships" : [
 			{
 				"title" : "Family",
 				"elements" : [
-					"Godparent and child",
-					"Parent and stepchild",
-					"Siblings",
-					"Cousins",
-					"Grandparent and grandchild",
-					"Relatives in the Old Country"
+				"Step-siblings",
+				"Ne'er-do-well cousins",
+				"Estranged couple",
+				"Separated at birth",
+				"Father/mother and eldest son",
+				"Aunt/uncle and nephew/niece"
 				]
-			},
-			{
+			},			{
 				"title" : "Work",
 				"elements" : [
-					"Former co-workers",
-					"Current co-workers",
-					"Supervisor / employee",
-					"Working stiff / client (mechanic, plumber, gardener, groomsman)",
-					"Salesman and customer",
-					"Professional and client (pastor, lawyer, accountant, prostitute)"
+				"Newspaper writer and \"source\"",
+				"Model and photographer",
+				"Front desk employee and nemesis",
+				"Entertainer and favorite customer",
+				"Doctor and patient",
+				"Musicians"
 				]
-			},
-			{
-				"title" : "Friendship",
+			},			{
+				"title" : "Visitors",
 				"elements" : [
-					"Manipulator and victim",
-					"Old friends",
-					"Disreputable friends (criminal, opium addict, gambling, whoring)",
-					"Friendly sporting rivals",
-					"Club / society friends",
-					"Social adversaries"
+				"\"What are we smuggling this time?\"",
+				"Tour guide and tourist",
+				"Retirees",
+				"Money burning a hole in their pockets",
+				"Political exiles",
+				"Looking for the \"real\" Havana"
 				]
-			},
-			{
+			},			{
 				"title" : "Romance",
 				"elements" : [
-					"Spouses in name only",
-					"Current spouses",
-					"Stalker and obsession",
-					"Broken engagement or one-time fling",
-					"Lovers",
-					"Former lovers"
+				"What happens in Havana...",
+				"Unrequited love",
+				"Newlyweds",
+				"Reunited lovers",
+				"Lothario and innocent",
+				"True believers in love"
 				]
-			},
-			{
+			},			{
 				"title" : "Crime",
 				"elements" : [
-					"Graft giver and receiver",
-					"Gamblers",
-					"Thieves (shoplifters, burglars, purse snatchers)",
-					"Con man and mark",
-					"Hoodlums (gangsters, knuckleheads, delinquents)",
-					"Drug people (sellers, distributors, users)"
+				"Pickpocket and fence",
+				"Mob boss and underling",
+				"Criminal on the run and private dick",
+				"Casino cheaters",
+				"Corporate executives",
+				"Loan shark and debtor"
 				]
-			},
-			{
-				"title" : "Community",
+			},			{
+				"title" : "Government",
 				"elements" : [
-					"Appointed officials (Sanitation or commerce board, judges)",
-					"Volunteers (Neighborhood committee, election officials)",
-					"Church (Lay reader, deacon, sexton, temperance society)",
-					"Ethnic group (Clubs and societies, education or relief society)",
-					"Vigilantes (Vigilance committee, ethnic gang)",
-					"Radicals (Organizers, anarchists, Wobblies)"
+				"Diplomats",
+				"Boss and sycophant",
+				"Secret policeman and informant",
+				"Bureaucrats",
+				"CIA case officer and double agent",
+				"Secretarial pool"
 				]
 			}
     ],
     "needs" : [
 			{
-				"title" : "To free your body and soul",
+				"title" : "To get out",
 				"elements" : [
-					"...From the slums, before they eat you alive",
-					"...From your oppressive family",
-					"...From your spouse",
-					"...From an unwanted lover",
-					"...From a heavy obligation to a family member",
-					"...From a crushing debt coming due"
+				"...of Cuba, forever",
+				"...of your \"prison\"",
+				"...of your obligations",
+				"...of the Family",
+				"...from under their thumb",
+				"...of sight"
 				]
-			},
-			{
-				"title" : "To avenge a great wrong",
+			},			{
+				"title" : "To get even",
 				"elements" : [
-					"...perpetrated by the New York political machine",
-					"...caused by America, which has turned you into a monster",
-					"...committed by a police officer",
-					"...covered up by your own family",
-					"...arrogantly enacted by a business rival",
-					"...corrupting the very heart of industrial capitalism"
+				"...with the Batista government",
+				"...with a business partner",
+				"...with the Americans",
+				"...with the secret police",
+				"...with Meyer Lansky, \"the Mob's accountant\"",
+				"...with a rival"
 				]
-			},
-			{
-				"title" : "To gain the wealth of croesus",
+			},			{
+				"title" : "To get rich",
 				"elements" : [
-					"...Through stealing from the Chinese",
-					"...Through robbing a business unlikely to notice",
-					"...Through simple but bold fraud",
-					"...Through the death of an elderly person",
-					"...Through political graft",
-					"...Through a sudden windfall that does not belong to you"
+				"...through the Mob",
+				"...by eliminating competition",
+				"...by any means necessary",
+				"...by fleecing the rich tourists",
+				"...by running guns to the guerrillas",
+				"...from a spin of the roulette wheel"
 				]
-			},
-			{
-				"title" : "To earn universal respect",
+			},			{
+				"title" : "To get respect",
 				"elements" : [
-					"...From New York, by bringing that politician down",
-					"...From the city, by demonstrating your power and reach",
-					"...From your lover, by proving yourself in the most grave extreme",
-					"...From the police, by assisting them at dire personal danger",
-					"...From a family member, by rescuing them from ruin",
-					"...From yourself, by ending the long wait and pulling the trigger"
+				"...from your family",
+				"...from the citizens of Cuba",
+				"...from your lover",
+				"...from Fidel Castro, guerilla leader",
+				"...from your kids",
+				"...from the voices inside your head"
 				]
-			},
-			{
-				"title" : "To discover the dark truth",
+			},			{
+				"title" : "To get the truth",
 				"elements" : [
-					"...About the family's shameful past",
-					"...About New York's political corruption",
-					"...About a loved one's criminal history",
-					"...About someone's infidelity",
-					"...About what happened on the S.S. Tuscania",
-					"...About the woman's face that haunts you still"
+				"...about what happened to your brother",
+				"...about what goes on in that vile place",
+				"...about General Batista's secret police",
+				"...about why she left you",
+				"...about Cuba's past",
+				"...about the Mob's dirty dealings"
 				]
-			},
-			{
-				"title" : "To engage in immoral congress",
+			},			{
+				"title" : "To get ahold of",
 				"elements" : [
-					"...With anyone, anywhere, to dull the pain",
-					"...With a flash bit of ankle down at Macy's",
-					"...With an exotic foreigner",
-					"...And rekindle a dormant romance",
-					"...As a means to a very terrible end",
-					"...With the best of them, to prove you are a man"
+				"...the papers that will prove your innocence",
+				"...your lover, for just one night",
+				"...the person who made your father disappear",
+				"...a rich American",
+				"...enough drugs to make your forget",
+				"...the guns that will set Cuba free"
 				]
 			}
     ],
-    "moments" : [
+    "locations" : [
 			{
-				"title" : "Posh New York",
+				"title" : "Havana Proper",
 				"elements" : [
-					"H. Kauffman & Sons Harness Company, Park Avenue South at East 24th street (See Notes)",
-					"The United States Mortgage and Trust Company, 55 Cedar Street",
-					"Tiffany and Company, at Fifth Avenue and 37th Street",
-					"The Arnold-Constable department store, Broadway and E. 19th St",
-					"Association for Befriending Children and Young Girls, 136 2nd Ave",
-					"Union League Club, Fifth Avenue and 39th Street"
+				"VIP table next to Frank Sinatra's floorshow at Capri Casino",
+				"Crowded cellar rhumba dance club, off Tin Pan Alley",
+				"Smoke-filled newsroom of the Diario Alerta newspaper",
+				"Feared security room of the Montmartre Casino",
+				"Outdoor stage at the Tropicana",
+				"Masonic building on Carlos III Avenue"
 				]
-			},
-			{
-				"title" : "Working New York",
+			},			{
+				"title" : "Prado Prominade",
 				"elements" : [
-					"Yonah Shimmel's Bakery, 137 East Houston Street (try the knishes)",
-					"KALEM Moving Picture Studios, 131 Seventh Avenue",
-					"The American Bank Note Company, Broad and Beaver Streets",
-					"Columbia Warehouses, 149 Columbus Avenue",
-					"Lee Machine Works, Mott and Hester Streets",
-					"New York Court of Common Pleas, City Hall Park"
+				"Bridal suite in the Hotel Nacional, wired for sound",
+				"Cafe table attached to a hydraulic lift leading to the basement",
+				"Fausto Theatre at the corner of Prado and Colon",
+				"Switchboard room at the Hotel Sevilla Biltmore",
+				"Sloppy Joe's Bar, innovator of the eponymous sandwich",
+				"Guest car park at the Telegrafo Hotel"
 				]
-			},
-			{
-				"title" : "Yegg New York",
+			},			{
+				"title" : "Seaside Malecon",
 				"elements" : [
-					"Segal's, the restaurant of choice among working criminals, Second Avenue and First Street",
-					"The burned out shell of the Asch Building on Washington Place",
-					"Block Drugs, 101 East Sixth Street",
-					"Bismark Hall, Second Avenue and 13th Street, the epicenter of the criminal underworld",
-					"Saint Marks-in-the-Bowery Church, at Second Avenue West and East Tenth Street",
-					"New York County Workhouse, Blackwell's Island"
+				"Miramar Yacht Club, attended by waiters in white jackets",
+				"Thatched roof cabana on \"La Concha\" public beach",
+				"Gentlemen's locker room at the Vedado Tennis Club",
+				"Lobby of Dona Marina's palatial bordello",
+				"Beachside grilled seafood vendor, who sees everything",
+				"Betting windows at the Fronton Jai-Alai courts"
 				]
-			},
-			{
-				"title" : "Chinese New York",
+			},			{
+				"title" : "Old Havana",
 				"elements" : [
-					"A low stakes Fran-Tan parlor on Pell Street",
-					"The On Leong Merchant's Association Building on Pell Street",
-					"Dr. Hum Mun Tau's Apothecary on Doyer Street",
-					"The Canton Club, Fifth Avenue and Mulberry",
-					"The Bing Ching Union gambling hall",
-					"A high-class brothel on Mott Street"
+				"Hemingway's seat at the Floridita, \"Cradle of the Daiquiri\"",
+				"Basement of the Columbus Cathedral",
+				"Gran Teatro de la Habana, home of the National Opera",
+				"Stone battlement of the old La Fuerza fortress",
+				"Heavily-guarded Cuban National Bank",
+				"\"Misericord\" (discipline room) in Santa Clara Convent"
 				]
-			},
-			{
-				"title" : "Entertaining New York",
+			},			{
+				"title" : "Barrio Colon",
 				"elements" : [
-					"The Metropolitan Roller Skating Rink at Broadway and 52nd Street",
-					"Wallack's Theater, Broadway and East 13th Street",
-					"The Houston Athletic Club, 143 East Houston Street",
-					"The Holland Brothers' Kinetoscope Parlor, at 1157 West 27th Street",
-					"John Delmonico's restaurant, arguably New York's finest, at Fifth Avenue and 44th Street",
-					"Hadley Hall, at 293 East First Street and the Bowery"
+				"Aunt Nina club on San Martin St., \"attended by pretty girls\"",
+				"Flophouse dive with a spy hole into the adjoining room",
+				"CIA safehouse in a seedy apartment building",
+				"Crowded and bloody cockfight in a back-alley",
+				"Casa Marina, luxurious and notorious house of ill-fame",
+				"Bus station at Calle San Lazaro"
 				]
-			},
-			{
-				"title" : "Residences",
+			},			{
+				"title" : "Outside of Havana",
 				"elements" : [
-					"A squalid tenement apartment in the lower East Side",
-					"A posh \"bachelor apartment\" in the Sherry building, Fifth Avenue and 44th Street",
-					"A family apartment in The Mitchell, 123 West 15th street",
-					"Secure top floor suite of the St. Denis hotel, Broadway and East 11th",
-					"A weekly room in the Liberty Hotel, 295 East First Street and Bowery",
-					"An elegant townhouse overlooking Tompkins Square"
+				"Fidel Castro's guerrilla encampment in the hills",
+				"Leopard cage at the Zoological Park",
+				"Stag film screening room at the Shanghai Theatre",
+				"\"Xanadu\", palatial DuPont family estate on an isolated beach",
+				"Cheap seats at the Tropic Park baseball stadium",
+				"Abandoned off-shore oil rig owned by Zapata Petroleum"
 				]
 			}
     ],
-    "events" : [
+    "objects" : [
 			{
-				"title" : "Unwholesome",
+				"title" : "Untoward",
 				"elements" : [
-					"A purple velvet Brooks Brothers ladies flying suit",
-					"A lock-box from Tammany Hall, Park Avenue and East 17th Street",
-					"A prodigious brick of cocaine in a Block Drugs bag",
-					"The pickled head of a murderer in a jar",
-					"An aborted fetus wrapped in an old copy of the New York Journal",
-					"An opium fiend's monogrammed kit"
+				"Pictures of high officials in flagrante with the local \"talent\"",
+				"Fashion mannequin stuffed full of high-grade marijuana",
+				"Portable film camera hidden inside a Spanish Bible",
+				"Grainy B&W snuff film involving the Chief of Police",
+				"Black book of cabaret girls' names/numbers with star ratings",
+				"Autopsy photos of \"missing\" Mafia don"
 				]
-			},
-			{
-				"title" : "Weapons",
-				"elements" : [
-					"Fowling piece, still in the box from the Abercrombie and Fitch Company, 57 Reade Street",
-					"A leopard",
-					"Dynamite bomb with timer",
-					"Ladies' pistol, dainty as you please",
-					"Beaker of hydrofluoric acid",
-					"Lacquered basswood airplane strut"
-				]
-			},
-			{
+			},			{
 				"title" : "Transportation",
 				"elements" : [
-					"Gaggenau 7-ton gasoline truck",
-					"Alco \"anti-fatigue\" motorcar, 2-time winner of the Vanderbilt Cup",
-					"Studebaker hansom horse-drawn carriage",
-					"Curtiss Model 1911-D aeroplane",
-					"An I.R.T. elevated train car",
-					"A freight lighter moored at the East River docks"
+				"Off-white '52 Pontiac two-door with a body in the trunk",
+				"WW2 German U-Boat, sunk in shallow water",
+				"1949 Harley-Davidson cop bike, low on gas",
+				"\"Pilar\" the finest fishing boat in the harbor",
+				"Street merchant's push-cart with a false bottom",
+				"Motorized float, decorated with ostrich feathers for Carnival"
 				]
-			},
-			{
+			},			{
+				"title" : "Weapon",
+				"elements" : [
+				"Hand-crank generator, used for police \"conversations\"",
+				"Crate of .45 US M3 \"grease gun\" submachine guns",
+				"Bottle of Veuve-Cliquot champagne, on ice",
+				"German SS combat dagger, with blood groove",
+				"Bacardi rum bottle full of ether",
+				"Russian fully automatic 9mm Stechkin APS pistol"
+				]
+			},			{
 				"title" : "Information",
 				"elements" : [
-					"A list of all 67,000 New York telephone subscribers with certain names underlined",
-					"A blueprint of the H. Wolff Book Bindery, Tenth Avenue and West 26th Street, one of the few poured concrete buildings in New York",
-					"A threatening note addressed to Adams Dry Goods, Sixth Avenue and West 22nd Street",
-					"Annotated copy of the Report of the Exhibition and Tests of Street Cleaning",
-					"A treasure map",
-					"Curious letter penned by an inmate of the Riverside Rest Association, Second Avenue & East 26th Street"
+				"Mobster Meyer Lansky's address book, some names scratched out",
+				"Map of US nuclear weapon sites in Florida",
+				"Payoff list of local officials, with names and prices",
+				"Hand-drawn map to a guerrilla arms cache in the mountains",
+				"Dictaphone sound recording machine",
+				"Cipher book from the Soviet embassy"
 				]
-			},
-			{
-				"title" : "Valuable",
+			},			{
+				"title" : "Valuables",
 				"elements" : [
-					"An envelope containing Hamburg-American Line tickets to Europe",
-					"The key to a deposit box at the Chase Bank, 200 Park Avenue South",
-					"A Turkish rug from Ferdossi Rugs, Broadway and East 21st Street",
-					"A camera and tripod from E & T Anthony and Co., 591 Broadway",
-					"Chemicals misplaced from the New York Lying-In Hospital",
-					"A gold Hip Sing tong \"Dragon Head\" necklace"
+				"Bag of uncut diamonds in a cold ice chest",
+				"Winning numbers for tomorrow's lottery",
+				"Handful of $1000 chips from the San Souci casino",
+				"Jewel-encrusted box of handmade Partagas cigars",
+				"Pair of Havana Tropicana craps dice, always roll 7 or 11",
+				"Rolex GMT-Master watch; repair tag says \"Che Guevara\""
 				]
-			},
-			{
-				"title" : "Sentimental",
+			},			{
+				"title" : "Identification",
 				"elements" : [
-					"A gentleman's tasteful moonstone tie-tack",
-					"A soldier's diary from the Spanish-American War",
-					"A wedding ring",
-					"A budgie in a cage",
-					"A family bible stuffed with correspondence",
-					"A tattered Daguerreotype of the Engine Company Eleven crew, at the 437 Columbia St. firehouse"
+				"Calling card of U.S. stripper \"Bubbles\" Darlene",
+				"Cuban Secret Police ID card for Bernard Barker",
+				"Surgeon's medical ID from Nacional Hospital",
+				"Cuban visa for \"Jack Rubenstein\", marked as \"informer\"",
+				"Stolen paybook for Swedish sailor; ship is docked in port",
+				"Soviet diplomatic ID, marked \"Do Not Question or Hinder\""
 				]
 			}
     ]

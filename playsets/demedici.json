@@ -18,7 +18,7 @@
     ],
     "score" :
     {
-      "title" : "The innkeeper's reckoning",
+      "title" : "The Innkeeper's Reckoning",
       "paragraphs" : [
         "Florence, 1559: a city of opportunities for men who have the guts to pursue them. Here, struggling artists find rich patrons, visionary architects create their dreams, ruthless mercenaries get lucrative contracts, and shrewd merchants become as powerful as kings.",
         "Ever since the times of Cosimo the Elder, the bankers, the Medici, have ruled this city. Sure, way back then it was still called a democracy, but the art, the armies and the votes were all paid with Medici money. The words of the heretic monk Savonarola shook the consciences for a brief time, bringing back a glimpse of the Republic; but the Emperor and the Pope put the Medici back in charge, with Duke Alessandro.",
@@ -299,7 +299,7 @@
 			]
 		}
     ],
- 	"notes" : [
+ 	"glossary" : [
 		{
 			"title" : "Santa Maria del Fiore",
 			"elements" : [
@@ -355,7 +355,7 @@
 			]
 		},
 		{
-			"title" : "The river Arno",
+			"title" : "The River Arno",
 			"elements" : [
 				"Lungarno is the name of both the streets on the banks of the River Arno.",
 				"Ponte Vecchio is one of the bridges that cross the Arno. For over a century the bridge has had butchers’ shops built across it to try to contain the stench."

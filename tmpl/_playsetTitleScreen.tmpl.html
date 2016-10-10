@@ -4,11 +4,17 @@
 		<div id="bodyContainer">
 		<h2>By ${playset.credits.author}</h2>
 		
-		<h3>The Score</h3>
-		<p>${playset.score.title}</p>
+		<h3>${playset.score.title}</h3>
 		{{each playset.score.paragraphs}}
 		<p>${$value}</p>
 		{{/each}}
+
+		{{if playset.score.notes_title}}
+		<h3>${playset.score.notes_title}</h3>
+		{{each playset.score.notes_paragraphs}}
+		<p>${$value}</p>
+		{{/each}}
+		{{/if}}
 
 		<img src="img/fiascofuse.png">
 		

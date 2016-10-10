@@ -60,6 +60,10 @@ h1,
 	margin: 9px 0 4px;
 	}
 
+img .cover {
+	height: 100%;
+    }
+
 h2 {
 	font: normal 18px "Metrophobic", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
@@ -69,7 +73,7 @@ h2 {
 	}
 
 h3 {
-	margin: 4px 0 0;
+	margin: 4px 0 4px 0;
 	padding-left: 8px;
 	font: normal 20px "Metrophobic", Helvetica, Arial, sans-serif;
 	}
@@ -290,7 +294,7 @@ a {
       margin-right: 40px;
     }
 
-    .previewMode-cover .playsetList.selected .cover {
+    .previewMode-cover .playsetList .cover {
       width: 100%;
     }
 

@@ -1,7 +1,6 @@
 function loadHomeScreen() {
 	homescreen(1);
 	$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
-
 	setTimeout(function(){scrollTo(0,0)},1);
 }
 
@@ -22,13 +21,12 @@ function subSwap(folioID) {
 
 function loadJSONPlayset(title) {
 	homescreen(3);
-	$('body').removeClass('previewMode-cover');
 	$.getJSON("playsets/" + title,function(data) {$("#playsetProper").tmpl(data).replaceAll("#IOSContainer");});
 }
 
 function homescreen(reset) {
 	reset ? storeValue = reset : storeValue ? storeValue : storeValue = 0;
-	// console.log(storeValue);
+	// console.log("storeValue: " + storeValue);
 	return storeValue;
 }
 
@@ -37,7 +35,15 @@ function buildTogglePreviewModeHandler() {
 
   function swapModes() {
     $('body').removeClass('previewMode-' + mode);
-
+//-----------------
+    $show_all_playsets = $('.playsets .playsetList');
+    var arrayLength = $show_all_playsets.length;
+	for (var i = 0; i < arrayLength; i++) {
+      if ($show_all_playsets[i].style.display == "none") {
+      	$show_all_playsets[i].style.display = "";
+      }
+	}
+//-----------------
     if (mode  == 'name') {
       mode = 'cover';
     } else if (mode == 'cover') {
@@ -48,13 +54,16 @@ function buildTogglePreviewModeHandler() {
   }
 
   return function() {
-    if (storeValue === 1) { // Only changes modes if we're already on the home screen
+  	
+    if (homescreen() == 1) { // Only changes modes if we're already on the home screen
+      console.log("homescreen: " + homescreen());
+      console.log("swapping modes")
       swapModes();
+    } else {
+      console.log("homescreen: " + homescreen())
+      console.log("loading homescreen")      
+      loadHomeScreen();
     }
-
-    // loadHomeScreen();
-    catchback();
-
     return false;
   }
 }
@@ -76,8 +85,7 @@ function catchback(){
 // You can call this function from a console to simulate the Android "Back" button!
   	if (homescreen() == 1) {
 		// alert("exiting navigator");
-		navigator.app.exitApp()
-		
+		android ? navigator.app.exitApp() : false;
   	} else if (homescreen() == 2) {
 	    loadHomeScreen();
   	} else if (homescreen() == 3) {

@@ -4,7 +4,6 @@ FiascoMobile
 Reads JSON formatted playsets and makes them available for mobile devices.
 
 Todo:
-* General: Reorganize Home screen by Playsets of the Month
 * The multitude of category templates need to be refactored into an *actual* template.
 * Playsets: Add more. Always.
 
@@ -17,20 +16,33 @@ Wishlist:
 
 2.0.0
 * New Cover Browser feature!
++ Playset: Alpha Complex
 + Playset: Fist City
++ Playset: Havana 1953
++ Playset: Hollywood Wives
 + Playset: No References Required
++ Playset: Rat Patrol
++ Playset: Tartan Noir
+TK: Playset: White Hole
+TK: Playset: Salem 1692
+TK: Playset: Flight 1180
 
-* Current count: 61 playsets
+
+* Current count: 83? playsets
 * Update to PhoneGap multi-version build cli-6.3.0
-* Fixed bug that prevented display of playset accessed via cover-browsing mode
 * Changed "top field" navigation to work like the Android back button to back up a single level.
+* Improvements to secondary subheads on the title page of a playset
+* Changed "The Score" title to the flavorful version
 - Removed "Pen Show" playset
 
 (todo)
 * Graphic Redesign
 * App purchase now includes access to the website. Just fill in your email address.
--- isolate with cordova-device plugin and include device.uuid in coupon-related form submission.
-
+-- perhaps isolate with cordova-device plugin and include device.uuid in coupon-related form submission.
+* Bug: JS prevents display of playset accessed via cover-browsing mode
+* Bug: browsing via cover, and returning (via catchback() function) hides browsed playset entries.
+* Feature: incremental navigation accessible via the top bar.
+* Change icon to "return arrow" once you've navigated deeper into a playset (homescreen level 2/3)
 
 
 1.2.5
