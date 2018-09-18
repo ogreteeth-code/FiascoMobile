@@ -33,16 +33,17 @@ TK: Playset: Flight 1180
 * Changed "top field" navigation to work like the Android back button to back up a single level.
 * Improvements to secondary subheads on the title page of a playset
 * Changed "The Score" title to the flavorful version
+* Bug: JS prevents display of playset accessed via cover-browsing mode
+* Bug: browsing via cover, and returning (via catchback() function) hides browsed playset entries.
 - Removed "Pen Show" playset
 
 (todo)
 * Graphic Redesign
 * App purchase now includes access to the website. Just fill in your email address.
 -- perhaps isolate with cordova-device plugin and include device.uuid in coupon-related form submission.
-* Bug: JS prevents display of playset accessed via cover-browsing mode
-* Bug: browsing via cover, and returning (via catchback() function) hides browsed playset entries.
 * Feature: incremental navigation accessible via the top bar.
-* Change icon to "return arrow" once you've navigated deeper into a playset (homescreen level 2/3)
+* Change icon to "return arrow" once you've navigated deeper into a playset (homescreen level 2,3)
+* Change cover-mode navigation to return to selected playset when backing up.
 
 
 1.2.5

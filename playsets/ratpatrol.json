@@ -159,72 +159,67 @@
 			}
     ],
 	"sensations" : [
-		{
-			"title" : "...of scorn",
-			"elements" : [
-			"Giant crate filled with broken fountain pens",
-			"Cheap ink",
-			"Mass market ball point pen",
-			"Obvious fake fountain pen rarities",
-			"Cowboy hat",
-			"A third-tier pre-1910 Welty hump-filler pen"
-			]
-		},
-		{
-			"title" : "...of destruction",
-			"elements" : [
-			"Garbage can filled with tritium tubes pulled from exit signs",
-			"Sheaffer Snorkel pen filled with hydrochloric acid",
-			"Rusty shovel",
-			"Remington 870 shotgun",
-			"Hot dog chili infected with botulism",
-			"Rottweiler named Clara Petacci"
-			]
-		},
-		{
-			"title" : "...of lust",
-			"elements" : [
-			"Vice Presidency of the Poppleton Pen Club",
-			"Alan Clark",
-			"Room key",
-			"Nakaya Skeleton in blue Urushi with silver Maki-e",
-			"Condom with a pinprick hole in it",
-			"Bottle of hand-made ink imported from Andorra"
-			]
-		},
-		{
-			"title" : "...of pride",
-			"elements" : [
-			"Mont Blanc Meisterstuck Solitaire Tribute ball point pen",
-			"Congressional Medal of Honor",
-			"\"Best Pen of Show\" award from the Poppleton Pen Club",
-			"Certificate of Authenticity",
-			"Babybump",
-			"Pen Queen nib-tiara"
-			]
-		},
-		{
-			"title" : "...of mystery",
-			"elements" : [
-			"Subtly fake fountain pen rarities",
-			"Grimy photograph of an SS officer holding a pen",
-			"Pile of high end office supplies, soaked in urine",
-			"Taser and flexi-cuffs",
-			"Yup'ik nepcetaq mask from Toksook Bay, Alaska",
-			"The Pen With No Name"
-			]
-		},
-		{
-			"title" : "...of curiosityp",
-			"elements" : [
-			"\"Best Pen of Show\" ballot box",
-			"Hotel security camera footage",
-			"Parker 71 with a familiar name engraved on the barrel",
-			"Detailed blueprints of the hotel",
-			"Police report field after last year's Poppleton Pen Show",
-			"Alan Clark's wallet"
-			]
-		}
+			{
+				"title" : "Tastes",
+				"elements" : [
+				"Tangy garbage, piles and piles of it",
+				"Delicious poison",
+				"Powdery concrete",
+				"Freedom",
+				"The Medicine",
+				"Human blood"
+				]
+			},			{
+				"title" : "Smells",
+				"elements" : [
+				"A cat, stalking you",
+				"Urine trail promising safety",
+				"The cologne of Dr. John Sutcliffe",
+				"Fresh-baked bread",
+				"Old death",
+				"Fear"
+				]
+			},			{
+				"title" : "Touches",
+				"elements" : [
+				"Gentle human caresses",
+				"The warm, reassuring rat pile",
+				"Ghost paws",
+				"Tight squeeze",
+				"Computer keyboard beneath your paws",
+				"Metal bar of a rat trap"
+				]
+			},			{
+				"title" : "Sounds",
+				"elements" : [
+				"Death grunts",
+				"Hum of an electronic lock",
+				"Screeching madness",
+				"Heavy human footsteps",
+				"Breaking glass",
+				"Crack of gunfire"
+				]
+			},			{
+				"title" : "Sights",
+				"elements" : [
+				"Owl's shadow blotting out the moon",
+				"Project Wisteria isolation cage A-12-0090",
+				"A human, begging",
+				"Fear in a cat's eyes",
+				"Smoke, then fire",
+				"A human, recoiling, eyes wide"
+				]
+			},			{
+				"title" : "Strange Feels",
+				"elements" : [
+				"WORLD-ON-FIRE",
+				"DEAD-MOTHER-WHISPERS",
+				"SPLIT-OPEN-EYES-WIDE",
+				"INVISIBLE-POWER-DESTROYING",
+				"SKY-OPENS-RAT-FALLS",
+				"BLINDED-BY-SOUND"
+				]
+			}
     ],
     "locations" : [
 			{

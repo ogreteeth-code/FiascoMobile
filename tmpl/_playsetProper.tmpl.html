@@ -1,152 +1,28 @@
-<script id="playsetProper" type="text/x-jquery-tmpl">
-<div id="IOSContainer">
-	<h1>${playset.title}</h1>
-	<div class="playset">
-		{{if playset.relationships}}
-		<h2 class="playsetList" onClick="subSwap('subRelationships');">Relationships</h2>
-		<div id="subRelationships" style="display: none;" class="L0"><ol class="L1">
-		{{each(i, item) playset.relationships}}
-			<li onClick="subSwap('relationships${i}');">${item.title}</li>
-			<div id="relationships${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
+<script id="entry-template" type="text/x-handlebars-template">
+<!-- begin new homescreen template -->
+<h1>{{title}}</h1>
+<div class="playset">
+	{{#each sections}}
+	<h2 class="playsetDeets swapper">{{category}}</h2>
+	<div class="L1">
+		<ol class="selectors">
+		{{#each block}}
+			<li class="swapper">{{title}}</li>
+			<div class="L2">
+				<ul class="items">
+				{{#list elements}}
+				{{body}}
+				{{/list}}</ul>
 			</div>
-		{{/each}}</ol>
-		</div>
-		{{/if}}
-
-		{{if playset.needs}}
-		<h2 class="playsetList" onClick="subSwap('subNeeds');">Needs</h2>
-		<div id="subNeeds" style="display: none;" class="L0"><ol class="L1">
-		{{each(i, item) playset.needs}}
-			<li onClick="subSwap('needs${i}');">${item.title}</li>
-			<div id="needs${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ol>
-		</div>
-		{{/if}}
-		
-		{{if playset.locations}}
-		<h2 class="playsetList" onClick="subSwap('subLocations');">Locations</h2>
-		<div id="subLocations" style="display: none;" class="L0"><ol class="L1">
-		{{each(i, item) playset.locations}}
-			<li onClick="subSwap('locations${i}');">${item.title}</li>
-			<div id="locations${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ol>
-		</div>
-		{{/if}}
-		
-		{{if playset.events}}
-		<h2 class="playsetList" onClick="subSwap('subEvents');">Events</h2>
-		<div id="subEvents" style="display: none;" class="L0"><ol class="L1">
-		{{each(i, item) playset.events}}
-			<li onClick="subSwap('events${i}');">${item.title}</li>
-			<div id="events${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ol>
-		</div>
-		{{/if}}
-
-		{{if playset.moments}}
-		<h2 class="playsetList" onClick="subSwap('subMoments');">Moments</h2>
-		<div id="subMoments" style="display: none;" class="L0"><ol class="L1">
-		{{each(i, item) playset.moments}}
-			<li onClick="subSwap('moments${i}');">${item.title}</li>
-			<div id="moments${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ol>
-		</div>
-		{{/if}}
-
-		{{if playset.objects}}
-		<h2 class="playsetList" onClick="subSwap('subObjects');">Objects</h2>
-		<div id="subObjects" style="display: none;" class="L0"><ol class="L1">
-		{{each(i, item) playset.objects}}
-			<li onClick="subSwap('objects${i}');">${item.title}</li>
-			<div id="objects${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ol>
-		</div>
-		{{/if}}
-
-		{{if playset.assets}}
-		<h2 class="playsetList" onClick="subSwap('subAssets');">Assets</h2>
-		<div id="subAssets" style="display: none;" class="L0"><ol class="L1">
-		{{each(i, item) playset.assets}}
-			<li onClick="subSwap('assets${i}');">${item.title}</li>
-			<div id="assets${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ol>
-		</div>
-		{{/if}}
-
-		{{if playset.thecar}}
-		<h2 class="playsetList" onClick="subSwap('subThecar');">The Car</h2>
-		<div id="subThecar" style="display: none;" class="L0"><ol class="L1">
-		{{each(i, item) playset.thecar}}
-			<li onClick="subSwap('thecar${i}');">${item.title}</li>
-			<div id="thecar${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ol>
-		</div>
-		{{/if}}
-		
-		{{if playset.sensations}}
-		<h2 class="playsetList" onClick="subSwap('subSensations');">Sensations</h2>
-		<div id="subSensations" style="display: none;" class="L0"><ol class="L1">
-		{{each(i, item) playset.sensations}}
-			<li onClick="subSwap('sensations${i}');">${item.title}</li>
-			<div id="sensations${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ol>
-		</div>
-		{{/if}}
-
-		{{if playset.tilt}}
-		<h2 class="playsetList" onClick="subSwap('subTilt');">Tilt</h2>
-		<div id="subTilt" style="display: none;" class="L0"><ol class="L1">
-		{{each(i, item) playset.tilt}}
-			<li onClick="subSwap('tilt${i}');">${item.title}</li>
-			<div id="tilt${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li><img src="img/d${i+1}.png" alt="${i+1}"> ${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ol>
-		</div>
-		{{/if}}
-
-		{{if playset.notes}}
-		<h2 class="playsetList" onClick="subSwap('subNotes');">Notes</h2>
-		<div id="subNotes" style="display: none;" class="L0"><ul class="L1">
-		{{each(i, item) playset.notes}}
-			<li onClick="subSwap('notes${i}');">${item.title}</li>
-			<div id="notes${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li>${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ul>
-		</div>
-		{{/if}}
-
-		{{if playset.glossary}}
-		<h2 class="playsetList" onClick="subSwap('subGlossary');">Glossary</h2>
-		<div id="subGlossary" style="display: none;" class="L0"><ul class="L1">
-		{{each(i, item) playset.glossary}}
-			<li onClick="subSwap('glossary${i}');">${item.title}</li>
-			<div id="glossary${i}" style="display: none;">
-				<ul class="L2">{{each(i, item) elements}}<li>${item}</li>{{/each}}</ul>
-			</div>
-		{{/each}}</ul>
-		</div>
-		{{/if}}
-
+		{{/each}}
+		</ol>
 	</div>
-	<h1 class="footer">...${playset.score.tagline}</h1>
+	{{/each}}
+
+	<div class="clear"></div>
 </div>
+<div class="about">
+	<h1 class="footer">...{{score.tagline}}</h1>
+</div>
+<!-- end new homescreen template -->
 </script>

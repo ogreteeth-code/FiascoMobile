@@ -1,0 +1,297 @@
+{
+  "playset" :
+  {
+    "title" : "Salem 1692",
+    "credits" : 
+    {
+      "author" : "Lillian Cohen-Moore and Logan Bonner"
+    },
+    "score" :
+    {
+      "title" : "Being an Account of the Tryals of Several Witches, Lately Executed in New-England",
+      "paragraphs" : [
+        "After the New Year dawned on 1692, strange afflictions have beset many of the young girls in Salem. Thought to be the precocious nonsense of children, they now suffer episodes of violence and terrifying abuse at the hands of unseen forces. Their forbidden games have brought this onslaught, and they have learned them at the hands of their very neighbors and servants..",
+        "Inevitable accusations have now followed. As young as five to as old as eighty, no resident of Salem Village or the surrounding townships, good Christians or no, old or young, are safe from the witch hunt..",
+        "1692 will be a year of misery and death for all of Salem Village..",
+        "Truly, spells and stories are not simple children's games.."
+      ],
+    "tagline" : "In Colonial Salem"
+    },
+    "movie_night" :
+    [
+      { "title" : "The Crucible, The Village, Luther, Day of Wrath" }
+    ],
+    "relationships" : [
+			{
+				"title" : "Family",
+				"elements" : [
+					"Siblings",
+					"Aunt/uncle and niece/nephew",
+					"Married into same family",
+					"Cousins",
+					"Colonist and relative from England",
+					"Parent and child"
+				]
+			},
+			{
+				"title" : "In the Court",
+				"elements" : [
+					"Grand jurors",
+					"Defender and accused",
+					"Sheriff and delinquent",
+					"Accuser and accused",
+					"Cellmates",
+					"Chief Justice and prosecutor"
+				]
+			},
+			{
+				"title" : "Faith",
+				"elements" : [
+					"Minister and parishioner",
+					"Fake witch and \"real\" witch",
+					"Believer and skeptic",
+					"Witch hunters",
+					"Deacons",
+					"Secret catholic and close friend"
+				]
+			},
+			{
+				"title" : "Wedlock and Sin",
+				"elements" : [
+					"Goodman and goodwife",
+					"Repressed lust",
+					"Unrequited affection",
+					"Adulterers",
+					"Parents of illegitimate child",
+					"Widows/widowers"
+				]
+			},
+			{
+				"title" : "Society",
+				"elements" : [
+					"Landowners",
+					"Teacher and student",
+					"Master and slave",
+					"Doctor and patient",
+					"Fallen women",
+					"Members of the feuding Putnam and Porter families"
+				]
+			},
+			{
+				"title" : "History",
+				"elements" : [
+					"Former minister of Salem and his last tie to the town",
+					"Current and former owners of an estate",
+					"Killer and witness",
+					"Experimented with witchcraft as children",
+					"Converts to the Puritan faith",
+					"Grew up together in England"
+				]
+			}
+    ],
+    "needs" : [
+			{
+				"title" : "To clear your name",
+				"elements" : [
+					"...by proving you're not a witch",
+					"...and tarnish someone else's",
+					"...using blackmail",
+					"...no matter the price",
+					"...by betraying your own blood",
+					"...in front of the grand jury"
+				]
+			},
+			{
+				"title" : "To be a Good Christian",
+				"elements" : [
+					"...by rooting out witchcraft",
+					"...by punishing displays of pride",
+					"...by making an example",
+					"...by beating the Devil out of someone",
+					"...by steadfastly resisting this temptation",
+					"...by converting the heathens"
+				]
+			},
+			{
+				"title" : "To be a Good Steward",
+				"elements" : [
+					"...by passing on your earthly possessions to your children",
+					"...by arranging a proper marriage",
+					"...by upholding tradition",
+					"...by preserving Salem Village",
+					"...by protecting the weak",
+					"...by serving authority"
+				]
+			},
+			{
+				"title" : "To get the Truth",
+				"elements" : [
+					"...no matter how much pain you cause",
+					"...from a loved one",
+					"...even if it kills them",
+					"...by exposing your own secrets",
+					"...to preserve another's honor",
+					"...about a rival"
+				]
+			},
+			{
+				"title" : "To Raise your Station",
+				"elements" : [
+					"...by stealing another's property",
+					"...above a friend's",
+					"...by bearing false witness",
+					"...to bene t your family",
+					"...by destroying another's reputation",
+					"...by marrying for money"
+				]
+			},
+			{
+				"title" : "To Succumb to the Devil",
+				"elements" : [
+					"...by corrupting the youth",
+					"...by practicing witchcraft",
+					"...by giving in to lust",
+					"...by perverting Church doctrine",
+					"...by aiding heretics",
+					"...by betraying loved ones"
+				]
+			}
+    ],
+    "locations" : [
+			{
+				"title" : "In Salem Town",
+				"elements" : [
+					"Meeting house",
+					"Court house",
+					"Charter Street cemetery",
+					"Town common",
+					"Prison",
+					"Town Bridge"
+				]
+			},
+			{
+				"title" : "Elsewhere in Salem Town",
+				"elements" : [
+					"Gedney's \"Ship Tavern\"",
+					"Ingersoll's ordinary, a place for food and lodging",
+					"Training field",
+					"Gallows Hill",
+					"Reverend's parsonage",
+					"Old meeting house"
+				]
+			},
+			{
+				"title" : "Outskirts",
+				"elements" : [
+					"Witch Hill",
+					"The \"Seven Men's Bounds\" tree",
+					"The ferry",
+					"Jeggle's Island",
+					"Orchard Farm",
+					"The docks"
+				]
+			},
+			{
+				"title" : "Forbidden Places",
+				"elements" : [
+					"Slave's quarters",
+					"The woods",
+					"Sealed well",
+					"Barn loft where that boy died",
+					"A locked shed",
+					"Deserted Indian camp"
+				]
+			},
+			{
+				"title" : "Places of Toil",
+				"elements" : [
+					"Stables",
+					"Farm with dead crops",
+					"Fishing boat",
+					"Iron works in Andover",
+					"Dodge's Grist Mill",
+					"Sailing vessel, leaving soon"
+				]
+			},
+			{
+				"title" : "The World Beyond",
+				"elements" : [
+					"Boston",
+					"Ipswich",
+					"On the ship from England",
+					"London",
+					"Plymouth Colony",
+					"New Amsterdam"
+				]
+			}
+    ],
+    "objects" : [
+			{
+				"title" : "Blasphemous Articles",
+				"elements" : [
+					"\"Voodoo\" poppet",
+					"Witch's ointment",
+					"Tattered grimoire",
+					"Divining rod",
+					"Gilded Catholic crucifix",
+					"Rosary"
+				]
+			},
+			{
+				"title" : "Court",
+				"elements" : [
+					"Chief Justice's seal",
+					"Witch cake",
+					"A board and 2 tons of heavy stones",
+					"Testimony of the afflicted",
+					"Court clerk's tools",
+					"Heavy manacles"
+				]
+			},
+			{
+				"title" : "Bawdy Articles",
+				"elements" : [
+					"Steamy letters",
+					"Canteen of rum",
+					"Women's underclothes",
+					"Samuel Pepys' copy of the idle roguish book, L'escholle de filles",
+					"Silk imitation of a lady's \"marigold\"",
+					"Wooden dildo"
+				]
+			},
+			{
+				"title" : "Shitte with Secrets",
+				"elements" : [
+					"Lectern with a hidden compartment",
+					"Marionette fashioned to appear as an apparition",
+					"Powdered wig with bloodstains inside",
+					"Hidden love poem",
+					"Buried box",
+					"Diary page admitting a child's father was an Indian"
+				]
+			},
+			{
+				"title" : "Symbols of Status",
+				"elements" : [
+					"Deed to a large estate",
+					"Fine wool cloak",
+					"Personal library",
+					"Cloak clasp from the village beauty",
+					"Calfskin gloves with strange markings",
+					"Clay pipe with a peculiar odor"
+				]
+			},
+			{
+				"title" : "Weapons",
+				"elements" : [
+					"Scythe",
+					"Musket",
+					"Hangman's noose",
+					"Fire iron",
+					"Axe",
+					"Sergeant's halberd"
+				]
+			}
+    ]
+  }
+}

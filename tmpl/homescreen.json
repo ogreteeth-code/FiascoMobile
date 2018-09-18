@@ -1,0 +1,50 @@
+official_2012 = {
+	"homescreen" : [
+	  {"shortname" : "demedici", "title" : "De'Medici" },
+	  {"shortname" : "havana1953", "title" : "Havana, 1953" },
+	  {"shortname" : "whitehole", "title" : "White Hole"},
+	  {"shortname" : "hollywoodwives", "title" : "Hollywood Wives" },
+	  {"shortname" : "salem1692", "title" : "Salem 1692"},
+	  {"shortname" : "homeinvasion", "title" : "Home Invasion" },
+	  {"shortname" : "flight1180", "title" : "Flight 1180" },
+	  {"shortname" : "hktpk", "title" : "HK-TPK" },
+	  {"shortname" : "heroesofpinnaclecity", "title" : "Heroes of Pinnacle City" },
+	  {"shortname" : "backtotheoldhouse", "title" : "Back to the Old House" },
+	  {"shortname" : "tartannoir", "title" : "Tartan Noir" },
+	  {"shortname" : "touringrockband2", "title" : "Touring Rock Band 2" }
+	]
+}
+
+official_2011 = {
+	"homescreen" : [
+	  {"shortname" : "objectivezebra", "title" : "Objective Zebra"},
+	  {"shortname" : "thejerseyside", "title" : "The Jersey Side"},
+	  {"shortname" : "questforthegoldenpanda", "title" : "Quest For The Golden Panda"},
+	  {"shortname" : "newschannelsix", "title" : "News Channel Six"},
+	  {"shortname" : "townandgown", "title" : "Town &amp; Gown"},
+	  {"shortname" : "breakaleg", "title" : "Break A Leg"},
+	  {"shortname" : "thepenthouse", "title" : "The Penthouse"},
+	  {"shortname" : "horsefever", "title" : "Horse Fever"},
+	  {"shortname" : "redfront", "title" : "Red Front"},
+	  {"shortname" : "campdeath", "title" : "Camp Death"},
+	  {"shortname" : "dc73", "title" : "DC73"},
+	  {"shortname" : "thezoo", "title" : "The Zoo"}
+	]
+}
+
+official_2010 = {
+	"homescreen" : [
+	  {"shortname" : "touringrockband", "title" : "Touring Rock Band"},
+	  {"shortname" : "gangsterlondon", "title" : "Gangster London"},
+	  {"shortname" : "lastfrontier", "title" : "Last Frontier"},
+	  {"shortname" : "luckystrike", "title" : "Lucky Strike"},
+	  {"shortname" : "flyover", "title" : "Flyover"},
+	  {"shortname" : "reconstruction", "title" : "Reconstruction"},
+	  {"shortname" : "themannahotel", "title" : "The Manna Hotel"},
+	  {"shortname" : "newyork1913", "title" : "New York, 1913"},
+	  {"shortname" : "transatlantic", "title" : "Transatlantic"},
+	  {"shortname" : "dallas1963", "title" : "Dallas, 1963"},
+	  {"shortname" : "london1593", "title" : "London, 1593"},
+	  {"shortname" : "dragonslayers", "title" : "Dragon Slayers"}
+	]
+}

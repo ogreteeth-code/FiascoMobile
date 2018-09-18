@@ -1,0 +1,31 @@
+<div id="containme">yo</div>
+
+<script id="entry-template" type="text/x-handlebars-template">
+	<h1>{{playset/title}}</h1>
+	<div class="playset"></div>
+
+		{{#list playset/sections}}
+		<div class="playsetList" onClick="getPlayset('{{category}}.json');">
+		  {{#list category/elements}}
+		  <span class="name">{{elements}}</span>
+		  <div class="coverWrapper"><img class="cover" src="img/covers/{{shortname}}.png" /></div>
+		  {{/list}}
+		</div>
+		{{/list}}
+</script>
+
+
+<h1 class="footer">...{{playset/score/tagline}}</h1>
+
+<script>
+	Handlebars.registerHelper('list', function(items, options) {
+		var out = "";
+		for(var i=0, l=items.length; i<l; i++) {out = out + options.fn(items[i]);}
+		return out;
+	});
+
+	// Compile homescreen template for Handlebars to use.
+	var source   = document.getElementById("entry-template").innerHTML;
+	var template = Handlebars.compile(source);
+	document.querySelector("#containme").innerHTML = template(playset);
+</script>

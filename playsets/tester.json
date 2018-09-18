@@ -27,7 +27,10 @@
       { "title" : "Prince of Foxes" },
       { "title" : "The Pillars of the Earth (TV series)" }
     ],
-    "relationships" : [
+    "sections" : [
+    {
+    "category" : "Relationships",
+    "elements" : [
 		{
 			"title" : "Faith",
 			"elements" : [
@@ -94,8 +97,10 @@
 				"Relic peddler and religious zealot"
 			]
 		}
-    ],
-    "needs" : [
+    ]},
+    {
+    "category" : "Needs",
+    "elements" : [
 		{
 			"title" : "To get rich",
 			"elements" : [
@@ -162,8 +167,10 @@
 				"...by delivering a message of the utmost importance"
 			]
 		}
-    ],
-    "locations" : [
+    ]},
+    {
+    "category" : "Locations",
+    "elements" : [
 		{
 			"title" : "In Piazza della Signoria",
 			"elements" : [
@@ -230,8 +237,10 @@
 				"Brothel near the Arno"
 			]
 		}
-    ],
-    "objects" : [
+    ]},
+    {
+    "category" : "Objects",
+    "elements" : [
 		{
 			"title" : "Religious",
 			"elements" : [
@@ -298,8 +307,10 @@
 				"Siennese race horse named after the Pope"
 			]
 		}
-    ],
- 	"glossary" : [
+    ]},
+	{
+	"category" : "Glossary",
+ 	"elements" : [
 		{
 			"title" : "Santa Maria del Fiore",
 			"elements" : [
@@ -385,6 +396,6 @@
 				"It’s well known among the other scholars and practitioners of The Supreme Art that Cosimo has inherited the passion for alchemy from his grandmother, Caterina Sforza. Alchemy was recently banned by the church, though, after being a viable avenue of study and philosophy for the Christian faithful for centuries. Cosimo’s pastime is an open secret."
 			]
 		}
-	]
-  }
+	]}
+  ]}
 }

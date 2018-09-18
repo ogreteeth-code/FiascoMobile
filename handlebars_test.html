@@ -1,0 +1,70 @@
+<html>
+<head>
+
+	<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+	<script type="text/javascript" src="js/jquery.tmpl.min.js"></script>
+	<script type="text/javascript" src="js/jquery.mobile.custom.js"></script>
+	<script type="text/javascript" src="js/jquery-ui/jquery-ui.js"></script>
+
+	<script type="text/javascript" src="js/handlebars-v4.0.5.js"></script>
+	<script type="text/javascript" src="js/fiasco.js"></script>
+	
+    <link rel="stylesheet" href="fm.css" type="text/css" media="screen, mobile" title="main"> 
+
+	<!-- <script type="text/javascript" src="tmpl/tester.json"></script> -->
+
+
+</head>
+<body class="previewMode-name">
+<nav class="navigation">
+  <div class="head">
+    <a class="togglePreviewMode byName" href="#"><img src="img/cover.gif" /></a>
+    <a class="togglePreviewMode byCover" href="#"><img src="img/list.gif" /></a>
+    <div class="clear"> </div>
+  </div>
+  <img src="img/header.png" alt="FiascoMobile"/>
+</nav>
+
+<div id="IOSContainer">
+<!-- begin new homescreen template -->
+	<script type="text/javascript" src="tmpl/homescreen.json"></script>
+	<script id="entry-template" type="text/x-handlebars-template">
+	{{#each homescreen}}
+	<div class="playsetList" onClick="getPlayset('{{shortname}}.json');">
+	  <span class="name">{{title}}</span>
+	  <div class="coverWrapper"><img class="cover" src="img/covers/{{shortname}}.png" /></div>
+	</div>
+	{{/each}}
+	</script>
+
+	<h1 class="playsetCategory">2012 Official Playsets</h1>
+	<div id="official_2012"></div>
+
+	<h1 class="playsetCategory">2011 Official Playsets</h1>
+	<div id="official_2011"></div>
+
+	<h1 class="playsetCategory">2010 Official Playsets</h1>
+	<div id="official_2010"></div>
+<!-- end new homescreen template -->
+</div>
+
+
+
+<script>
+	// Compile homescreen template for Handlebars to use.
+	if (document.getElementById("entry-template").innerHTML.length > 1) {
+		var source   = document.getElementById("entry-template").innerHTML;
+		var template = Handlebars.compile(source);
+	
+		document.getElementById("official_2012").innerHTML = template(official_2012);
+		document.getElementById("official_2011").innerHTML = template(official_2011);
+		document.getElementById("official_2010").innerHTML = template(official_2010);
+		
+		document.querySelector(".playsetList").classList = "playsetList selected"
+	}
+
+</script>
+
+
+</body>
+</html>
