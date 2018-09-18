@@ -82,7 +82,6 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
 		<gap:plugin name="cordova-plugin-splashscreen" />
     -->
     <!-- <gap:plugin id="cordova-plugin-device" /> -->
- 	<!-- <gap:plugin name="org.apache.cordova.device" source="pgb" spec="0.3.0" /> -->
  	<plugin name="cordova-plugin-device" spec="~2.0.2" />
    
     <!--
