@@ -92,7 +92,6 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="icon.png" />
     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
     <icon src="res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:density="hdpi" />
@@ -105,8 +104,6 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     <icon src="res/icon/ios/icon-76.png"            gap:platform="ios"        width="76" height="76" />  
     <icon src="res/icon/ios/icon-120.png"           gap:platform="ios"        width="120" height="120" />
     <icon src="res/icon/ios/icon-152.png"           gap:platform="ios"        width="152" height="152" />
-    <!-- icon src="res/icon/windows-phone/icon-48.png"  gap:platform="winphone" / -->
-    <!-- icon src="res/icon/windows-phone/icon-173.png" gap:platform="winphone"   gap:role="background" /-->
 
 
     <!-- Define app splash screen for each platform. -->    
@@ -127,7 +124,5 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     <gap:splash src="res/screen/ios/screen-ipad-portrait.png"      gap:platform="ios"     width="768" height="1024" />
     <gap:splash src="splash/ios/Default-Landscape_at_2x.png"       gap:platform="ios"     width="2048" height="1496" />
     <gap:splash src="splash/ios/Default-Portrait_at_2x.png"        gap:platform="ios"     width="1536" height="2008" />
-
-    <!-- gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" /-->
 
 </widget>
