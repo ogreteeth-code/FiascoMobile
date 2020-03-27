@@ -32,7 +32,7 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     </description>
 
     <author href="http://brooklynindiegames.com" email="support@brooklynindiegames.com">
-        Brooklyn Indie Games
+        Tim Rodriguez
     </author>
 
     <!--
@@ -60,11 +60,11 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     <preference name="permissions"                value="none"/>
 	
     <!-- Customize your app and platform with the preference element. -->
-    <!-- preference name="phonegap-version"           value='cli-6.3.0' / -->          <!-- all: current version of PhoneGap -->
-    <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
+    <!-- preference name="phonegap-version"           value='cli-9.0.0' / -->          <!-- all: current version of PhoneGap -->
+    <preference name="orientation"                value="portrait" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen"                 value="true" />           <!-- all: hides the status bar at the top of the screen -->
-    <preference name="webviewbounce"              value="true" />           <!-- ios: control whether the screen 'bounces' when scrolled beyond the top -->
+    <preference name="webviewbounce"              value="false" />           <!-- ios: control whether the screen 'bounces' when scrolled beyond the top -->
     <preference name="prerendered-icon"           value="false" />          <!-- ios: if icon is prerendered, iOS will not apply it's gloss to the app's icon on the user's home screen -->
     <preference name="stay-in-webview"            value="false" />          <!-- ios: external links should open in the default browser, 'true' would use the webview the app lives in -->
     <preference name="ios-statusbarstyle"         value="default" />   		<!-- ios: black-translucent will appear black because the PhoneGap webview doesn't go beneath the status bar -->
@@ -83,7 +83,7 @@ Saturday Night '78, by Will Hindmarch, Wil Wheaton, and Jason Morningstar. 1977 
     -->
     <!-- <gap:plugin id="cordova-plugin-device" /> -->
  	<!-- <gap:plugin name="org.apache.cordova.device" source="pgb" spec="0.3.0" /> -->
- 	<plugin name="cordova-plugin-device" spec="2.0.2" />
+ 	<plugin name="cordova-plugin-device" />
 
    
     <!--
