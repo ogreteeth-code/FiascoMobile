@@ -1,66 +1,60 @@
 function loadHomeScreen() {
 	homescreen(1);
-	// $('#IOSContainer').load('');
-	var file = "tmpl/_homescreen.tmpl.html"
-	var dom = "IOSContainer"
-    var xmlhttp;
-    if (window.XMLHttpRequest) {
-      xmlhttp = new XMLHttpRequest();
-    }
-	xmlhttp.onreadystatechange = function() {
-      if (this.readyState == 4 && this.status == 200) {
-        document.getElementById(dom).innerHTML = this.responseText;
-      }
-  };
-  xmlhttp.open("GET", file, true);
-  xmlhttp.send();  
-	}
+	$('#IOSContainer').load('tmpl/_homescreen.tmpl.html');
+}
 
 function loadAboutApp() {
 	homescreen(2);
-	loadXMLDoc('tmpl/_aboutapp.tmpl.html');
-	
-	// $('#IOSContainer').load('tmpl/_aboutapp.tmpl.html');
+	$('#IOSContainer').load('tmpl/_aboutapp.tmpl.html');
 	setTimeout(function(){scrollTo(0,0)},1);
 }
 
 function getPlayset(playset) {
 	homescreen(2);
-	currentPlayset = playset;
+	console.log("getting playset")
+	// currentPlayset = playset;
 	title = {"filename": playset};
-	$.getJSON("playsets/" + playset,function(data) {data = merge(title, data);$("#playsetTitleScreen").tmpl(data).replaceAll("#IOSContainer");setTimeout(function(){scrollTo(0,0)},1);});
+	$.getJSON("playsets/" + playset,function(data) {
+		data = merge(title, data);
+		$("#playsetTitleScreen").tmpl(data).replaceAll("#IOSContainer");
+		setTimeout(function(){scrollTo(0,0)},1);});
 }
 
 function loadJSONPlayset(title) {
 	homescreen(3);
 	$.getJSON("playsets/" + title,function(data) {
 		$("#playsetProper").tmpl(data).replaceAll("#IOSContainer");	
-
-		var source = document.getElementById("entry-template").innerHTML;
-		var template = Handlebars.compile(source);
-		document.getElementById("IOSContainer").innerHTML = template(playset);
-		document.querySelectorAll(".swapper").forEach(function(element,index,array){element.addEventListener("click", function(){subSwap(this)})});});
+		});
 }
 
-function loadXMLDoc(file,dom) {
+// function loadXMLDoc(file,dom) {
+	//f.loadAboutApp():  loadXMLDoc('tmpl/_aboutapp.tmpl.html');
+	//var file = "tmpl/_homescreen.tmpl.html"
+	//var dom = "IOSContainer"
+    //var xmlhttp;
+    //if (window.XMLHttpRequest) {
+    //  xmlhttp = new XMLHttpRequest();
+    //}
+	//xmlhttp.onreadystatechange = function() {
+    //  if (this.readyState == 4 && this.status == 200) {
+    //    document.getElementById("IOSContainer").innerHTML = this.responseText;
+    //  }
+ // };
+  
+  //xmlhttp.open("GET", file, true);
+  //xmlhttp.send();  
 
-
-}
-
-
-
-
-
+//}
 
 
 function subSwap(folioID) {
-	folioID.nextElementSibling.classList.toggle("activated");
-	//folio = document.getElementById(folioID);
-	//	if (folio.style.display == "none") {
-	//	$(folio).slideDown("fast","swing");
-	//	} else {
-	//	$(folio).slideUp("fast","swing");
-	//}
+	// folioID.nextElementSibling.style.display = ("show");
+	folio = document.getElementById(folioID);
+		if (folio.style.display == "none") {
+		$(folio).slideDown("fast","swing");
+		} else {
+		$(folio).slideUp("fast","swing");
+	}
 }
 
 
@@ -152,9 +146,9 @@ function onSwipeCover(event) {
   }
 
   if (event.type == 'swiperight') {
-    advanceCover('right')
+  	advanceCover('right')
   } else {
-    advanceCover('left')
+  	advanceCover('left')
   }
 
   return false;
@@ -180,27 +174,9 @@ $(document).ready(function(){
   $('body').on('click', '.togglePreviewMode', buildTogglePreviewModeHandler());
   $('body').on('swiperight', '.playsetList', onSwipeCover);
   $('body').on('swipeleft', '.playsetList', onSwipeCover);
-  $('body').on('click', '.playsets .coverArrow.nextCover', function() { return onSwipeCover('right'); });
-  $('body').on('click', '.playsets .coverArrow.previousCover', function() { return onSwipeCover('left'); });
+  $('body').on('click', '.playsets .nextCover', function() { return onSwipeCover('right'); });
+  $('body').on('click', '.playsets .previousCover', function() { return onSwipeCover('left'); });
 
-	//load the android back button catcher.
-	document.addEventListener("deviceready", onPhoneReady, false);
-});
-
-Handlebars.registerHelper('each', function(items, options) {
-  var out = "";
-  for(var i=0, l=items.length; i<l; i++) {
-	out = out + options.fn(items[i])
-	;
-}
-  return out;
-});
-
-Handlebars.registerHelper('list', function(items, options) {
-  var out = "";
-  for(var i=0, l=items.length; i<l; i++) {
-	window.alert(options.fn(items[i]));
-	out = out + "<li><img src=\"img/d" + eval(i+1) + ".png\"> " + items[i] + "</li>";
-}
-  return out;
+  //load the android back button catcher.
+  document.addEventListener("deviceready", onPhoneReady, false);
 });

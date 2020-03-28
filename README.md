@@ -18,24 +18,27 @@ Wishlist:
 * New Cover Browser feature!
 + Playset: Alpha Complex
 + Playset: Fist City
++ Playset: Flight 1180
 + Playset: Havana 1953
 + Playset: Hollywood Wives
 + Playset: No References Required
++ Playset: Old Aged Crisis
 + Playset: Rat Patrol
++ Playset: Reality Check Out
++ Playset: Salem 1692
 + Playset: Tartan Noir
-TK: Playset: White Hole
-TK: Playset: Salem 1692
-TK: Playset: Flight 1180
++ Playset: Touring Rock Band 2
++ Playset: White Hole
 
 
-* Current count: 83? playsets
-* Update to PhoneGap multi-version build cli-6.3.0
+* Current count: 85 playsets
+* Update to PhoneGap multi-version build cli-9.0.0
 * Changed "top field" navigation to work like the Android back button to back up a single level.
 * Improvements to secondary subheads on the title page of a playset
 * Changed "The Score" title to the flavorful version
 * Bug: JS prevents display of playset accessed via cover-browsing mode
 * Bug: browsing via cover, and returning (via catchback() function) hides browsed playset entries.
-- Removed "Pen Show" playset
+- Removed "Pen Show" playset per BPG request
 
 (todo)
 * Graphic Redesign

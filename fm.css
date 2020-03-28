@@ -118,8 +118,8 @@ a {
 .playsets h1,
 .previewMode-cover .playsetList .name
 {
-  clear: both;
-  padding: 15px;
+  xclear: both;
+  xpadding: 15px;
 }
 
 .previewMode-cover .playsetList .name {
@@ -176,10 +176,9 @@ a {
   padding: 0;
 }
 
-.previewMode-cover .playsetList .name {
+.XpreviewMode-cover .playsetList .name {
   display: block;
   margin: 0 0 5px 0;
-  min-height: 55px;
 }
 
 .previewMode-cover .playsetList.selected .cover {

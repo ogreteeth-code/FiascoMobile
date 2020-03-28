@@ -5,7 +5,7 @@
 	<script type="text/javascript" src="js/jquery.tmpl.min.js"></script>
 	<script type="text/javascript" src="js/jquery.mobile.custom.js"></script>
 	<script type="text/javascript" src="js/jquery-ui/jquery-ui.js"></script>
-	<script type="text/javascript" src="js/handlebars-v4.0.5.js"></script>
+	<!-- script type="text/javascript" src="js/handlebars-v4.0.5.js"></script -->
 	<script type="text/javascript" src="js/fiasco.js"></script>
 
 	<meta charset="UTF-8">
@@ -30,10 +30,13 @@
     <a class="togglePreviewMode byCover" href="#"><img src="img/list.gif" /></a>
     <div class="clear"> </div>
   </div>
-  <img src="img/header.png" alt="FiascoMobile"/>
+  <img src="img/header.png" onClick="loadHomeScreen();" alt="FiascoMobile"/>
 </nav>
 
 <div id="IOSContainer">
+<!--START OF TEMPLATE CONTENT -->
+
+<!-- END OF TEMPLATE CONTENT -->
 </div>
 
 <script>
@@ -42,15 +45,6 @@ $(function(){ //when document loading is ready
   $(document).bind("deviceready", onPhoneReady); //when phone is ready
 });
 
-if (document.getElementById("entry-template").innerHTML.length > 1) {
-	var source   = document.getElementById("entry-template").innerHTML;
-	var template = Handlebars.compile(source);
-	
-	document.getElementById("official_2012").innerHTML = template(official_2012);
-	document.getElementById("official_2011").innerHTML = template(official_2011);
-	document.getElementById("official_2010").innerHTML = template(official_2010);
-	document.querySelector(".playsetList").classList = "playsetList selected"
-}
 </script>
 </body>
 </html>

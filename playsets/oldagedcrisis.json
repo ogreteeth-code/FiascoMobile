@@ -1,0 +1,302 @@
+{
+  "playset" : {
+    "title" : "Old Aged Crisis",
+    "credits" :  { "author" : "Simon Brake" },
+    "movie_night" : [
+      { "title" : "Last Orders" },
+      { "title" : "Is Anybody There?" },
+      { "title" : "Cocoon" },
+      { "title" : "Batteries Not Included" },
+      { "title" : "Cockneys Versus Zombies" },
+      { "title" : "Bubba Ho-Tep" },
+      { "title" : "The Bucket List" }
+    ],
+    "television" : [
+      { "title" : "One Foot In the Grave"},
+      { "title" : "Derek"},
+      { "title" : "Golden Girls"}
+    ],
+    "score" : {
+      "title" : "Not dead yet!",
+      "paragraphs" : [
+        "There's a house on Little Point, a retirement home where the inhabitants can watch the sun set over the horizon and reflect on passing glories and the end of their lives. It's a lovely little place, with helpful staff, immaculate conditions and the company of many old souls like yourself who've experienced a wealth of years.",
+        "Yet some of you aren't happy with your lot. You're not too old to be left waiting for the grave just yet. Something stirs inside you, the passion for one last scheme to take the edge off the monotony of day to day life in the retirement home. And maybe, just maybe, you can get out of here once and for all.",
+        "Note: Because the old timers don't get around much, Locations have been replaced by 'Memories', events from their past that have an impact on the present, with the arrival of a person or item, or the desire to avenge a past wrong or make up for old mistakes."
+      	],
+      "tagline" : "...in an old folk's home"
+    },
+    "relationships" : [
+		{
+			"title" : "Family",
+			"elements" : [
+				"Mother and son",
+				"Father and daughter",
+				"Ill parent and frustrated child",
+				"Eccentric parent and painfully normal child",
+				"Siblings",
+				"Grandparent and grand child"
+			]
+		},
+		{
+			"title" : "Old Flame",
+			"elements" : [
+				"From just after the millenium",
+				"During the 90s",
+				"During the 80s",
+				"During the 70s",
+				"During the 60s",
+				"From childhood"
+			]
+		},
+		{
+			"title" : "Current Flame",
+			"elements" : [
+				"Long time married",
+				"Recently married",
+				"Love at first sight within inside the house",
+				"Romance bloomed within the house",
+				"One has a crush on the other",
+				"Married, but in love with someone else"
+			]
+		},
+		{
+			"title" : "Friends",
+			"elements" : [
+				"Used to work together",
+				"Friends since school",
+				"Neighbours for many years",
+				"Met through common interests/social scene",
+				"Found they had common interests inside the house",
+				"A resident and a regular visitor"
+			]
+		},
+		{
+			"title" : "Professions",
+			"elements" : [
+				"Ex-teacher and student",
+				"Ex-emergency service (police/fire/hospital etc.)",
+				"Used to work in retail",
+				"Ex-Army",
+				"Old civil servants",
+				"Staff at Little Point House"
+			]
+		},
+
+		{
+			"title" : "Weird (use sparingly)",
+			"elements" : [
+				"Retired gangster and friend he looks out for",
+				"The ex-Nazi and the one who suspects him/her",
+				"Have been visited by aliens",
+				"Old movie stars trapped in iconic roles",
+				"One confides in the other about time travel",
+				"Supernatural, either users or victims"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "...To Forget...",
+			"elements" : [
+				"...all your troubles and live life to the full",
+				"...the one who broke your heart",
+				"...sensitive government information",
+				"...past mistakes, and to make new ones",
+				"...past crimes, and make up for them",
+				"...past failures through excessive drinking"
+			]
+		},
+		{
+			"title" : "...To Rediscover...",
+			"elements" : [
+				"...the rush of adrenalin through 'extreme' sports",
+				"...the buzz of a new romance",
+				"...why you used to be so close to your family",
+				"...the joy of an old and abandoned project",
+				"...the surrender to a long overcome addiction",
+				"...the thrill of breaking the rules"
+			]
+		},
+		{
+			"title" : "...To Learn...",
+			"elements" : [
+				"...what the meaning of life is",
+				"...what true love is",
+				"...how to connect with your family",
+				"...what really happened to your partner",
+				"...the combination to the safe in the staff room",
+				"...what the staff are really up to"
+			]
+		},
+		{
+			"title" : "...To Reveal...",
+			"elements" : [
+				"...the truth about your children's parentage",
+				"...the child you had from a secret fling",
+				"...the whereabouts of the 'lost' loot",
+				"...that you're married to someone else",
+				"...who stole the biscuits",
+				"...yourself to one of the Little Point House staff"
+			]
+		},
+		{
+			"title" : "...To Escape...",
+			"elements" : [
+				"...a long-standing commitment",
+				"...a terrible relationship",
+				"...this life, to end your suffering",
+				"...from those that are coming to get you",
+				"...from your family",
+				"...Little Point House"
+			]
+		},
+		{
+			"title" : "...To Destroy (use sparingly)...",
+			"elements" : [
+				"...Little Point House",
+				"...the cult working within Little Point House",
+				"...the demon that possesses your loved one",
+				"...the ancient cursed relic stored in the attic",
+				"...the Nazi's terrible plans, before it's too late",
+				"...the terrifying machine hidden in the basement"
+			]
+		}
+    ],
+    "memories" : [
+		{
+			"title" : "Comedy",
+			"elements" : [
+				"Being mistaken for a famous person",
+				"Embarassing the family at a wedding",
+				"A well publicised hoax",
+				"Remember when you were in that band?",
+				"Rescued by fireman from a ridiculous situation",
+				"Misadventures with cross-dressing"
+			]
+		},
+		{
+			"title" : "Tragedy",
+			"elements" : [
+				"The death of a child",
+				"The old man forgotten by society",
+				"Guilty until proven innocent",
+				"The terrible crash/accident",
+				"Blood! So much blood!",
+				"She was never seen again..."
+			]
+		},
+		{
+			"title" : "Family",
+			"elements" : [
+				"A loved one moving somewhere exotic",
+				"The party for your 50th wedding anniversry",
+				"The children who ran away",
+				"Who's the father?",
+				"Separated from your sibling",
+				"Watchng your grandparents grow old"
+			]
+		},
+		{
+			"title" : "Heroics",
+			"elements" : [
+				"Preventing an armed robbery",
+				"Saved a child in danger",
+				"Charity work in a third world country",
+				"Prevented an accident following a malfunction",
+				"Won the girl/guy by beating the bad guy/girl",
+				"Awarded a medal"
+			]
+		},
+		{
+			"title" : "Villiany",
+			"elements" : [
+				"Took part in an armed robbery",
+				"Involved in terrorist activity",
+				"Locked away for a crime almost certainly committed",
+				"Getting away with murder",
+				"Won the girl/guy by beating the good guy/girl",
+				"The secret mastermind behind a nefarious plot"
+			]
+		},
+		{
+			"title" : "Odd (use sparingly)",
+			"elements" : [
+				"Watching the aliens fly off into the sky",
+				"Membership of that disturbing group/cult",
+				"What does that symbol mean?",
+				"Not human beneath the skin",
+				"Stepping through the glowing portal",
+				"A different face in the mirror"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Home Comforts",
+			"elements" : [
+				"A tray of biscuits",
+				"A hot mug of tea",
+				"The comfy chair, with soft cushions",
+				"The radio of easy-listening hits",
+				"A boardgame or pack of cards",
+				"A blanket and hot water bottle"
+			]
+		},
+		{
+			"title" : "Improvised Weapons",
+			"elements" : [
+				"A knife from the kitchen",
+				"A tea-spoon",
+				"A fire-extinguisher",
+				"A zimmer frame",
+				"A wheelchair",
+				"The minibus used for trips out"
+			]
+		},
+		{
+			"title" : "Valuables",
+			"elements" : [
+				"Photos and letters from a dead partner",
+				"Your wedding ring",
+				"A matching necklace and ear-rings",
+				"An old watch or clock",
+				"An antique pistol, with some bullets",
+				"A drawing/painting from a grandchild"
+			]
+		},
+		{
+			"title" : "Secret Stash",
+			"elements" : [
+				"Stolen biscuits",
+				"Cigarettes won in a game (or five)",
+				"Love letters from another resident",
+				"Octogenarian pornography",
+				"Sweeties for the grand kids",
+				"Medical supplies"
+			]
+		},
+		{
+			"title" : "Important Visitors",
+			"elements" : [
+				"Your kids and a large group of grand kids",
+				"Government officials",
+				"A stranger who has travelled a long way",
+				"Animals from a nearby shelter",
+				"The police",
+				"The President/Prime Minister/Queen/Pope"
+			]
+		},
+		{
+			"title" : "Unlikely (use sparingly)",
+			"elements" : [
+				"A frozen head",
+				"A famous painting (swapped for a fake)",
+				"Small sentient gadgets or robots",
+				"Holy water, a silver crucifix, and a bible",
+				"Matching tattoos",
+				"A tiger"
+			]
+		}
+    ]
+  }
+}

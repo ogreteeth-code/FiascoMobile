@@ -1,0 +1,298 @@
+{
+  "playset" :
+  {
+    "title" : "Reality Check Out",
+    "credits" : 
+    {
+      "author" : "Simon Brake"
+    },
+    "movie_night" :
+    [
+      { "title" : "My Little Eye" },
+      { "title" : "Big Brother" },
+      { "title" : "EdTV" },
+      { "title" : "The Truman Show" }
+    ],
+    "score" :
+    {
+      "title" : " the winner is...",
+      "paragraphs" : [
+        "Ten people came to the house, to become reality TV stars, to prove themselves worthy of win the prize money. It's been an incredible few weeks, but with the weakest links now already out of the house we're left with the strongest contenders. In its final week the audience will pick the inhabitant they find most worthy, and elect them the winner. As one of those inhabitants what will you do to ensure you stay in til the end?",
+        "This playset is based around around reality game shows like Big Brother, with the idea that some wannabe stars will take their ambitions a little too far in the desperate grasp to win."
+      ],
+      "tagline" : "on reality TV"
+    },
+    "relationships" : [
+		{
+			"title" : "Friends",
+			"elements" : [
+				"Met each other during pre-show interviews",
+				"As close as brothers/sisters",
+				"Same weird sense of humour",
+				"Same cultural background",
+				"We are the cool ones!",
+				"We are the outsiders!"
+			]
+		},
+		{
+			"title" : "Enemies",
+			"elements" : [
+				"One made the other look stupid",
+				"One thinks the other is stupid",
+				"Cultural intolerance",
+				"Blame each other for failing a task",
+				"One caught the other bad-mouthing them",
+				"One dislikes the other for entering the house later"
+			]
+		},
+		{
+			"title" : "Rivals",
+			"elements" : [
+				"For the attentions of a fellow housemate",
+				"To prove themselves the strongest",
+				"To prove themselves the most popular in the house",
+				"To prove themselves the funniest",
+				"To prove themselves most useful to the house",
+				"To complete the latest task fastest"
+			]
+		},
+		{
+			"title" : "Romance",
+			"elements" : [
+				"Just good friends (really?)",
+				"Fancy each other, but have partners outside",
+				"The cute couple",
+				"Drunken shennanigans",
+				"One likes the other a bit too much",
+				"Hated each other until the sexual tension exploded"
+			]
+		},
+		{
+			"title" : "Public Opinion",
+			"elements" : [
+				"Love rat versus Romantic",
+				"The Father and the Mother figures",
+				"Acting like kids",
+				"Spiteful little monsters",
+				"Game-players",
+				"Favourites to win"
+			]
+		},
+		{
+			"title" : "Secrets",
+			"elements" : [
+				"One is a mole, one everyone thinks is a mole",
+				"Have known each other for years",
+				"Secret sex when everyone else was asleep",
+				"Haven't admited their sexuality (may be transgender)",
+				"Smuggled items into the house",
+				"Are sending secret messages (to each other? to the outside?)"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "To Win...",
+			"elements" : [
+				"...the game",
+				"...the respect of his/her parents",
+				"...the respect of the housemates",
+				"...the admiration of the housemates",
+				"...the new task so that the house will get alcohol!",
+				"...the hand of the most stunning person in the house"
+			]
+		},
+		{
+			"title" : "To Find...",
+			"elements" : [
+				"...the entrance to the secret room",
+				"...closure with a loved ones death long ago",
+				"...love in the house",
+				"...where another housemate hid the alcohol",
+				"...yourself",
+				"...a way out of the house"
+			]
+		},
+		{
+			"title" : "To Admit...",
+			"elements" : [
+				"...your sexuality to the other housemates",
+				"...your sexuality to the whole world",
+				"...to a terrible secret from your past",
+				"...you've hidden something in the house",
+				"...you're in love with another housemate",
+				"...you witnessed a housemate do something terrible"
+			]
+		},
+		{
+			"title" : "To Hide...",
+			"elements" : [
+				"...your sexuality from the other housemates",
+				"...a secret stash of alcohol/cigarettes",
+				"...evidence of a terrible act you've committed",
+				"...the weapon that killed another housemate",
+				"...the truth about this show",
+				"...from the cameras"
+			]
+		},
+		{
+			"title" : "To Persuade...",
+			"elements" : [
+				"...the audience that you should win",
+				"...another housemate that you're their best friend",
+				"...another housemate to sleep with you",
+				"...the housemates that you're best for the new task",
+				"...someone to commit a terrible act for you",
+				"...someone you're completely innocent"
+			]
+		},
+		{
+			"title" : "To Destroy...",
+			"elements" : [
+				"...another housemate's chances of winning",
+				"...another housemate's reputation",
+				"...another housemate's life",
+				"...the relationship between two housemates",
+				"...the murder weapon that has your fingerprints on it",
+				"...the entire house"
+			]
+		}
+    ],
+    "locations" : [
+		{
+			"title" : "The Main House",
+			"elements" : [
+				"The main entrance and staircase",
+				"The sofas in the main living area",
+				"The dining table and chairs",
+				"The kitchen",
+				"The big glass windows overlooking the garden",
+				"The Diary Room"
+			]
+		},
+		{
+			"title" : "The Bedrooms",
+			"elements" : [
+				"The boy's bed nearest the door",
+				"The girl's bed nearest the door",
+				"The bed in the far corner, near the bathroom",
+				"Tidied away under someone's bed",
+				"Under the covers in the middle of the night",
+				"Hidden in a pillow case"
+			]
+		},
+		{
+			"title" : "The Bathrooms",
+			"elements" : [
+				"The large three person jakuzi",
+				"The two sinks beneath the mirror",
+				"The shower with the frosted glass",
+				"The toilet cubicle with the locked door",
+				"A space located under the bath unit",
+				"A panel leading into the maintenance area"
+			]
+		},
+		{
+			"title" : "The Garden",
+			"elements" : [
+				"The pool",
+				"The decking along side the pool",
+				"The grass (75% of the garden)",
+				"The 'Love Shack'",
+				"A Staff Only doorway out of the garden",
+				"Over the walls!"
+			]
+		},
+		{
+			"title" : "The Bonus Rooms",
+			"elements" : [
+				"The Dungeon",
+				"The Party Room",
+				"The Prison",
+				"The Task Room",
+				"The Store Room",
+				"The secret 'Other House'"
+			]
+		},
+		{
+			"title" : "Behind the Scenes",
+			"elements" : [
+				"Behind the mirrors in the girls' room",
+				"Behind the mirrors in the boys' room",
+				"Behind the mirrors in the Diary Room",
+				"Behind the mirrors in the main room",
+				"Watching all the cameras from the control booth",
+				"The crawl space above the house"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Sporty Tasks",
+			"elements" : [
+				"Matching sports outfits, split into two teams",
+				"A tennis racket or cricket/baseball bat",
+				"Twenty or so tennis balls",
+				"Countless multi coloured little plastic balls",
+				"A skipping rope",
+				"swimming goggles and snorkle"
+			]
+		},
+		{
+			"title" : "Creative Tasks",
+			"elements" : [
+				"Coloured paper, sheets and sheets of it",
+				"Colourful feathers",
+				"Lots and lots of paint",
+				"Scissors",
+				"Lots of colourful glitter, lots of glue",
+				"Big cardboard boxes"
+			]
+		},
+		{
+			"title" : "Silly Tasks",
+			"elements" : [
+				"Foam. Lots of foam. Enough to fill the room.",
+				"A hundred and twenty three unpealed potatoes",
+				"A full body costume of a fluffy white rabbit",
+				"A suitcase full of fake money",
+				"A massive water-soaker water rifle",
+				"A box full of masks and hats"
+			]
+		},
+		{
+			"title" : "Kitchen Utensils",
+			"elements" : [
+				"Large sharp knife",
+				"Frying pan",
+				"Rolling pin",
+				"Chees grater",
+				"Toaster",
+				"Blender"
+			]
+		},
+		{
+			"title" : "Rewards",
+			"elements" : [
+				"A bottle of champagne",
+				"Party food, party music and balloons",
+				"Five bottles of beer",
+				"Three packets of cigarettes",
+				"A fancy pampering kit, with creams and shampoos",
+				"A letter from a loved one"
+			]
+		},
+		{
+			"title" : "Secret",
+			"elements" : [
+				"A nail file",
+				"A pen and small notebook",
+				"A tame rat",
+				"A horrible infection",
+				"A tendency to have psychotic episodes",
+				"An ally working behind the scenes"
+			]
+		}
+    ]
+  }
+}

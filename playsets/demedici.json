@@ -12,27 +12,29 @@
       "paragraphs" : [
         "Florence, 1559: a city of opportunities for men who have the guts to pursue them. Here, struggling artists find rich patrons, visionary architects create their dreams, ruthless mercenaries get lucrative contracts, and shrewd merchants become as powerful as kings.",
         "Ever since the times of Cosimo the Elder, the bankers, the Medici, have ruled this city. Sure, way back then it was still called a democracy, but the art, the armies and the votes were all paid with Medici money. The words of the heretic monk Savonarola shook the consciences for a brief time, bringing back a glimpse of the Republic; but the Emperor and the Pope put the Medici back in charge, with Duke Alessandro.",
-        "Upon the Duke’s assassination twenty-two years ago, the merchants and lords of the city enthusiastically welcomed young Cosimo, the barely seventeen years old son of the mercenary warlord Giovanni delle Bande Nere, who had never lived in Florence. The nobles saw him as inexperienced, weak, and an easy puppet to manipulate.",
-        "They couldn’t have been more wrong."
+        "Upon the Duke's assassination twenty-two years ago, the merchants and lords of the city enthusiastically welcomed young Cosimo, the barely seventeen years old son of the mercenary warlord Giovanni delle Bande Nere, who had never lived in Florence. The nobles saw him as inexperienced, weak, and an easy puppet to manipulate.",
+        "They couldn't have been more wrong."
       ],
       "tagline" : "Under Cosimo De' Medici"
     },
     "movie_night" :
     [
       { "title" : "Nothing Left to Do But Cry (Non ci resta che piangere)" },
-      { "title" : "For Love and Gold (L’armata Brancaleone)" },
-      { "title" : "The Borgias (TV series)" },
+      { "title" : "For Love and Gold (L'armata Brancaleone)" },
       { "title" : "Much Ado About Nothing" },
       { "title" : "The Name of the Rose" },
-      { "title" : "Prince of Foxes" },
-      { "title" : "The Pillars of the Earth (TV series)" }
+      { "title" : "Prince of Foxes" }
+    ],
+    "television" : [
+      { "title" : "The Borgias" },
+      { "title" : "The Pillars of the Earth" }
     ],
     "relationships" : [
 		{
 			"title" : "Faith",
 			"elements" : [
 				"Brothers in Christ",
-				"Front bench at Sunday’s Mass in Santa Croce (see notes)",
+				"Front bench at Sunday's Mass in Santa Croce (see notes)",
 				"Penitent and confessor",
 				"Neighbors, devout and not so devout",
 				"Inquisitor and heretic",
@@ -67,7 +69,7 @@
 				"Artist and young apprentice",
 				"Artist and patron of the arts",
 				"Rival merchants",
-				"Ex students at Pisa’s University",
+				"Ex students at Pisa's University",
 				"Skilled laborer (carpenter, sculptor) and supervisor of the Opera del Duomo (see notes)",
 				"Established court artist and young rising star"
 			]
@@ -79,7 +81,7 @@
 				"High rank parent and bastard child",
 				"Younger cousins in a noble family",
 				"Secret lovers",
-				"Servant and servant’s servant",
+				"Servant and servant's servant",
 				"High ranking noble and lowly subject"
 			]
 		},
@@ -144,7 +146,7 @@
 			"title" : "To defend Florence",
 			"elements" : [
 				"...by silencing a rival",
-				"...by defending Cosimo De’ Medici",
+				"...by defending Cosimo De' Medici",
 				"...from her own ungodly vanity",
 				"...from Siennese spies, real and imagined",
 				"...with a casual threat of heresy",
@@ -168,7 +170,7 @@
 			"title" : "In Piazza della Signoria",
 			"elements" : [
 				"Palazzo Ducale (see notes)",
-				"Loggia dei Lanzi, among the Medici’s statues (see notes)",
+				"Loggia dei Lanzi, among the Medici's statues (see notes)",
 				"Groundworks for the new offices (in Florentine, uffizi) of the thirteen Magistrates of the Arts (see notes)",
 				"Tribunale della Mercanzia (see notes)",
 				"Palazzo Uguccioni (see notes)",
@@ -180,10 +182,10 @@
 			"elements" : [
 				"Filthy streets of the Market after closing hours",
 				"Lungarno, in the middle of the night (see notes)",
-				"Forgotten Roman temple, beneath the potter’s shop",
+				"Forgotten Roman temple, beneath the potter's shop",
 				"Butcher shops on Ponte Vecchio (see notes)",
-				"Goldsmith’s workshop",
-				"Black Boar’s Inn"
+				"Goldsmith's workshop",
+				"Black Boar's Inn"
 			]
 		},
 		{
@@ -192,8 +194,8 @@
 				"Crossroads on the way to Montalcino (see notes)",
 				"Monastery in Chianti",
 				"Vineyard, precious grapes on the vines",
-				"Ancient oak in Balduccio’s field",
-				"Old Hangman’s Coaching Inn",
+				"Ancient oak in Balduccio's field",
+				"Old Hangman's Coaching Inn",
 				"Hidden bend of the Arno, downriver from the city"
 			]
 		},
@@ -211,10 +213,10 @@
 		{
 			"title" : "At Cosimo's court",
 			"elements" : [
-				"Cosimo’s private apartments",
+				"Cosimo's private apartments",
 				"Palace medicinal garden",
 				"Beneath a long oak dining table",
-				"Bedroom of Lucrezia, Cosimo’s stunning (and secluded) daughter (see notes)",
+				"Bedroom of Lucrezia, Cosimo's stunning (and secluded) daughter (see notes)",
 				"Secret passage, cleverly disguised",
 				"Busy palace kitchens"
 			]
@@ -223,9 +225,9 @@
 			"title" : "Unsavory",
 			"elements" : [
 				"Gambling house",
-				"Back of the undertaker’s workshop",
+				"Back of the undertaker's workshop",
 				"Secret chapel of a small heretic congregation",
-				"Cosimo’s informal torture chamber",
+				"Cosimo's informal torture chamber",
 				"Stinking tannery near Ponte Vecchio",
 				"Brothel near the Arno"
 			]
@@ -236,18 +238,18 @@
 			"title" : "Religious",
 			"elements" : [
 				"Nail from the True Cross",
-				"Cathedral’s Eucharistic chalice, all gold and precious stones",
+				"Cathedral's Eucharistic chalice, all gold and precious stones",
 				"Finely done illuminated Bible",
 				"Elderly and comatose Benedictine bursar",
 				"Ceremonial costume of Tlatlauhqui Tezcatlipoca, Aztec God of death and rebirth",
-				"Franciscan monk’s habit and a hand-drawn map"
+				"Franciscan monk's habit and a hand-drawn map"
 			]
 		},
 		{
 			"title" : "Untoward",
 			"elements" : [
 				"Forbidden book, put to the Index by the Holy Church (see notes)",
-				"Ingredients and recipe for the Philosopher’s Stone",
+				"Ingredients and recipe for the Philosopher's Stone",
 				"Lambskin “French letter”",
 				"Newborn bastard",
 				"Corpse, freshly stolen",
@@ -269,7 +271,7 @@
 			"title" : "Weapons",
 			"elements" : [
 				"Dagger, dripping poison",
-				"Butcher’s cleaver",
+				"Butcher's cleaver",
 				"Sword, received as heirloom",
 				"Clever collapsible bow",
 				"Massive block of fine white Carrara marble",
@@ -279,7 +281,7 @@
 		{
 			"title" : "Curious and bizarre",
 			"elements" : [
-				"Stolen plans for one of Leonardo’s machines",
+				"Stolen plans for one of Leonardo's machines",
 				"Two exotic savage beasts, in cages",
 				"Ocularia with extremely well crafted lenses from Holland",
 				"Siren, mummified",
@@ -303,19 +305,19 @@
 		{
 			"title" : "Santa Maria del Fiore",
 			"elements" : [
-				"The cathedral, started over two hundred and sixty years ago, was finished in the last century. It’s almost ninety years now that the cross was placed over the dome that Brunelleschi designed. Now, it seems that Vasari (yes, the biographer of the artists and supreme gossiper, but a fine painter and architect himself) will be working on the frescoes as soon as he’s done with the Uffizi. Too bad for the façade, though. It’s still the plain stone of old times, and nobody really likes it—but nobody knows how to fix it."
+				"The cathedral, started over two hundred and sixty years ago, was finished in the last century. It's almost ninety years now that the cross was placed over the dome that Brunelleschi designed. Now, it seems that Vasari (yes, the biographer of the artists and supreme gossiper, but a fine painter and architect himself) will be working on the frescoes as soon as he's done with the Uffizi. Too bad for the façade, though. It's still the plain stone of old times, and nobody really likes it—but nobody knows how to fix it."
 			]
 		},
 		{
 			"title" : "Santa Croce",
 			"elements" : [
-				"Santa Croce is the greatest Franciscan church in the world. It holds several chapels, some decorated by Giotto, and it’s connected to the Franciscan convent. The refectory, which holds the Crucifix by Cimabue, is undergoing repairs after the 1557 flood. In the last two centuries the Franciscan have held the role of inquisitors in the city."
+				"Santa Croce is the greatest Franciscan church in the world. It holds several chapels, some decorated by Giotto, and it's connected to the Franciscan convent. The refectory, which holds the Crucifix by Cimabue, is undergoing repairs after the 1557 flood. In the last two centuries the Franciscan have held the role of inquisitors in the city."
 			]
 		},
 		{
 			"title" : "Opera del Duomo",
 			"elements" : [
-				"The cathedral of Santa Maria del Fiore has been completed over a century ago, but work isn’t over—someone has to maintain the buildings, create new statues and oversee the works. The Opera del Duomo does all that, and gives artists workspace, as it did over fifty years ago with Michelangelo for his David."
+				"The cathedral of Santa Maria del Fiore has been completed over a century ago, but work isn't over—someone has to maintain the buildings, create new statues and oversee the works. The Opera del Duomo does all that, and gives artists workspace, as it did over fifty years ago with Michelangelo for his David."
 			]
 		},
 		{
@@ -358,13 +360,13 @@
 			"title" : "The River Arno",
 			"elements" : [
 				"Lungarno is the name of both the streets on the banks of the River Arno.",
-				"Ponte Vecchio is one of the bridges that cross the Arno. For over a century the bridge has had butchers’ shops built across it to try to contain the stench."
+				"Ponte Vecchio is one of the bridges that cross the Arno. For over a century the bridge has had butchers' shops built across it to try to contain the stench."
 			]
 		},
 		{
 			"title" : "Lucrezia",
 			"elements" : [
-				"The fifth daughter of Cosimo, last summer she was given in marriage to Alfonso, prince of Ferrara. Her mother, Eleonora, is keeping her close until she is ready to consummate the wedding—after all, she’s barely 14. However, now it seems that the father of Alfonso, the Duke Ercole, is very ill; Alfonso might rise to power soon and reclaim his wife by his side."
+				"The fifth daughter of Cosimo, last summer she was given in marriage to Alfonso, prince of Ferrara. Her mother, Eleonora, is keeping her close until she is ready to consummate the wedding—after all, she's barely 14. However, now it seems that the father of Alfonso, the Duke Ercole, is very ill; Alfonso might rise to power soon and reclaim his wife by his side."
 			]
 		},
 		{
@@ -382,7 +384,7 @@
 		{
 			"title" : "Alchemy",
 			"elements" : [
-				"It’s well known among the other scholars and practitioners of The Supreme Art that Cosimo has inherited the passion for alchemy from his grandmother, Caterina Sforza. Alchemy was recently banned by the church, though, after being a viable avenue of study and philosophy for the Christian faithful for centuries. Cosimo’s pastime is an open secret."
+				"It's well known among the other scholars and practitioners of The Supreme Art that Cosimo has inherited the passion for alchemy from his grandmother, Caterina Sforza. Alchemy was recently banned by the church, though, after being a viable avenue of study and philosophy for the Christian faithful for centuries. Cosimo's pastime is an open secret."
 			]
 		}
 	]

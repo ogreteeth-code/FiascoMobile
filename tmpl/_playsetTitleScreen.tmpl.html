@@ -27,7 +27,12 @@
 		<h3>Book Club</h3>
 		<ul>{{each playset.book_club}}<li>${title}</li>{{/each}}</ul>
 		{{/if}}
-                
+		
+		{{if playset.television}}
+		<h3>Television</h3>
+		<p>{{each playset.television}}${title}. {{/each}}</p>
+		{{/if}}
+
 		<div id="playnow" onClick="loadJSONPlayset('${filename}');">Play Now</div>
 		</div>
 	</div>

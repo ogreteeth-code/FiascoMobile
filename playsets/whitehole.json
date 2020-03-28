@@ -1,0 +1,313 @@
+{
+  "playset" :
+  {
+    "title" : "White Hole",
+    "credits" : 
+    {
+      "author" : "Rafael Chandler"
+    },
+    "score" :
+    {
+      "title" : "An Ounce of Prevention...",
+      "paragraphs" : [
+        "... is worth a pound of flesh. So shut your cock-holster and save your own damn life.",
+        "The heroes aboard Star Station Sigma took one look at that dimensional anomaly and they got the hell out of town.",
+        "After the \"white hole\" (that’s what the super-genius science team called it) tore part of the station’s hull clean off, the stupid bastards in charge ordered an evacuation. A few minutes after that, they were headed back to Space Legion territory with FTL drives at maximum. But the white hole had busted the lower deck all to hell, damaging many of the escape pods, so a bunch of people got stranded aboard Star Station Sigma. The losers, mostly.",
+        "Those left behind: some junior officers with delusions of competence, some hard-drinking pilots who didn’t respond to the alarm quickly enough, maintenance staff (glorified janitors), a few asshole security officers, and a bunch of prisoners from the holding area. Now every- one’s trying to figure out how the hell we’re going to get off this ship. Problem is, the Åx’Tularians hate the Kruk’Chels, the prisoners hate security, and the crew members hate the officers. The station’s orbiting a white hole, and everyone’s trying to kill everybody else, and we’re just a clump of space-waste circling the drain. I should’ve stuck with smuggling."
+      ],
+    "notes_title" : "Option: Stunt Dice",
+    "notes_paragraphs" : [
+        "INEVITABLE COLLAPSE",
+        "This playset takes place aboard a space station that’s slowly being torn apart by waves of quantum force from a dimensional anomaly. The characters are incompetent engineers, addicted medical officers, smugglers, pirates, prisoners, merchants, janitors, and religious fanat- ics—and they all want off this thing before it blows. Hilarity will doubtless ensue. Adding stunt dice to the mix can ramp up the chaos even more.",
+        "COUNTDOWN TO OBVLIVION",
+        "Put four stunt dice into the mix, two positive outcome and two negative outcome (the rules for using stunt dice are on page 81 of The Fiasco Companion).",
+        "Any time a stunt die is chosen, a chunk of Star Station Sigma is ripped off and sucked into the white hole. An occupied chunk? An important chunk? Entirely up to you. Look at the locations list for suggestions of places that are now destroyed.",
+        "When the last stunt die is chosen, the last piece of the actual station vanishes into the featureless anomaly forever. Since this event is heavily telegraphed, hopefully some alternative has been engineered in the interim. If not, perhaps your Fiasco ends early-or perhaps it continues on the other side of the white hole!"
+      ],
+    "tagline" : "Too Near a White Hole"
+    },
+    "movie_night" :
+    [
+      { "title" : "Event Horizon" },
+      { "title" : "Alien"},
+      { "title" : "Babylon 5"},
+      { "title" : "Pitch Black"},
+      { "title" : "Deep Space Nine"},
+      { "title" : "Pandorum"},
+      { "title" : "Sunshine"}
+    ],
+
+    "relationships" : [
+		{
+			"title" : "Crew members",
+			"elements" : [
+				"Meek subordinate and abusive superior",
+				"Manipulative schemers",
+				"All-knowing bartender and hard-drinking engineer",
+				"Hotshot rivals",
+				"Frenzied addict and medical officer who supplies the stuff",
+				"Endlessly patient mentor and arrogant protégé"
+			]
+		},
+		{
+			"title" : "Crime",
+			"elements" : [
+				"Murderer and witness",
+				"Space pirate and rival smuggler",
+				"Syndicate boss and cyborg muscle",
+				"\"We clean up the mess. No one finds out.\"",
+				"Honor among thieves",
+				"Innocent convict and accuser"
+			]
+		},
+		{
+			"title" : "Religion",
+			"elements" : [
+				"Members of the Star cult",
+				"Faithful who hate one another",
+				"Emissaries to the Temple of Ungu",
+				"Agnostic and Unguite proselytizer",
+				"Leader of the Star cult and zealous defender",
+				"Star cult convert and apostate"
+			]
+		},
+		{
+			"title" : "Family",
+			"elements" : [
+				"Sibling rivalry",
+				"Married to the same person",
+				"You'd be parent and child if android's had children",
+				"Zero-gravity sex doesn't mean we're married (does it?)",
+				"Clones",
+				"Åx'tularian blood bond"
+			]
+		},
+		{
+			"title" : "War",
+			"elements" : [
+				"War hero and deserter",
+				"Former enemies but enemies no longer",
+				"\"Medal or not, I know you were a coward\"",
+				"Bound by atrocities",
+				"Fanatic and traitor",
+				"Conscientious objector and prisoner of war"
+			]
+		},
+		{
+			"title" : "Comrades",
+			"elements" : [
+				"Same small town, same backwater planet",
+				"“We discovered the thing together.”",
+				"Fast-talking con artist and stoic problem-solver",
+				"Grizzled space veteran and wide-eyed greenhorn",
+				"\"You could say we're shore leave buddies.\"",
+				"Opposite in every way (every way) but fast friends"
+			]
+		}
+    ],
+    "needs" : [
+		{
+			"title" : "To be exonerated",
+			"elements" : [
+				"...by finding the proof at last",
+				"...so that you can go home",
+				"...in order to get reinstated",
+				"...even though you're guilty",
+				"...and forgiven by the only one whose forgiveness matters",
+				"...by any means necessary"
+			]
+		},
+		{
+			"title" : "To punish them",
+			"elements" : [
+				"...for framing you",
+				"...even if it was \"just an accident\"",
+				"...and make sure she sees it happen",
+				"...as slowly as possible",
+				"...and make sure someone else takes the blame",
+				"...so that the voices stop"
+			]
+		},
+		{
+			"title" : "To get rich",
+			"elements" : [
+				"...regardless of which little people you have to kill",
+				"...through hard work and honest effort",
+				"...and send your wealth to the Temple of Ungu",
+				"...so you can pay the ransom",
+				"...enough to hire an army of mercenaries",
+				"...and leave this horrifying galaxy behind"
+			]
+		},
+		{
+			"title" : "To escape",
+			"elements" : [
+				"...with the one person/clone/android you care about",
+				"...after settling one last score",
+				"...before your treachery is discovered",
+				"...the murderous xenomorph on your trail",
+				"...even if everyone else dies",
+				"...and start all over again"
+			]
+		},
+		{
+			"title" : "To command",
+			"elements" : [
+				"...your own starship",
+				"...an army of pissed-off clones",
+				"...a squad of very professional androids",
+				"...a pirate ship, filled with plunder",
+				"...Star Station Sigma",
+				"...others to listen to you, just this once"
+			]
+		},
+		{
+			"title" : "To atone",
+			"elements" : [
+				"...At the Daluan Citadel on Yemekzi IV",
+				"...even if you won't be forgiven",
+				"...before you plunge into the void",
+				"...for crimes too heinous to name",
+				"...by soaking your hands in their blood",
+				"...even though, whatever, you don't even feel that bad about it"
+			]
+		}
+    ],
+    "locations" : [
+		{
+			"title" : "INTEL-SEC",
+			"elements" : [
+				"B4 Monitoring",
+				"B8 Armory, dripping with xenomorph residue",
+				"C9 Combat holo-training creche",
+				"C17 Records",
+				"B2 Friendly interrogation suite",
+				"B5 Intel-Sec Commander's office"
+			]
+		},
+		{
+			"title" : "Command Deck",
+			"elements" : [
+				"A1 Command Center-control helm",
+				"A2 Captain's ready room",
+				"A5 Briefing room",
+				"A1 Command Center-comm station",
+				"A1 Command Center-tactical operations",
+				"A19 Weapons System controls"
+			]
+		},
+		{
+			"title" : "Living Quarters",
+			"elements" : [
+				"C21 Tachyon's Bar and Grille",
+				"D13 Foam showers",
+				"F7 Åx'Tularian blood worm chamber",
+				"F40 Admiral Xyvqups quarters",
+				"E2 Engineering bunks",
+				"E15 Arboretum"
+			]
+		},
+		{
+			"title" : "Sys-Works",
+			"elements" : [
+				"Dimly-lit corridor on G-deck",
+				"West Pylon",
+				"H1 Quantum Core",
+				"Drive Conduit #2",
+				"G10 Waste Compactor",
+				"Televator shaft"
+			]
+		},
+		{
+			"title" : "Flight Deck",
+			"elements" : [
+				"J9 Escape Pod wreckage",
+				"J1 Forward repair bay",
+				"J23 Parts and supplies locker",
+				"J20 Ordinance storage area",
+				"J21 Flight holo-training creche",
+				"J30 Flight track and aft vehicle airlock"
+			]
+		},
+		{
+			"title" : "Holding Cells",
+			"elements" : [
+				"K19 Lavatory, torn apart by xenomorph",
+				"K18 Ambassador Qlipat's cell",
+				"K1 Security area",
+				"K12 Torture room",
+				"K6 Solitary confinement",
+				"K2 Sense-dep chamber"
+			]
+		}
+    ],
+    "objects" : [
+		{
+			"title" : "Weapons",
+			"elements" : [
+				"Gluon pistol",
+				"Phaser blade",
+				"Voice projectile harness",
+				"Monofilament nunchaku",
+				"Kruk'Chel ceremonial blade",
+				"Stasis gun (do not fire the stasis gun)"
+			]
+		},
+		{
+			"title" : "Sensors",
+			"elements" : [
+				"Sentience Locator Beam",
+				"Gently modified Radiation Warning Badge",
+				"Unreliable Quantum Flux Sensor",
+				"Biomedical analyzer",
+				"Vacuum Locator Device",
+				"Probability Calculation Engine"
+			]
+		},
+		{
+			"title" : "Stealth",
+			"elements" : [
+				"Personal Cloaking Device with a power problem",
+				"Sound Emission Minimizer",
+				"Surveillance drone",
+				"Holographic Image Manipulator",
+				"Sensor Dampener",
+				"Dark Field Emitter"
+			]
+		},
+		{
+			"title" : "Attire",
+			"elements" : [
+				"Damaged enviro-suit",
+				"Admiral Xyvqup's dress uniform",
+				"Kruk'Chel battle armor",
+				"Scavenger's rags, covered in someone's blood",
+				"Skiff pilot's helmet",
+				"Mask of the Prophet"
+			]
+		},
+		{
+			"title" : "Evidence",
+			"elements" : [
+				"\"Theoretical\" Thant-Weck quason particle",
+				"Cloned fetus",
+				"Laser-whip they used",
+				"Xenomorph-chewed corpse",
+				"Hologram recording of eyewitness testimony",
+				"Radiological anomaly scans"
+			]
+		},
+		{
+			"title" : "Talismans",
+			"elements" : [
+				"Star map to Daluan Citadel",
+				"Quantum flux inducer (do not activate a quantum flux inducer)",
+				"Psychic photo of her smile",
+				"Metal cylinder containing a scalp",
+				"Crate of Åx'Tularian \"wine\"",
+				"Blade of the Prophet"
+			]
+		}
+    ]
+  }
+}
